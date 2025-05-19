@@ -2,8 +2,63 @@ export default function Footer() {
   return (
     <footer className="bg-white dark:bg-gray-800 border-t dark:border-gray-700">
       <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
-        <div className="mt-8 border-t border-gray-200 dark:border-gray-700 pt-8 md:flex md:items-center md:justify-between">
-          <div className="flex space-x-6 md:order-2">
+        <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
+          <div className="col-span-1">
+            <h3 className="text-sm font-semibold text-gray-600 dark:text-gray-300 uppercase tracking-wider">About</h3>
+            <ul className="mt-4 space-y-4">
+              <li>
+                <a href="/about" className="text-base text-gray-500 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white">
+                  About Us
+                </a>
+              </li>
+              <li>
+                <a href="/contact" className="text-base text-gray-500 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white">
+                  Contact
+                </a>
+              </li>
+            </ul>
+          </div>
+
+          <div className="col-span-1">
+            <h3 className="text-sm font-semibold text-gray-600 dark:text-gray-300 uppercase tracking-wider">Legal</h3>
+            <ul className="mt-4 space-y-4">
+              <li>
+                <a href="/terms" className="text-base text-gray-500 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white">
+                  Terms & Conditions
+                </a>
+              </li>
+              <li>
+                <a href="/privacy" className="text-base text-gray-500 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white">
+                  Privacy Policy
+                </a>
+              </li>
+              <li>
+                <a href="/dmca" className="text-base text-gray-500 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white">
+                  DMCA
+                </a>
+              </li>
+            </ul>
+          </div>
+
+          <div className="col-span-1">
+            <h3 className="text-sm font-semibold text-gray-600 dark:text-gray-300 uppercase tracking-wider">Resources</h3>
+            <ul className="mt-4 space-y-4">
+              <li>
+                <a href="/songs" className="text-base text-gray-500 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white">
+                  All Songs
+                </a>
+              </li>
+              <li>
+                <a href="/blog" className="text-base text-gray-500 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white">
+                  Blog
+                </a>
+              </li>
+            </ul>
+          </div>
+
+          <div className="col-span-1">
+            <h3 className="text-sm font-semibold text-gray-600 dark:text-gray-300 uppercase tracking-wider">Follow Us</h3>
+            <div className="flex space-x-6 mt-4">
             <a
               href="https://github.com/sh20raj/noteyard"
               target="_blank"
@@ -20,11 +75,14 @@ export default function Footer() {
               </svg>
             </a>
           </div>
-          <p className="mt-8 text-base text-gray-400 md:mt-0 md:order-1">
+        </div>
+        <div className="mt-8 border-t border-gray-200 dark:border-gray-700 pt-8 text-center">
+          <p className="text-base text-gray-400">
             &copy; {new Date().getFullYear()} NoteYard. All rights reserved.
           </p>
         </div>
       </div>
+    </div>
     </footer>
   );
 }

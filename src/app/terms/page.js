@@ -23,7 +23,7 @@ export default function TermsPage() {
 
         <h2>2. Description of Service</h2>
         <p>
-          NoteYard provides musical notes, including Sargam, Harmonium, and Flute notes for various songs. The service is provided "as is" and we reserve the right to modify or discontinue it at any time.
+          NoteYard provides musical notes, including Sargam, Harmonium, and Flute notes for various songs. The service is provided &quot;as is&quot; and we reserve the right to modify or discontinue it at any time.
         </p>
 
         <h2>3. User Conduct</h2>
@@ -49,7 +49,7 @@ export default function TermsPage() {
 
         <h2>6. Disclaimer of Warranties</h2>
         <p>
-          NoteYard is provided on an "as is" and "as available" basis. We make no warranties, expressed or implied, regarding the reliability, accuracy, or availability of the service.
+          NoteYard is provided on an &quot;as is&quot; and &quot;as available&quot; basis. We make no warranties, expressed or implied, regarding the reliability, accuracy, or availability of the service.
         </p>
 
         <h2>7. Limitation of Liability</h2>

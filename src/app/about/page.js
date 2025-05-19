@@ -50,7 +50,7 @@ export default function AboutPage() {
             Have questions or suggestions? We&apos;d love to hear from you!
           </p>
           <ul className="mt-4">
-            <li>Email: contact@noteyard.pages.dev</li>
+            <li>Email: sh20raj@gmail.com</li>
             <li>Follow us on social media for updates and tips</li>
           </ul>
         </div>
