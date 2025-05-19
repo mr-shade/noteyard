@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 export default function Footer() {
   return (
     <footer className="bg-white dark:bg-gray-900 border-t border-gray-100 dark:border-gray-800 pt-16 pb-10">
@@ -5,11 +7,11 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row justify-between">
           {/* Brand and description */}
           <div className="max-w-xs mb-10 md:mb-0">
-            <a href="/" className="inline-block mb-4">
+            <Link href="/" className="inline-block mb-4">
               <span className="text-2xl font-bold font-serif text-gray-900 dark:text-white">
                 <span className="text-emerald-600 dark:text-emerald-400">Note</span>Yard
               </span>
-            </a>
+            </Link>
             <p className="text-gray-600 dark:text-gray-400 text-sm leading-relaxed mb-6">
               Your comprehensive resource for learning and mastering musical notes for various songs through Sargam, Harmonium, and Flute notations.
             </p>
@@ -43,19 +45,19 @@ export default function Footer() {
               <h3 className="text-sm font-bold text-gray-900 dark:text-white uppercase tracking-wider mb-4">Explore</h3>
               <ul className="space-y-3">
                 <li>
-                  <a href="/songs" className="text-sm text-gray-600 dark:text-gray-400 hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors">
+                  <Link href="/songs" className="text-sm text-gray-600 dark:text-gray-400 hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors">
                     All Songs
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a href="/about" className="text-sm text-gray-600 dark:text-gray-400 hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors">
+                  <Link href="/about" className="text-sm text-gray-600 dark:text-gray-400 hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors">
                     About Us
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a href="/contact" className="text-sm text-gray-600 dark:text-gray-400 hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors">
+                  <Link href="/contact" className="text-sm text-gray-600 dark:text-gray-400 hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors">
                     Contact
-                  </a>
+                  </Link>
                 </li>
               </ul>
             </div>
@@ -64,19 +66,19 @@ export default function Footer() {
               <h3 className="text-sm font-bold text-gray-900 dark:text-white uppercase tracking-wider mb-4">Legal</h3>
               <ul className="space-y-3">
                 <li>
-                  <a href="/terms" className="text-sm text-gray-600 dark:text-gray-400 hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors">
+                  <Link href="/terms" className="text-sm text-gray-600 dark:text-gray-400 hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors">
                     Terms of Use
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a href="/privacy" className="text-sm text-gray-600 dark:text-gray-400 hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors">
+                  <Link href="/privacy" className="text-sm text-gray-600 dark:text-gray-400 hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors">
                     Privacy Policy
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a href="/dmca" className="text-sm text-gray-600 dark:text-gray-400 hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors">
+                  <Link href="/dmca" className="text-sm text-gray-600 dark:text-gray-400 hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors">
                     DMCA
-                  </a>
+                  </Link>
                 </li>
               </ul>
             </div>
@@ -85,34 +87,32 @@ export default function Footer() {
               <h3 className="text-sm font-bold text-gray-900 dark:text-white uppercase tracking-wider mb-4">Resources</h3>
               <ul className="space-y-3">
                 <li>
-                  <a href="/blog" className="text-sm text-gray-600 dark:text-gray-400 hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors">
+                  <Link href="/blog" className="text-sm text-gray-600 dark:text-gray-400 hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors">
                     Blog
-                  </a>
+                  </Link>
                 </li>
                 <li>
-                  <a href="#" className="text-sm text-gray-600 dark:text-gray-400 hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors">
+                  <Link href="#" className="text-sm text-gray-600 dark:text-gray-400 hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors">
                     Learning Tips
-                  </a>
+                  </Link>
                 </li>
               </ul>
             </div>
           </div>
-        </div>
-        
-        <div className="mt-12 pt-8 border-t border-gray-100 dark:border-gray-800 flex flex-col-reverse md:flex-row justify-between items-center">
+        </div>          <div className="mt-12 pt-8 border-t border-gray-100 dark:border-gray-800 flex flex-col-reverse md:flex-row justify-between items-center">
           <p className="text-sm text-gray-500 dark:text-gray-400 mt-4 md:mt-0">
             © {new Date().getFullYear()} NoteYard. All rights reserved.
           </p>
           <div className="flex space-x-6">
-            <a href="/terms" className="text-xs text-gray-500 dark:text-gray-400 hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors">
+            <Link href="/terms" className="text-xs text-gray-500 dark:text-gray-400 hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors">
               Terms
-            </a>
-            <a href="/privacy" className="text-xs text-gray-500 dark:text-gray-400 hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors">
+            </Link>
+            <Link href="/privacy" className="text-xs text-gray-500 dark:text-gray-400 hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors">
               Privacy
-            </a>
-            <a href="/cookies" className="text-xs text-gray-500 dark:text-gray-400 hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors">
+            </Link>
+            <Link href="/cookies" className="text-xs text-gray-500 dark:text-gray-400 hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors">
               Cookies
-            </a>
+            </Link>
           </div>
         </div>
       </div>

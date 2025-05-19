@@ -65,7 +65,7 @@ export default async function HomePage() {
                 <div className="relative z-10 bg-white dark:bg-gray-800 p-6 md:p-8 rounded-xl shadow-xl transform rotate-1">
                   <h3 className="text-lg font-semibold mb-2 text-gray-900 dark:text-white">Quick Example</h3>
                   <div className="font-mono text-sm text-gray-800 dark:text-gray-200 bg-gray-100 dark:bg-gray-900 p-4 rounded-md overflow-auto">
-                    <div className="mb-3">// Aarti Kunj Bihari Ki</div>
+                    <div className="mb-3">{/* Aarti Kunj Bihari Ki */}</div>
                     <div className="mb-1">Sa Re Ga Ma Pa Dha Ni Sa</div>
                     <div className="mb-1">Aarti Kunj Bihari Ki</div>
                     <div className="mb-3">Pa Dha Ni Sa Ni Dha Pa Ma</div>

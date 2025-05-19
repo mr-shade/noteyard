@@ -9,6 +9,12 @@ export default function Navbar() {
   const [searchQuery, setSearchQuery] = useState('');
   const [scrolled, setScrolled] = useState(false);
   const router = useRouter();
+  
+  const handleSearch = () => {
+    if (searchQuery.trim()) {
+      router.push(`/songs?search=${encodeURIComponent(searchQuery.trim())}`);
+    }
+  };
 
   // Add scroll event handler for navbar appearance change
   useEffect(() => {
@@ -70,7 +76,7 @@ export default function Navbar() {
                 placeholder="Search notes..."
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
-                onKeyPress={(e) => {
+                onKeyDown={(e) => {
                   if (e.key === 'Enter' && searchQuery.trim()) {
                     router.push(`/songs?search=${encodeURIComponent(searchQuery.trim())}`);
                   }
@@ -82,11 +88,7 @@ export default function Navbar() {
                 }`}
               />
               <button
-                onClick={() => {
-                  if (searchQuery.trim()) {
-                    router.push(`/songs?search=${encodeURIComponent(searchQuery.trim())}`);
-                  }
-                }}
+                onClick={handleSearch}
                 className="absolute right-3 top-1/2 transform -translate-y-1/2 text-gray-500 hover:text-emerald-600 dark:hover:text-emerald-400"
                 aria-label="Search"
               >
@@ -142,7 +144,7 @@ export default function Navbar() {
                 placeholder="Search notes..."
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
-                onKeyPress={(e) => {
+                onKeyDown={(e) => {
                   if (e.key === 'Enter' && searchQuery.trim()) {
                     router.push(`/songs?search=${encodeURIComponent(searchQuery.trim())}`);
                     setIsOpen(false);
@@ -154,10 +156,8 @@ export default function Navbar() {
               />
               <button
                 onClick={() => {
-                  if (searchQuery.trim()) {
-                    router.push(`/songs?search=${encodeURIComponent(searchQuery.trim())}`);
-                    setIsOpen(false);
-                  }
+                  handleSearch();
+                  setIsOpen(false);
                 }}
                 className="absolute right-3 top-1/2 transform -translate-y-1/2 text-gray-400 hover:text-emerald-600 dark:hover:text-emerald-400"
                 aria-label="Search"
