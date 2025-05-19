@@ -1,3 +1,9 @@
+---
+title: "Best Yaman Alankars For Practice"
+description: "Learn Best Yaman Alankars For Practice notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
+date: 2025-05-19
+slug: best-yaman-alankars-for-practice
+---
 
 # Best Yaman Alankars For Practice
 

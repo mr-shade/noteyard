@@ -1,7 +1,8 @@
 ---
-title: Hello World
-date: 2024-01-01
-description: This is a sample song post
+title: "Hello World"
+description: "Learn Hello World notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
+date: 2025-05-19
+slug: hello-world
 ---
 
 # Hello World

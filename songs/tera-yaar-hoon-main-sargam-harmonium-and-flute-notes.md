@@ -1,3 +1,9 @@
+---
+title: "# Tera Yaar Hoon Main Sargam, Harmonium And Flute Notes"
+description: "Learn # Tera Yaar Hoon Main Sargam, Harmonium And Flute Notes notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
+date: 2025-05-19
+slug: tera-yaar-hoon-main-sargam-harmonium-and-flute-notes
+---
 
 ## Tera Yaar Hoon Main Sargam, Harmonium And Flute Notes
 

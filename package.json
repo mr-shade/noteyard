@@ -27,5 +27,18 @@
 		"tailwindcss": "^4",
 		"vercel": "^41.7.8",
 		"wrangler": "^4.15.2"
-	}
+	},
+	"description": "## About Noteyard is a free piano and harmonium notes for musicians. ## License Noteyard is licensed under the [GPLv3 License](h## About Noteyard is a free piano and harmonium notes for musicians. ## License Noteyard is licensed under the [GPLv3 License](URL_ADDRESS.gnu.org/licenses/gpl-3.0.en.html). ## Credits Noteyard is made by Noteyard is made by EMAILde by [@mikek1234](URL_ADDRESS.com/mikek1234).",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mr-shade/noteyard.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/mr-shade/noteyard/issues"
+	},
+	"homepage": "https://github.com/mr-shade/noteyard#readme"
 }
