@@ -5,7 +5,7 @@ export default function Footer() {
         <div className="mt-8 border-t border-gray-200 dark:border-gray-700 pt-8 md:flex md:items-center md:justify-between">
           <div className="flex space-x-6 md:order-2">
             <a
-              href="https://github.com/shaswatrajpoot/noteyard"
+              href="https://github.com/sh20raj/noteyard"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-gray-500 dark:hover:text-gray-300"

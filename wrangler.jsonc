@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "my-next-app",
+	"name": "noteyard",
 	"compatibility_date": "2025-05-17",
 	"compatibility_flags": [
 		"nodejs_compat"
