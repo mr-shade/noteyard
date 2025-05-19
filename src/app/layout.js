@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 export const metadata = {
   metadataBase: new URL('https://noteyard.vercel.app'),
   title: {
-    default: 'NoteYard - Your Digital Knowledge Hub',
+    default: 'NoteYard - Free Harmonium and piano song notes',
     template: '%s | NoteYard'
   },
   description: 'Discover and share comprehensive notes, articles, and documentation on various topics. NoteYard is your go-to platform for organized knowledge sharing.',
