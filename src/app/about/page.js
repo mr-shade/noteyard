@@ -47,7 +47,7 @@ export default function AboutPage() {
         <div className="bg-gray-100 dark:bg-gray-800 p-6 rounded-lg mt-8">
           <h2 className="text-2xl font-bold mb-4">Contact Us</h2>
           <p>
-            Have questions or suggestions? We'd love to hear from you!
+            Have questions or suggestions? We&apos;d love to hear from you!
           </p>
           <ul className="mt-4">
             <li>Email: contact@noteyard.pages.dev</li>
