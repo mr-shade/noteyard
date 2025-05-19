@@ -8,6 +8,11 @@ import { setupDevPlatform } from '@cloudflare/next-on-pages/next-dev';
 setupDevPlatform().catch(console.error);
 
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
+const nextConfig = {
+  output: 'export',
+  images: {
+    unoptimized: true
+  }
+};
 
 export default nextConfig;
