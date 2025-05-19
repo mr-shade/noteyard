@@ -98,7 +98,7 @@ export default async function Page({ params }) {
               prose-code:text-gray-900 dark:prose-code:text-white
               prose-pre:bg-gray-100 dark:prose-pre:bg-gray-800
               prose-blockquote:text-gray-700 dark:prose-blockquote:text-gray-300
-              prose-blockquote:border-blue-600 dark:prose-blockquote:border-blue-400"
+              prose-blockquote:border-blue-600 dark:prose-blockquote:border-blue-400 leading-10"
             dangerouslySetInnerHTML={{ __html: content }}
           />
         </div>
