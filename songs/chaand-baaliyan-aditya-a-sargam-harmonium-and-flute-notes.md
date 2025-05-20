@@ -132,21 +132,21 @@ close filter class
 
 close relpost-thumb-wrapper
 
-[Sargam Notes](https://www.notationsworld.com/sargam-notes.html)
+[Sargam Notes](/sargam-notes.html)
 
-[1000+ Sargam Notes List (UPDATED)](https://www.notationsworld.com/all-songs-list-sargam-notes.html)
+[1000+ Sargam Notes List (UPDATED)](/all-songs-list-sargam-notes.html)
 
-[Piano Notes](https://www.notationsworld.com/piano-notes.html)
+[Piano Notes](/piano-notes.html)
 
-[All Piano Notes List (UPDATED)](https://www.notationsworld.com/all-songs-list-piano-notes.html)
+[All Piano Notes List (UPDATED)](/all-songs-list-piano-notes.html)
 
-[Guitar Tabs](https://www.notationsworld.com/guitar-tabs.html)
+[Guitar Tabs](/guitar-tabs.html)
 
-[All Guitar Tabs List (UPDATED)](https://www.notationsworld.com/all-songs-list-guitar-tabs.html)
+[All Guitar Tabs List (UPDATED)](/all-songs-list-guitar-tabs.html)
 
 [Super Easy Piano Notes](https://studywall.in/)
 
-[Request A Song](https://www.notationsworld.com/request-a-song.html)
+[Request A Song](/request-a-song.html)
 
 CONTENT END 1
 
