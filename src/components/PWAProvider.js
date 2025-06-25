@@ -172,9 +172,9 @@ export default function PWAProvider({ children }) {
             duration: 10000,
             position: 'bottom-center',
           });
-        }, 3000); // Show install prompt after 3 seconds
+        }, 30000); // Show install prompt after 3 seconds
       });
-
+      
       // Cache songs when visiting them
       const currentPath = window.location.pathname;
       if (currentPath.includes('/songs/')) {
