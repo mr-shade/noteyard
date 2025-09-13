@@ -1,5 +1,5 @@
 ---
-title: "# Mitwa (Kabhi Alvida Na Kehna) – Sargam, Harmonium And Flute Notes"
+title: " Mitwa (Kabhi Alvida Na Kehna) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Mitwa (Kabhi Alvida Na Kehna) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: mitwa-kabhi-alvida-na-kehna-sargam-harmonium-and-flute-notes
@@ -66,25 +66,17 @@ Kyaa dhudh raha hai tu
 
 G.m.P..P.. S’..N..S’..N..D..P..P..
 
-
-
 Also Read This :-
 
-
-
-* Rahogi Meri (Love Aaj Kal) – Sargam And Flute Notes
-* Coffin Dance Music Sargam And Flute Notes For Beginners
-* Gal Karke (Asees Kaur) – Sargam And Flute Notes
-* Baari (Bilal Saeed) – Sargam And Flute Notes
-* Saari Ki Saari 2.0 (Darshan Raval) – Sargam And Flute Notes
+- Rahogi Meri (Love Aaj Kal) – Sargam And Flute Notes
+- Coffin Dance Music Sargam And Flute Notes For Beginners
+- Gal Karke (Asees Kaur) – Sargam And Flute Notes
+- Baari (Bilal Saeed) – Sargam And Flute Notes
+- Saari Ki Saari 2.0 (Darshan Raval) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -94,12 +86,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Nanha Munna Rahi Hoon Sargam, Harmonium And Flute Notes
-* Humein Tumse Pyar Kitna (Kudrat) - Sargam, Harmonium And Flute Notes
-* Riha (Anuv Jain) - Sargam, Harmonium And Flute Notes
-* Teri Mitti - Sargam, Harmonium And Flute Notes
-* Salaam Aaya (Veer) - Sargam, Harmonium And Flute Notes
-* Savera (Iqlipse Nova & Anubha Bajaj) - Sargam And Flute Notes
+- Nanha Munna Rahi Hoon Sargam, Harmonium And Flute Notes
+- Humein Tumse Pyar Kitna (Kudrat) - Sargam, Harmonium And Flute Notes
+- Riha (Anuv Jain) - Sargam, Harmonium And Flute Notes
+- Teri Mitti - Sargam, Harmonium And Flute Notes
+- Salaam Aaya (Veer) - Sargam, Harmonium And Flute Notes
+- Savera (Iqlipse Nova & Anubha Bajaj) - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -124,4 +116,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

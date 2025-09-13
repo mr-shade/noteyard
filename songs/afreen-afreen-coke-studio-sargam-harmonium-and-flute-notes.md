@@ -1,5 +1,5 @@
 ---
-title: "# Afreen Afreen (Coke Studio) – Sargam, Harmonium And Flute Notes"
+title: " Afreen Afreen (Coke Studio) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Afreen Afreen (Coke Studio) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: afreen-afreen-coke-studio-sargam-harmonium-and-flute-notes
@@ -88,25 +88,17 @@ Husan-e-jaana kii taaref mumkin nahii
 
 S..n..S..G..m..G.R..S..d..S..S..S..S..
 
-
-
 Also Read This :-
 
-
-
-* Fadad (Alan Walker) – Sargam And Flute Notes
-* Happy Birthday – Sargam And Flute Notes
-* Choo Lo (The Local Train) – Sargam And Flute Notes
-* Vaaste (Dhvani Bhanushali) – Sargam and Flute Notes
-* Pyaar Ke Pal (K.K.)- Sargam And Flute Notes
+- Fadad (Alan Walker) – Sargam And Flute Notes
+- Happy Birthday – Sargam And Flute Notes
+- Choo Lo (The Local Train) – Sargam And Flute Notes
+- Vaaste (Dhvani Bhanushali) – Sargam and Flute Notes
+- Pyaar Ke Pal (K.K.)- Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -116,12 +108,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Baatein Ye Kabhi Na Sargam, Harmonium And Flute Notes - Khamoshiyan
-* Baharon Phool Barsao - Sargam, Harmonium And Flute Notes
-* Yeh To Sach Hai Ki Bhagwan Hai (2nd) - Sargam And Flute Notes
-* Baarishein (Anuv Jain) - Sargam, Harmonium And Flute Notes
-* Mahabharat Title Song - Sargam, Harmonium And Flute Notes
-* Mere Humsafar (OST) - Sargam, Harmonium And Flute Notes
+- Baatein Ye Kabhi Na Sargam, Harmonium And Flute Notes - Khamoshiyan
+- Baharon Phool Barsao - Sargam, Harmonium And Flute Notes
+- Yeh To Sach Hai Ki Bhagwan Hai (2nd) - Sargam And Flute Notes
+- Baarishein (Anuv Jain) - Sargam, Harmonium And Flute Notes
+- Mahabharat Title Song - Sargam, Harmonium And Flute Notes
+- Mere Humsafar (OST) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -146,4 +138,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

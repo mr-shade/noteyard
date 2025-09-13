@@ -1,5 +1,5 @@
 ---
-title: "# Kya Kiya Hain Tune (Armaan Malik, Palak Muchhal) – Sargam, Harmonium And Flute Notes"
+title: " Kya Kiya Hain Tune (Armaan Malik, Palak Muchhal) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Kya Kiya Hain Tune (Armaan Malik, Palak Muchhal) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: kya-kiya-hain-tune-armaan-malik-palak-muchhal-sargam-harmonium-and-flute-notes
@@ -80,11 +80,11 @@ S.R.G.G..R…
 
 Also Read This :-
 
-* Tu Hi Yaar Mera – Sargam, Harmonium And Flute Notes
-* Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
-* Sandese Aate Hai (Border) – Sargam, Harmonium And Flute Notes
-* Doorie (Atif Aslam) – Sargam, Harmonium And Flute Notes
-* Tere Bina (Guru) – Sargam, Harmonium And Flute Notes
+- Tu Hi Yaar Mera – Sargam, Harmonium And Flute Notes
+- Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
+- Sandese Aate Hai (Border) – Sargam, Harmonium And Flute Notes
+- Doorie (Atif Aslam) – Sargam, Harmonium And Flute Notes
+- Tere Bina (Guru) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -100,12 +100,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Hori Khele Raghuveera - Sargam, Harmonium And Flute Notes
-* Suno Na Sangemarmar - Sargam, Harmonium And Flute Notes
-* Naino Ne Baandhi (Gold) - Sargam, Harmonium And Flute Notes
-* Hum Toh Deewane (Elvish Yadav) - Sargam And Flute Notes
-* Dekhha Tenu (Mr. & Mrs. Mahi) - Sargam And Flute Notes
-* Baarish Lete Aana Full Song Sargam, Harmonium And Flute Notes (Darshan Raval)
+- Hori Khele Raghuveera - Sargam, Harmonium And Flute Notes
+- Suno Na Sangemarmar - Sargam, Harmonium And Flute Notes
+- Naino Ne Baandhi (Gold) - Sargam, Harmonium And Flute Notes
+- Hum Toh Deewane (Elvish Yadav) - Sargam And Flute Notes
+- Dekhha Tenu (Mr. & Mrs. Mahi) - Sargam And Flute Notes
+- Baarish Lete Aana Full Song Sargam, Harmonium And Flute Notes (Darshan Raval)
 
 close related_posts_thumbnails
 
@@ -130,4 +130,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

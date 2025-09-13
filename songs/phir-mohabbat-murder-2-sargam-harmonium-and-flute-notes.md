@@ -1,5 +1,5 @@
 ---
-title: "# Phir Mohabbat (Murder 2) – Sargam, Harmonium And Flute Notes"
+title: " Phir Mohabbat (Murder 2) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Phir Mohabbat (Murder 2) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: phir-mohabbat-murder-2-sargam-harmonium-and-flute-notes
@@ -118,11 +118,11 @@ G..G..R..S..R..
 
 Also Read This :-
 
-* Phir Kabhi (Full Song) – Sargam, Harmonium And Flute Notes
-* Kahin To Hogi Woh – Sargam, Harmonium And Flute Notes
-* Tum Tak (Raanjhanaa) – Sargam, Harmonium And Flute Notes
-* Kya Mujhe Pyaar Hai (Woh Lamhe) – Sargam, Harmonium And Flute Notes
-* Hua Hain Aaj Pehli Baar – Sargam, Harmonium And Flute Notes
+- Phir Kabhi (Full Song) – Sargam, Harmonium And Flute Notes
+- Kahin To Hogi Woh – Sargam, Harmonium And Flute Notes
+- Tum Tak (Raanjhanaa) – Sargam, Harmonium And Flute Notes
+- Kya Mujhe Pyaar Hai (Woh Lamhe) – Sargam, Harmonium And Flute Notes
+- Hua Hain Aaj Pehli Baar – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -165,12 +165,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Iktara (Wake Up Sid) [FULL SONG] - Sargam, Harmonium And Flute Notes
-* Jeena Jeena [Full Song] - Sargam, Harmonium And Flute Notes
-* Koi Mil Gaya - Sargam, Harmonium And Flute Notes
-* Surili Akhiyon Wale (2nd Version) - Sargam And Flute Notes
-* Kaala Jaadu (Freddy) - Sargam, Harmonium And Flute Notes
-* Kuch Kuch Hota Hai (Title Song) - Sargam, Harmonium And Flute Notes
+- Iktara (Wake Up Sid) [FULL SONG] - Sargam, Harmonium And Flute Notes
+- Jeena Jeena [Full Song] - Sargam, Harmonium And Flute Notes
+- Koi Mil Gaya - Sargam, Harmonium And Flute Notes
+- Surili Akhiyon Wale (2nd Version) - Sargam And Flute Notes
+- Kaala Jaadu (Freddy) - Sargam, Harmonium And Flute Notes
+- Kuch Kuch Hota Hai (Title Song) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -195,4 +195,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

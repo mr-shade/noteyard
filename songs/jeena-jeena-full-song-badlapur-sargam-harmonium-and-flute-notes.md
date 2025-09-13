@@ -1,5 +1,5 @@
 ---
-title: "# Jeena Jeena [Full Song] (Badlapur) – Sargam, Harmonium And Flute Notes"
+title: " Jeena Jeena [Full Song] (Badlapur) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Jeena Jeena [Full Song] (Badlapur) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: jeena-jeena-full-song-badlapur-sargam-harmonium-and-flute-notes
@@ -176,25 +176,17 @@ G..m.. R..G..R.S.R.. G..m.. P.G.P.G.R.S..
 
 G..m.. R..G..R.S.R.. G..m.. P.G.R.S..
 
-
-
 Also Read This :-
 
-
-
-* Ek Ajnabee Haseena Se (Ajnabee) – Sargam And Flute Notes
-* Kalank (Title Track) – Sargam And Flute Notes
-* Dekha Hazaro Dafaa (Rustom) – Sargam And Flute Notes
-* I Like Me Better (Lauv) – Sargam And Flute Notes
-* Mere Wala Sardar (Jugraj Sandhu) – Sargam And Flute Notes
+- Ek Ajnabee Haseena Se (Ajnabee) – Sargam And Flute Notes
+- Kalank (Title Track) – Sargam And Flute Notes
+- Dekha Hazaro Dafaa (Rustom) – Sargam And Flute Notes
+- I Like Me Better (Lauv) – Sargam And Flute Notes
+- Mere Wala Sardar (Jugraj Sandhu) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -204,12 +196,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Mat Aazma Re (Murder 3) - Sargam, Harmonium And Flute Notes
-* Tu Jaane Na - Sargam, Harmonium And Flute Notes
-* Le Chala (One Night Stand) - Sargam, Harmonium And Flute Notes
-* Deewana Kar Raha Hai - Sargam, Harmonium And Flute Notes
-* Dhaagon Se Baandhaa - Sargam, Harmonium And Flute Notes
-* Mujhe Peene Do (Darshan Raval) - Sargam, Harmonium And Flute Notes
+- Mat Aazma Re (Murder 3) - Sargam, Harmonium And Flute Notes
+- Tu Jaane Na - Sargam, Harmonium And Flute Notes
+- Le Chala (One Night Stand) - Sargam, Harmonium And Flute Notes
+- Deewana Kar Raha Hai - Sargam, Harmonium And Flute Notes
+- Dhaagon Se Baandhaa - Sargam, Harmonium And Flute Notes
+- Mujhe Peene Do (Darshan Raval) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -234,4 +226,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

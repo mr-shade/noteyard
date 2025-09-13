@@ -1,5 +1,5 @@
 ---
-title: "# Jab Koi Baat Bigad Jaye (Jurm) – Sargam, Harmonium And Flute Notes"
+title: " Jab Koi Baat Bigad Jaye (Jurm) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Jab Koi Baat Bigad Jaye (Jurm) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: jab-koi-baat-bigad-jaye-jurm-sargam-harmonium-and-flute-notes
@@ -130,11 +130,11 @@ d..S..R…G…R…S..R..S..d.. p.m..G.R.G.R.S…
 
 Also Read This :-
 
-* Girls Like You (Maroon 5) – Sargam And Flute Notes
-* Shayad (Love Aaj Kal) – Sargam And Flute Notes
-* Havana (Camila Cabello) – Sargam And Flute Notes
-* Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
-* Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
+- Girls Like You (Maroon 5) – Sargam And Flute Notes
+- Shayad (Love Aaj Kal) – Sargam And Flute Notes
+- Havana (Camila Cabello) – Sargam And Flute Notes
+- Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
+- Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
 
 Where
 
@@ -148,12 +148,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Ae Watan (Raazi) - Sargam, Harmonium And Flute Notes
-* Krishna Eternal Love Song - Sargam, Harmonium And Flute Notes
-* Pareshaan (Ishaqzaade) - Sargam, Harmonium And Flute Notes
-* Barso Re Megha Megha (Guru) - Sargam, Harmonium And Flute Notes
-* Zindagi Ka Safar (Safar) - Sargam, Harmonium And Flute Notes
-* Baarishein [FULL SONG] - Sargam, Harmonium And Flute Notes
+- Ae Watan (Raazi) - Sargam, Harmonium And Flute Notes
+- Krishna Eternal Love Song - Sargam, Harmonium And Flute Notes
+- Pareshaan (Ishaqzaade) - Sargam, Harmonium And Flute Notes
+- Barso Re Megha Megha (Guru) - Sargam, Harmonium And Flute Notes
+- Zindagi Ka Safar (Safar) - Sargam, Harmonium And Flute Notes
+- Baarishein [FULL SONG] - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -178,4 +178,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

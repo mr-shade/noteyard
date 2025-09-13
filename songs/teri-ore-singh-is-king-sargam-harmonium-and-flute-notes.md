@@ -1,5 +1,5 @@
 ---
-title: "# Teri Ore (Singh Is King) – Sargam, Harmonium And Flute Notes"
+title: " Teri Ore (Singh Is King) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Teri Ore (Singh Is King) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: teri-ore-singh-is-king-sargam-harmonium-and-flute-notes
@@ -94,11 +94,11 @@ D..S’..S’.R’.S’.D.D.P…
 
 Also Read This :-
 
-* Tose Naina (Mickey Virus) – Sargam, Harmonium And Flute Notes
-* Hamari Adhuri Kahani (Title Song) – Sargam, Harmonium And Flute Notes
-* Lambiyaan Si Judaiyaan (Raabta) – Sargam, Harmonium And Flute Notes
-* Kaise Mujhe (Ghajini) – Sargam, Harmonium And Flute Notes
-* Yeh Aaina Full Song (Kabir Singh) – Sargam, Harmonium And Flute Notes
+- Tose Naina (Mickey Virus) – Sargam, Harmonium And Flute Notes
+- Hamari Adhuri Kahani (Title Song) – Sargam, Harmonium And Flute Notes
+- Lambiyaan Si Judaiyaan (Raabta) – Sargam, Harmonium And Flute Notes
+- Kaise Mujhe (Ghajini) – Sargam, Harmonium And Flute Notes
+- Yeh Aaina Full Song (Kabir Singh) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -112,12 +112,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Manike Mage Hithe - Sargam, Harmonium And Flute Notes
-* Dhokha Dhadi (R.. Rajkumar) - Sargam, Harmonium And Flute Notes
-* Tumhe Apna Banane Ka - Sargam, Harmonium And Flute Notes
-* Mera Pehla Pehla Pyaar (K.K.) - Sargam, Harmonium, Flute Notes
-* Aahatein (Agnee) - Sargam, Harmonium And Flute Notes
-* Dilbar Mere Kab Tak Mujhe - Sargam, Harmonium And Flute Notes
+- Manike Mage Hithe - Sargam, Harmonium And Flute Notes
+- Dhokha Dhadi (R.. Rajkumar) - Sargam, Harmonium And Flute Notes
+- Tumhe Apna Banane Ka - Sargam, Harmonium And Flute Notes
+- Mera Pehla Pehla Pyaar (K.K.) - Sargam, Harmonium, Flute Notes
+- Aahatein (Agnee) - Sargam, Harmonium And Flute Notes
+- Dilbar Mere Kab Tak Mujhe - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -142,4 +142,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

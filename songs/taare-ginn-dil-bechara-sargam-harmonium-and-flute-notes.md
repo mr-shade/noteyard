@@ -1,5 +1,5 @@
 ---
-title: "# Taare Ginn (Dil Bechara) – Sargam, Harmonium And Flute Notes"
+title: " Taare Ginn (Dil Bechara) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Taare Ginn (Dil Bechara) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: taare-ginn-dil-bechara-sargam-harmonium-and-flute-notes
@@ -54,19 +54,13 @@ S..S..R..R.G..G.S’..D.D.N..N.S’..
 
 Also Read This :-
 
-
-
-* Aaj Se Teri (Padman) – Sargam And Flute Notes
-* Meri Aashiqui (Jubin Nautiyal) – Sargam And Flute Notes
-* Tere Bina (Salman Khan) – Sargam And Flute Notes
-* Airtel Theme Music Sargam And Flute Notes For Beginners
-* Twinkle Twinkle Little Star – Sargam And Flute Notes For Beginners
-
-
+- Aaj Se Teri (Padman) – Sargam And Flute Notes
+- Meri Aashiqui (Jubin Nautiyal) – Sargam And Flute Notes
+- Tere Bina (Salman Khan) – Sargam And Flute Notes
+- Airtel Theme Music Sargam And Flute Notes For Beginners
+- Twinkle Twinkle Little Star – Sargam And Flute Notes For Beginners
 
 Where
-
-
 
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
 
@@ -78,12 +72,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Raanjhan (Do Patti) - Sargam, Harmonium And Flute Notes
-* O Ri Chiraiya - Sargam, Harmonium And Flute Notes
-* Kaho Naa Pyaar Hai - Sargam, Harmonium And Flute Notes
-* Ya Rabba (Salaam-E-Ishq) - Sargam, Harmonium And Flute Notes
-* Sawan Aaya Hai (Creature 3D) - Sargam, Harmonium And Flute Notes
-* Tujhe Sochta Hoon (Jannat 2) - Sargam, Harmonium And Flute Notes
+- Raanjhan (Do Patti) - Sargam, Harmonium And Flute Notes
+- O Ri Chiraiya - Sargam, Harmonium And Flute Notes
+- Kaho Naa Pyaar Hai - Sargam, Harmonium And Flute Notes
+- Ya Rabba (Salaam-E-Ishq) - Sargam, Harmonium And Flute Notes
+- Sawan Aaya Hai (Creature 3D) - Sargam, Harmonium And Flute Notes
+- Tujhe Sochta Hoon (Jannat 2) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -108,4 +102,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

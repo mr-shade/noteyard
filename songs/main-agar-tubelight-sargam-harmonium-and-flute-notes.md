@@ -1,5 +1,5 @@
 ---
-title: "# Main Agar (Tubelight) – Sargam, Harmonium And Flute Notes"
+title: " Main Agar (Tubelight) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Main Agar (Tubelight) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: main-agar-tubelight-sargam-harmonium-and-flute-notes
@@ -166,11 +166,11 @@ G’..G’..R’.m’…G’..R’.S’..N.. G’..S’..S’..
 
 Also Read This :-
 
-* Tum Itna Jo Muskura Rahe Ho – Sargam, Harmonium And Flute Notes
-* Sawaar Loon (Lootera) – Sargam, Harmonium And Flute Notes
-* Teri Ore (Singh Is King) – Sargam, Harmonium And Flute Notes
-* Bheegi Si Bhaagi Si (Raajneeti) – Sargam, Harmonium And Flute Notes
-* Raaz Aankhein Teri (Raaz Reboot) – Sargam, Harmonium And Flute Notes
+- Tum Itna Jo Muskura Rahe Ho – Sargam, Harmonium And Flute Notes
+- Sawaar Loon (Lootera) – Sargam, Harmonium And Flute Notes
+- Teri Ore (Singh Is King) – Sargam, Harmonium And Flute Notes
+- Bheegi Si Bhaagi Si (Raajneeti) – Sargam, Harmonium And Flute Notes
+- Raaz Aankhein Teri (Raaz Reboot) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -184,12 +184,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Deewani Mastani - Sargam, Harmonium And Flute Notes
-* Pani Da Rang (Vicky Donor) - Sargam, Harmonium And Flute Notes
-* Koi Ishaara (Force 2) - Sargam, Harmonium And Flute Notes
-* Ishq Kamaal (Sadak 2) - Sargam, Harmonium And Flute Notes
-* Labon Ko (Bhool Bhulaiyaa) - Sargam, Harmonium And Flute Notes
-* Mere Naam Tu (Zero) - Sargam, Harmonium And Flute Notes
+- Deewani Mastani - Sargam, Harmonium And Flute Notes
+- Pani Da Rang (Vicky Donor) - Sargam, Harmonium And Flute Notes
+- Koi Ishaara (Force 2) - Sargam, Harmonium And Flute Notes
+- Ishq Kamaal (Sadak 2) - Sargam, Harmonium And Flute Notes
+- Labon Ko (Bhool Bhulaiyaa) - Sargam, Harmonium And Flute Notes
+- Mere Naam Tu (Zero) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -214,4 +214,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

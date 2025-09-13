@@ -1,5 +1,5 @@
 ---
-title: "# Ya Rabba (Salaam-E-Ishq) – Sargam, Harmonium And Flute Notes"
+title: " Ya Rabba (Salaam-E-Ishq) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Ya Rabba (Salaam-E-Ishq) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: ya-rabba-salaam-e-ishq-sargam-harmonium-and-flute-notes
@@ -86,11 +86,11 @@ nw Paragraph 2
 
 Also Read This :-
 
-* Khuda Jaane – Sargam, Harmonium And Flute Notes
-* Tum Jo Aaye – Sargam, Harmonium And Flute Notes
-* Zindagi Ke Safar Mein – Sargam, Harmonium And Flute Notes
-* Humsafar (Badrinath Ki Dulhania) – Sargam, Harmonium And Flute Notes
-* Naina (Danngal) – Sargam, Harmonium And Flute Notes
+- Khuda Jaane – Sargam, Harmonium And Flute Notes
+- Tum Jo Aaye – Sargam, Harmonium And Flute Notes
+- Zindagi Ke Safar Mein – Sargam, Harmonium And Flute Notes
+- Humsafar (Badrinath Ki Dulhania) – Sargam, Harmonium And Flute Notes
+- Naina (Danngal) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -131,12 +131,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Main Rang Sharbaton Ka - Sargam, Harmonium And Flute Notes
-* Kuch Is Taraha (Doorie) - Sargam, Harmonium And Flute Notes
-* Mera Mulk Mera Desh - Sargam, Harmonium And Flute Notes
-* Ye Tune Kya Kiya - Sargam, Harmonium And Flute Notes
-* Tum Se Hi (Jab We Met) - Sargam, Harmonium And Flute Notes
-* Deewani Mastani - Sargam, Harmonium And Flute Notes
+- Main Rang Sharbaton Ka - Sargam, Harmonium And Flute Notes
+- Kuch Is Taraha (Doorie) - Sargam, Harmonium And Flute Notes
+- Mera Mulk Mera Desh - Sargam, Harmonium And Flute Notes
+- Ye Tune Kya Kiya - Sargam, Harmonium And Flute Notes
+- Tum Se Hi (Jab We Met) - Sargam, Harmonium And Flute Notes
+- Deewani Mastani - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -161,4 +161,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

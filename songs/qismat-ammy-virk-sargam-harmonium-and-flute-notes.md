@@ -1,5 +1,5 @@
 ---
-title: "# Qismat (Ammy Virk) – Sargam, Harmonium And Flute Notes"
+title: " Qismat (Ammy Virk) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Qismat (Ammy Virk) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: qismat-ammy-virk-sargam-harmonium-and-flute-notes
@@ -110,11 +110,11 @@ G.. G.G.P.m.G…R..R..G..
 
 Also Read This :-
 
-* Daru Badnaam – Sargam, Harmonium And Flute Notes
-* Gal Karke (Asees Kaur) – Sargam, Harmonium And Flute Notes
-* Lamborghini (Jai Mummy Di) – Sargam, Harmonium And Flute Notes
-* Kisi Aur Naal (Asees Kaur) – Sargam, Harmonium And Flute Notes
-* Sohnea (Miss Pooja) – Sargam, Harmonium And Flute Notes
+- Daru Badnaam – Sargam, Harmonium And Flute Notes
+- Gal Karke (Asees Kaur) – Sargam, Harmonium And Flute Notes
+- Lamborghini (Jai Mummy Di) – Sargam, Harmonium And Flute Notes
+- Kisi Aur Naal (Asees Kaur) – Sargam, Harmonium And Flute Notes
+- Sohnea (Miss Pooja) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -157,12 +157,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Kora Kagaz Tha Yeh Man Mera - Sargam, Harmonium And Flute Notes
-* Bhool Jaa (Arijit Singh) - Sargam, Harmonium And Flute Notes
-* Gaadi Bula Rahi Hai (Dost) - Sargam, Harmonium And Flute Notes
-* Tere Liye (Veer Zaara) - Sargam, Harmonium And Flute Notes
-* Mere Rashke Qamar Sargam, Harmonium And Flute Notes
-* Bheegi Si Bhaagi Si (Raajneeti) - Sargam, Harmonium And Flute Notes
+- Kora Kagaz Tha Yeh Man Mera - Sargam, Harmonium And Flute Notes
+- Bhool Jaa (Arijit Singh) - Sargam, Harmonium And Flute Notes
+- Gaadi Bula Rahi Hai (Dost) - Sargam, Harmonium And Flute Notes
+- Tere Liye (Veer Zaara) - Sargam, Harmonium And Flute Notes
+- Mere Rashke Qamar Sargam, Harmonium And Flute Notes
+- Bheegi Si Bhaagi Si (Raajneeti) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -187,4 +187,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Barso Re Megha Megha (Guru) – Sargam, Harmonium And Flute Notes"
+title: " Barso Re Megha Megha (Guru) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Barso Re Megha Megha (Guru) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: barso-re-megha-megha-guru-sargam-harmonium-and-flute-notes
@@ -112,27 +112,19 @@ Barsoo ree meghaa barsoo
 
 P.D.D.P.G.P.G.R.G..
 
-
-
 Also Read This :-
 
-
-
-* Aao Na – Sargam And Flute Notes
-* Laadki – Sargam And Flute Notes
-* Emptiness – Sargam And Flute Notes
-* Mahabharat – Sargam And Flute Notes
-* Meherbaani – Sargam And Flute Notes
+- Aao Na – Sargam And Flute Notes
+- Laadki – Sargam And Flute Notes
+- Emptiness – Sargam And Flute Notes
+- Mahabharat – Sargam And Flute Notes
+- Meherbaani – Sargam And Flute Notes
 
 Where
-
-
 
 nw Paragraph 3
 
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -142,12 +134,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Aao Bachho Tumhe Dikhaye - Sargam, Harmonium, Flute Notes
-* Chale Aana (Armaan Malik) - Sargam, Harmonium And Flute Notes
-* Kuch Kuch Hota Hai (Title Song) - Sargam, Harmonium And Flute Notes
-* Aziyat (2nd Version) - Sargam, Harmonium And Flute Notes
-* Malang (Title Track) - Sargam, Harmonium And Flute Notes
-* Dilbara (Dhoom) - Sargam, Harmonium And Flute Notes
+- Aao Bachho Tumhe Dikhaye - Sargam, Harmonium, Flute Notes
+- Chale Aana (Armaan Malik) - Sargam, Harmonium And Flute Notes
+- Kuch Kuch Hota Hai (Title Song) - Sargam, Harmonium And Flute Notes
+- Aziyat (2nd Version) - Sargam, Harmonium And Flute Notes
+- Malang (Title Track) - Sargam, Harmonium And Flute Notes
+- Dilbara (Dhoom) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -172,4 +164,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

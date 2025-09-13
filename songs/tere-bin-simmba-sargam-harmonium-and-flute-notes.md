@@ -1,5 +1,5 @@
 ---
-title: "# Tere Bin (Simmba) – Sargam, Harmonium And Flute Notes"
+title: " Tere Bin (Simmba) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Tere Bin (Simmba) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: tere-bin-simmba-sargam-harmonium-and-flute-notes
@@ -90,11 +90,11 @@ p.d.S..P..G..G..G.R.R..G…R..S..S..
 
 Also Read This :-
 
-* Chandan Sa Badan – Sargam, Harmonium And Flute Notes
-* Tere Naam Humne Kiya Hai – Sargam, Harmonium And Flute Notes
-* Main Tumhara (Easy Version) – Sargam, Harmonium And Flute Notes
-* Abhi Mujh Mein Kahin (Full Song) – Sargam, Harmonium And Flute Notes
-* Kaun Disha Mein Leke Chala Re – Sargam, Harmonium And Flute Notes
+- Chandan Sa Badan – Sargam, Harmonium And Flute Notes
+- Tere Naam Humne Kiya Hai – Sargam, Harmonium And Flute Notes
+- Main Tumhara (Easy Version) – Sargam, Harmonium And Flute Notes
+- Abhi Mujh Mein Kahin (Full Song) – Sargam, Harmonium And Flute Notes
+- Kaun Disha Mein Leke Chala Re – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -135,12 +135,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Bandeya Re Bandeya (Simmba) - Sargam, Harmonium And Flute Notes
-* Abhi Kuch Dino Se - Sargam, Harmonium And Flute Notes
-* Isharo Isharo Mein - Sargam, Harmonium And Flute Notes
-* Maine Khud Ko (Ragini MMS 2) - Sargam And Flute Notes
-* Humnava Mere (Jubin Nautiyal) - Sargam, Harmonium, Flute Notes
-* Lut Gaye (Jubin Nautiyal) - Sargam, Harmonium And Flute Notes
+- Bandeya Re Bandeya (Simmba) - Sargam, Harmonium And Flute Notes
+- Abhi Kuch Dino Se - Sargam, Harmonium And Flute Notes
+- Isharo Isharo Mein - Sargam, Harmonium And Flute Notes
+- Maine Khud Ko (Ragini MMS 2) - Sargam And Flute Notes
+- Humnava Mere (Jubin Nautiyal) - Sargam, Harmonium, Flute Notes
+- Lut Gaye (Jubin Nautiyal) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -165,4 +165,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Jo Wada Kiya Woh Nibhana Padega – Sargam, Harmonium And Flute Notes"
+title: " Jo Wada Kiya Woh Nibhana Padega – Sargam, Harmonium And Flute Notes"
 description: "Learn # Jo Wada Kiya Woh Nibhana Padega notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: jo-wada-kiya-woh-nibhana-padega-sargam-harmonium-and-flute-notes
@@ -88,11 +88,11 @@ R..G..R..S.S…S..
 
 Also Read This:-
 
-* Tere Siva (Darshan Raval) – Sargam, Harmonium And Flute Notes
-* Sau Aasmaan (Baar Baar Dekho) – Sargam, Harmonium And Flute Notes
-* Hale Dil Tujhko Sunata (Murder 2) – Sargam, Harmonium And Flute Notes
-* Give Me Some Sunshine (3 Idiots) – Sargam, Harmonium And Flute Notes
-* Sunn Zara (Jalraj) – Sargam, Harmonium And Flute Notes
+- Tere Siva (Darshan Raval) – Sargam, Harmonium And Flute Notes
+- Sau Aasmaan (Baar Baar Dekho) – Sargam, Harmonium And Flute Notes
+- Hale Dil Tujhko Sunata (Murder 2) – Sargam, Harmonium And Flute Notes
+- Give Me Some Sunshine (3 Idiots) – Sargam, Harmonium And Flute Notes
+- Sunn Zara (Jalraj) – Sargam, Harmonium And Flute Notes
 
 relpost-thumb-wrapper
 
@@ -102,12 +102,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Woh Chaand Kahan Se Laogi (Vishal Mishra) - Sargam, Harmonium And Flute Notes
-* Kuch Kuch Hota Hai (Title Song) - Sargam, Harmonium And Flute Notes
-* Aaye Ho Meri Zindagi Mein (Raja Hindustani) - Sargam, Harmonium And Flute Notes
-* Bulleya (Sultan) - Sargam, Harmonium And Flute Notes
-* Waqt Ki Baatein- Sargam, Harmonium And Flute Notes
-* Tere Naam Humne Kiya Hai - Sargam, Harmonium And Flute Notes
+- Woh Chaand Kahan Se Laogi (Vishal Mishra) - Sargam, Harmonium And Flute Notes
+- Kuch Kuch Hota Hai (Title Song) - Sargam, Harmonium And Flute Notes
+- Aaye Ho Meri Zindagi Mein (Raja Hindustani) - Sargam, Harmonium And Flute Notes
+- Bulleya (Sultan) - Sargam, Harmonium And Flute Notes
+- Waqt Ki Baatein- Sargam, Harmonium And Flute Notes
+- Tere Naam Humne Kiya Hai - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -132,4 +132,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

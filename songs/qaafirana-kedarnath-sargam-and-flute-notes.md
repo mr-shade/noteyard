@@ -1,5 +1,5 @@
 ---
-title: "# Qaafirana (Kedarnath) – Sargam And Flute Notes"
+title: " Qaafirana (Kedarnath) – Sargam And Flute Notes"
 description: "Learn # Qaafirana (Kedarnath) – Sargam And Flute Notes notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: qaafirana-kedarnath-sargam-and-flute-notes
@@ -7,8 +7,6 @@ slug: qaafirana-kedarnath-sargam-and-flute-notes
 
 Remove Numbers From Piano Notes
 Undo Changes
-
-
 
 ## Qaafirana (Kedarnath) – Sargam And Flute Notes
 
@@ -142,17 +140,13 @@ d..S.S..S.R..P… S..G…
 
 Also Read This :-
 
-
-
-* Girls Like You (Maroon 5) – Sargam And Flute Notes
-* Shayad (Love Aaj Kal) – Sargam And Flute Notes
-* Havana (Camila Cabello) – Sargam And Flute Notes
-* Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
-* Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
+- Girls Like You (Maroon 5) – Sargam And Flute Notes
+- Shayad (Love Aaj Kal) – Sargam And Flute Notes
+- Havana (Camila Cabello) – Sargam And Flute Notes
+- Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
+- Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
 
 Where
-
-
 
 relpost-thumb-wrapper
 
@@ -162,12 +156,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Badal Barsha Bijuli - Sargam, Harmonium And Flute Notes
-* Malang (Title Track) - Sargam, Harmonium And Flute Notes
-* Naina (Diljit And Badshah) - Sargam, Harmonium And Flute Notes
-* Pyaar Hua Chupke Se - Sargam, Harmonium And Flute Notes
-* Rasiya (Brahmastra) - Sargam, Harmonium And Flute Notes
-* Mera Dil Bhi Kitna Pagal Hai - Sargam, Harmonium And Flute Notes
+- Badal Barsha Bijuli - Sargam, Harmonium And Flute Notes
+- Malang (Title Track) - Sargam, Harmonium And Flute Notes
+- Naina (Diljit And Badshah) - Sargam, Harmonium And Flute Notes
+- Pyaar Hua Chupke Se - Sargam, Harmonium And Flute Notes
+- Rasiya (Brahmastra) - Sargam, Harmonium And Flute Notes
+- Mera Dil Bhi Kitna Pagal Hai - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -192,4 +186,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

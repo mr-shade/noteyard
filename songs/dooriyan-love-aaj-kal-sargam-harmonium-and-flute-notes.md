@@ -1,5 +1,5 @@
 ---
-title: "# Dooriyan (Love Aaj Kal) – Sargam, Harmonium And Flute Notes"
+title: " Dooriyan (Love Aaj Kal) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Dooriyan (Love Aaj Kal) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: dooriyan-love-aaj-kal-sargam-harmonium-and-flute-notes
@@ -296,11 +296,11 @@ S..S..R.G.G..R.S.
 
 Also Read This :-
 
-* Dil Meri Na Sune (Genius) – Sargam, Harmonium And Flute Notes
-* Pehla Pyaar Full Song – Sargam, Harmonium And Flute Notes
-* Tujhse Naraaz Nahin Zindagi – Sargam, Harmonium And Flute Notes
-* Kyun Main Jaagoon – Sargam, Harmonium And Flute Notes
-* Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
+- Dil Meri Na Sune (Genius) – Sargam, Harmonium And Flute Notes
+- Pehla Pyaar Full Song – Sargam, Harmonium And Flute Notes
+- Tujhse Naraaz Nahin Zindagi – Sargam, Harmonium And Flute Notes
+- Kyun Main Jaagoon – Sargam, Harmonium And Flute Notes
+- Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -314,12 +314,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Tumhe Dillagi (Raid 2) - Sargam, Harmonium And Flute Notes
-* Manikya Malaraya Poovi - Sargam, Harmonium And Flute Notes
-* Tu Na Jaane Aas Paas Hai Khuda - Sargam And Flute Notes
-* Finding Her (Kushagra) - Sargam, Harmonium And Flute Notes
-* Main Tumhara (Dil Bechara) - Sargam, Harmonium And Flute Notes
-* Kal Ho Naa Ho (Easy Version) - Sargam And Flute Notes
+- Tumhe Dillagi (Raid 2) - Sargam, Harmonium And Flute Notes
+- Manikya Malaraya Poovi - Sargam, Harmonium And Flute Notes
+- Tu Na Jaane Aas Paas Hai Khuda - Sargam And Flute Notes
+- Finding Her (Kushagra) - Sargam, Harmonium And Flute Notes
+- Main Tumhara (Dil Bechara) - Sargam, Harmonium And Flute Notes
+- Kal Ho Naa Ho (Easy Version) - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -344,4 +344,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

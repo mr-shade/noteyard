@@ -1,5 +1,5 @@
 ---
-title: "# Cheap Thrills (Sia) – Sargam, Harmonium And Flute Notes"
+title: " Cheap Thrills (Sia) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Cheap Thrills (Sia) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: cheap-thrills-sia-sargam-harmonium-and-flute-notes
@@ -80,11 +80,11 @@ G..D..N..S’..N..D..N..D..G…R..
 
 Also Read This :-
 
-* Believer (Imagine Dragons) – Sargam, Harmonium And Flute Notes
-* Memories (Maroon 5) – Sargam, Harmonium And Flute Notes
-* Girls Like You (Maroon 5) – Sargam, Harmonium And Flute Notes
-* Havana (Camila Cabello) – Sargam, Harmonium And Flute Notes
-* Jingle Bells – Sargam, Harmonium And Flute Notes
+- Believer (Imagine Dragons) – Sargam, Harmonium And Flute Notes
+- Memories (Maroon 5) – Sargam, Harmonium And Flute Notes
+- Girls Like You (Maroon 5) – Sargam, Harmonium And Flute Notes
+- Havana (Camila Cabello) – Sargam, Harmonium And Flute Notes
+- Jingle Bells – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -100,12 +100,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Butter (BTS) - Sargam, Harmonium And Flute Notes
-* Itachi Uchiha Theme Tune - Sargam, Harmonium And Flute Notes
-* Für Elise - Sargam, Harmonium And Flute Notes
-* We Live We Love We Lie - Sargam, Harmonium And Flute Notes
-* You Are My Sunshine (Johnny Cash) - Sargam And Flute Notes
-* (Everything I Do) I Do It for You - Sargam And Flute Notes
+- Butter (BTS) - Sargam, Harmonium And Flute Notes
+- Itachi Uchiha Theme Tune - Sargam, Harmonium And Flute Notes
+- Für Elise - Sargam, Harmonium And Flute Notes
+- We Live We Love We Lie - Sargam, Harmonium And Flute Notes
+- You Are My Sunshine (Johnny Cash) - Sargam And Flute Notes
+- (Everything I Do) I Do It for You - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -130,4 +130,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

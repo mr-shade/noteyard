@@ -1,5 +1,5 @@
 ---
-title: "# Ik Tu Hai (Attack) – Sargam, Harmonium And Flute Notes"
+title: " Ik Tu Hai (Attack) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Ik Tu Hai (Attack) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: ik-tu-hai-attack-sargam-harmonium-and-flute-notes
@@ -68,11 +68,11 @@ m’..P’..m’..P’…G’.R’..S’.S’…
 
 Also Read This :-
 
-* Jaan Hai Meri (Radhe Shyam) – Sargam, Harmonium And Flute Notes
-* Sapna Jahan (Brothers) – Sargam, Harmonium And Flute Notes
-* Mere Baba (Jubin Nautiyal) – Sargam, Harmonium And Flute Notes
-* Khuda Jaane – Sargam, Harmonium And Flute Notes
-* Zindagi Ke Safar Mein – Sargam, Harmonium And Flute Notes
+- Jaan Hai Meri (Radhe Shyam) – Sargam, Harmonium And Flute Notes
+- Sapna Jahan (Brothers) – Sargam, Harmonium And Flute Notes
+- Mere Baba (Jubin Nautiyal) – Sargam, Harmonium And Flute Notes
+- Khuda Jaane – Sargam, Harmonium And Flute Notes
+- Zindagi Ke Safar Mein – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -115,12 +115,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Sau Dard Hai (Jaan-E-Mann) - Sargam, Harmonium And Flute Notes
-* Yeh Raaten Yeh Mausam - Sargam, Harmonium And Flute Notes
-* Chaleya (Jawan) - Sargam, Harmonium And Flute Notes
-* Soundarya Sabun Nirma - Sargam, Harmonium And Flute Notes
-* Zindagi Aa Raha Hoon Main - Sargam, Harmonium And Flute Notes
-* Wafa Ne Bewafai (Teraa Surroor) - Sargam, Harmonium And Flute Notes
+- Sau Dard Hai (Jaan-E-Mann) - Sargam, Harmonium And Flute Notes
+- Yeh Raaten Yeh Mausam - Sargam, Harmonium And Flute Notes
+- Chaleya (Jawan) - Sargam, Harmonium And Flute Notes
+- Soundarya Sabun Nirma - Sargam, Harmonium And Flute Notes
+- Zindagi Aa Raha Hoon Main - Sargam, Harmonium And Flute Notes
+- Wafa Ne Bewafai (Teraa Surroor) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -145,4 +145,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

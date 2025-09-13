@@ -1,5 +1,5 @@
 ---
-title: "# Dil Mein Ho Tum (Why Cheat India) – Sargam, Harmonium And Flute Notes"
+title: " Dil Mein Ho Tum (Why Cheat India) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Dil Mein Ho Tum (Why Cheat India) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: dil-mein-ho-tum-why-cheat-india-sargam-harmonium-and-flute-notes
@@ -92,25 +92,17 @@ Pehli nazar see hi yaara
 
 p..n..n..n..S..n..d.n..d…
 
-
-
 Also Read This :-
 
-
-
-* Tum Hi Ho Sargam And Flute Notes
-* Kuch Is Tarah Sargam And Flute Notes
-* Intezaar Sargam And Flute Notes
-* Kaun Tujhe Sargam And Flute Notes
-* Ek Tukda Dhoop Sargam And Flute Notes
+- Tum Hi Ho Sargam And Flute Notes
+- Kuch Is Tarah Sargam And Flute Notes
+- Intezaar Sargam And Flute Notes
+- Kaun Tujhe Sargam And Flute Notes
+- Ek Tukda Dhoop Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -120,12 +112,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Banjaara (Ek Villain) - Sargam, Harmonium And Flute Notes
-* Laree Chootee (2nd Version) - Sargam And Flute Notes
-* Jaan Hai Meri (Radhe Shyam) - Sargam, Harmonium And Flute Notes
-* Gehraiyaan Title Track - Sargam, Harmonium And Flute Notes
-* Papa Kehte Hain (2nd Version) - Sargam And Flute Notes
-* Chaar Kadam (PK) - Sargam, Harmonium And Flute Notes
+- Banjaara (Ek Villain) - Sargam, Harmonium And Flute Notes
+- Laree Chootee (2nd Version) - Sargam And Flute Notes
+- Jaan Hai Meri (Radhe Shyam) - Sargam, Harmonium And Flute Notes
+- Gehraiyaan Title Track - Sargam, Harmonium And Flute Notes
+- Papa Kehte Hain (2nd Version) - Sargam And Flute Notes
+- Chaar Kadam (PK) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -150,4 +142,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

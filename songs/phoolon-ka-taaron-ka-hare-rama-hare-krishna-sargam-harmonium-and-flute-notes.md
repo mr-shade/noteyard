@@ -1,5 +1,5 @@
 ---
-title: "# Phoolon Ka Taaron Ka (Hare Rama Hare Krishna) – Sargam, Harmonium And Flute Notes"
+title: " Phoolon Ka Taaron Ka (Hare Rama Hare Krishna) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Phoolon Ka Taaron Ka (Hare Rama Hare Krishna) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: phoolon-ka-taaron-ka-hare-rama-hare-krishna-sargam-harmonium-and-flute-notes
@@ -74,27 +74,19 @@ Phoolon kaa taron ka sabka kehna hai
 
 S.S.S.G..S.R. d..n..S..R..S..
 
-
-
 Also Read This :-
 
-
-
-* Tera Ban Jaunga (Kabir Singh) – Sargam And Flute Notes
-* On My Way (Alan Walker) – Sargam And Flute Notes
-* Sholay Theme Tune – Sargam And Flute Notes
-* Tera Ghata (Gajendra Verma) – Sargam And Flute Notes
-* Pirates Of The Caribbean – Sargam And Flute Notes
+- Tera Ban Jaunga (Kabir Singh) – Sargam And Flute Notes
+- On My Way (Alan Walker) – Sargam And Flute Notes
+- Sholay Theme Tune – Sargam And Flute Notes
+- Tera Ghata (Gajendra Verma) – Sargam And Flute Notes
+- Pirates Of The Caribbean – Sargam And Flute Notes
 
 Where
 
 nw Paragraph 2
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -104,12 +96,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Kabhi Kabhi Mere Dil Mein - Sargam, Harmonium And Flute Notes
-* Tu Hain Toh Main Hoon - Sargam, Harmonium And Flute Notes
-* Baadshah O Baadshah - Sargam, Harmonium And Flute Notes
-* Main Hoon Hero Tera Sargam, Harmonium And Flute Notes
-* Aaj Se Teri (Padman) - Sargam, Harmonium And Flute Notes
-* Bana Sharabi (2nd Version) - Sargam, Harmonium And Flute Notes
+- Kabhi Kabhi Mere Dil Mein - Sargam, Harmonium And Flute Notes
+- Tu Hain Toh Main Hoon - Sargam, Harmonium And Flute Notes
+- Baadshah O Baadshah - Sargam, Harmonium And Flute Notes
+- Main Hoon Hero Tera Sargam, Harmonium And Flute Notes
+- Aaj Se Teri (Padman) - Sargam, Harmonium And Flute Notes
+- Bana Sharabi (2nd Version) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -134,4 +126,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

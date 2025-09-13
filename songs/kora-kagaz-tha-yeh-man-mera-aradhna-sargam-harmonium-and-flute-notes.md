@@ -1,5 +1,5 @@
 ---
-title: "# Kora Kagaz Tha Yeh Man Mera (Aradhna) – Sargam, Harmonium And Flute Notes"
+title: " Kora Kagaz Tha Yeh Man Mera (Aradhna) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Kora Kagaz Tha Yeh Man Mera (Aradhna) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: kora-kagaz-tha-yeh-man-mera-aradhna-sargam-harmonium-and-flute-notes
@@ -102,11 +102,11 @@ p..d..S..S..R.G.R.G..S..n..d.. n..S…
 
 Also Read This :-
 
-* Lehra Do (83) – Sargam, Harmonium And Flute Notes
-* Lae Dooba (Aiyaary) – Sargam, Harmonium And Flute Notes
-* Saajna (Falak Shabir) – Sargam, Harmonium And Flute Notes
-* Rozana (Naam Shabana) – Sargam, Harmonium And Flute Notes
-* Yeh Jo Des Hai Tera (Swadesh) – Sargam, Harmonium And Flute Notes
+- Lehra Do (83) – Sargam, Harmonium And Flute Notes
+- Lae Dooba (Aiyaary) – Sargam, Harmonium And Flute Notes
+- Saajna (Falak Shabir) – Sargam, Harmonium And Flute Notes
+- Rozana (Naam Shabana) – Sargam, Harmonium And Flute Notes
+- Yeh Jo Des Hai Tera (Swadesh) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -147,12 +147,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Mere Humsafar (Easy Version) - Sargam And Flute Notes
-* Madhubala (Amit Trivedi) - Sargam, Harmonium And Flute Notes
-* Tu Mileya (Darshan Raval) - Sargam, Harmonium And Flute Notes
-* Jag Soona Soona Lage - Sargam, Harmonium And Flute Notes
-* Hua Hain Aaj Pehli Baar - Sargam, Harmonium And Flute Notes
-* Dil Ko Karaar Aaya - Sargam, Harmonium And Flute Notes
+- Mere Humsafar (Easy Version) - Sargam And Flute Notes
+- Madhubala (Amit Trivedi) - Sargam, Harmonium And Flute Notes
+- Tu Mileya (Darshan Raval) - Sargam, Harmonium And Flute Notes
+- Jag Soona Soona Lage - Sargam, Harmonium And Flute Notes
+- Hua Hain Aaj Pehli Baar - Sargam, Harmonium And Flute Notes
+- Dil Ko Karaar Aaya - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -177,4 +177,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

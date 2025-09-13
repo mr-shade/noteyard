@@ -1,5 +1,5 @@
 ---
-title: "# Happy Birthday – Sargam, Harmonium And Flute Notes"
+title: " Happy Birthday – Sargam, Harmonium And Flute Notes"
 description: "Learn # Happy Birthday notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: happy-birthday-sargam-harmonium-and-flute-notes
@@ -26,25 +26,17 @@ Happy birthdayy too youu
 
 S’..S’..N..P..D..P..
 
-
-
 Also Read This :-
 
-
-
-* Tera Ban Jaunga (Kabir Singh) – Sargam And Flute Notes
-* On My Way (Alan Walker) – Sargam And Flute Notes
-* Sholay Theme Tune – Sargam And Flute Notes
-* Tera Ghata (Gajendra Verma) – Sargam And Flute Notes
-* Pirates Of The Caribbean – Sargam And Flute Notes
+- Tera Ban Jaunga (Kabir Singh) – Sargam And Flute Notes
+- On My Way (Alan Walker) – Sargam And Flute Notes
+- Sholay Theme Tune – Sargam And Flute Notes
+- Tera Ghata (Gajendra Verma) – Sargam And Flute Notes
+- Pirates Of The Caribbean – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -54,12 +46,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Titanic (My Heart Will Go On) - Sargam, Harmonium And Flute Notes
-* Fadad (Alan Walker) - Sargam, Harmonium And Flute Notes
-* Blank Space (Taylor Swift) - Sargam, Harmonium And Flute Notes
-* Saathiya Flute Tune (Easy Version) - Sargam And Flute Notes
-* Jingle Bells - Sargam, Harmonium And Flute Notes
-* Mary Had A Little Lamb - Sargam, Harmonium And Flute Notes
+- Titanic (My Heart Will Go On) - Sargam, Harmonium And Flute Notes
+- Fadad (Alan Walker) - Sargam, Harmonium And Flute Notes
+- Blank Space (Taylor Swift) - Sargam, Harmonium And Flute Notes
+- Saathiya Flute Tune (Easy Version) - Sargam And Flute Notes
+- Jingle Bells - Sargam, Harmonium And Flute Notes
+- Mary Had A Little Lamb - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -84,4 +76,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

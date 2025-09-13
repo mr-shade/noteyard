@@ -1,5 +1,5 @@
 ---
-title: "# Tujh Mein Rab Dikhta Hai Sargam, Harmonium And Flute Notes"
+title: " Tujh Mein Rab Dikhta Hai Sargam, Harmonium And Flute Notes"
 description: "Learn # Tujh Mein Rab Dikhta Hai Sargam, Harmonium And Flute Notes notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: tujh-mein-rab-dikhta-hai-sargam-harmonium-and-flute-notes
@@ -78,27 +78,19 @@ Yaaraa main kyaa karoon
 
 m..S’…S’.R’.S’.R’..N.N..D..
 
-
-
 Also Read This :-
 
 nw Paragraph 2
 
-
-
-* Girls Like You (Maroon 5) – Sargam And Flute Notes
-* Shayad (Love Aaj Kal) – Sargam And Flute Notes
-* Moh Moh ke dhaage (Dum Laga Ke Haisha) – Sargam And Flute Notes
-* Kisi Aur Naal (Asees Kaur) – Sargam And Flute Notes
-* Intezaar (Arijit Singh) – Sargam And Flute Notes
+- Girls Like You (Maroon 5) – Sargam And Flute Notes
+- Shayad (Love Aaj Kal) – Sargam And Flute Notes
+- Moh Moh ke dhaage (Dum Laga Ke Haisha) – Sargam And Flute Notes
+- Kisi Aur Naal (Asees Kaur) – Sargam And Flute Notes
+- Intezaar (Arijit Singh) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -108,12 +100,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Hoshwalon Ko Khabar Kya - Sargam, Harmonium And Flute Notes
-* Bahara (I Hate Luv Storys) - Sargam, Harmonium And Flute Notes
-* Soniye Hiriye (Shael) - Sargam, Harmonium And Flute Notes
-* Raanjhana Ve (Antara Mitra) - Sargam Harmonium And Flute Notes
-* Meri Aashiqui (Aashiqui 2) - Sargam, Harmonium And Flute Notes
-* Radha Kaise Na Jale - Sargam, Harmonium And Flute Notes
+- Hoshwalon Ko Khabar Kya - Sargam, Harmonium And Flute Notes
+- Bahara (I Hate Luv Storys) - Sargam, Harmonium And Flute Notes
+- Soniye Hiriye (Shael) - Sargam, Harmonium And Flute Notes
+- Raanjhana Ve (Antara Mitra) - Sargam Harmonium And Flute Notes
+- Meri Aashiqui (Aashiqui 2) - Sargam, Harmonium And Flute Notes
+- Radha Kaise Na Jale - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -138,4 +130,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Yeh Aaina (Kabir Singh) – Sargam, Harmonium And Flute Notes"
+title: " Yeh Aaina (Kabir Singh) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Yeh Aaina (Kabir Singh) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: yeh-aaina-kabir-singh-sargam-harmonium-and-flute-notes
@@ -66,25 +66,17 @@ Jo roz mujhkoo sawaaree
 
 p..S..R..G..R..S.S..n..S..R…
 
-
-
 Also Read This :-
 
-
-
-* Shikwa Nahi (Jubin Nautiyal) – Sargam And Flute Notes
-* Duniyaa (Luka Chuppi) – Sargam And Flute Notes
-* Surili Akhiyon Wale (Veer) – Sargam And Flute Notes
-* Teri Meri Kahani (Happy Hardy And Heer) – Sargam And Flute Notes
-* Titanic (My Heart Will Go On) – Sargam And Flute Notes
+- Shikwa Nahi (Jubin Nautiyal) – Sargam And Flute Notes
+- Duniyaa (Luka Chuppi) – Sargam And Flute Notes
+- Surili Akhiyon Wale (Veer) – Sargam And Flute Notes
+- Teri Meri Kahani (Happy Hardy And Heer) – Sargam And Flute Notes
+- Titanic (My Heart Will Go On) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -94,12 +86,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Pehli Dafa (Atif Aslam) - Sargam, Harmonium And Flute Notes
-* Salaam-E-Ishq - Sargam, Harmonium And Flute Notes
-* Ishq Kamaal (Sadak 2) - Sargam, Harmonium And Flute Notes
-* Saude Bazi (Aakrosh) - Sargam, Harmonium And Flute Notes
-* Tu Mile Dil Khile (Criminal) - Sargam, Harmonium And Flute Notes
-* Abhi Kuch Dino Se - Sargam, Harmonium And Flute Notes
+- Pehli Dafa (Atif Aslam) - Sargam, Harmonium And Flute Notes
+- Salaam-E-Ishq - Sargam, Harmonium And Flute Notes
+- Ishq Kamaal (Sadak 2) - Sargam, Harmonium And Flute Notes
+- Saude Bazi (Aakrosh) - Sargam, Harmonium And Flute Notes
+- Tu Mile Dil Khile (Criminal) - Sargam, Harmonium And Flute Notes
+- Abhi Kuch Dino Se - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -124,4 +116,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Doorie (Atif Aslam) – Sargam, Harmonium And Flute Notes"
+title: " Doorie (Atif Aslam) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Doorie (Atif Aslam) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: doorie-atif-aslam-sargam-harmonium-and-flute-notes
@@ -108,11 +108,11 @@ R.R..S..n..S…p..d..n.d.p.
 
 Also Read This :-
 
-* Bahara (I Hate Luv Storys) – Sargam, Harmonium And Flute Notes
-* Tu Mile Dil Khile (Criminal) – Sargam, Harmonium And Flute Notes
-* Tum Ko Dekha Toh Ye Khayal – Sargam, Harmonium And Flute Notes
-* Ek Pyar Ka Nagma Hai (Full Song) – Sargam, Harmonium And Flute Notes
-* Agar Tum Saath Ho (Tamasha) – Sargam, Harmonium And Flute Notes
+- Bahara (I Hate Luv Storys) – Sargam, Harmonium And Flute Notes
+- Tu Mile Dil Khile (Criminal) – Sargam, Harmonium And Flute Notes
+- Tum Ko Dekha Toh Ye Khayal – Sargam, Harmonium And Flute Notes
+- Ek Pyar Ka Nagma Hai (Full Song) – Sargam, Harmonium And Flute Notes
+- Agar Tum Saath Ho (Tamasha) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -153,12 +153,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Enna Sona (Ok Jaanu) - Sargam, Harmonium And Flute Notes
-* Jo Tum Mere Ho (Anuv Jain) - Sargam, Harmonium And Flute Notes
-* Ghalat Fehmi (Asim Azhar) - Sargam, Harmonium And Flute Notes
-* Dori Tutt Gaiyaan (Gunjan Saxena) - Sargam, Harmonium And Flute Notes
-* Humnava Mere (Jubin Nautiyal) - Sargam, Harmonium, Flute Notes
-* Zindagi Ka Safar (Easy Version) - Sargam And Flute Notes
+- Enna Sona (Ok Jaanu) - Sargam, Harmonium And Flute Notes
+- Jo Tum Mere Ho (Anuv Jain) - Sargam, Harmonium And Flute Notes
+- Ghalat Fehmi (Asim Azhar) - Sargam, Harmonium And Flute Notes
+- Dori Tutt Gaiyaan (Gunjan Saxena) - Sargam, Harmonium And Flute Notes
+- Humnava Mere (Jubin Nautiyal) - Sargam, Harmonium, Flute Notes
+- Zindagi Ka Safar (Easy Version) - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -183,4 +183,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

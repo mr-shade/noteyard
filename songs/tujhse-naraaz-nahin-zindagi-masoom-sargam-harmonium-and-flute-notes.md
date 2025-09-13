@@ -1,5 +1,5 @@
 ---
-title: "# Tujhse Naraaz Nahin Zindagi (Masoom) – Sargam, Harmonium And Flute Notes"
+title: " Tujhse Naraaz Nahin Zindagi (Masoom) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Tujhse Naraaz Nahin Zindagi (Masoom) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: tujhse-naraaz-nahin-zindagi-masoom-sargam-harmonium-and-flute-notes
@@ -146,11 +146,11 @@ S’…N..D…D..N…D..P…P..
 
 Also Read This :-
 
-* Girls Like You (Maroon 5) – Sargam And Flute Notes
-* Shayad (Love Aaj Kal) – Sargam And Flute Notes
-* Havana (Camila Cabello) – Sargam And Flute Notes
-* Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
-* Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
+- Girls Like You (Maroon 5) – Sargam And Flute Notes
+- Shayad (Love Aaj Kal) – Sargam And Flute Notes
+- Havana (Camila Cabello) – Sargam And Flute Notes
+- Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
+- Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
 
 Where
 
@@ -164,12 +164,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Bakhuda Tumhi Ho (Atif Aslam) - Sargam, Harmonium And Flute Notes
-* Khoobsurat (Stree 2) - Sargam, Harmonium And Flute Notes
-* Emptiness - Sargam, Harmonium And Flute Notes
-* Main Rahoon Ya Na Rahoon Sargam, Harmonium And Flute Notes
-* Pardesi Pardesi Jana Nahi - Sargam, Harmonium And Flute Notes
-* Taare Zameen Par (Title Song) - Sargam, Harmonium And Flute Notes
+- Bakhuda Tumhi Ho (Atif Aslam) - Sargam, Harmonium And Flute Notes
+- Khoobsurat (Stree 2) - Sargam, Harmonium And Flute Notes
+- Emptiness - Sargam, Harmonium And Flute Notes
+- Main Rahoon Ya Na Rahoon Sargam, Harmonium And Flute Notes
+- Pardesi Pardesi Jana Nahi - Sargam, Harmonium And Flute Notes
+- Taare Zameen Par (Title Song) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -194,4 +194,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

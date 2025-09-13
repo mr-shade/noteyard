@@ -1,5 +1,5 @@
 ---
-title: "# Kaise Hua (Kabir Singh) – Sargam, Harmonium And Flute Notes"
+title: " Kaise Hua (Kabir Singh) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Kaise Hua (Kabir Singh) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: kaise-hua-kabir-singh-sargam-harmonium-and-flute-notes
@@ -70,27 +70,19 @@ Kaisee huaaa
 
 S’..S’…N.P..
 
-
-
 Also Read This :-
 
-
-
-* Lamborghini (Jai Mummy Di) – Sargam And Flute Notes
-* Leja Re (Dhvani Bhanushali) – Sargam And Flute Notes
-* Pyaar Karona (Salman Khan) – Sargam And Flute Notes
-* Mera Bhai (Vikas Naidu) – Sargam And Flute Notes
-* Rula Ke Gaya Ishq (Stebin Ben) – Sargam And Flute Notes
+- Lamborghini (Jai Mummy Di) – Sargam And Flute Notes
+- Leja Re (Dhvani Bhanushali) – Sargam And Flute Notes
+- Pyaar Karona (Salman Khan) – Sargam And Flute Notes
+- Mera Bhai (Vikas Naidu) – Sargam And Flute Notes
+- Rula Ke Gaya Ishq (Stebin Ben) – Sargam And Flute Notes
 
 Where
-
-
 
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
 
 nw Paragraph 2
-
-
 
 relpost-thumb-wrapper
 
@@ -100,12 +92,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Main Balak Tu Mata - Sargam, Harmonium And Flute Notes
-* Jeena Jeena [Full Song] - Sargam, Harmonium And Flute Notes
-* Oh Saaiyaan (The Power) - Sargam, Harmonium And Flute Notes
-* Yaad Teri Aaye Baar Baar - Sargam, Harmonium And Flute Notes
-* Mast Magan (2 States) - Sargam, Harmonium And Flute Notes
-* Maiyya Mainu [Full Song] - Sargam, Harmonium And Flute Notes
+- Main Balak Tu Mata - Sargam, Harmonium And Flute Notes
+- Jeena Jeena [Full Song] - Sargam, Harmonium And Flute Notes
+- Oh Saaiyaan (The Power) - Sargam, Harmonium And Flute Notes
+- Yaad Teri Aaye Baar Baar - Sargam, Harmonium And Flute Notes
+- Mast Magan (2 States) - Sargam, Harmonium And Flute Notes
+- Maiyya Mainu [Full Song] - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -130,4 +122,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

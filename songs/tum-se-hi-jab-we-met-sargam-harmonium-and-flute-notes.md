@@ -1,5 +1,5 @@
 ---
-title: "# Tum Se Hi (Jab We Met) – Sargam, Harmonium And Flute Notes"
+title: " Tum Se Hi (Jab We Met) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Tum Se Hi (Jab We Met) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: tum-se-hi-jab-we-met-sargam-harmonium-and-flute-notes
@@ -54,25 +54,17 @@ Tum se hi tumse hii
 
 R..S..n…S.. R..S..n…S..
 
-
-
 Also Read This :-
 
-
-
-* Girls Like You (Maroon 5) – Sargam And Flute Notes
-* Shayad (Love Aaj Kal) – Sargam And Flute Notes
-* Havana (Camila Cabello) – Sargam And Flute Notes
-* Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
-* Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
+- Girls Like You (Maroon 5) – Sargam And Flute Notes
+- Shayad (Love Aaj Kal) – Sargam And Flute Notes
+- Havana (Camila Cabello) – Sargam And Flute Notes
+- Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
+- Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -82,12 +74,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Aaj Ki Raat (Stree 2) - Sargam, Harmonium And Flute Notes
-* Tere Vaaste - Sargam, Harmonium And Flute Notes
-* Dil De Diya Hain Sargam, Harmonium And Flute Notes
-* Tose Naina Lage (Anwar) - Sargam, Harmonium And Flute Notes
-* Hum Nashe Mein Toh Nahin - Sargam, Harmonium And Flute Notes
-* Ehsaan Tera Hoga Mujh Par - Sargam, Harmonium And Flute Notes
+- Aaj Ki Raat (Stree 2) - Sargam, Harmonium And Flute Notes
+- Tere Vaaste - Sargam, Harmonium And Flute Notes
+- Dil De Diya Hain Sargam, Harmonium And Flute Notes
+- Tose Naina Lage (Anwar) - Sargam, Harmonium And Flute Notes
+- Hum Nashe Mein Toh Nahin - Sargam, Harmonium And Flute Notes
+- Ehsaan Tera Hoga Mujh Par - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -112,4 +104,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

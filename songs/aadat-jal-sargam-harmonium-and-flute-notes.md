@@ -1,5 +1,5 @@
 ---
-title: "# Aadat (Jal) – Sargam, Harmonium And Flute Notes"
+title: " Aadat (Jal) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Aadat (Jal) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: aadat-jal-sargam-harmonium-and-flute-notes
@@ -78,27 +78,19 @@ Aur aankhon main yeh ghum num banjaaye
 
 G.m.G.G.P..D..P..D.N.P..P..P..m..P..m..G..
 
-
-
 Also Read This :-
 
 nw Paragraph 2
 
-
-
-* Dil Mein Ho Tum (Why Cheat India) – Sargam And Flute Notes
-* Aadat (Jal) – Sargam And Flute Notes
-* Raabta (Agent Vinod) (Full Song) – Sargam And Flute Notes
-* Senorita (Shawn Mendes, Camila Cabello) – Sargam And Flute Notes
-* Sohnea (Miss Pooja) – Sargam And Flute Notes
+- Dil Mein Ho Tum (Why Cheat India) – Sargam And Flute Notes
+- Aadat (Jal) – Sargam And Flute Notes
+- Raabta (Agent Vinod) (Full Song) – Sargam And Flute Notes
+- Senorita (Shawn Mendes, Camila Cabello) – Sargam And Flute Notes
+- Sohnea (Miss Pooja) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -108,12 +100,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Meri Aashiqui (Jubin Nautiyal) - Sargam, Harmonium And Flute Notes
-* Naina (Diljit And Badshah) - Sargam, Harmonium And Flute Notes
-* Teri Jhuki Nazar (Murder 3) - Sargam, Harmonium And Flute Notes
-* Dagabaaz Re (Dabangg 2) - Sargam, Harmonium And Flute Notes
-* Teri Meri Kahani Sargam, Harmonium And Flute Notes
-* Raaz Aankhein Teri (2nd Version) - Sargam And Flute Notes
+- Meri Aashiqui (Jubin Nautiyal) - Sargam, Harmonium And Flute Notes
+- Naina (Diljit And Badshah) - Sargam, Harmonium And Flute Notes
+- Teri Jhuki Nazar (Murder 3) - Sargam, Harmonium And Flute Notes
+- Dagabaaz Re (Dabangg 2) - Sargam, Harmonium And Flute Notes
+- Teri Meri Kahani Sargam, Harmonium And Flute Notes
+- Raaz Aankhein Teri (2nd Version) - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -138,4 +130,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Subhanallah (Yeh Jawaani Hai Deewani) – Sargam, Harmonium And Flute Notes"
+title: " Subhanallah (Yeh Jawaani Hai Deewani) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Subhanallah (Yeh Jawaani Hai Deewani) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: subhanallah-yeh-jawaani-hai-deewani-sargam-harmonium-and-flute-notes
@@ -90,11 +90,11 @@ P..D…N..P…R.. G..R..S.S.
 
 Also Read This :-
 
-* Tera Ban Jaunga (Kabir Singh) – Sargam And Flute Notes
-* On My Way (Alan Walker) – Sargam And Flute Notes
-* Sholay Theme Tune – Sargam And Flute Notes
-* Tera Ghata (Gajendra Verma) – Sargam And Flute Notes
-* Pirates Of The Caribbean – Sargam And Flute Notes
+- Tera Ban Jaunga (Kabir Singh) – Sargam And Flute Notes
+- On My Way (Alan Walker) – Sargam And Flute Notes
+- Sholay Theme Tune – Sargam And Flute Notes
+- Tera Ghata (Gajendra Verma) – Sargam And Flute Notes
+- Pirates Of The Caribbean – Sargam And Flute Notes
 
 relpost-thumb-wrapper
 
@@ -104,12 +104,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Chori Kiya Re Jiya -  Sargam, Harmonium And Flute Notes
-* Kaho Naa Pyaar Hai - Sargam, Harmonium And Flute Notes
-* Mujhe Haq Hai (Vivah) - Sargam, Harmonium And Flute Notes
-* Mann Jogiya (Arijit Singh) - Sargam, Harmonium And Flute Notes
-* Hai Apna Dil To Aawara - Sargam, Harmonium And Flute Notes
-* Mahiye Jinna Sohna (Darshan Raval) - Sargam And Flute Notes
+- Chori Kiya Re Jiya - Sargam, Harmonium And Flute Notes
+- Kaho Naa Pyaar Hai - Sargam, Harmonium And Flute Notes
+- Mujhe Haq Hai (Vivah) - Sargam, Harmonium And Flute Notes
+- Mann Jogiya (Arijit Singh) - Sargam, Harmonium And Flute Notes
+- Hai Apna Dil To Aawara - Sargam, Harmonium And Flute Notes
+- Mahiye Jinna Sohna (Darshan Raval) - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -134,4 +134,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

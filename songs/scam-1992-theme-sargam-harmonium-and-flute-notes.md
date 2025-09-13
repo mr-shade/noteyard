@@ -1,5 +1,5 @@
 ---
-title: "# Scam 1992 Theme – Sargam, Harmonium And Flute Notes"
+title: " Scam 1992 Theme – Sargam, Harmonium And Flute Notes"
 description: "Learn # Scam 1992 Theme notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: scam-1992-theme-sargam-harmonium-and-flute-notes
@@ -20,15 +20,11 @@ Heyy hey heyy
 
 R…m..G(K)…R.
 
-
-
 S’.S’.N.S’.
 
 S’.S’.N.S’.
 
 S’.S’.N.S’.
-
-
 
 S’..S’..S’.N.N(K).N.
 
@@ -37,8 +33,6 @@ S’..S’..S’.N.N(K).N.
 S’..S’..S’.N.N(K).N.
 
 S’. S’.R’.G'(K).R’.S’.R’.
-
-
 
 S’..S’..S’.N.N(K).N.
 
@@ -49,8 +43,6 @@ S’..S’..S’.N.N(K).N.
 nw Paragraph 1
 
 S’.N.N(K).P.N(K).P.m.P.
-
-
 
 Heyy hey heyy
 
@@ -64,15 +56,13 @@ Heyy hey heyy
 
 R…m..G(K)…R.
 
-
-
 Also Read This :-
 
-* Mar Jaayen (Loveshhuda) – Sargam, Harmonium And Flute Notes
-* Khyaal Rakhya Kar (Neha Kakkar) – Sargam, Harmonium And Flute Notes
-* Dhokha Dhadi (R.. Rajkumar) – Sargam, Harmonium And Flute Notes
-* Shukra Tera (Samrat & Co) – Sargam, Harmonium And Flute Notes
-* Saanson Ko (Zid) – Sargam, Harmonium And Flute Notes
+- Mar Jaayen (Loveshhuda) – Sargam, Harmonium And Flute Notes
+- Khyaal Rakhya Kar (Neha Kakkar) – Sargam, Harmonium And Flute Notes
+- Dhokha Dhadi (R.. Rajkumar) – Sargam, Harmonium And Flute Notes
+- Shukra Tera (Samrat & Co) – Sargam, Harmonium And Flute Notes
+- Saanson Ko (Zid) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -86,12 +76,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Ram Charan Entry Bgm (RRR) - Sargam And Flute Notes
-* KGF BGM (Easy Version) - Sargam, Harmonium And Flute Notes
-* Victory Anthem Music - Sargam, Harmonium And Flute Notes
-* Naruto Theme - Sargam, Harmonium And Flute Notes
-* Jana Gana Mana (National Anthem) - Sargam, Harmonium And Flute Notes
-* Lai Lai Lai (Joker Tune) - Sargam, Harmonium And Flute Notes
+- Ram Charan Entry Bgm (RRR) - Sargam And Flute Notes
+- KGF BGM (Easy Version) - Sargam, Harmonium And Flute Notes
+- Victory Anthem Music - Sargam, Harmonium And Flute Notes
+- Naruto Theme - Sargam, Harmonium And Flute Notes
+- Jana Gana Mana (National Anthem) - Sargam, Harmonium And Flute Notes
+- Lai Lai Lai (Joker Tune) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -116,4 +106,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

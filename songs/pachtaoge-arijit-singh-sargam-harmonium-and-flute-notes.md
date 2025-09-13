@@ -1,5 +1,5 @@
 ---
-title: "# Pachtaoge (Arijit Singh) – Sargam, Harmonium And Flute Notes"
+title: " Pachtaoge (Arijit Singh) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Pachtaoge (Arijit Singh) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: pachtaoge-arijit-singh-sargam-harmonium-and-flute-notes
@@ -9,8 +9,6 @@ slug: pachtaoge-arijit-singh-sargam-harmonium-and-flute-notes
 
 Remove Numbers From Piano Notes
 Undo Changes
-
-
 
 SCALE OF THE FLUTE IS D# BASS/MIDDLE
 
@@ -106,25 +104,17 @@ Badaa pachtaoge
 
 G.P.m.G. R.R.R.
 
-
-
 Also Read This :-
 
-
-
-* Aaoge Jab Tum (Jab We Met) – Sargam And Flute Notes
-* Yaara Teri Yaari – Sargam And Flute Notes
-* Tera Yaar Hoon Main (Sonu Ke Tittu Ki Sweety) – Sargam And Flute Notes
-* Hothon Se Chhulo Tum (Jagjit Singh) – Sargam And Flute Notes
-* Janam Janam (Dilwale) – Sargam And Flute Notes
+- Aaoge Jab Tum (Jab We Met) – Sargam And Flute Notes
+- Yaara Teri Yaari – Sargam And Flute Notes
+- Tera Yaar Hoon Main (Sonu Ke Tittu Ki Sweety) – Sargam And Flute Notes
+- Hothon Se Chhulo Tum (Jagjit Singh) – Sargam And Flute Notes
+- Janam Janam (Dilwale) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -134,12 +124,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Pasoori (2nd Version) - Sargam, Harmonium And Flute Notes
-* Tera Mujhse Hai Pehle Ka Naata Koi - Sargam And Flute Notes
-* Har Kisi Ko Nahi Milta - Sargam, Harmonium And Flute Notes
-* Tera Hi Bas Hona Chahoon - Sargam, Harmonium And Flute Notes
-* Tere Mast Mast Do Nain - Sargam, Harmonium And Flute Notes
-* Main Balak Tu Mata - Sargam, Harmonium And Flute Notes
+- Pasoori (2nd Version) - Sargam, Harmonium And Flute Notes
+- Tera Mujhse Hai Pehle Ka Naata Koi - Sargam And Flute Notes
+- Har Kisi Ko Nahi Milta - Sargam, Harmonium And Flute Notes
+- Tera Hi Bas Hona Chahoon - Sargam, Harmonium And Flute Notes
+- Tere Mast Mast Do Nain - Sargam, Harmonium And Flute Notes
+- Main Balak Tu Mata - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -164,4 +154,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Kya Hua Tera Wada (Mohammed Rafi) – Sargam, Harmonium And Flute Notes"
+title: " Kya Hua Tera Wada (Mohammed Rafi) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Kya Hua Tera Wada (Mohammed Rafi) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: kya-hua-tera-wada-mohammed-rafi-sargam-harmonium-and-flute-notes
@@ -250,11 +250,11 @@ G..P..P.D..P.m… G..R..G..P…
 
 Also Read This :-
 
-* Raghupati Raghav Raja Ram – Sargam, Harmonium And Flute Notes
-* Tune Jo Na Kaha (New York) – Sargam, Harmonium And Flute Notes
-* Matkar Maya Ko Ahankar – Sargam, Harmonium And Flute Notes
-* Shiv Tandav Stotram – Sargam, Harmonium And Flute Notes
-* Karpur Gauram Karunavtaram – Sargam, Harmonium And Flute Notes
+- Raghupati Raghav Raja Ram – Sargam, Harmonium And Flute Notes
+- Tune Jo Na Kaha (New York) – Sargam, Harmonium And Flute Notes
+- Matkar Maya Ko Ahankar – Sargam, Harmonium And Flute Notes
+- Shiv Tandav Stotram – Sargam, Harmonium And Flute Notes
+- Karpur Gauram Karunavtaram – Sargam, Harmonium And Flute Notes
 
 relpost-thumb-wrapper
 
@@ -264,12 +264,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Sukoon (Gini) - Sargam, Harmonium And Flute Notes
-* Dhadak (Title Song) - Sargam, Harmonium And Flute Notes
-* Bas Tum Mere Paas Raho - Sargam, Harmonium And Flute Notes
-* Ishq Kamaal (Sadak 2) - Sargam, Harmonium And Flute Notes
-* Tere Sang Ishq Hua - Sargam, Harmonium And Flute Notes
-* Alag Aasmaan (Anuv Jain) - Sargam, Harmonium And Flute Notes
+- Sukoon (Gini) - Sargam, Harmonium And Flute Notes
+- Dhadak (Title Song) - Sargam, Harmonium And Flute Notes
+- Bas Tum Mere Paas Raho - Sargam, Harmonium And Flute Notes
+- Ishq Kamaal (Sadak 2) - Sargam, Harmonium And Flute Notes
+- Tere Sang Ishq Hua - Sargam, Harmonium And Flute Notes
+- Alag Aasmaan (Anuv Jain) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -294,4 +294,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Ek Ladki Ko Dekha To Aisa Laga (1942 A Love Story) – Sargam And Flute Notes"
+title: " Ek Ladki Ko Dekha To Aisa Laga (1942 A Love Story) – Sargam And Flute Notes"
 description: "Learn # Ek Ladki Ko Dekha To Aisa Laga (1942 A Love Story) – Sargam And Flute Notes notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: ek-ladki-ko-dekha-to-aisa-laga-1942-a-love-story-sargam-and-flute-notes
@@ -108,15 +108,13 @@ S’..S’..N…S’..R’..N…S’..R’..N…S’.R..N..S’…
 
 Also Read This :-
 
-* Dil Chahte Ho (Jubin Nautiyal) – Sargam And Flute Notes
-* Qaafirana (Kedarnath) – Sargam And Flute Notes
-* Shukriya (Sadak 2) – Sargam And Flute Notes
-* Pal Kaisa Pal (Monsoon Shootout) – Sargam And Flute Notes
-* Roke Na Ruke Naine (Arijit Singh) – Sargam And Flute Notes
+- Dil Chahte Ho (Jubin Nautiyal) – Sargam And Flute Notes
+- Qaafirana (Kedarnath) – Sargam And Flute Notes
+- Shukriya (Sadak 2) – Sargam And Flute Notes
+- Pal Kaisa Pal (Monsoon Shootout) – Sargam And Flute Notes
+- Roke Na Ruke Naine (Arijit Singh) – Sargam And Flute Notes
 
 Where
-
-
 
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
 
@@ -128,12 +126,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Give Me Some Sunshine (3 Idiots) - Sargam, Harmonium And Flute Notes
-* Yeh Aaina (Kabir Singh) - Sargam, Harmonium And Flute Notes
-* Pehla Pyaar (Kabir Singh) - Sargam, Harmonium And Flute Notes
-* Aashayein (Iqbal) - Sargam, Harmonium And Flute Notes
-* Kabhi Khushi Kabhie Gham - Sargam, Harmonium And Flute Notes
-* Zara Sa (2nd Version) - Sargam, Harmonium And Flute Notes
+- Give Me Some Sunshine (3 Idiots) - Sargam, Harmonium And Flute Notes
+- Yeh Aaina (Kabir Singh) - Sargam, Harmonium And Flute Notes
+- Pehla Pyaar (Kabir Singh) - Sargam, Harmonium And Flute Notes
+- Aashayein (Iqbal) - Sargam, Harmonium And Flute Notes
+- Kabhi Khushi Kabhie Gham - Sargam, Harmonium And Flute Notes
+- Zara Sa (2nd Version) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -158,4 +156,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

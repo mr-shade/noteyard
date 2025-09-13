@@ -1,5 +1,5 @@
 ---
-title: "# Shikwa Nahi (Jubin Nautiyal) – Sargam, Harmonium And Flute Notes"
+title: " Shikwa Nahi (Jubin Nautiyal) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Shikwa Nahi (Jubin Nautiyal) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: shikwa-nahi-jubin-nautiyal-sargam-harmonium-and-flute-notes
@@ -156,27 +156,19 @@ R..S..R..G..m..P..
 
 G.R.S..R..
 
-
-
 nw Paragraph 4
 
 Also Read This :-
 
-
-
-* Girl I Need You (Baaghi) – Sargam And Flute Notes
-* Jee Le Zara (Talaash) – Sargam And Flute Notes
-* Ve maahi (Kesari) – Sargam And Flute Notes
-* Mitwa (Kabhi Alvida Na Kehna) – Sargam And Flute Notes
-* Iktara (Wake Up Sid) – Sargam And Flute Notes
+- Girl I Need You (Baaghi) – Sargam And Flute Notes
+- Jee Le Zara (Talaash) – Sargam And Flute Notes
+- Ve maahi (Kesari) – Sargam And Flute Notes
+- Mitwa (Kabhi Alvida Na Kehna) – Sargam And Flute Notes
+- Iktara (Wake Up Sid) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -186,12 +178,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Rehna Tere Paas (Armaan Malik) - Sargam, Harmonium And Flute Notes
-* Guzarish (Ghajini) - Sargam, Harmonium And Flute Notes
-* Bekarar Karke Hume Yun Na Jaiye - Sargam And Flute Notes
-* Thodi Jagah (Marjaavaan) - Sargam, Harmonium And Flute Notes
-* Agar Tum Saath Ho (Tamasha) - Sargam, Harmonium And Flute Notes
-* Hai Apna Dil (The Xpose) - Sargam, Harmonium And Flute Notes
+- Rehna Tere Paas (Armaan Malik) - Sargam, Harmonium And Flute Notes
+- Guzarish (Ghajini) - Sargam, Harmonium And Flute Notes
+- Bekarar Karke Hume Yun Na Jaiye - Sargam And Flute Notes
+- Thodi Jagah (Marjaavaan) - Sargam, Harmonium And Flute Notes
+- Agar Tum Saath Ho (Tamasha) - Sargam, Harmonium And Flute Notes
+- Hai Apna Dil (The Xpose) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -216,4 +208,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

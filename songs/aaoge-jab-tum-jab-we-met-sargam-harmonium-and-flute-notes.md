@@ -1,5 +1,5 @@
 ---
-title: "# Aaoge Jab Tum (Jab We Met) – Sargam, Harmonium And Flute Notes"
+title: " Aaoge Jab Tum (Jab We Met) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Aaoge Jab Tum (Jab We Met) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: aaoge-jab-tum-jab-we-met-sargam-harmonium-and-flute-notes
@@ -88,25 +88,17 @@ Waadee kiyaa kaii saaree haii
 
 n.R.n.d.d…d.p..S.S.S..
 
-
-
 Also Read This :-
 
-
-
-* Aao Na – Sargam And Flute Notes
-* Bhagwan Hain Kahan Re Tu – Sargam And Flute Notes
-* Teri Mitti – Indian Flute And Sargam Notes
-* Laadki – Sargam And Flute Notes
-* Muskurane – Sargam And Flute Notes
+- Aao Na – Sargam And Flute Notes
+- Bhagwan Hain Kahan Re Tu – Sargam And Flute Notes
+- Teri Mitti – Indian Flute And Sargam Notes
+- Laadki – Sargam And Flute Notes
+- Muskurane – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -116,12 +108,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Rehna Tere Paas (Armaan Malik) - Sargam, Harmonium And Flute Notes
-* Teri Ada (Mohit Chauhan) - Sargam, Harmonium And Flute Notes
-* Baarish (Half Girlfriend) - Sargam, Harmonium And Flute Notes
-* Bahon Mein Chale Aao - Sargam, Harmonium And Flute Notes
-* Main Tumhara (Dil Bechara) - Sargam, Harmonium And Flute Notes
-* Dekhha Tenu (Mr. & Mrs. Mahi) - Sargam And Flute Notes
+- Rehna Tere Paas (Armaan Malik) - Sargam, Harmonium And Flute Notes
+- Teri Ada (Mohit Chauhan) - Sargam, Harmonium And Flute Notes
+- Baarish (Half Girlfriend) - Sargam, Harmonium And Flute Notes
+- Bahon Mein Chale Aao - Sargam, Harmonium And Flute Notes
+- Main Tumhara (Dil Bechara) - Sargam, Harmonium And Flute Notes
+- Dekhha Tenu (Mr. & Mrs. Mahi) - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -146,4 +138,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

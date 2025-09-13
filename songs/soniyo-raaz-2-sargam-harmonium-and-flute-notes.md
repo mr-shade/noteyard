@@ -1,5 +1,5 @@
 ---
-title: "# Soniyo (Raaz 2) – Sargam, Harmonium And Flute Notes"
+title: " Soniyo (Raaz 2) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Soniyo (Raaz 2) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: soniyo-raaz-2-sargam-harmonium-and-flute-notes
@@ -108,11 +108,11 @@ R..m..R..m…G..R…S..n..S…
 
 Also Read This :-
 
-* Raataan Lambiyan (Full Song) – Sargam And Flute Notes – Shershaah
-* Itni Si Baat Hain (Azhar) – Sargam, Harmonium And Flute Notes
-* Gulabi Aankhen (SANAM) – Sargam, Harmonium And Flute Notes
-* Dil Ko Karaar Aaya – Sargam, Harmonium And Flute Notes
-* Mann Bharryaa 2.0 (Shershaah) – Sargam, Harmonium And Flute Notes
+- Raataan Lambiyan (Full Song) – Sargam And Flute Notes – Shershaah
+- Itni Si Baat Hain (Azhar) – Sargam, Harmonium And Flute Notes
+- Gulabi Aankhen (SANAM) – Sargam, Harmonium And Flute Notes
+- Dil Ko Karaar Aaya – Sargam, Harmonium And Flute Notes
+- Mann Bharryaa 2.0 (Shershaah) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -126,12 +126,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Kajra Mohabbat Wala - Sargam, Harmonium And Flute Notes
-* Kaisi Paheli Zindagani - Sargam, Harmonium And Flute Notes
-* Chal Wahan Jaate Hain - Sargam, Harmonium And Flute Notes
-* Bahon Ke Darmiyan (Khamoshi) - Sargam, Harmonium And Flute Notes
-* Aane Wala Pal Jane Wala Hai - Sargam And Flute Notes
-* Jeena Jeena [Full Song] - Sargam, Harmonium And Flute Notes
+- Kajra Mohabbat Wala - Sargam, Harmonium And Flute Notes
+- Kaisi Paheli Zindagani - Sargam, Harmonium And Flute Notes
+- Chal Wahan Jaate Hain - Sargam, Harmonium And Flute Notes
+- Bahon Ke Darmiyan (Khamoshi) - Sargam, Harmonium And Flute Notes
+- Aane Wala Pal Jane Wala Hai - Sargam And Flute Notes
+- Jeena Jeena [Full Song] - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -156,4 +156,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Sukh Karta Dukh Harta (Jai dev Jai dev Jai Mangal Murti) – Sargam, Harmonium And Flute Notes"
+title: " Sukh Karta Dukh Harta (Jai dev Jai dev Jai Mangal Murti) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Sukh Karta Dukh Harta (Jai dev Jai dev Jai Mangal Murti) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: sukh-karta-dukh-harta-jai-dev-jai-dev-jai-mangal-murti-sargam-harmonium-and-flute-notes
@@ -62,11 +62,11 @@ R..S…S.S..S..
 
 Also Read This :-
 
-* Karpur Gauram Karunavtaram – Sargam, Harmonium And Flute Notes
-* Shiv Tandav Stotram – Sargam, Harmonium And Flute Notes
-* Gayatri Mantra – Sargam, Harmonium And Flute Notes
-* Achyutam Keshavam – Sargam, Harmonium And Flute Notes
-* Raghupati Raghav Raja Ram – Sargam, Harmonium And Flute Notes
+- Karpur Gauram Karunavtaram – Sargam, Harmonium And Flute Notes
+- Shiv Tandav Stotram – Sargam, Harmonium And Flute Notes
+- Gayatri Mantra – Sargam, Harmonium And Flute Notes
+- Achyutam Keshavam – Sargam, Harmonium And Flute Notes
+- Raghupati Raghav Raja Ram – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -80,12 +80,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Ram Siya Ram (2nd Version) Sargam, Harmonium And Flute Notes
-* Kaushalya Dashrath Ke Nandan Sargam And Flute Notes
-* Aarti Kunj Bihari Ki - Sargam, Harmonium And Flute Notes
-* Gayatri Mantra - Sargam, Harmonium And Flute Notes
-* Har Har Shambhu Shiv Mahadeva - Sargam And Flute Notes
-* Shri Krishna Govind Hare Murari - Sargam, Harmonium And Flute Notes
+- Ram Siya Ram (2nd Version) Sargam, Harmonium And Flute Notes
+- Kaushalya Dashrath Ke Nandan Sargam And Flute Notes
+- Aarti Kunj Bihari Ki - Sargam, Harmonium And Flute Notes
+- Gayatri Mantra - Sargam, Harmonium And Flute Notes
+- Har Har Shambhu Shiv Mahadeva - Sargam And Flute Notes
+- Shri Krishna Govind Hare Murari - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -110,4 +110,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Raabta (Full Song) – Sargam, Harmonium And Flute Notes"
+title: " Raabta (Full Song) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Raabta (Full Song) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: raabta-full-song-sargam-harmonium-and-flute-notes
@@ -206,25 +206,17 @@ Banaaya harr kisi ke liyee
 
 p.n.S.n.S.n.R.S.
 
-
-
 Also Read This :-
 
-
-
-* Luka Chuppi (Lata Mangeshkar) – Sargam And Flute Notes
-* The Jungle Book (Title Song) – Sargam And Flute Notes
-* Afreen Afreen (Coke Studio) – Sargam And Flute Notes
-* Maa (Taare Zameen Par) – Sargam And Flute Notes
-* Hawayein (Jab Harry Met Sejal) – Sargam And Flute Notes
+- Luka Chuppi (Lata Mangeshkar) – Sargam And Flute Notes
+- The Jungle Book (Title Song) – Sargam And Flute Notes
+- Afreen Afreen (Coke Studio) – Sargam And Flute Notes
+- Maa (Taare Zameen Par) – Sargam And Flute Notes
+- Hawayein (Jab Harry Met Sejal) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -234,12 +226,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Zindagi Do Pal Ki (Kites) - Sargam, Harmonium And Flute Notes
-* Dil Ibaadat (Tum Mile) - Sargam, Harmonium And Flute Notes
-* Chocolate Lime Juice - Sargam, Harmonium And Flute Notes
-* Bol Do Na Zara (Azhar) - Sargam, Harmonium And Flute Notes
-* Bulleya (Sultan) - Sargam, Harmonium And Flute Notes
-* Tere Bin Nahi Laage - Sargam, Harmonium And Flute Notes
+- Zindagi Do Pal Ki (Kites) - Sargam, Harmonium And Flute Notes
+- Dil Ibaadat (Tum Mile) - Sargam, Harmonium And Flute Notes
+- Chocolate Lime Juice - Sargam, Harmonium And Flute Notes
+- Bol Do Na Zara (Azhar) - Sargam, Harmonium And Flute Notes
+- Bulleya (Sultan) - Sargam, Harmonium And Flute Notes
+- Tere Bin Nahi Laage - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -264,4 +256,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

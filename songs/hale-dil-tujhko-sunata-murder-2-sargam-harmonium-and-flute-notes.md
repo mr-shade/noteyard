@@ -1,5 +1,5 @@
 ---
-title: "# Hale Dil Tujhko Sunata (Murder 2) – Sargam, Harmonium And Flute Notes"
+title: " Hale Dil Tujhko Sunata (Murder 2) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Hale Dil Tujhko Sunata (Murder 2) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: hale-dil-tujhko-sunata-murder-2-sargam-harmonium-and-flute-notes
@@ -64,11 +64,11 @@ S’..N.S’..S’.. S’..R’..S’..D..N..S’.D..N..
 
 Also Read This :-
 
-* Aaoge Jab Tum (Jab We Met) – Sargam And Flute Notes
-* Tujhko Jo Paaya (Crook) – Sargam And Flute Notes
-* Yaara Teri Yaari – Sargam And Flute Notes
-* Dhadak (Title Song) – Sargam And Flute Notes
-* Barso Re Megha Megha (Guru) – Sargam And Flute Notes
+- Aaoge Jab Tum (Jab We Met) – Sargam And Flute Notes
+- Tujhko Jo Paaya (Crook) – Sargam And Flute Notes
+- Yaara Teri Yaari – Sargam And Flute Notes
+- Dhadak (Title Song) – Sargam And Flute Notes
+- Barso Re Megha Megha (Guru) – Sargam And Flute Notes
 
 relpost-thumb-wrapper
 
@@ -78,12 +78,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Raataan Lambiyan (Shershaah) - Sargam, Harmonium And Flute Notes
-* Tu Hi Mera (Jannat 2) - Sargam, Harmonium And Flute Notes
-* Jaadui (Jubin Nautiyal) - Sargam, Harmonium And Flute Notes
-* Bas Ek Baar (Soham Naik) - Sargam, Harmonium And Flute Notes
-* Sukoon (Hassan & Roshaan) - Sargam And Flute Notes
-* Gazab Ka Hai Din (Dil Juunglee) - Sargam, Harmonium And Flute Notes
+- Raataan Lambiyan (Shershaah) - Sargam, Harmonium And Flute Notes
+- Tu Hi Mera (Jannat 2) - Sargam, Harmonium And Flute Notes
+- Jaadui (Jubin Nautiyal) - Sargam, Harmonium And Flute Notes
+- Bas Ek Baar (Soham Naik) - Sargam, Harmonium And Flute Notes
+- Sukoon (Hassan & Roshaan) - Sargam And Flute Notes
+- Gazab Ka Hai Din (Dil Juunglee) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -108,4 +108,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Karpur Gauram Karunavtaram – Sargam, Harmonium And Flute Notes"
+title: " Karpur Gauram Karunavtaram – Sargam, Harmonium And Flute Notes"
 description: "Learn # Karpur Gauram Karunavtaram notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: karpur-gauram-karunavtaram-sargam-harmonium-and-flute-notes
@@ -86,11 +86,11 @@ nw Paragraph 2
 
 Also Read This :-
 
-* Hey Ram Hey Ram (Jagjit Singh) – Sargam, Harmonium And Flute Notes
-* Shri Krishna Govind Hare Murari – Sargam, Harmonium And Flute Notes
-* Gayatri Mantra – Sargam, Harmonium And Flute Notes
-* Achyutam Keshavam – Sargam, Harmonium And Flute Notes
-* Shiv Tandav Stotram – Sargam, Harmonium And Flute Notes
+- Hey Ram Hey Ram (Jagjit Singh) – Sargam, Harmonium And Flute Notes
+- Shri Krishna Govind Hare Murari – Sargam, Harmonium And Flute Notes
+- Gayatri Mantra – Sargam, Harmonium And Flute Notes
+- Achyutam Keshavam – Sargam, Harmonium And Flute Notes
+- Shiv Tandav Stotram – Sargam, Harmonium And Flute Notes
 
 relpost-thumb-wrapper
 
@@ -100,12 +100,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Yashomati Maiya Se Bole Nandlala - Sargam, Harmonium And Flute Notes
-* Gayatri Mantra - Sargam, Harmonium And Flute Notes
-* Siya Ram Jay Ram Jay Jay Ram - Sargam And Flute Notes
-* Shri Ram Janki Baithe Hai Mere Seene Me Sargam, Flute Notes
-* Mahamrityunjay Mantra - Sargam, Harmonium And Flute Notes
-* Suno Suno Saanware Ki - Sargam, Harmonium And Flute Notes
+- Yashomati Maiya Se Bole Nandlala - Sargam, Harmonium And Flute Notes
+- Gayatri Mantra - Sargam, Harmonium And Flute Notes
+- Siya Ram Jay Ram Jay Jay Ram - Sargam And Flute Notes
+- Shri Ram Janki Baithe Hai Mere Seene Me Sargam, Flute Notes
+- Mahamrityunjay Mantra - Sargam, Harmonium And Flute Notes
+- Suno Suno Saanware Ki - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -130,4 +130,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

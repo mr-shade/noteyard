@@ -1,5 +1,5 @@
 ---
-title: "# Moh Moh Ke Dhaage (Dum Laga Ke Haisha) – Sargam, Harmonium And Flute Notes"
+title: " Moh Moh Ke Dhaage (Dum Laga Ke Haisha) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Moh Moh Ke Dhaage (Dum Laga Ke Haisha) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: moh-moh-ke-dhaage-dum-laga-ke-haisha-sargam-harmonium-and-flute-notes
@@ -134,25 +134,17 @@ Kis tarah girah yeh suljhee
 
 n..R..P.R..G..R..S.n..S..S..
 
-
-
 Also Read This :-
 
-
-
-* Mehrama (Love Aaj Kal) – Sargam And Flute Notes
-* Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
-* Aaj Bhi (Vishal Mishra) – Sargam And Flute Notes
-* Muskurayega India (Vishal Mishra) – Sargam And Flute Notes
-* Pehla Pyaar (Kabir Singh) – Sargam And Flute Notes
+- Mehrama (Love Aaj Kal) – Sargam And Flute Notes
+- Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
+- Aaj Bhi (Vishal Mishra) – Sargam And Flute Notes
+- Muskurayega India (Vishal Mishra) – Sargam And Flute Notes
+- Pehla Pyaar (Kabir Singh) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -162,12 +154,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Aye Dil Laya Hai Bahaar - Sargam, Harmonium And Flute Notes
-* Guzarish (Ghajini) - Sargam, Harmonium And Flute Notes
-* Baarish (Yaariyan) - Sargam, Harmonium And Flute Notes
-* Aajkal Tere Mere Pyar Ke Charche - Sargam And Flute Notes
-* Kabhi Na Kabhi To Miloge - Sargam, Harmonium And Flute Notes
-* Rabba (Heropanti) - Sargam, Harmonium And Flute Notes
+- Aye Dil Laya Hai Bahaar - Sargam, Harmonium And Flute Notes
+- Guzarish (Ghajini) - Sargam, Harmonium And Flute Notes
+- Baarish (Yaariyan) - Sargam, Harmonium And Flute Notes
+- Aajkal Tere Mere Pyar Ke Charche - Sargam And Flute Notes
+- Kabhi Na Kabhi To Miloge - Sargam, Harmonium And Flute Notes
+- Rabba (Heropanti) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -192,4 +184,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

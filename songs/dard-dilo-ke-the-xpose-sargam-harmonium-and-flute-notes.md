@@ -1,5 +1,5 @@
 ---
-title: "# Dard Dilo Ke (The Xpose) – Sargam, Harmonium And Flute Notes"
+title: " Dard Dilo Ke (The Xpose) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Dard Dilo Ke (The Xpose) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: dard-dilo-ke-the-xpose-sargam-harmonium-and-flute-notes
@@ -66,11 +66,11 @@ S’..R’.S’.N…D..P..m…P..N..D…D..
 
 Also Read This :-
 
-* Beete Lamhein (The Train) – Sargam, Harmonium And Flute Notes
-* Mar Jaayen (Loveshhuda) – Sargam, Harmonium And Flute Notes
-* Khyaal Rakhya Kar (Neha Kakkar) – Sargam, Harmonium And Flute Notes
-* Dhokha Dhadi (R.. Rajkumar) – Sargam, Harmonium And Flute Notes
-* Shukra Tera (Samrat & Co) – Sargam, Harmonium And Flute Notes
+- Beete Lamhein (The Train) – Sargam, Harmonium And Flute Notes
+- Mar Jaayen (Loveshhuda) – Sargam, Harmonium And Flute Notes
+- Khyaal Rakhya Kar (Neha Kakkar) – Sargam, Harmonium And Flute Notes
+- Dhokha Dhadi (R.. Rajkumar) – Sargam, Harmonium And Flute Notes
+- Shukra Tera (Samrat & Co) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -84,12 +84,12 @@ filter-class
 
 related_posts_thumbnails
 
-* O Meri Jaan (K.K.) - Sargam, Harmonium And Flute Notes
-* Vande Mataram (Easy Version) - Sargam And Flute Notes
-* Phir Suna (Emptiness) - Sargam, Harmonium And Flute Notes
-* Mehabooba (KGF Chapter 2) - Sargam And Flute Notes
-* Zehnaseeb - Sargam, Harmonium And Flute Notes
-* Phir Aur Kya Chahiye - Sargam, Harmonium And Flute Notes
+- O Meri Jaan (K.K.) - Sargam, Harmonium And Flute Notes
+- Vande Mataram (Easy Version) - Sargam And Flute Notes
+- Phir Suna (Emptiness) - Sargam, Harmonium And Flute Notes
+- Mehabooba (KGF Chapter 2) - Sargam And Flute Notes
+- Zehnaseeb - Sargam, Harmonium And Flute Notes
+- Phir Aur Kya Chahiye - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -114,4 +114,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

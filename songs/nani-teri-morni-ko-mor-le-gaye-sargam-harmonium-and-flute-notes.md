@@ -1,5 +1,5 @@
 ---
-title: "# Nani Teri Morni Ko Mor Le Gaye – Sargam, Harmonium And Flute Notes"
+title: " Nani Teri Morni Ko Mor Le Gaye – Sargam, Harmonium And Flute Notes"
 description: "Learn # Nani Teri Morni Ko Mor Le Gaye notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: nani-teri-morni-ko-mor-le-gaye-sargam-harmonium-and-flute-notes
@@ -78,27 +78,19 @@ Baaki jo bacha thaa kaale chor lee gaye
 
 m..m..m..G..G..R..R..S..R..G..R..S..
 
-
-
 Also Read This :-
 
 nw Paragraph 2
 
-
-
-* Dil Diyan Gallan (Tiger Zinda Hai) – Sargam And Flute Notes
-* Zara Zara (RHTDM) – Sargam And Flute Notes
-* Sanam Re (Tile Song) – Sargam And Flute Notes
-* Maana Ke Hum Yaar Nahi (Meri Pyaari Bindu) – Sargam And Flute Notes
-* Tujhe Kitna Chahne Lage (Kabir Singh) – Sargam And Flute Notes
+- Dil Diyan Gallan (Tiger Zinda Hai) – Sargam And Flute Notes
+- Zara Zara (RHTDM) – Sargam And Flute Notes
+- Sanam Re (Tile Song) – Sargam And Flute Notes
+- Maana Ke Hum Yaar Nahi (Meri Pyaari Bindu) – Sargam And Flute Notes
+- Tujhe Kitna Chahne Lage (Kabir Singh) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -108,12 +100,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Chhod Diya (Baazaar) - Sargam, Harmonium And Flute Notes
-* Didi Tera Devar Deewana - Sargam, Harmonium And Flute Notes
-* Mujhko Barsaat Bana Lo - Sargam, Harmonium And Flute Notes
-* Yaara (Mamta Sharma) - Sargam, Harmonium And Flute Notes
-* Tera Hua (Bad Boy) - Sargam, Harmonium And Flute Notes
-* Chhota Bheem (Title Song) - Sargam, Harmonium And Flute Notes
+- Chhod Diya (Baazaar) - Sargam, Harmonium And Flute Notes
+- Didi Tera Devar Deewana - Sargam, Harmonium And Flute Notes
+- Mujhko Barsaat Bana Lo - Sargam, Harmonium And Flute Notes
+- Yaara (Mamta Sharma) - Sargam, Harmonium And Flute Notes
+- Tera Hua (Bad Boy) - Sargam, Harmonium And Flute Notes
+- Chhota Bheem (Title Song) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -138,4 +130,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

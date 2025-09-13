@@ -1,5 +1,5 @@
 ---
-title: "# Baatein Ye Kabhi Na (Khamoshiyan) – Sargam, Harmonium And Flute Notes"
+title: " Baatein Ye Kabhi Na (Khamoshiyan) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Baatein Ye Kabhi Na (Khamoshiyan) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: baatein-ye-kabhi-na-khamoshiyan-sargam-harmonium-and-flute-notes
@@ -98,11 +98,11 @@ m..P..m.G.G..
 
 Also Read This :-
 
-* Kuch Toh Hai – Sargam, Harmonium And Flute Notes – Armaan Malik
-* Pehli Nazar Mein (Race) – Sargam, Harmonium And Flute Notes
-* Tu Hi Meri Shab Hai (Gangster) – Sargam, Harmonium And Flute Notes
-* Jeene Laga Hoon (Atif Aslam) – Sargam, Harmonium And Flute Notes
-* Piya O Re Piya (Atif Aslam) – Sargam, Harmonium And Flute Notes
+- Kuch Toh Hai – Sargam, Harmonium And Flute Notes – Armaan Malik
+- Pehli Nazar Mein (Race) – Sargam, Harmonium And Flute Notes
+- Tu Hi Meri Shab Hai (Gangster) – Sargam, Harmonium And Flute Notes
+- Jeene Laga Hoon (Atif Aslam) – Sargam, Harmonium And Flute Notes
+- Piya O Re Piya (Atif Aslam) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -116,12 +116,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Zindagi Ek Safar Hai Suhana - Sargam, Harmonium And Flute Notes
-* Saathiya (Badmash Dil) [Singham] - Sargam, Harmonium And Flute Notes
-* Dori Tutt Gaiyaan (Gunjan Saxena) - Sargam, Harmonium And Flute Notes
-* Main Pal Do Pal Ka Shair Hoon - Sargam And Flute Notes
-* Haan Tu Hain (Jannat) - Sargam, Harmonium And Flute Notes
-* Dil Kya Kare (Julie) - Sargam, Harmonium And Flute Notes
+- Zindagi Ek Safar Hai Suhana - Sargam, Harmonium And Flute Notes
+- Saathiya (Badmash Dil) [Singham] - Sargam, Harmonium And Flute Notes
+- Dori Tutt Gaiyaan (Gunjan Saxena) - Sargam, Harmonium And Flute Notes
+- Main Pal Do Pal Ka Shair Hoon - Sargam And Flute Notes
+- Haan Tu Hain (Jannat) - Sargam, Harmonium And Flute Notes
+- Dil Kya Kare (Julie) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -146,4 +146,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

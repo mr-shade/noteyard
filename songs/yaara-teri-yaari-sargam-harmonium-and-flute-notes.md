@@ -1,5 +1,5 @@
 ---
-title: "# Yaara Teri Yaari – Sargam, Harmonium And Flute Notes"
+title: " Yaara Teri Yaari – Sargam, Harmonium And Flute Notes"
 description: "Learn # Yaara Teri Yaari notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: yaara-teri-yaari-sargam-harmonium-and-flute-notes
@@ -68,25 +68,17 @@ Mujhee khwaaab saa uthaa kee
 
 S’.G’.R’..S’.R’..S’.N.N..
 
-
-
 Also Read This :-
 
-
-
-* Pirates Of The Caribbean – Sargam And Flute Notes
-* Harry Potter (Theme Song) – Sargam And Flute Notes
-* Tujhe Dekha To Yeh Jana Sanam (DDLJ) – Sargam And Flute Notes
-* Mere Rashke Qamar (Baadshaho) – Sargam And Flute Notes
-* Main Jahaan Rahoon (Namastey London) – Sargam And Flute Notes
+- Pirates Of The Caribbean – Sargam And Flute Notes
+- Harry Potter (Theme Song) – Sargam And Flute Notes
+- Tujhe Dekha To Yeh Jana Sanam (DDLJ) – Sargam And Flute Notes
+- Mere Rashke Qamar (Baadshaho) – Sargam And Flute Notes
+- Main Jahaan Rahoon (Namastey London) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 nw Paragraph 2
 
@@ -98,12 +90,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Khairiyat (Chhichhore) - Sargam, Harmonium And Flute Notes
-* Halki Halki Si - Sargam, Harmonium And Flute Notes
-* Darkhaast (Shivaay) - Sargam, Harmonium And Flute Notes
-* Love Me Thoda Aur (Yaariyan) - Sargam, Harmonium And Flute Notes
-* Ram Naam Ke Heere Moti - Sargam, Harmonium And Flute Notes
-* Tera Mujhse Hai Pehle Ka Naata Koi - Sargam And Flute Notes
+- Khairiyat (Chhichhore) - Sargam, Harmonium And Flute Notes
+- Halki Halki Si - Sargam, Harmonium And Flute Notes
+- Darkhaast (Shivaay) - Sargam, Harmonium And Flute Notes
+- Love Me Thoda Aur (Yaariyan) - Sargam, Harmonium And Flute Notes
+- Ram Naam Ke Heere Moti - Sargam, Harmonium And Flute Notes
+- Tera Mujhse Hai Pehle Ka Naata Koi - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -128,4 +120,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

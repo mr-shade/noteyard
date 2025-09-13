@@ -1,5 +1,5 @@
 ---
-title: "# Main Jahaan Rahoon (Namastey London) – Sargam, Harmonium And Flute Notes"
+title: " Main Jahaan Rahoon (Namastey London) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Main Jahaan Rahoon (Namastey London) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: main-jahaan-rahoon-namastey-london-sargam-harmonium-and-flute-notes
@@ -142,25 +142,17 @@ Terii yaaad saath haiii
 
 P..P.. D(K).. D(K)..S’.. R’.. R’..S’..S’..
 
-
-
 Also Read This :-
 
-
-
-* Mehrama (Love Aaj Kal) – Sargam And Flute Notes
-* Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
-* Aaj Bhi (Vishal Mishra) – Sargam And Flute Notes
-* Muskurayega India (Vishal Mishra) – Sargam And Flute Notes
-* Pehla Pyaar (Kabir Singh) – Sargam And Flute Notes
+- Mehrama (Love Aaj Kal) – Sargam And Flute Notes
+- Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
+- Aaj Bhi (Vishal Mishra) – Sargam And Flute Notes
+- Muskurayega India (Vishal Mishra) – Sargam And Flute Notes
+- Pehla Pyaar (Kabir Singh) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -170,12 +162,12 @@ filter-class
 
 related_posts_thumbnails
 
-* O Bedardeya - Sargam, Harmonium And Flute Notes
-* Aashayein (Iqbal) - Sargam, Harmonium And Flute Notes
-* Vaaste (Dhvani Bhanushali) - Sargam, Harmonium And Flute Notes
-* Channa Mereya Sargam, Harmonium And Flute Notes
-* Teri Yaadon Mein (The Killer) - Sargam, Harmonium And Flute Notes
-* I Love You (Bodyguard) - Sargam, Harmonium And Flute Notes
+- O Bedardeya - Sargam, Harmonium And Flute Notes
+- Aashayein (Iqbal) - Sargam, Harmonium And Flute Notes
+- Vaaste (Dhvani Bhanushali) - Sargam, Harmonium And Flute Notes
+- Channa Mereya Sargam, Harmonium And Flute Notes
+- Teri Yaadon Mein (The Killer) - Sargam, Harmonium And Flute Notes
+- I Love You (Bodyguard) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -200,4 +192,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

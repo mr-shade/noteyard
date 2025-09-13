@@ -1,5 +1,5 @@
 ---
-title: "# Kisi Aur Naal (Asees Kaur) – Sargam, Harmonium And Flute Notes"
+title: " Kisi Aur Naal (Asees Kaur) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Kisi Aur Naal (Asees Kaur) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: kisi-aur-naal-asees-kaur-sargam-harmonium-and-flute-notes
@@ -70,28 +70,20 @@ Kisii aur naal
 
 S.R.G…D..G..
 
-
-
 Also Read This :-
 
-
-
-* Barso Re Megha Megha (Guru) – Sargam And Flute Notes
-* Basabriyaan (M.S. Dhoni – The Untold Story) – Sargam And Flute Notes
-* Ishq Sufiana (The Dirty Picture) – Sargam And Flute Notes
-* Vaaste (Dhvani Bhanushali) (Full Song) – Sargam And Flute Notes
-* Dhadak (Title Song) – Sargam And Flute Notes
-* Tujhko Jo Paaya (Crook) – Sargam And Flute Notes
+- Barso Re Megha Megha (Guru) – Sargam And Flute Notes
+- Basabriyaan (M.S. Dhoni – The Untold Story) – Sargam And Flute Notes
+- Ishq Sufiana (The Dirty Picture) – Sargam And Flute Notes
+- Vaaste (Dhvani Bhanushali) (Full Song) – Sargam And Flute Notes
+- Dhadak (Title Song) – Sargam And Flute Notes
+- Tujhko Jo Paaya (Crook) – Sargam And Flute Notes
 
 Where
-
-
 
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
 
 nw Paragraph 2
-
-
 
 relpost-thumb-wrapper
 
@@ -101,12 +93,12 @@ filter-class
 
 related_posts_thumbnails
 
-* 295 (Sidhu Moose Wala) - Sargam, Harmonium And Flute Notes
-* Baari (Bilal Saeed) - Sargam, Harmonium And Flute Notes
-* Lamborghini (Jai Mummy Di) - Sargam, Harmonium And Flute Notes
-* Soch (Hardy Sandhu) - Sargam, Harmonium And Flute Notes
-* Aaj Sajeya (Goldie Sohel) - Sargam, Harmonium And Flute Notes
-* With You (AP Dhillon) - Sargam, Harmonium And Flute Notes
+- 295 (Sidhu Moose Wala) - Sargam, Harmonium And Flute Notes
+- Baari (Bilal Saeed) - Sargam, Harmonium And Flute Notes
+- Lamborghini (Jai Mummy Di) - Sargam, Harmonium And Flute Notes
+- Soch (Hardy Sandhu) - Sargam, Harmonium And Flute Notes
+- Aaj Sajeya (Goldie Sohel) - Sargam, Harmonium And Flute Notes
+- With You (AP Dhillon) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -131,4 +123,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

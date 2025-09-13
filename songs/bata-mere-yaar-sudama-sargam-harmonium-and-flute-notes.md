@@ -1,5 +1,5 @@
 ---
-title: "# Bata Mere Yaar Sudama – Sargam, Harmonium And Flute Notes"
+title: " Bata Mere Yaar Sudama – Sargam, Harmonium And Flute Notes"
 description: "Learn # Bata Mere Yaar Sudama notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: bata-mere-yaar-sudama-sargam-harmonium-and-flute-notes
@@ -150,11 +150,11 @@ G..R..R..G…m..m..G..G..R..R…R…
 
 Also Read This :-
 
-* OMG Flute tune (FULL VERSION) – Sargam, Harmonium And Flute Notes
-* Little Krishna Opening Sequence – Sargam, Harmonium And Flute Notes
-* Mahabharat Title Song – Sargam, Harmonium And Flute Notes
-* Gayatri Mantra – Sargam, Harmonium And Flute Notes
-* Mahamrityunjay Mantra – Sargam, Harmonium And Flute Notes
+- OMG Flute tune (FULL VERSION) – Sargam, Harmonium And Flute Notes
+- Little Krishna Opening Sequence – Sargam, Harmonium And Flute Notes
+- Mahabharat Title Song – Sargam, Harmonium And Flute Notes
+- Gayatri Mantra – Sargam, Harmonium And Flute Notes
+- Mahamrityunjay Mantra – Sargam, Harmonium And Flute Notes
 
 relpost-thumb-wrapper
 
@@ -164,12 +164,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Choti Choti Gaiya - Sargam, Harmonium And Flute Notes
-* Jai Shree Ram [2nd Ver.] (Hansraj Raghuwanshi) - Sargam Notes
-* Main Balak Tu Mata - Sargam, Harmonium And Flute Notes
-* Raam Aayenge - Sargam, Harmonium And Flute Notes
-* Oonchi Oonchi Waadi - Sargam, Harmonium And Flute Notes
-* Hanuman Chalisa - Sargam, Harmonium And Flute Notes
+- Choti Choti Gaiya - Sargam, Harmonium And Flute Notes
+- Jai Shree Ram [2nd Ver.] (Hansraj Raghuwanshi) - Sargam Notes
+- Main Balak Tu Mata - Sargam, Harmonium And Flute Notes
+- Raam Aayenge - Sargam, Harmonium And Flute Notes
+- Oonchi Oonchi Waadi - Sargam, Harmonium And Flute Notes
+- Hanuman Chalisa - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -194,4 +194,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

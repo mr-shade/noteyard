@@ -1,5 +1,5 @@
 ---
-title: "# Tera Mera Rishta (Jalebi) – Sargam, Harmonium And Flute Notes"
+title: " Tera Mera Rishta (Jalebi) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Tera Mera Rishta (Jalebi) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: tera-mera-rishta-jalebi-sargam-harmonium-and-flute-notes
@@ -80,11 +80,11 @@ S.S.S..p.p.R.. G..n..S..
 
 Also Read This :-
 
-* Aaoge Jab Tum (Jab We Met) – Sargam And Flute Notes
-* Tujhko Jo Paaya (Crook) – Sargam And Flute Notes
-* Yaara Teri Yaari – Sargam And Flute Notes
-* Dhadak (Title Song) – Sargam And Flute Notes
-* Barso Re Megha Megha (Guru) – Sargam And Flute Notes
+- Aaoge Jab Tum (Jab We Met) – Sargam And Flute Notes
+- Tujhko Jo Paaya (Crook) – Sargam And Flute Notes
+- Yaara Teri Yaari – Sargam And Flute Notes
+- Dhadak (Title Song) – Sargam And Flute Notes
+- Barso Re Megha Megha (Guru) – Sargam And Flute Notes
 
 Where
 
@@ -100,12 +100,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Sawan Ka Mahina (Milan) - Sargam, Harmonium And Flute Notes
-* Main Dhoondne Ko Zamaane Mein - Sargam, Harmonium And Flute Notes
-* Ohh Maa (Ritesh Tiwari) - Sargam, Harmonium And Flute Notes
-* Rula Ke Gaya Ishq (Stebin Ben) - Sargam, Harmonium And Flute Notes
-* Tere Bin Nahi Laage - Sargam, Harmonium And Flute Notes
-* Mat Aazma Re (Murder 3) - Sargam, Harmonium And Flute Notes
+- Sawan Ka Mahina (Milan) - Sargam, Harmonium And Flute Notes
+- Main Dhoondne Ko Zamaane Mein - Sargam, Harmonium And Flute Notes
+- Ohh Maa (Ritesh Tiwari) - Sargam, Harmonium And Flute Notes
+- Rula Ke Gaya Ishq (Stebin Ben) - Sargam, Harmonium And Flute Notes
+- Tere Bin Nahi Laage - Sargam, Harmonium And Flute Notes
+- Mat Aazma Re (Murder 3) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -130,4 +130,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

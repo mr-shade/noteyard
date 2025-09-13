@@ -1,5 +1,5 @@
 ---
-title: "# Tu Hai Ki Nahi Whistle Tune (Roy) – Sargam, Harmonium And Flute Notes"
+title: " Tu Hai Ki Nahi Whistle Tune (Roy) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Tu Hai Ki Nahi Whistle Tune (Roy) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: tu-hai-ki-nahi-whistle-tune-roy-sargam-harmonium-and-flute-notes
@@ -20,8 +20,6 @@ D…P…G..R..G..P.D.P.S..
 
 R..S..R…S..R..G..R..d..p..
 
-
-
 D…P…G..R..G..P..S..
 
 R..S..R…S..R..G..R..d..p..
@@ -32,11 +30,11 @@ R..S..R…S..R..G..R..d..p..
 
 Also Read This :-
 
-* Tapu Sena Theme – Sargam, Harmonium And Flute Notes
-* IPL Theme Tune – Sargam, Harmonium And Flute Notes
-* Jadoo Tune (Koi Mil Gaya) – Sargam, Harmonium And Flute Notes
-* Saathiya Flute Tune – Sargam, Harmonium And Flute Notes
-* Avengers Theme (Alan Silvestri) – Sargam, Harmonium And Flute Notes
+- Tapu Sena Theme – Sargam, Harmonium And Flute Notes
+- IPL Theme Tune – Sargam, Harmonium And Flute Notes
+- Jadoo Tune (Koi Mil Gaya) – Sargam, Harmonium And Flute Notes
+- Saathiya Flute Tune – Sargam, Harmonium And Flute Notes
+- Avengers Theme (Alan Silvestri) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -79,12 +77,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Mr. Bean Theme Song - Sargam, Harmonium And Flute Notes
-* Thank You Flute Music - Sargam, Harmonium And Flute Notes
-* IPL Theme Tune - Sargam, Harmonium And Flute Notes
-* Titan Watch Theme Music - Sargam, Harmonium And Flute Notes
-* Mingle Game Song (Squid Game S2) - Sargam And Flute Notes
-* Saathiya Flute Tune (Easy Version) - Sargam And Flute Notes
+- Mr. Bean Theme Song - Sargam, Harmonium And Flute Notes
+- Thank You Flute Music - Sargam, Harmonium And Flute Notes
+- IPL Theme Tune - Sargam, Harmonium And Flute Notes
+- Titan Watch Theme Music - Sargam, Harmonium And Flute Notes
+- Mingle Game Song (Squid Game S2) - Sargam And Flute Notes
+- Saathiya Flute Tune (Easy Version) - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -109,4 +107,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

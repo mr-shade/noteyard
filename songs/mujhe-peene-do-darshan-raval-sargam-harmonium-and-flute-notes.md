@@ -1,5 +1,5 @@
 ---
-title: "# Mujhe Peene Do (Darshan Raval) – Sargam, Harmonium And Flute Notes"
+title: " Mujhe Peene Do (Darshan Raval) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Mujhe Peene Do (Darshan Raval) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: mujhe-peene-do-darshan-raval-sargam-harmonium-and-flute-notes
@@ -44,11 +44,11 @@ Yaad aayii hai mujhee peenee do
 
 d(k)..d..n..R.S..n.. n..S..R..P.m..G..
 
-* Tere Siva (Darshan Raval) – Sargam, Harmonium And Flute Notes
-* Sau Aasmaan (Baar Baar Dekho) – Sargam, Harmonium And Flute Notes
-* Hale Dil Tujhko Sunata (Murder 2) – Sargam, Harmonium And Flute Notes
-* Give Me Some Sunshine (3 Idiots) – Sargam, Harmonium And Flute Notes
-* Sunn Zara (Jalraj) – Sargam, Harmonium And Flute Notes
+- Tere Siva (Darshan Raval) – Sargam, Harmonium And Flute Notes
+- Sau Aasmaan (Baar Baar Dekho) – Sargam, Harmonium And Flute Notes
+- Hale Dil Tujhko Sunata (Murder 2) – Sargam, Harmonium And Flute Notes
+- Give Me Some Sunshine (3 Idiots) – Sargam, Harmonium And Flute Notes
+- Sunn Zara (Jalraj) – Sargam, Harmonium And Flute Notes
 
 relpost-thumb-wrapper
 
@@ -58,12 +58,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Tere Binaa (Heropanti) - Sargam, Harmonium And Flute Notes
-* Meelon Ka Yaarana (Hero Splendor AD) - Sargam And Flute Notes
-* Deewana Kar Raha Hai - Sargam, Harmonium And Flute Notes
-* Musafir Hoon Yaron - Sargam, Harmonium And Flute Notes
-* Sandese Aate Hai (FULL) - Sargam, Harmonium And Flute Notes
-* Ami Je Tomar 3.0 (BB3) - Sargam, Harmonium And Flute Notes
+- Tere Binaa (Heropanti) - Sargam, Harmonium And Flute Notes
+- Meelon Ka Yaarana (Hero Splendor AD) - Sargam And Flute Notes
+- Deewana Kar Raha Hai - Sargam, Harmonium And Flute Notes
+- Musafir Hoon Yaron - Sargam, Harmonium And Flute Notes
+- Sandese Aate Hai (FULL) - Sargam, Harmonium And Flute Notes
+- Ami Je Tomar 3.0 (BB3) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -88,4 +88,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

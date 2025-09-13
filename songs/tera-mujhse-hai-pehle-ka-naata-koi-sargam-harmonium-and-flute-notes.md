@@ -1,5 +1,5 @@
 ---
-title: "# Tera Mujhse Hai Pehle Ka Naata Koi – Sargam, Harmonium And Flute Notes"
+title: " Tera Mujhse Hai Pehle Ka Naata Koi – Sargam, Harmonium And Flute Notes"
 description: "Learn # Tera Mujhse Hai Pehle Ka Naata Koi notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: tera-mujhse-hai-pehle-ka-naata-koi-sargam-harmonium-and-flute-notes
@@ -72,11 +72,11 @@ R..S’…N..D..D…R.R..N…D.P..
 
 Also Read This :-
 
-* Jinke Liye (Neha Kakkar) – Sargam And Flute Notes
-* Kho Gaye Hum Kahan (Baar Baar Dekho) – Sargam And Flute Notes
-* Memories (Maroon 5) – Sargam And Flute Notes
-* Malang (Title Track) – Sargam And Flute Notes
-* Baa Baa Black Sheep – Sargam And Flute Notes
+- Jinke Liye (Neha Kakkar) – Sargam And Flute Notes
+- Kho Gaye Hum Kahan (Baar Baar Dekho) – Sargam And Flute Notes
+- Memories (Maroon 5) – Sargam And Flute Notes
+- Malang (Title Track) – Sargam And Flute Notes
+- Baa Baa Black Sheep – Sargam And Flute Notes
 
 Where
 
@@ -119,12 +119,12 @@ filter-class
 
 related_posts_thumbnails
 
-* O Meri Laila (Laila Majnu) - Sargam, Harmonium And Flute Notes
-* Rabb Manneya (Koi Jaane Na) - Sargam, Harmonium, Flute Notes
-* Zaalima (Raees) - Sargam, Harmonium And Flute Notes
-* Allah Ke Bande (Kailash Kher) - Sargam, Harmonium And Flute Notes
-* Tere Liye (Veer Zaara) - Sargam, Harmonium And Flute Notes
-* Yeh Shaam Mastani (Kati Patang) - Sargam, Harmonium And Flute Notes
+- O Meri Laila (Laila Majnu) - Sargam, Harmonium And Flute Notes
+- Rabb Manneya (Koi Jaane Na) - Sargam, Harmonium, Flute Notes
+- Zaalima (Raees) - Sargam, Harmonium And Flute Notes
+- Allah Ke Bande (Kailash Kher) - Sargam, Harmonium And Flute Notes
+- Tere Liye (Veer Zaara) - Sargam, Harmonium And Flute Notes
+- Yeh Shaam Mastani (Kati Patang) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -149,4 +149,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

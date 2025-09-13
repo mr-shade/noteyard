@@ -1,5 +1,5 @@
 ---
-title: "# Tum Hi Aana (Marjaavaan) – Sargam, Harmonium And Flute Notes"
+title: " Tum Hi Aana (Marjaavaan) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Tum Hi Aana (Marjaavaan) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: tum-hi-aana-marjaavaan-sargam-harmonium-and-flute-notes
@@ -90,25 +90,17 @@ Tum hi aana
 
 N.R’.S’.R’..S’.N.D.D..
 
-
-
 Also Read This :-
 
-
-
-* Super Mario Bros Theme – Sargam And Flute Notes
-* Shei Tumi Keno Eto Ochena Hole (Heart Touch Flute Music) – Sargam And Flute Notes
-* Bum Bum Bole (Taare Zameen Par) – Sargam And Flute Notes
-* Afreen Afreen (Coke Studio) – Sargam And Flute Notes
-* Maa (Taare Zameen Par) – Sargam And Flute Notes
+- Super Mario Bros Theme – Sargam And Flute Notes
+- Shei Tumi Keno Eto Ochena Hole (Heart Touch Flute Music) – Sargam And Flute Notes
+- Bum Bum Bole (Taare Zameen Par) – Sargam And Flute Notes
+- Afreen Afreen (Coke Studio) – Sargam And Flute Notes
+- Maa (Taare Zameen Par) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -118,12 +110,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Shukriya (Sadak 2) - Sargam, Harmonium And Flute Notes
-* Humnava Mere (Jubin Nautiyal) - Sargam, Harmonium, Flute Notes
-* Woh din (Chhichhore) - Sargam, Harmonium And Flute Notes
-* Waqt Ki Baatein- Sargam, Harmonium And Flute Notes
-* Tu Mila To Haina - Sargam, Harmonium And Flute Notes
-* In Dino (Life In A Metro) - Sargam, Harmonium And Flute Notes
+- Shukriya (Sadak 2) - Sargam, Harmonium And Flute Notes
+- Humnava Mere (Jubin Nautiyal) - Sargam, Harmonium, Flute Notes
+- Woh din (Chhichhore) - Sargam, Harmonium And Flute Notes
+- Waqt Ki Baatein- Sargam, Harmonium And Flute Notes
+- Tu Mila To Haina - Sargam, Harmonium And Flute Notes
+- In Dino (Life In A Metro) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -148,4 +140,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Perfect (Ed Sheeran) – Sargam, Harmonium And Flute Notes"
+title: " Perfect (Ed Sheeran) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Perfect (Ed Sheeran) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: perfect-ed-sheeran-sargam-harmonium-and-flute-notes
@@ -62,25 +62,17 @@ With you between my arms
 
 P…m..G…R..S…
 
-
-
 Also Read This :-
 
-
-
-* Basabriyaan (M.S. Dhoni – The Untold Story) – Sargam And Flute Notes
-* Ishq Sufiana (The Dirty Picture) – Sargam And Flute Notes
-* Vaaste (Dhvani Bhanushali) (Full Song) – Sargam And Flute Notes
-* Dhadak (Title Song) – Sargam And Flute Notes
-* Tujhko Jo Paaya (Crook) – Sargam And Flute Notes
+- Basabriyaan (M.S. Dhoni – The Untold Story) – Sargam And Flute Notes
+- Ishq Sufiana (The Dirty Picture) – Sargam And Flute Notes
+- Vaaste (Dhvani Bhanushali) (Full Song) – Sargam And Flute Notes
+- Dhadak (Title Song) – Sargam And Flute Notes
+- Tujhko Jo Paaya (Crook) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -90,12 +82,12 @@ filter-class
 
 related_posts_thumbnails
 
-* At My Worst (Pink Sweats) - Sargam, Harmonium And Flute Notes
-* Drivers License (Olivia Rodrigo) - Sargam, Harmonium, Flute Notes
-* The Addams Family Theme Song - Sargam And Flute Notes
-* Fadad (Alan Walker) - Sargam, Harmonium And Flute Notes
-* Game Of Thrones - Sargam, Harmonium And Flute Notes
-* Love Yourself (Justin Bieber) - Sargam And Flute Notes
+- At My Worst (Pink Sweats) - Sargam, Harmonium And Flute Notes
+- Drivers License (Olivia Rodrigo) - Sargam, Harmonium, Flute Notes
+- The Addams Family Theme Song - Sargam And Flute Notes
+- Fadad (Alan Walker) - Sargam, Harmonium And Flute Notes
+- Game Of Thrones - Sargam, Harmonium And Flute Notes
+- Love Yourself (Justin Bieber) - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -120,4 +112,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

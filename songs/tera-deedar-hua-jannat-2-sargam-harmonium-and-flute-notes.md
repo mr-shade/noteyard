@@ -1,5 +1,5 @@
 ---
-title: "# Tera Deedar Hua (Jannat 2) – Sargam, Harmonium And Flute Notes"
+title: " Tera Deedar Hua (Jannat 2) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Tera Deedar Hua (Jannat 2) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: tera-deedar-hua-jannat-2-sargam-harmonium-and-flute-notes
@@ -114,11 +114,11 @@ P..M..G..R..R..
 
 Also Read This :-
 
-* O Mere Dil Ke Chain – Sargam, Harmonium And Flute Notes
-* Bas Ek Baar (Soham Naik) – Sargam, Harmonium And Flute Notes
-* Humnava (Hamari Adhuri Kahani) – Sargam, Harmonium And Flute Notes
-* Teri Yaadon Mein (The Killer) – Sargam, Harmonium And Flute Notes
-* Kya Mujhe Pyaar Hai (Woh Lamhe) – Sargam, Harmonium And Flute Notes
+- O Mere Dil Ke Chain – Sargam, Harmonium And Flute Notes
+- Bas Ek Baar (Soham Naik) – Sargam, Harmonium And Flute Notes
+- Humnava (Hamari Adhuri Kahani) – Sargam, Harmonium And Flute Notes
+- Teri Yaadon Mein (The Killer) – Sargam, Harmonium And Flute Notes
+- Kya Mujhe Pyaar Hai (Woh Lamhe) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -132,12 +132,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Shri Krishna Govind Hare Murari (Jubin Nautiyal) - Sargam, Harmonium And Flute Notes
-* Deva Shree Ganesha - Sargam, Harmonium And Flute Notes
-* Tum Agar Saath Dene Ka Vada Karo - Sargam And Flute Notes
-* Mere Nishaan (Darshan Raval) - Sargam, Harmonium And Flute Notes
-* Judaa (Arijit Singh) - Sargam, Harmonium And Flute Notes
-* Khwab (Iqlipse Nova, Aditya A) - Sargam, Harmonium, Flute Notes
+- Shri Krishna Govind Hare Murari (Jubin Nautiyal) - Sargam, Harmonium And Flute Notes
+- Deva Shree Ganesha - Sargam, Harmonium And Flute Notes
+- Tum Agar Saath Dene Ka Vada Karo - Sargam And Flute Notes
+- Mere Nishaan (Darshan Raval) - Sargam, Harmonium And Flute Notes
+- Judaa (Arijit Singh) - Sargam, Harmonium And Flute Notes
+- Khwab (Iqlipse Nova, Aditya A) - Sargam, Harmonium, Flute Notes
 
 close related_posts_thumbnails
 
@@ -162,4 +162,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

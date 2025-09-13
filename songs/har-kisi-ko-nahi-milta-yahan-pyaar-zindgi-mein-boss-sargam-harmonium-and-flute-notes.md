@@ -1,5 +1,5 @@
 ---
-title: "# Har Kisi Ko Nahi Milta Yahan Pyaar Zindgi Mein (Boss) – Sargam, Harmonium And Flute Notes"
+title: " Har Kisi Ko Nahi Milta Yahan Pyaar Zindgi Mein (Boss) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Har Kisi Ko Nahi Milta Yahan Pyaar Zindgi Mein (Boss) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: har-kisi-ko-nahi-milta-yahan-pyaar-zindgi-mein-boss-sargam-harmonium-and-flute-notes
@@ -84,25 +84,17 @@ S..n(K)..R(K)..G(K)..R(K)..S..S..
 
 nw Paragraph 2
 
-
-
 Also Read This :-
 
-
-
-* Aaoge Jab Tum (Jab We Met) – Sargam And Flute Notes
-* Yaara Teri Yaari – Sargam And Flute Notes
-* Tera Yaar Hoon Main (Sonu Ke Tittu Ki Sweety) – Sargam And Flute Notes
-* Hothon Se Chhulo Tum (Jagjit Singh) – Sargam And Flute Notes
-* Basabriyaan (M.S. Dhoni – The Untold Story) – Sargam And Flute Notes
+- Aaoge Jab Tum (Jab We Met) – Sargam And Flute Notes
+- Yaara Teri Yaari – Sargam And Flute Notes
+- Tera Yaar Hoon Main (Sonu Ke Tittu Ki Sweety) – Sargam And Flute Notes
+- Hothon Se Chhulo Tum (Jagjit Singh) – Sargam And Flute Notes
+- Basabriyaan (M.S. Dhoni – The Untold Story) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -112,12 +104,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Oh Oh Jane Jaana - Sargam, Harmonium And Flute Notes
-* Iraaday (Abdul Hannan) - Sargam, Harmonium And Flute Notes
-* Tumhe Dillagi (Raid 2) - Sargam, Harmonium And Flute Notes
-* Yaara (Mamta Sharma) - Sargam, Harmonium And Flute Notes
-* Sang Rahiyo - Sargam, Harmonium And Flute Notes
-* Phir Mulaaqat (Cheat India) - Sargam, Harmonium And Flute Notes
+- Oh Oh Jane Jaana - Sargam, Harmonium And Flute Notes
+- Iraaday (Abdul Hannan) - Sargam, Harmonium And Flute Notes
+- Tumhe Dillagi (Raid 2) - Sargam, Harmonium And Flute Notes
+- Yaara (Mamta Sharma) - Sargam, Harmonium And Flute Notes
+- Sang Rahiyo - Sargam, Harmonium And Flute Notes
+- Phir Mulaaqat (Cheat India) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -142,4 +134,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Tum Prem Ho Tum Preet Ho – Sargam, Harmonium And Flute Notes"
+title: " Tum Prem Ho Tum Preet Ho – Sargam, Harmonium And Flute Notes"
 description: "Learn # Tum Prem Ho Tum Preet Ho notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: tum-prem-ho-tum-preet-ho-sargam-harmonium-and-flute-notes
@@ -220,11 +220,11 @@ d..S..R..m..G..m….P..R..m..G..
 
 Also Read This :-
 
-* Dil Meri Na Sune (Genius) – Sargam, Harmonium And Flute Notes
-* Pehla Pyaar Full Song – Sargam, Harmonium And Flute Notes
-* Tujhse Naraaz Nahin Zindagi – Sargam, Harmonium And Flute Notes
-* Kyun Main Jaagoon – Sargam, Harmonium And Flute Notes
-* Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
+- Dil Meri Na Sune (Genius) – Sargam, Harmonium And Flute Notes
+- Pehla Pyaar Full Song – Sargam, Harmonium And Flute Notes
+- Tujhse Naraaz Nahin Zindagi – Sargam, Harmonium And Flute Notes
+- Kyun Main Jaagoon – Sargam, Harmonium And Flute Notes
+- Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -238,12 +238,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Give Me Some Sunshine (3 Idiots) - Sargam, Harmonium And Flute Notes
-* Sanson Ki Mala - Sargam, Harmonium And Flute Notes
-* Haan Tu Hain (Jannat) - Sargam, Harmonium And Flute Notes
-* Jhoome Jo Pathaan - Sargam, Harmonium And Flute Notes
-* Aaj Bhi (Vishal Mishra) - Sargam, Harmonium And Flute Notes
-* Oonchi Oonchi Deewarein - Sargam, Harmonium And Flute Notes
+- Give Me Some Sunshine (3 Idiots) - Sargam, Harmonium And Flute Notes
+- Sanson Ki Mala - Sargam, Harmonium And Flute Notes
+- Haan Tu Hain (Jannat) - Sargam, Harmonium And Flute Notes
+- Jhoome Jo Pathaan - Sargam, Harmonium And Flute Notes
+- Aaj Bhi (Vishal Mishra) - Sargam, Harmonium And Flute Notes
+- Oonchi Oonchi Deewarein - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -268,4 +268,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

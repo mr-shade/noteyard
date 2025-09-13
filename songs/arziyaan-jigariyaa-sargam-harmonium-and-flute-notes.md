@@ -1,5 +1,5 @@
 ---
-title: "# Arziyaan (Jigariyaa) – Sargam, Harmonium And Flute Notes"
+title: " Arziyaan (Jigariyaa) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Arziyaan (Jigariyaa) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: arziyaan-jigariyaa-sargam-harmonium-and-flute-notes
@@ -64,11 +64,11 @@ S’.N.D..N.N..S’..S’.S’…
 
 Also Read This :-
 
-* Jinke Liye (Neha Kakkar) – Sargam And Flute Notes
-* Kho Gaye Hum Kahan (Baar Baar Dekho) – Sargam And Flute Notes
-* Memories (Maroon 5) – Sargam And Flute Notes
-* Malang (Title Track) – Sargam And Flute Notes
-* Baa Baa Black Sheep – Sargam And Flute Notes
+- Jinke Liye (Neha Kakkar) – Sargam And Flute Notes
+- Kho Gaye Hum Kahan (Baar Baar Dekho) – Sargam And Flute Notes
+- Memories (Maroon 5) – Sargam And Flute Notes
+- Malang (Title Track) – Sargam And Flute Notes
+- Baa Baa Black Sheep – Sargam And Flute Notes
 
 Where
 
@@ -109,12 +109,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Baarishein [FULL SONG] - Sargam, Harmonium And Flute Notes
-* O Paalanhaare (Lagaan) - Sargam, Harmonium And Flute Notes
-* Shiv Sama Rahe (Hansraj) - Sargam, Harmonium And Flute Notes
-* Bulleya (Ae Dil Hai Mushkil) - Sargam, Harmonium And Flute Notes
-* Bawara Mann (Jolly LLB 2) - Sargam, Harmonium And Flute Notes
-* Sochenge Tumhe Pyar - Sargam, Harmonium And Flute Notes
+- Baarishein [FULL SONG] - Sargam, Harmonium And Flute Notes
+- O Paalanhaare (Lagaan) - Sargam, Harmonium And Flute Notes
+- Shiv Sama Rahe (Hansraj) - Sargam, Harmonium And Flute Notes
+- Bulleya (Ae Dil Hai Mushkil) - Sargam, Harmonium And Flute Notes
+- Bawara Mann (Jolly LLB 2) - Sargam, Harmonium And Flute Notes
+- Sochenge Tumhe Pyar - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -139,4 +139,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

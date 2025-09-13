@@ -1,5 +1,5 @@
 ---
-title: "# Nokia Tune – Sargam, Harmonium And Flute Notes"
+title: " Nokia Tune – Sargam, Harmonium And Flute Notes"
 description: "Learn # Nokia Tune notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: nokia-tune-sargam-harmonium-and-flute-notes
@@ -16,23 +16,19 @@ N..D..S..R..
 
 D..P..n..R..P..
 
-
-
 R’..S’..G..M..
 
 N..D..S..R..
 
 D..P..n..R..P..
 
-
-
 Also Read This :-
 
-* Mehrama (Love Aaj Kal) – Sargam And Flute Notes
-* Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
-* Aaj Bhi (Vishal Mishra) – Sargam And Flute Notes
-* Pehla Pyaar (Kabir Singh) – Sargam And Flute Notes
-* Jinke Liye (Neha Kakkar) – Sargam And Flute Notes
+- Mehrama (Love Aaj Kal) – Sargam And Flute Notes
+- Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
+- Aaj Bhi (Vishal Mishra) – Sargam And Flute Notes
+- Pehla Pyaar (Kabir Singh) – Sargam And Flute Notes
+- Jinke Liye (Neha Kakkar) – Sargam And Flute Notes
 
 Where
 
@@ -46,12 +42,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Interstellar Theme (2nd Version) - Sargam And Flute Notes
-* Beast Theme Music - Sargam, Harmonium And Flute Notes
-* Naruto Theme - Sargam, Harmonium And Flute Notes
-* Free Fire Halloween Theme - Sargam, Harmonium And Flute Notes
-* Shinchan Family BGM - Sargam, Harmonium And Flute Notes
-* Thank You Flute Music - Sargam, Harmonium And Flute Notes
+- Interstellar Theme (2nd Version) - Sargam And Flute Notes
+- Beast Theme Music - Sargam, Harmonium And Flute Notes
+- Naruto Theme - Sargam, Harmonium And Flute Notes
+- Free Fire Halloween Theme - Sargam, Harmonium And Flute Notes
+- Shinchan Family BGM - Sargam, Harmonium And Flute Notes
+- Thank You Flute Music - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -76,4 +72,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

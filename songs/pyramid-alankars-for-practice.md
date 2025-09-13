@@ -1,5 +1,5 @@
 ---
-title: "# Pyramid Alankars For Practice"
+title: " Pyramid Alankars For Practice"
 description: "Learn # Pyramid Alankars For Practice notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: pyramid-alankars-for-practice
@@ -9,8 +9,6 @@ slug: pyramid-alankars-for-practice
 
 Remove Numbers From Piano Notes
 Undo Changes
-
-
 
 S.
 
@@ -27,8 +25,6 @@ S.R.G.m.P.D.P.m.G.R.S.
 S.R.G.m.P.D.N.D.P.m.G.R.S
 
 S.R.G.m.P.D.N.S’.N.D.P.m.G.R.S.
-
-
 
 S’.
 
@@ -48,8 +44,6 @@ S’.N.D.P.m.G.R.S.R.G.m.P.D.N.S’.
 
 nw Paragraph 1
 
-
-
 P.
 
 P.D.P.
@@ -66,27 +60,17 @@ P.D.N.S’.R’.G’.m’.G’.R’.S’.N.D.P.
 
 P.D.N.S’.R’.G’.m’.P’.m’.G’.R’.S’.N.D.P.
 
-
-
-
-
 Also Read This :-
 
-
-
-* Bolna (Kapoor And Sons) – Sargam And Flute Notes
-* Jeena Jeena [Full Song] (Badlapur) – Sargam And Flute Notes
-* See You Again ft. Charlie Puth (Wiz Khalifa) – Sargam And Flute Notes
-* Lakdi Ki Kaathi (Masoom) – Sargam And Flute Notes
-* Kaise Hua (Kabir Singh) – Sargam And Flute Notes
+- Bolna (Kapoor And Sons) – Sargam And Flute Notes
+- Jeena Jeena [Full Song] (Badlapur) – Sargam And Flute Notes
+- See You Again ft. Charlie Puth (Wiz Khalifa) – Sargam And Flute Notes
+- Lakdi Ki Kaathi (Masoom) – Sargam And Flute Notes
+- Kaise Hua (Kabir Singh) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 nw Paragraph 2
 
@@ -98,12 +82,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Best Yaman Alankars For Practice
-* Raga Hamsadhwani Alankars For Practice - 2
-* Best Alankars For Extreme Beginners
-* Best Alankar For Practice - 2
-* Best Sargam Alankars For Beginners | Best For Practice
-* Best Alankars For Practice - 7 | Easy For Beginners
+- Best Yaman Alankars For Practice
+- Raga Hamsadhwani Alankars For Practice - 2
+- Best Alankars For Extreme Beginners
+- Best Alankar For Practice - 2
+- Best Sargam Alankars For Beginners | Best For Practice
+- Best Alankars For Practice - 7 | Easy For Beginners
 
 close related_posts_thumbnails
 
@@ -128,4 +112,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

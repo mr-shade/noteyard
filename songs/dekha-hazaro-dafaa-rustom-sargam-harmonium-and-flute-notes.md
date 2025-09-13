@@ -1,5 +1,5 @@
 ---
-title: "# Dekha Hazaro Dafaa (Rustom) – Sargam, Harmonium And Flute Notes"
+title: " Dekha Hazaro Dafaa (Rustom) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Dekha Hazaro Dafaa (Rustom) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: dekha-hazaro-dafaa-rustom-sargam-harmonium-and-flute-notes
@@ -90,25 +90,17 @@ Kuch pyaar mein baat aisii hai
 
 G..G..R..S..n.. n.n..S.R..S.S.
 
-
-
 Also Read This :-
 
-
-
-* Super Mario Bros Theme – Sargam And Flute Notes
-* Shei Tumi Keno Eto Ochena Hole (Heart Touch Flute Music) – Sargam And Flute Notes
-* Bum Bum Bole (Taare Zameen Par) – Sargam And Flute Notes
-* Afreen Afreen (Coke Studio) – Sargam And Flute Notes
-* Maa (Taare Zameen Par) – Sargam And Flute Notes
+- Super Mario Bros Theme – Sargam And Flute Notes
+- Shei Tumi Keno Eto Ochena Hole (Heart Touch Flute Music) – Sargam And Flute Notes
+- Bum Bum Bole (Taare Zameen Par) – Sargam And Flute Notes
+- Afreen Afreen (Coke Studio) – Sargam And Flute Notes
+- Maa (Taare Zameen Par) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -118,12 +110,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Iktara (Wake Up Sid) - Sargam, Harmonium And Flute Notes
-* Likhe Jo Khat Tujhe (Sanam) - Sargam, Harmonium And Flute Notes
-* Mujhko Barsaat Bana Lo - Sargam, Harmonium And Flute Notes
-* Naiyo Lagda - Sargam, Harmonium And Flute Notes
-* Dil Chahte Ho (Jubin Nautiyal) - Sargam, Harmonium And Flute Notes
-* Laree Chootee (Call) - Sargam, Harmonium And Flute Notes
+- Iktara (Wake Up Sid) - Sargam, Harmonium And Flute Notes
+- Likhe Jo Khat Tujhe (Sanam) - Sargam, Harmonium And Flute Notes
+- Mujhko Barsaat Bana Lo - Sargam, Harmonium And Flute Notes
+- Naiyo Lagda - Sargam, Harmonium And Flute Notes
+- Dil Chahte Ho (Jubin Nautiyal) - Sargam, Harmonium And Flute Notes
+- Laree Chootee (Call) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -148,4 +140,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

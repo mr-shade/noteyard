@@ -1,5 +1,5 @@
 ---
-title: "# Yaaron Dosti Badi Hi (K.K.) – Sargam, Harmonium And Flute Notes"
+title: " Yaaron Dosti Badi Hi (K.K.) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Yaaron Dosti Badi Hi (K.K.) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: yaaron-dosti-badi-hi-kk-sargam-harmonium-and-flute-notes
@@ -62,25 +62,17 @@ Koi too dilbar hoo yaarr
 
 S.R.G.. G.R.G. S.R. G.R.S.
 
-
-
 Also Read This :-
 
-
-
-* Tum Hi Ho (Aashiqui 2) – Sargam And Flute Notes
-* Namo Namo (Kedarnath) – Sargam And Flute Notes
-* Channa Mereya (Ae Dil Hai Mushkil) – Sargam And Flute Notes
-* Aaj Se Teri (Padman) – Sargam And Flute Notes
-* Meri Aashiqui (Jubin Nautiyal) – Sargam And Flute Notes
+- Tum Hi Ho (Aashiqui 2) – Sargam And Flute Notes
+- Namo Namo (Kedarnath) – Sargam And Flute Notes
+- Channa Mereya (Ae Dil Hai Mushkil) – Sargam And Flute Notes
+- Aaj Se Teri (Padman) – Sargam And Flute Notes
+- Meri Aashiqui (Jubin Nautiyal) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -90,12 +82,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Ik Vaari Aa (Raabta) - Sargam, Harmonium And Flute Notes
-* Ek Din Teri Raahon Mein - Sargam, Harmonium And Flute Notes
-* Aashiyan (Barfi) - Sargam, Harmonium And Flute Notes
-* Tujhe Dekha To Yeh Jana Sanam Sargam, Harmonium And Flute Notes
-* Naa Tere Bin - Sargam, Harmonium And Flute Notes
-* Jhoome Jo Pathaan - Sargam, Harmonium And Flute Notes
+- Ik Vaari Aa (Raabta) - Sargam, Harmonium And Flute Notes
+- Ek Din Teri Raahon Mein - Sargam, Harmonium And Flute Notes
+- Aashiyan (Barfi) - Sargam, Harmonium And Flute Notes
+- Tujhe Dekha To Yeh Jana Sanam Sargam, Harmonium And Flute Notes
+- Naa Tere Bin - Sargam, Harmonium And Flute Notes
+- Jhoome Jo Pathaan - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -120,4 +112,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

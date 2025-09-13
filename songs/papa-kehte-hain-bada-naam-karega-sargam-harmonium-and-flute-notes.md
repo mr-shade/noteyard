@@ -1,5 +1,5 @@
 ---
-title: "# Papa Kehte Hain Bada Naam Karega – Sargam, Harmonium And Flute Notes"
+title: " Papa Kehte Hain Bada Naam Karega – Sargam, Harmonium And Flute Notes"
 description: "Learn # Papa Kehte Hain Bada Naam Karega notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: papa-kehte-hain-bada-naam-karega-sargam-harmonium-and-flute-notes
@@ -52,11 +52,11 @@ G’..G’..R’..S’..R’..P..D..S’…m’..G’..R’…G’.R’.S’..
 
 Also Read This :-
 
-* Girls Like You (Maroon 5) – Sargam And Flute Notes
-* Shayad (Love Aaj Kal) – Sargam And Flute Notes
-* Havana (Camila Cabello) – Sargam And Flute Notes
-* Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
-* Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
+- Girls Like You (Maroon 5) – Sargam And Flute Notes
+- Shayad (Love Aaj Kal) – Sargam And Flute Notes
+- Havana (Camila Cabello) – Sargam And Flute Notes
+- Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
+- Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
 
 relpost-thumb-wrapper
 
@@ -66,12 +66,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Bhool Jaa (Arijit Singh) - Sargam, Harmonium And Flute Notes
-* Sukoon Mila (Mary Kom) - Sargam, Harmonium And Flute Notes
-* Kaise Hua (Kabir Singh) - Sargam, Harmonium And Flute Notes
-* Papa Kehte Hain (2nd Version) - Sargam And Flute Notes
-* Be Intehaan (Race 2) - Sargam, Harmonium And Flute Notes
-* Chand Chupa Badal Mein (Hum Dil De Chuke Sanam) - Sargam, Harmonium And Flute Notes
+- Bhool Jaa (Arijit Singh) - Sargam, Harmonium And Flute Notes
+- Sukoon Mila (Mary Kom) - Sargam, Harmonium And Flute Notes
+- Kaise Hua (Kabir Singh) - Sargam, Harmonium And Flute Notes
+- Papa Kehte Hain (2nd Version) - Sargam And Flute Notes
+- Be Intehaan (Race 2) - Sargam, Harmonium And Flute Notes
+- Chand Chupa Badal Mein (Hum Dil De Chuke Sanam) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -96,4 +96,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

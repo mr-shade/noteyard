@@ -1,5 +1,5 @@
 ---
-title: "# Tu Hi Meri Shab Hai (Gangster) – Sargam, Harmonium And Flute Notes"
+title: " Tu Hi Meri Shab Hai (Gangster) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Tu Hi Meri Shab Hai (Gangster) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: tu-hi-meri-shab-hai-gangster-sargam-harmonium-and-flute-notes
@@ -114,15 +114,13 @@ P..D..N..D..P..M..G…
 
 Also Read This :-
 
-* Aaj Se Teri (Padman) – Sargam And Flute Notes
-* Meri Aashiqui (Jubin Nautiyal) – Sargam And Flute Notes
-* Tere Bina (Salman Khan) – Sargam And Flute Notes
-* Airtel Theme Music Sargam And Flute Notes For Beginners
-* Twinkle Twinkle Little Star – Sargam And Flute Notes For Beginners
+- Aaj Se Teri (Padman) – Sargam And Flute Notes
+- Meri Aashiqui (Jubin Nautiyal) – Sargam And Flute Notes
+- Tere Bina (Salman Khan) – Sargam And Flute Notes
+- Airtel Theme Music Sargam And Flute Notes For Beginners
+- Twinkle Twinkle Little Star – Sargam And Flute Notes For Beginners
 
 Where
-
-
 
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
 
@@ -134,12 +132,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Suna Suna Lamha Lamha - Sargam, Harmonium And Flute Notes
-* Kajra Re (Bunty Aur Babli) - Sargam, Harmonium And Flute Notes
-* Jay Jaykara (Baahubali 2) - Sargam, Harmonium And Flute Notes
-* Judaiyaan (Darshan Raval) - Sargam, Harmonium And Flute Notes
-* Salamat (Sarbjit) - Sargam, Harmonium And Flute Notes
-* Koi Ishaara (Force 2) - Sargam, Harmonium And Flute Notes
+- Suna Suna Lamha Lamha - Sargam, Harmonium And Flute Notes
+- Kajra Re (Bunty Aur Babli) - Sargam, Harmonium And Flute Notes
+- Jay Jaykara (Baahubali 2) - Sargam, Harmonium And Flute Notes
+- Judaiyaan (Darshan Raval) - Sargam, Harmonium And Flute Notes
+- Salamat (Sarbjit) - Sargam, Harmonium And Flute Notes
+- Koi Ishaara (Force 2) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -164,4 +162,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

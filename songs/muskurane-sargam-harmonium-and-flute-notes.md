@@ -1,5 +1,5 @@
 ---
-title: "# Muskurane – Sargam, Harmonium And Flute Notes"
+title: " Muskurane – Sargam, Harmonium And Flute Notes"
 description: "Learn # Muskurane notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: muskurane-sargam-harmonium-and-flute-notes
@@ -112,21 +112,15 @@ Oo ree piya re… piyaa ree
 
 G’..R’..m’..G’..R’….S’.R’.S’.R’..D.. N..D..D..
 
-
-
 Also Read This :-
 
-
-
-* Tere Bina (Salman Khan) – Sargam And Flute Notes
-* Airtel Theme Music Sargam And Flute Notes For Beginners
-* Likhe Jo Khat Tujhe (Sanam) – Sargam And Flute Notes
-* Rahogi Meri (Love Aaj Kal) – Sargam And Flute Notes
-* Coffin Dance Music Sargam And Flute Notes For Beginners
+- Tere Bina (Salman Khan) – Sargam And Flute Notes
+- Airtel Theme Music Sargam And Flute Notes For Beginners
+- Likhe Jo Khat Tujhe (Sanam) – Sargam And Flute Notes
+- Rahogi Meri (Love Aaj Kal) – Sargam And Flute Notes
+- Coffin Dance Music Sargam And Flute Notes For Beginners
 
 Where
-
-
 
 nw Paragraph 3
 
@@ -134,11 +128,7 @@ DO –  SA       –    S  RE  –  RE      –    RMI  –  G
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -148,12 +138,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Akhiyaan Gulaab - Sargam, Harmonium And Flute Notes
-* Jo Tum Mere Ho (Anuv Jain) - Sargam, Harmonium And Flute Notes
-* Satranga (FULL SONG) - Sargam, Harmonium And Flute Notes
-* Deva Deva (2nd Version) - Sargam, Harmonium And Flute Notes
-* Chahun Main Ya Naa (Easy Version) - Sargam And Flute Notes
-* Jab Deep Jale Aana - Sargam, Harmonium And Flute Notes
+- Akhiyaan Gulaab - Sargam, Harmonium And Flute Notes
+- Jo Tum Mere Ho (Anuv Jain) - Sargam, Harmonium And Flute Notes
+- Satranga (FULL SONG) - Sargam, Harmonium And Flute Notes
+- Deva Deva (2nd Version) - Sargam, Harmonium And Flute Notes
+- Chahun Main Ya Naa (Easy Version) - Sargam And Flute Notes
+- Jab Deep Jale Aana - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -178,4 +168,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

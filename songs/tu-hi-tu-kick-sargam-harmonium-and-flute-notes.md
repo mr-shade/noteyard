@@ -1,5 +1,5 @@
 ---
-title: "# Tu Hi Tu (Kick) – Sargam, Harmonium And Flute Notes"
+title: " Tu Hi Tu (Kick) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Tu Hi Tu (Kick) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: tu-hi-tu-kick-sargam-harmonium-and-flute-notes
@@ -108,11 +108,11 @@ G..R..S..S…
 
 Also Read This :-
 
-* Girls Like You (Maroon 5) – Sargam And Flute Notes
-* Main Rahoon Ya Na Rahoon (Armaan Malik) – Sargam And Flute Notes
-* Moh Moh ke dhaage (Dum Laga Ke Haisha) – Sargam And Flute Notes
-* Kisi Aur Naal (Asees Kaur) – Sargam And Flute Notes
-* Intezaar (Arijit Singh) – Sargam And Flute Notes
+- Girls Like You (Maroon 5) – Sargam And Flute Notes
+- Main Rahoon Ya Na Rahoon (Armaan Malik) – Sargam And Flute Notes
+- Moh Moh ke dhaage (Dum Laga Ke Haisha) – Sargam And Flute Notes
+- Kisi Aur Naal (Asees Kaur) – Sargam And Flute Notes
+- Intezaar (Arijit Singh) – Sargam And Flute Notes
 
 Where
 
@@ -126,12 +126,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Nainowale Ne (Padmaavat) - Sargam, Harmonium And Flute Notes
-* Radhe Krishna Ki Jyoti - Sargam, Harmonium And Flute Notes
-* Krishna Eternal Love Song - Sargam, Harmonium And Flute Notes
-* Tujhe Kitna Chahne Lage (Kabir Singh) Full Song Sargam, Harmonium And Flute Notes
-* Bandeya Re Bandeya (Simmba) - Sargam, Harmonium And Flute Notes
-* Meelon Ka Yaarana (Hero Splendor AD) - Sargam And Flute Notes
+- Nainowale Ne (Padmaavat) - Sargam, Harmonium And Flute Notes
+- Radhe Krishna Ki Jyoti - Sargam, Harmonium And Flute Notes
+- Krishna Eternal Love Song - Sargam, Harmonium And Flute Notes
+- Tujhe Kitna Chahne Lage (Kabir Singh) Full Song Sargam, Harmonium And Flute Notes
+- Bandeya Re Bandeya (Simmba) - Sargam, Harmonium And Flute Notes
+- Meelon Ka Yaarana (Hero Splendor AD) - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -156,4 +156,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

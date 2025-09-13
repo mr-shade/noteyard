@@ -1,5 +1,5 @@
 ---
-title: "# Kaise Bataaoon (3G) – Sargam, Harmonium And Flute Notes"
+title: " Kaise Bataaoon (3G) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Kaise Bataaoon (3G) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: kaise-bataaoon-3g-sargam-harmonium-and-flute-notes
@@ -102,11 +102,11 @@ S..R..G..R…n..S..S..
 
 Also Read This :-
 
-* Rait Zara Si (Atrangi Re) – Sargam, Harmonium And Flute Notes
-* Lambi Judaai (Hero) – Sargam, Harmonium And Flute Notes
-* Arziyaan (Jigariyaa) – Sargam, Harmonium And Flute Notes
-* Tum Itna Jo Muskura Rahe Ho – Sargam, Harmonium And Flute Notes
-* Bandeya (Dil Juunglee) – Sargam, Harmonium And Flute Notes
+- Rait Zara Si (Atrangi Re) – Sargam, Harmonium And Flute Notes
+- Lambi Judaai (Hero) – Sargam, Harmonium And Flute Notes
+- Arziyaan (Jigariyaa) – Sargam, Harmonium And Flute Notes
+- Tum Itna Jo Muskura Rahe Ho – Sargam, Harmonium And Flute Notes
+- Bandeya (Dil Juunglee) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -147,12 +147,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Maa (Taare Zameen Par) - Sargam, Harmonium And Flute Notes
-* Kya Hua Tera Wada - Sargam, Harmonium And Flute Notes
-* Mere Saamne Wali Khidki Mein Sargam, Harmonium And Flute Notes
-* Main Shiv Ka Shiv Mere - Sargam, Harmonium And Flute Notes
-* Vande Mataram (Easy Version) - Sargam And Flute Notes
-* Pal (Jalebi) - Sargam, Harmonium And Flute Notes
+- Maa (Taare Zameen Par) - Sargam, Harmonium And Flute Notes
+- Kya Hua Tera Wada - Sargam, Harmonium And Flute Notes
+- Mere Saamne Wali Khidki Mein Sargam, Harmonium And Flute Notes
+- Main Shiv Ka Shiv Mere - Sargam, Harmonium And Flute Notes
+- Vande Mataram (Easy Version) - Sargam And Flute Notes
+- Pal (Jalebi) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -177,4 +177,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

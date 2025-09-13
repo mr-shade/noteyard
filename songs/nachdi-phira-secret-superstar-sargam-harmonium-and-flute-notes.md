@@ -1,5 +1,5 @@
 ---
-title: "# Nachdi Phira (Secret Superstar) – Sargam, Harmonium And Flute Notes"
+title: " Nachdi Phira (Secret Superstar) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Nachdi Phira (Secret Superstar) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: nachdi-phira-secret-superstar-sargam-harmonium-and-flute-notes
@@ -114,11 +114,11 @@ S’..G’..S’..R’..R’…G’..R’..G’..R’..G’..R’..P’…
 
 Also Read This :-
 
-* Tose Naina (Mickey Virus) – Sargam, Harmonium And Flute Notes
-* Hamari Adhuri Kahani (Title Song) – Sargam, Harmonium And Flute Notes
-* Lambiyaan Si Judaiyaan (Raabta) – Sargam, Harmonium And Flute Notes
-* Kaise Mujhe (Ghajini) – Sargam, Harmonium And Flute Notes
-* Yeh Aaina Full Song (Kabir Singh) – Sargam, Harmonium And Flute Notes
+- Tose Naina (Mickey Virus) – Sargam, Harmonium And Flute Notes
+- Hamari Adhuri Kahani (Title Song) – Sargam, Harmonium And Flute Notes
+- Lambiyaan Si Judaiyaan (Raabta) – Sargam, Harmonium And Flute Notes
+- Kaise Mujhe (Ghajini) – Sargam, Harmonium And Flute Notes
+- Yeh Aaina Full Song (Kabir Singh) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -132,12 +132,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Bhagwan Hain Kahan Re Tu  - Sargam, Harmonium And Flute Notes
-* Yeh Raaten Yeh Mausam - Sargam, Harmonium And Flute Notes
-* Behti Hawa Sa Tha Woh (3 Idiots) - Sargam, Harmonium And Flute Notes
-* Yeh Shaam Mastani (Kati Patang) - Sargam, Harmonium And Flute Notes
-* Taare Zameen Par (Title Song) - Sargam, Harmonium And Flute Notes
-* O Bedardeya - Sargam, Harmonium And Flute Notes
+- Bhagwan Hain Kahan Re Tu - Sargam, Harmonium And Flute Notes
+- Yeh Raaten Yeh Mausam - Sargam, Harmonium And Flute Notes
+- Behti Hawa Sa Tha Woh (3 Idiots) - Sargam, Harmonium And Flute Notes
+- Yeh Shaam Mastani (Kati Patang) - Sargam, Harmonium And Flute Notes
+- Taare Zameen Par (Title Song) - Sargam, Harmonium And Flute Notes
+- O Bedardeya - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -162,4 +162,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

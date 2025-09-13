@@ -1,5 +1,5 @@
 ---
-title: "# Tere Naam Humne Kiya Hai – Sargam, Harmonium And Flute Notes"
+title: " Tere Naam Humne Kiya Hai – Sargam, Harmonium And Flute Notes"
 description: "Learn # Tere Naam Humne Kiya Hai notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: tere-naam-humne-kiya-hai-sargam-harmonium-and-flute-notes
@@ -130,11 +130,11 @@ G..m..D…D…P..N…D…P.S’…
 
 Also Read This :-
 
-* Tu Bhoola Jise (Airlift) – Sargam, Harmonium And Flute Notes
-* Lut Gaye (Jubin Nautiyal) – Sargam, Harmonium And Flute Notes
-* Tere Bina (Guru) – Sargam, Harmonium And Flute Notes
-* Oh Saaiyaan (The Power) – Sargam, Harmonium And Flute Notes
-* Hai Apna Dil To Aawara – Sargam, Harmonium And Flute Notes
+- Tu Bhoola Jise (Airlift) – Sargam, Harmonium And Flute Notes
+- Lut Gaye (Jubin Nautiyal) – Sargam, Harmonium And Flute Notes
+- Tere Bina (Guru) – Sargam, Harmonium And Flute Notes
+- Oh Saaiyaan (The Power) – Sargam, Harmonium And Flute Notes
+- Hai Apna Dil To Aawara – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -148,12 +148,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Behti Hawa Sa Tha Woh (3 Idiots) - Sargam, Harmonium And Flute Notes
-* Chand Chupa Badal Mein (Hum Dil De Chuke Sanam) - Sargam, Harmonium And Flute Notes
-* Tera Hone Laga Hoon - Sargam, Harmonium And Flute Notes
-* Jab Deep Jale Aana - Sargam, Harmonium And Flute Notes
-* Main Rahoon Ya Na Rahoon Sargam, Harmonium And Flute Notes
-* Soch Na Sake (Airlift) - Sargam, Harmonium And Flute Notes
+- Behti Hawa Sa Tha Woh (3 Idiots) - Sargam, Harmonium And Flute Notes
+- Chand Chupa Badal Mein (Hum Dil De Chuke Sanam) - Sargam, Harmonium And Flute Notes
+- Tera Hone Laga Hoon - Sargam, Harmonium And Flute Notes
+- Jab Deep Jale Aana - Sargam, Harmonium And Flute Notes
+- Main Rahoon Ya Na Rahoon Sargam, Harmonium And Flute Notes
+- Soch Na Sake (Airlift) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -178,4 +178,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

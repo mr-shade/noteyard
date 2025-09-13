@@ -1,5 +1,5 @@
 ---
-title: "# Tujhko Jo Paaya (Crook) – Sargam, Harmonium And Flute Notes"
+title: " Tujhko Jo Paaya (Crook) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Tujhko Jo Paaya (Crook) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: tujhko-jo-paaya-crook-sargam-harmonium-and-flute-notes
@@ -72,27 +72,19 @@ Bas jaayee hamdonoo kii daimiyaan
 
 P.m.R. D..D..D..D..N(K).D..P.
 
-
-
 Also Read This :-
 
-
-
-* Aaj Se Teri (Padman) – Sargam And Flute Notes
-* Bekhayali (Kabir Singh) (Full Song) Sargam And Flute Notes For Beginners
-* Iphone Ringtone Sargam And Flute Notes For Beginners
-* Kaun Tujhe (M.S. Dhoni The Untold Story) – Sargam And Flute Notes
-* Motu Patlu (Title Song) – Sargam And Flute Notes For Beginners
+- Aaj Se Teri (Padman) – Sargam And Flute Notes
+- Bekhayali (Kabir Singh) (Full Song) Sargam And Flute Notes For Beginners
+- Iphone Ringtone Sargam And Flute Notes For Beginners
+- Kaun Tujhe (M.S. Dhoni The Untold Story) – Sargam And Flute Notes
+- Motu Patlu (Title Song) – Sargam And Flute Notes For Beginners
 
 Where
-
-
 
 nw Paragraph 2
 
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -102,12 +94,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Balam Pichkari - Sargam, Harmonium And Flute Notes
-* Naino Ki To Baat Naina Jane Hai (2nd Ver.) - Sargam, Flute Notes
-* Toh Aagaye Hum (Jubin Nautiyal) - Sargam, Harmonium And Flute Notes
-* Pal Kaisa Pal (Monsoon Shootout) - Sargam, Harmonium And Flute Notes
-* Bahon Mein Chale Aao - Sargam, Harmonium And Flute Notes
-* Murshida (Arijit Singh) - Sargam, Harmonium And Flute Notes
+- Balam Pichkari - Sargam, Harmonium And Flute Notes
+- Naino Ki To Baat Naina Jane Hai (2nd Ver.) - Sargam, Flute Notes
+- Toh Aagaye Hum (Jubin Nautiyal) - Sargam, Harmonium And Flute Notes
+- Pal Kaisa Pal (Monsoon Shootout) - Sargam, Harmonium And Flute Notes
+- Bahon Mein Chale Aao - Sargam, Harmonium And Flute Notes
+- Murshida (Arijit Singh) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -132,4 +124,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

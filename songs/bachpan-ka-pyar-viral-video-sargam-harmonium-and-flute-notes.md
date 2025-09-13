@@ -1,5 +1,5 @@
 ---
-title: "# Bachpan Ka Pyar (Viral Video) – Sargam, Harmonium And Flute Notes"
+title: " Bachpan Ka Pyar (Viral Video) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Bachpan Ka Pyar (Viral Video) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: bachpan-ka-pyar-viral-video-sargam-harmonium-and-flute-notes
@@ -76,11 +76,11 @@ D..S’..D..m..P..P..P..
 
 Also Read This :-
 
-* Mehrama (Love Aaj Kal) – Sargam And Flute Notes
-* Memories (Maroon 5) – Sargam And Flute Notes
-* Muskurayega India (Vishal Mishra) – Sargam And Flute Notes
-* Aaj Bhi (Vishal Mishra) – Sargam And Flute Notes
-* Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
+- Mehrama (Love Aaj Kal) – Sargam And Flute Notes
+- Memories (Maroon 5) – Sargam And Flute Notes
+- Muskurayega India (Vishal Mishra) – Sargam And Flute Notes
+- Aaj Bhi (Vishal Mishra) – Sargam And Flute Notes
+- Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
 
 Where
 
@@ -94,12 +94,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Mere Humsafar (All Is Well) - Sargam, Harmonium And Flute Notes
-* Dil Na Jaaneya (Arijit Singh) - Sargam, Harmonium And Flute Notes
-* Kehna Hi Kya (Bombay) - Sargam, Harmonium And Flute Notes
-* Dilbara (Dhoom) - Sargam, Harmonium And Flute Notes
-* Tujhe Sochta Hoon (Jannat 2) - Sargam, Harmonium And Flute Notes
-* Kabhi Kabhi Mere Dil Mein - Sargam, Harmonium And Flute Notes
+- Mere Humsafar (All Is Well) - Sargam, Harmonium And Flute Notes
+- Dil Na Jaaneya (Arijit Singh) - Sargam, Harmonium And Flute Notes
+- Kehna Hi Kya (Bombay) - Sargam, Harmonium And Flute Notes
+- Dilbara (Dhoom) - Sargam, Harmonium And Flute Notes
+- Tujhe Sochta Hoon (Jannat 2) - Sargam, Harmonium And Flute Notes
+- Kabhi Kabhi Mere Dil Mein - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -124,4 +124,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

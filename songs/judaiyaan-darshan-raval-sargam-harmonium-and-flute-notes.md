@@ -1,5 +1,5 @@
 ---
-title: "# Judaiyaan (Darshan Raval) – Sargam, Harmonium And Flute Notes"
+title: " Judaiyaan (Darshan Raval) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Judaiyaan (Darshan Raval) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: judaiyaan-darshan-raval-sargam-harmonium-and-flute-notes
@@ -64,11 +64,11 @@ N..N..S’.N.D.P.D…
 
 Also Read This :-
 
-* Mehrama (Love Aaj Kal) – Sargam And Flute Notes
-* Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
-* Aaj Bhi (Vishal Mishra) – Sargam And Flute Notes
-* Pehla Pyaar (Kabir Singh) – Sargam And Flute Notes
-* Jinke Liye (Neha Kakkar) – Sargam And Flute Notes
+- Mehrama (Love Aaj Kal) – Sargam And Flute Notes
+- Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
+- Aaj Bhi (Vishal Mishra) – Sargam And Flute Notes
+- Pehla Pyaar (Kabir Singh) – Sargam And Flute Notes
+- Jinke Liye (Neha Kakkar) – Sargam And Flute Notes
 
 relpost-thumb-wrapper
 
@@ -78,12 +78,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Hardum Humdum (Ludo) - Sargam, Harmonium And Flute Notes
-* Zindagi Kuch Toh Bata - Sargam, Harmonium And Flute Notes
-* Dekhha Tenu (Mr. & Mrs. Mahi) - Sargam And Flute Notes
-* Tera Chehra (Sanam Teri Kasam) - Sargam, Harmonium And Flute Notes
-* Jhoom (R&B version) - Sargam, Harmonium And Flute Notes
-* Dil To Pagal Hai (Title Track) - Sargam, Harmonium, Flute Notes
+- Hardum Humdum (Ludo) - Sargam, Harmonium And Flute Notes
+- Zindagi Kuch Toh Bata - Sargam, Harmonium And Flute Notes
+- Dekhha Tenu (Mr. & Mrs. Mahi) - Sargam And Flute Notes
+- Tera Chehra (Sanam Teri Kasam) - Sargam, Harmonium And Flute Notes
+- Jhoom (R&B version) - Sargam, Harmonium And Flute Notes
+- Dil To Pagal Hai (Title Track) - Sargam, Harmonium, Flute Notes
 
 close related_posts_thumbnails
 
@@ -108,4 +108,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

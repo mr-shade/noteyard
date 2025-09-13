@@ -1,5 +1,5 @@
 ---
-title: "# Mere Baba (Jubin Nautiyal) – Sargam, Harmonium And Flute Notes"
+title: " Mere Baba (Jubin Nautiyal) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Mere Baba (Jubin Nautiyal) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: mere-baba-jubin-nautiyal-sargam-harmonium-and-flute-notes
@@ -64,11 +64,11 @@ G.R.R.G….D.P..G..R..S…S…
 
 Also Read This :-
 
-* Raataan Lambiyan (Full Song) – Sargam And Flute Notes – Shershaah
-* Itni Si Baat Hain (Azhar) – Sargam, Harmonium And Flute Notes
-* Gulabi Aankhen (SANAM) – Sargam, Harmonium And Flute Notes
-* Dil Ko Karaar Aaya – Sargam, Harmonium And Flute Notes
-* Mann Bharryaa 2.0 (Shershaah) – Sargam, Harmonium And Flute Notes
+- Raataan Lambiyan (Full Song) – Sargam And Flute Notes – Shershaah
+- Itni Si Baat Hain (Azhar) – Sargam, Harmonium And Flute Notes
+- Gulabi Aankhen (SANAM) – Sargam, Harmonium And Flute Notes
+- Dil Ko Karaar Aaya – Sargam, Harmonium And Flute Notes
+- Mann Bharryaa 2.0 (Shershaah) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -109,12 +109,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Tera Chehra Jab Nazar Aaye - Sargam, Harmonium, Flute Notes
-* Halki Halki Si - Sargam, Harmonium And Flute Notes
-* Tera Yaar Hoon Main Sargam, Harmonium And Flute Notes
-* Aankhon Se Batana (2nd Version) - Sargam And Flute Notes
-* Humdard (Ek Villain) - Sargam, Harmonium And Flute Notes
-* Dekhha Tenu (Mr. & Mrs. Mahi) - Sargam And Flute Notes
+- Tera Chehra Jab Nazar Aaye - Sargam, Harmonium, Flute Notes
+- Halki Halki Si - Sargam, Harmonium And Flute Notes
+- Tera Yaar Hoon Main Sargam, Harmonium And Flute Notes
+- Aankhon Se Batana (2nd Version) - Sargam And Flute Notes
+- Humdard (Ek Villain) - Sargam, Harmonium And Flute Notes
+- Dekhha Tenu (Mr. & Mrs. Mahi) - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -139,4 +139,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

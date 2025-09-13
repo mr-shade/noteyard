@@ -1,5 +1,5 @@
 ---
-title: "# Krrish – Sargam, Harmonium And Flute Notes"
+title: " Krrish – Sargam, Harmonium And Flute Notes"
 description: "Learn # Krrish notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: krrish-sargam-harmonium-and-flute-notes
@@ -50,21 +50,15 @@ nw Paragraph 1
 
 Also Read This :-
 
-
-
-* Lamborghini (Jai Mummy Di) – Sargam And Flute Notes
-* Leja Re (Dhvani Bhanushali) – Sargam And Flute Notes
-* Pyaar Karona (Salman Khan) – Sargam And Flute Notes
-* Mera Bhai (Vikas Naidu) – Sargam And Flute Notes
-* Rula Ke Gaya Ishq (Stebin Ben) – Sargam And Flute Notes
+- Lamborghini (Jai Mummy Di) – Sargam And Flute Notes
+- Leja Re (Dhvani Bhanushali) – Sargam And Flute Notes
+- Pyaar Karona (Salman Khan) – Sargam And Flute Notes
+- Mera Bhai (Vikas Naidu) – Sargam And Flute Notes
+- Rula Ke Gaya Ishq (Stebin Ben) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -74,12 +68,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Taqdeer Theme Tune Sargam, Harmonium And Flute Notes
-* Harry Potter (Theme Song) - Sargam, Harmonium And Flute Notes
-* Veerana Horror Tune - Sargam, Harmonium And Flute Notes
-* Victory Anthem Music - Sargam, Harmonium And Flute Notes
-* Taki Taki BGM (DJ Snake) - Sargam, Harmonium And Flute Notes
-* Aashiqui 2 Love Theme Tune - Sargam And Flute Notes
+- Taqdeer Theme Tune Sargam, Harmonium And Flute Notes
+- Harry Potter (Theme Song) - Sargam, Harmonium And Flute Notes
+- Veerana Horror Tune - Sargam, Harmonium And Flute Notes
+- Victory Anthem Music - Sargam, Harmonium And Flute Notes
+- Taki Taki BGM (DJ Snake) - Sargam, Harmonium And Flute Notes
+- Aashiqui 2 Love Theme Tune - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -104,4 +98,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

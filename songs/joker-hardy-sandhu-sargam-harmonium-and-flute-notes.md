@@ -1,5 +1,5 @@
 ---
-title: "# Joker (Hardy Sandhu) – Sargam, Harmonium And Flute Notes"
+title: " Joker (Hardy Sandhu) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Joker (Hardy Sandhu) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: joker-hardy-sandhu-sargam-harmonium-and-flute-notes
@@ -84,25 +84,17 @@ R.R.p.R. R.p.R. R.R.G..R.P..m.G..
 
 nw Paragraph 2
 
-
-
 Also Read This :-
 
-
-
-* Aao Na – Sargam And Flute Notes
-* Bhagwan Hain Kahan Re Tu – Sargam And Flute Notes
-* Teri Mitti – Indian Flute And Sargam Notes
-* Meherbaani – Sargam And Flute Notes
-* Hatim Theme Tune – Sargam And Flute Notes
+- Aao Na – Sargam And Flute Notes
+- Bhagwan Hain Kahan Re Tu – Sargam And Flute Notes
+- Teri Mitti – Indian Flute And Sargam Notes
+- Meherbaani – Sargam And Flute Notes
+- Hatim Theme Tune – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -112,12 +104,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Afsos (Anuv Jain) - Sargam, Harmonium And Flute Notes
-* Khaab (Akhil) - Sargam, Harmonium And Flute Notes
-* Arjan Vailly (Animal) - Sargam, Harmonium And Flute Notes
-* Soch (Hardy Sandhu) - Sargam, Harmonium And Flute Notes
-* With You (AP Dhillon) - Sargam, Harmonium And Flute Notes
-* Teri Mitti - Sargam, Harmonium And Flute Notes
+- Afsos (Anuv Jain) - Sargam, Harmonium And Flute Notes
+- Khaab (Akhil) - Sargam, Harmonium And Flute Notes
+- Arjan Vailly (Animal) - Sargam, Harmonium And Flute Notes
+- Soch (Hardy Sandhu) - Sargam, Harmonium And Flute Notes
+- With You (AP Dhillon) - Sargam, Harmonium And Flute Notes
+- Teri Mitti - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -142,4 +134,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

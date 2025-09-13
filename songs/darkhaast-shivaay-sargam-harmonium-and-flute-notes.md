@@ -1,5 +1,5 @@
 ---
-title: "# Darkhaast (Shivaay) – Sargam, Harmonium And Flute Notes"
+title: " Darkhaast (Shivaay) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Darkhaast (Shivaay) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: darkhaast-shivaay-sargam-harmonium-and-flute-notes
@@ -134,11 +134,11 @@ P..D..D..S’..S’..S’.R’.R’..G’..N.N.S’…
 
 Also Read This :-
 
-* Girls Like You (Maroon 5) – Sargam And Flute Notes
-* Shayad (Love Aaj Kal) – Sargam And Flute Notes
-* Havana (Camila Cabello) – Sargam And Flute Notes
-* Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
-* Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
+- Girls Like You (Maroon 5) – Sargam And Flute Notes
+- Shayad (Love Aaj Kal) – Sargam And Flute Notes
+- Havana (Camila Cabello) – Sargam And Flute Notes
+- Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
+- Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
 
 relpost-thumb-wrapper
 
@@ -148,12 +148,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Yaar Ve (Arijit Singh) - Sargam, Harmonium And Flute Notes
-* Papa Kehte Hain - Sargam, Harmonium And Flute Notes
-* Darasal (2nd Version) - Sargam, Harmonium And Flute Notes
-* Ishq Mubarak (Tum Bin 2) - Sargam, Harmonium And Flute Notes
-* Sawan Aaya Hai (Creature 3D) - Sargam, Harmonium And Flute Notes
-* Kaise Hua (Easy Version) - Sargam, Harmonium And Flute Notes
+- Yaar Ve (Arijit Singh) - Sargam, Harmonium And Flute Notes
+- Papa Kehte Hain - Sargam, Harmonium And Flute Notes
+- Darasal (2nd Version) - Sargam, Harmonium And Flute Notes
+- Ishq Mubarak (Tum Bin 2) - Sargam, Harmonium And Flute Notes
+- Sawan Aaya Hai (Creature 3D) - Sargam, Harmonium And Flute Notes
+- Kaise Hua (Easy Version) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -178,4 +178,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Bolna (Kapoor And Sons) – Sargam, Harmonium And Flute Notes"
+title: " Bolna (Kapoor And Sons) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Bolna (Kapoor And Sons) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: bolna-kapoor-and-sons-sargam-harmonium-and-flute-notes
@@ -62,25 +62,17 @@ Hmm o hoo o hoo hoooo
 
 R.G..m.G.R.S..G.R.S.S..
 
-
-
 Also Read This :-
 
-
-
-* Sanu Ek Pal Chain (Raid) – Sargam And Flute Notes
-* Gerua (Dilwale) – Sargam And Flute Notes
-* Tum Hi Aana (Marjaavaan) – Sargam And Flute Notes
-* Teri Meri Kahani (Happy Hardy And Heer) – Sargam And Flute Notes
-* Titanic (My Heart Will Go On) – Sargam And Flute Notes
+- Sanu Ek Pal Chain (Raid) – Sargam And Flute Notes
+- Gerua (Dilwale) – Sargam And Flute Notes
+- Tum Hi Aana (Marjaavaan) – Sargam And Flute Notes
+- Teri Meri Kahani (Happy Hardy And Heer) – Sargam And Flute Notes
+- Titanic (My Heart Will Go On) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -90,12 +82,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Manchala (Hasee Toh Phasee) - Sargam And Flute Notes
-* Tere Bina (Salman Khan) - Sargam, Harmonium And Flute Notes
-* Darkhaast (Shivaay) - Sargam, Harmonium And Flute Notes
-* Tum Itna Jo Muskura Rahe Ho - Sargam, Harmonium And Flute Notes
-* Na Tum Jaano Na Hum - Sargam, Harmonium And Flute Notes
-* Udd Jaa Kaale Kaava (2nd Version) - Sargam And Flute Notes
+- Manchala (Hasee Toh Phasee) - Sargam And Flute Notes
+- Tere Bina (Salman Khan) - Sargam, Harmonium And Flute Notes
+- Darkhaast (Shivaay) - Sargam, Harmonium And Flute Notes
+- Tum Itna Jo Muskura Rahe Ho - Sargam, Harmonium And Flute Notes
+- Na Tum Jaano Na Hum - Sargam, Harmonium And Flute Notes
+- Udd Jaa Kaale Kaava (2nd Version) - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -120,4 +112,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

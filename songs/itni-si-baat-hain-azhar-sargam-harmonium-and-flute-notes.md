@@ -1,5 +1,5 @@
 ---
-title: "# Itni Si Baat Hain (Azhar) – Sargam, Harmonium And Flute Notes"
+title: " Itni Si Baat Hain (Azhar) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Itni Si Baat Hain (Azhar) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: itni-si-baat-hain-azhar-sargam-harmonium-and-flute-notes
@@ -110,11 +110,11 @@ D.S’.S’.S’.R’…R’.G’.m’…G’.R’.S’..R’..S’.S’…
 
 Also Read This :-
 
-* Mehrama (Love Aaj Kal) – Sargam And Flute Notes
-* Memories (Maroon 5) – Sargam And Flute Notes
-* Muskurayega India (Vishal Mishra) – Sargam And Flute Notes
-* Aaj Bhi (Vishal Mishra) – Sargam And Flute Notes
-* Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
+- Mehrama (Love Aaj Kal) – Sargam And Flute Notes
+- Memories (Maroon 5) – Sargam And Flute Notes
+- Muskurayega India (Vishal Mishra) – Sargam And Flute Notes
+- Aaj Bhi (Vishal Mishra) – Sargam And Flute Notes
+- Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
 
 Where
 
@@ -128,12 +128,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Girl I Need You (Baaghi) - Sargam, Harmonium And Flute Notes
-* Rafta Rafta (Raaz 3) - Sargam, Harmonium And Flute Notes
-* Mere Mehboob Mere Sanam - Sargam, Harmonium, Flute Notes
-* Manikya Malaraya Poovi - Sargam, Harmonium And Flute Notes
-* Saari Duniya Jalaa Denge (2nd Version) - Sargam And Flute Notes
-* Itni Shakti Hamein Dena Data - Sargam And Flute Notes
+- Girl I Need You (Baaghi) - Sargam, Harmonium And Flute Notes
+- Rafta Rafta (Raaz 3) - Sargam, Harmonium And Flute Notes
+- Mere Mehboob Mere Sanam - Sargam, Harmonium, Flute Notes
+- Manikya Malaraya Poovi - Sargam, Harmonium And Flute Notes
+- Saari Duniya Jalaa Denge (2nd Version) - Sargam And Flute Notes
+- Itni Shakti Hamein Dena Data - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -158,4 +158,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Teri Meri Kahani (Happy Hardy And Heer) – Sargam, Harmonium And Flute Notes"
+title: " Teri Meri Kahani (Happy Hardy And Heer) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Teri Meri Kahani (Happy Hardy And Heer) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: teri-meri-kahani-happy-hardy-and-heer-sargam-harmonium-and-flute-notes
@@ -7,8 +7,6 @@ slug: teri-meri-kahani-happy-hardy-and-heer-sargam-harmonium-and-flute-notes
 
 Remove Numbers From Piano Notes
 Undo Changes
-
-
 
 ## Teri Meri Kahani (Happy Hardy And Heer) – Sargam, Harmonium And Flute Notes
 
@@ -148,29 +146,19 @@ Teriii meriii kahaani
 
 P.D.S’..N..D..D..D..
 
-
-
-
-
 Also Read This :-
 
-
-
-* Girls Like You (Maroon 5) – Sargam And Flute Notes
-* Shayad (Love Aaj Kal) – Sargam And Flute Notes
-* Havana (Camila Cabello) – Sargam And Flute Notes
-* Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
-* Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
+- Girls Like You (Maroon 5) – Sargam And Flute Notes
+- Shayad (Love Aaj Kal) – Sargam And Flute Notes
+- Havana (Camila Cabello) – Sargam And Flute Notes
+- Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
+- Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
 
 Where
 
 nw Paragraph 4
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -180,12 +168,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Vaaste (Dhvani Bhanushali) - Sargam, Harmonium And Flute Notes
-* Tum Se Hi (Jab We Met) - Sargam, Harmonium And Flute Notes
-* Ehsaan Tera Hoga Mujh Par - Sargam, Harmonium And Flute Notes
-* Baarish Lete Aana Full Song Sargam, Harmonium And Flute Notes (Darshan Raval)
-* Tere Binaa (Heropanti) - Sargam, Harmonium And Flute Notes
-* Jane Woh Kaise Log The - Sargam, Harmonium And Flute Notes
+- Vaaste (Dhvani Bhanushali) - Sargam, Harmonium And Flute Notes
+- Tum Se Hi (Jab We Met) - Sargam, Harmonium And Flute Notes
+- Ehsaan Tera Hoga Mujh Par - Sargam, Harmonium And Flute Notes
+- Baarish Lete Aana Full Song Sargam, Harmonium And Flute Notes (Darshan Raval)
+- Tere Binaa (Heropanti) - Sargam, Harmonium And Flute Notes
+- Jane Woh Kaise Log The - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -210,4 +198,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

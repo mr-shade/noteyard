@@ -1,5 +1,5 @@
 ---
-title: "# Saathiya (Singham) – Sargam, Harmonium And Flute Notes"
+title: " Saathiya (Singham) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Saathiya (Singham) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: saathiya-singham-sargam-harmonium-and-flute-notes
@@ -90,11 +90,11 @@ G..R..G..S..G..R…
 
 Also Read This :-
 
-* Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
-* Sandese Aate Hai (Border) – Sargam, Harmonium And Flute Notes
-* Uska Hi Banana (Arijit Singh) – Sargam, Harmonium And Flute Notes
-* Doorie (Atif Aslam) – Sargam, Harmonium And Flute Notes
-* Tu Bhoola Jise (Airlift) – Sargam, Harmonium And Flute Notes
+- Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
+- Sandese Aate Hai (Border) – Sargam, Harmonium And Flute Notes
+- Uska Hi Banana (Arijit Singh) – Sargam, Harmonium And Flute Notes
+- Doorie (Atif Aslam) – Sargam, Harmonium And Flute Notes
+- Tu Bhoola Jise (Airlift) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -135,12 +135,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Aayi Nai (Stree 2) - Sargam, Harmonium And Flute Notes
-* Bhool Bhulaiyaa (Title Track) - Sargam, Harmonium And Flute Notes
-* Hua Hain Aaj Pehli Baar - Sargam, Harmonium And Flute Notes
-* Husn (Anuv Jain) - Sargam, Harmonium And Flute Notes
-* Halki Halki Si - Sargam, Harmonium And Flute Notes
-* Aajkal Tere Mere Pyar Ke Charche - Sargam And Flute Notes
+- Aayi Nai (Stree 2) - Sargam, Harmonium And Flute Notes
+- Bhool Bhulaiyaa (Title Track) - Sargam, Harmonium And Flute Notes
+- Hua Hain Aaj Pehli Baar - Sargam, Harmonium And Flute Notes
+- Husn (Anuv Jain) - Sargam, Harmonium And Flute Notes
+- Halki Halki Si - Sargam, Harmonium And Flute Notes
+- Aajkal Tere Mere Pyar Ke Charche - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -165,4 +165,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

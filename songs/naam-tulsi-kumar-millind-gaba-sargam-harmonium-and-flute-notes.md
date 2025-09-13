@@ -1,5 +1,5 @@
 ---
-title: "# Naam (Tulsi Kumar, Millind Gaba) – Sargam, Harmonium And Flute Notes"
+title: " Naam (Tulsi Kumar, Millind Gaba) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Naam (Tulsi Kumar, Millind Gaba) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: naam-tulsi-kumar-millind-gaba-sargam-harmonium-and-flute-notes
@@ -7,8 +7,6 @@ slug: naam-tulsi-kumar-millind-gaba-sargam-harmonium-and-flute-notes
 
 Remove Numbers From Piano Notes
 Undo Changes
-
-
 
 ## Naam (Tulsi Kumar, Millind Gaba) – Sargam, Harmonium And Flute Notes
 
@@ -96,23 +94,15 @@ S.S.R..G.S..R.. R.m.G.R.S.d.S..
 
 Also Read This :-
 
-
-
-* Aaoge Jab Tum (Jab We Met) – Sargam And Flute Notes
-* Yaara Teri Yaari – Sargam And Flute Notes
-* Hothon Se Chhulo Tum (Jagjit Singh) – Sargam And Flute Notes
-* Janam Janam (Dilwale) – Sargam And Flute Notes
-* Barso Re Megha Megha (Guru) – Sargam And Flute Notes
+- Aaoge Jab Tum (Jab We Met) – Sargam And Flute Notes
+- Yaara Teri Yaari – Sargam And Flute Notes
+- Hothon Se Chhulo Tum (Jagjit Singh) – Sargam And Flute Notes
+- Janam Janam (Dilwale) – Sargam And Flute Notes
+- Barso Re Megha Megha (Guru) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
-
-
 
 relpost-thumb-wrapper
 
@@ -122,12 +112,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Baadshah O Baadshah - Sargam, Harmonium And Flute Notes
-* Bewajah (Sanam Teri Kasam) - Sargam, Harmonium, Flute Notes
-* Yeh Dil Deewana (Pardesh) - Sargam, Harmonium And Flute Notes
-* Main Balak Tu Mata - Sargam, Harmonium And Flute Notes
-* Saari Ki Saari 2.0 (Darshan Raval) - Sargam, Harmonium And Flute Notes
-* Wada Karo Nahi Chodoge - Sargam, Harmonium And Flute Notes
+- Baadshah O Baadshah - Sargam, Harmonium And Flute Notes
+- Bewajah (Sanam Teri Kasam) - Sargam, Harmonium, Flute Notes
+- Yeh Dil Deewana (Pardesh) - Sargam, Harmonium And Flute Notes
+- Main Balak Tu Mata - Sargam, Harmonium And Flute Notes
+- Saari Ki Saari 2.0 (Darshan Raval) - Sargam, Harmonium And Flute Notes
+- Wada Karo Nahi Chodoge - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -152,4 +142,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

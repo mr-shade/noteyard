@@ -1,5 +1,5 @@
 ---
-title: "# Chura Liya Hai Tumne Jo Dil Ko (Yaadon Ki Baaraat) – Sargam, Harmonium And Flute Notes"
+title: " Chura Liya Hai Tumne Jo Dil Ko (Yaadon Ki Baaraat) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Chura Liya Hai Tumne Jo Dil Ko (Yaadon Ki Baaraat) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: chura-liya-hai-tumne-jo-dil-ko-yaadon-ki-baaraat-sargam-harmonium-and-flute-notes
@@ -126,25 +126,17 @@ nw Paragraph 3
 
 D.D.S’.N..D..D..N..D.D..
 
-
-
 Also Read This :-
 
-
-
-* Aao Na – Sargam And Flute Notes
-* Bhagwan Hain Kahan Re Tu – Sargam And Flute Notes
-* Mahabharat – Sargam And Flute Notes
-* Meherbaani – Sargam And Flute Notes
-* Hatim Theme Tune – Sargam And Flute Notes
+- Aao Na – Sargam And Flute Notes
+- Bhagwan Hain Kahan Re Tu – Sargam And Flute Notes
+- Mahabharat – Sargam And Flute Notes
+- Meherbaani – Sargam And Flute Notes
+- Hatim Theme Tune – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -154,12 +146,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Mar Jaayen (Loveshhuda) - Sargam, Harmonium And Flute Notes
-* Suno Na Suno Na (Chalte Chalte) - Sargam, Harmonium And Flute Notes
-* Paniyon Sa (Satyameva Jayate) - Sargam, Harmonium And Flute Notes
-* Sanam Teri Kasam (Title Song) - Sargam And Flute Notes
-* Mere Dholna 3.0 (BB3) - Sargam, Harmonium And Flute Notes
-* Baarish (Stebin Ben, Payal Dev) - Sargam, Harmonium And Flute Notes
+- Mar Jaayen (Loveshhuda) - Sargam, Harmonium And Flute Notes
+- Suno Na Suno Na (Chalte Chalte) - Sargam, Harmonium And Flute Notes
+- Paniyon Sa (Satyameva Jayate) - Sargam, Harmonium And Flute Notes
+- Sanam Teri Kasam (Title Song) - Sargam And Flute Notes
+- Mere Dholna 3.0 (BB3) - Sargam, Harmonium And Flute Notes
+- Baarish (Stebin Ben, Payal Dev) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -184,4 +176,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

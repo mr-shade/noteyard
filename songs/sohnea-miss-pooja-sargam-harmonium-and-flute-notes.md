@@ -1,5 +1,5 @@
 ---
-title: "# Sohnea (Miss Pooja) – Sargam, Harmonium And Flute Notes"
+title: " Sohnea (Miss Pooja) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Sohnea (Miss Pooja) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: sohnea-miss-pooja-sargam-harmonium-and-flute-notes
@@ -120,27 +120,19 @@ Jinna mera tod da ae dil..
 
 P.P.P.M. G.G.M.D.P.
 
-
-
 nw Paragraph 3
 
 Also Read This :-
 
-
-
-* Mehrama (Love Aaj Kal) – Sargam And Flute Notes
-* Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
-* Memories (Maroon 5) – Sargam And Flute Notes
-* Malang (Title Track) – Sargam And Flute Notes
-* Baa Baa Black Sheep – Sargam And Flute Notes
+- Mehrama (Love Aaj Kal) – Sargam And Flute Notes
+- Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
+- Memories (Maroon 5) – Sargam And Flute Notes
+- Malang (Title Track) – Sargam And Flute Notes
+- Baa Baa Black Sheep – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -150,12 +142,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Aaj Sajeya (Goldie Sohel) - Sargam, Harmonium And Flute Notes
-* Baari (Bilal Saeed) - Sargam, Harmonium And Flute Notes
-* Love Dose (Honey Singh) - Sargam, Harmonium And Flute Notes
-* Mitti Di Khushboo - Sargam, Harmonium And Flute Notes
-* Arjan Vailly (Animal) - Sargam, Harmonium And Flute Notes
-* Kalla Sohna Nai (Neha Kakkar) - Sargam, Harmonium And Flute Notes
+- Aaj Sajeya (Goldie Sohel) - Sargam, Harmonium And Flute Notes
+- Baari (Bilal Saeed) - Sargam, Harmonium And Flute Notes
+- Love Dose (Honey Singh) - Sargam, Harmonium And Flute Notes
+- Mitti Di Khushboo - Sargam, Harmonium And Flute Notes
+- Arjan Vailly (Animal) - Sargam, Harmonium And Flute Notes
+- Kalla Sohna Nai (Neha Kakkar) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -180,4 +172,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

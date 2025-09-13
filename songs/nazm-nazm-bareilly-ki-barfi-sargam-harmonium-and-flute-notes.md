@@ -1,5 +1,5 @@
 ---
-title: "# Nazm Nazm (Bareilly Ki Barfi) – Sargam, Harmonium And Flute Notes"
+title: " Nazm Nazm (Bareilly Ki Barfi) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Nazm Nazm (Bareilly Ki Barfi) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: nazm-nazm-bareilly-ki-barfi-sargam-harmonium-and-flute-notes
@@ -118,11 +118,11 @@ P..P..P..G..R..G..S..
 
 Also Read This
 
-* Tera Hone Laga Hoon – Sargam, Harmonium And Flute Notes
-* Maula Mere Maula (Anwar) – Sargam, Harmonium And Flute Notes
-* Mere Nishaan (Darshan Raval) – Sargam, Harmonium And Flute Notes
-* Shiddat (Title Song) – Sargam, Harmonium And Flute Notes
-* Tose Naina Lage (Anwar) – Sargam, Harmonium And Flute Notes
+- Tera Hone Laga Hoon – Sargam, Harmonium And Flute Notes
+- Maula Mere Maula (Anwar) – Sargam, Harmonium And Flute Notes
+- Mere Nishaan (Darshan Raval) – Sargam, Harmonium And Flute Notes
+- Shiddat (Title Song) – Sargam, Harmonium And Flute Notes
+- Tose Naina Lage (Anwar) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -138,12 +138,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Mann Mera (Table No 21) - Sargam, Harmonium And Flute Notes
-* Humein Tumse Pyar Kitna (Kudrat) - Sargam, Harmonium And Flute Notes
-* Zindagi Ek Safar Hai Suhana - Sargam, Harmonium And Flute Notes
-* Tu Hain Toh Main Hoon - Sargam, Harmonium And Flute Notes
-* Maine Royaan (Tanveer Evan) - Sargam, Harmonium And Flute Notes
-* Paniyon Sa (Satyameva Jayate) - Sargam, Harmonium And Flute Notes
+- Mann Mera (Table No 21) - Sargam, Harmonium And Flute Notes
+- Humein Tumse Pyar Kitna (Kudrat) - Sargam, Harmonium And Flute Notes
+- Zindagi Ek Safar Hai Suhana - Sargam, Harmonium And Flute Notes
+- Tu Hain Toh Main Hoon - Sargam, Harmonium And Flute Notes
+- Maine Royaan (Tanveer Evan) - Sargam, Harmonium And Flute Notes
+- Paniyon Sa (Satyameva Jayate) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -168,4 +168,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

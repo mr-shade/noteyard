@@ -1,5 +1,5 @@
 ---
-title: "# Mera Dil Bhi Kitna Pagal Hai – Sargam, Harmonium And Flute Notes"
+title: " Mera Dil Bhi Kitna Pagal Hai – Sargam, Harmonium And Flute Notes"
 description: "Learn # Mera Dil Bhi Kitna Pagal Hai notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: mera-dil-bhi-kitna-pagal-hai-sargam-harmonium-and-flute-notes
@@ -68,15 +68,13 @@ m..G..R…R..R.. G..m..D..D..P..D..P..P..
 
 Also Read This :-
 
-* Mehrama (Love Aaj Kal) – Sargam And Flute Notes
-* Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
-* Aaj Bhi (Vishal Mishra) – Sargam And Flute Notes
-* Pehla Pyaar (Kabir Singh) – Sargam And Flute Notes
-* Jinke Liye (Neha Kakkar) – Sargam And Flute Notes
+- Mehrama (Love Aaj Kal) – Sargam And Flute Notes
+- Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
+- Aaj Bhi (Vishal Mishra) – Sargam And Flute Notes
+- Pehla Pyaar (Kabir Singh) – Sargam And Flute Notes
+- Jinke Liye (Neha Kakkar) – Sargam And Flute Notes
 
 Where
-
-
 
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
 
@@ -88,12 +86,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Mere Dholna Sargam Part - Sargam, Harmonium And Flute Notes
-* Dori Tutt Gaiyaan (Gunjan Saxena) - Sargam, Harmonium And Flute Notes
-* Zindagi Ke Safar Mein - Sargam, Harmonium And Flute Notes
-* Jeena Sikha De (Srikanth) - Sargam, Harmonium And Flute Notes
-* Saajanji Ghar Aaye - Sargam, Harmonium And Flute Notes
-* Jaan Ban Gaye (Khuda Haffiz)  - Sargam, Harmonium And Flute Notes
+- Mere Dholna Sargam Part - Sargam, Harmonium And Flute Notes
+- Dori Tutt Gaiyaan (Gunjan Saxena) - Sargam, Harmonium And Flute Notes
+- Zindagi Ke Safar Mein - Sargam, Harmonium And Flute Notes
+- Jeena Sikha De (Srikanth) - Sargam, Harmonium And Flute Notes
+- Saajanji Ghar Aaye - Sargam, Harmonium And Flute Notes
+- Jaan Ban Gaye (Khuda Haffiz) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -118,4 +116,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

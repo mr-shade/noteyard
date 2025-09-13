@@ -1,5 +1,5 @@
 ---
-title: "# Aashiyan (Barfi) – Sargam, Harmonium And Flute Notes"
+title: " Aashiyan (Barfi) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Aashiyan (Barfi) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: aashiyan-barfi-sargam-harmonium-and-flute-notes
@@ -118,11 +118,11 @@ S’..D..P..P…P…N..D..N..S’…
 
 Also Read This :-
 
-* O Mere Dil Ke Chain – Sargam, Harmonium And Flute Notes
-* Bas Ek Baar (Soham Naik) – Sargam, Harmonium And Flute Notes
-* Humnava (Hamari Adhuri Kahani) – Sargam, Harmonium And Flute Notes
-* Teri Yaadon Mein (The Killer) – Sargam, Harmonium And Flute Notes
-* Kya Mujhe Pyaar Hai (Woh Lamhe) – Sargam, Harmonium And Flute Notes
+- O Mere Dil Ke Chain – Sargam, Harmonium And Flute Notes
+- Bas Ek Baar (Soham Naik) – Sargam, Harmonium And Flute Notes
+- Humnava (Hamari Adhuri Kahani) – Sargam, Harmonium And Flute Notes
+- Teri Yaadon Mein (The Killer) – Sargam, Harmonium And Flute Notes
+- Kya Mujhe Pyaar Hai (Woh Lamhe) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -138,12 +138,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Aankhon Mein Teri (Om Shanti Om) - Sargam, Harmonium And Flute Notes
-* Ram Naam Ke Heere Moti - Sargam, Harmonium And Flute Notes
-* Kinna Sona (Bhaag Johnny) - Sargam, Harmonium And Flute Notes
-* Gulabi Ankhen (The Train) - Sargam, Harmonium And Flute Notes
-* Didi Tera Devar Deewana - Sargam, Harmonium And Flute Notes
-* Bol Do Na Zara (Azhar) - Sargam, Harmonium And Flute Notes
+- Aankhon Mein Teri (Om Shanti Om) - Sargam, Harmonium And Flute Notes
+- Ram Naam Ke Heere Moti - Sargam, Harmonium And Flute Notes
+- Kinna Sona (Bhaag Johnny) - Sargam, Harmonium And Flute Notes
+- Gulabi Ankhen (The Train) - Sargam, Harmonium And Flute Notes
+- Didi Tera Devar Deewana - Sargam, Harmonium And Flute Notes
+- Bol Do Na Zara (Azhar) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -168,4 +168,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

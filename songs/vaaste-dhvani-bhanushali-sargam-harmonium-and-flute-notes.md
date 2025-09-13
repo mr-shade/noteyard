@@ -1,5 +1,5 @@
 ---
-title: "# Vaaste (Dhvani Bhanushali) – Sargam, Harmonium And Flute Notes"
+title: " Vaaste (Dhvani Bhanushali) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Vaaste (Dhvani Bhanushali) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: vaaste-dhvani-bhanushali-sargam-harmonium-and-flute-notes
@@ -62,27 +62,17 @@ Kismato  ka likha mood duu
 
 p.d.S..n.p.n..d.p.p…
 
-
-
-
-
 Also Read This :-
 
-
-
-* Girls Like You (Maroon 5) – Sargam And Flute Notes
-* Shayad (Love Aaj Kal) – Sargam And Flute Notes
-* Havana (Camila Cabello) – Sargam And Flute Notes
-* Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
-* Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
+- Girls Like You (Maroon 5) – Sargam And Flute Notes
+- Shayad (Love Aaj Kal) – Sargam And Flute Notes
+- Havana (Camila Cabello) – Sargam And Flute Notes
+- Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
+- Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -92,12 +82,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Choo Lo [FULL SONG] - Sargam, Harmonium And Flute Notes
-* Nadaaniyan (Akshath) - Sargam, Harmonium And Flute Notes
-* Hasi (Hamari Adhuri Kahani) - Sargam, Harmonium And Flute Notes
-* Hare Krishna Hare Rama - Sargam, Harmonium And Flute Notes
-* Judaiyaan (Darshan Raval) - Sargam, Harmonium And Flute Notes
-* Chudi Jo Khanki - Sargam, Harmonium And Flute Notes
+- Choo Lo [FULL SONG] - Sargam, Harmonium And Flute Notes
+- Nadaaniyan (Akshath) - Sargam, Harmonium And Flute Notes
+- Hasi (Hamari Adhuri Kahani) - Sargam, Harmonium And Flute Notes
+- Hare Krishna Hare Rama - Sargam, Harmonium And Flute Notes
+- Judaiyaan (Darshan Raval) - Sargam, Harmonium And Flute Notes
+- Chudi Jo Khanki - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -122,4 +112,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

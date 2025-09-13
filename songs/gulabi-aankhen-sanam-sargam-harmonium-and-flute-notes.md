@@ -1,5 +1,5 @@
 ---
-title: "# Gulabi Aankhen (SANAM) – Sargam, Harmonium And Flute Notes"
+title: " Gulabi Aankhen (SANAM) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Gulabi Aankhen (SANAM) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: gulabi-aankhen-sanam-sargam-harmonium-and-flute-notes
@@ -262,11 +262,11 @@ R’..S’..R’.S’.N.D.D(K).D.N…
 
 Also Read This :-
 
-* Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
-* Sandese Aate Hai (Border) – Sargam, Harmonium And Flute Notes
-* Uska Hi Banana (Arijit Singh) – Sargam, Harmonium And Flute Notes
-* Doorie (Atif Aslam) – Sargam, Harmonium And Flute Notes
-* Tu Bhoola Jise (Airlift) – Sargam, Harmonium And Flute Notes
+- Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
+- Sandese Aate Hai (Border) – Sargam, Harmonium And Flute Notes
+- Uska Hi Banana (Arijit Singh) – Sargam, Harmonium And Flute Notes
+- Doorie (Atif Aslam) – Sargam, Harmonium And Flute Notes
+- Tu Bhoola Jise (Airlift) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -338,12 +338,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Musafir (Sweetiee Weds NRI) - Sargam, Harmonium And Flute Notes
-* Surili Akhiyon Wale (2nd Version) - Sargam And Flute Notes
-* Rishte Naate - Sargam, Harmonium And Flute Notes
-* Desh Pehle (Main Atal Hoon) - Sargam And Flute Notes
-* Hum Mar Jayenge (Aashiqui 2) - Sargam, Harmonium And Flute Notes
-* Madhubala (Amit Trivedi) - Sargam, Harmonium And Flute Notes
+- Musafir (Sweetiee Weds NRI) - Sargam, Harmonium And Flute Notes
+- Surili Akhiyon Wale (2nd Version) - Sargam And Flute Notes
+- Rishte Naate - Sargam, Harmonium And Flute Notes
+- Desh Pehle (Main Atal Hoon) - Sargam And Flute Notes
+- Hum Mar Jayenge (Aashiqui 2) - Sargam, Harmonium And Flute Notes
+- Madhubala (Amit Trivedi) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -368,4 +368,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

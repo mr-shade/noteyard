@@ -1,5 +1,5 @@
 ---
-title: "# Har Ghadi (Kal Ho Na Ho) – Sargam, Harmonium And Flute Notes"
+title: " Har Ghadi (Kal Ho Na Ho) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Har Ghadi (Kal Ho Na Ho) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: har-ghadi-kal-ho-na-ho-sargam-harmonium-and-flute-notes
@@ -120,27 +120,19 @@ Woh Dastan kal ho na hoo
 
 P..D..S’..D…P.m..m..N(K)..D..P…
 
-
-
 nw Paragraph 3
 
 Also Read This :-
 
-
-
-* Dil Diyan Gallan (Tiger Zinda Hai) – Sargam And Flute Notes
-* Tujh Mein Rab Dikhta Hai (Rab Ne Banadi Jodi) – Sargam And Flute Notes
-* Zara Zara (RHTDM) – Sargam And Flute Notes
-* Maula Mera Le Le Meri Jann (Chak De India) – Sargam And Flute Notes
-* Radha Krishna (Title Song) – Sargam And Flute Notes
+- Dil Diyan Gallan (Tiger Zinda Hai) – Sargam And Flute Notes
+- Tujh Mein Rab Dikhta Hai (Rab Ne Banadi Jodi) – Sargam And Flute Notes
+- Zara Zara (RHTDM) – Sargam And Flute Notes
+- Maula Mera Le Le Meri Jann (Chak De India) – Sargam And Flute Notes
+- Radha Krishna (Title Song) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -150,12 +142,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Sanson Ki Mala - Sargam, Harmonium And Flute Notes
-* Hum Kis Gali Ja Rahen Hain - Sargam, Harmonium And Flute Notes
-* Tumse Bhi Zyada (Tadap) - Sargam, Harmonium And Flute Notes
-* Jeena Yahan Marna Yahan - Sargam, Harmonium And Flute Notes
-* Phir Suna (Emptiness) - Sargam, Harmonium And Flute Notes
-* Dance Ka Bhoot - Sargam, Harmonium And Flute Notes
+- Sanson Ki Mala - Sargam, Harmonium And Flute Notes
+- Hum Kis Gali Ja Rahen Hain - Sargam, Harmonium And Flute Notes
+- Tumse Bhi Zyada (Tadap) - Sargam, Harmonium And Flute Notes
+- Jeena Yahan Marna Yahan - Sargam, Harmonium And Flute Notes
+- Phir Suna (Emptiness) - Sargam, Harmonium And Flute Notes
+- Dance Ka Bhoot - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -180,4 +172,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Sau Dard Hai (Jaan-E-Mann) – Sargam, Harmonium And Flute Notes"
+title: " Sau Dard Hai (Jaan-E-Mann) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Sau Dard Hai (Jaan-E-Mann) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: sau-dard-hai-jaan-e-mann-sargam-harmonium-and-flute-notes
@@ -74,27 +74,19 @@ m..G..R..G..R.. S.R..R..G.. m..G..R..G..
 
 S.R..R..G.. m..G..R.. S.n.S..
 
-
-
 Also Read This :-
 
-
-
-* Dil Diyan Gallan (Tiger Zinda Hai) – Sargam And Flute Notes
-* Tujh Mein Rab Dikhta Hai (Rab Ne Banadi Jodi) – Sargam And Flute Notes
-* Zara Zara (RHTDM) – Sargam And Flute Notes
-* Maula Mera Le Le Meri Jann (Chak De India) – Sargam And Flute Notes
-* Radha Krishna (Title Song) – Sargam And Flute Notes
+- Dil Diyan Gallan (Tiger Zinda Hai) – Sargam And Flute Notes
+- Tujh Mein Rab Dikhta Hai (Rab Ne Banadi Jodi) – Sargam And Flute Notes
+- Zara Zara (RHTDM) – Sargam And Flute Notes
+- Maula Mera Le Le Meri Jann (Chak De India) – Sargam And Flute Notes
+- Radha Krishna (Title Song) – Sargam And Flute Notes
 
 Where
 
 nw Paragraph 2
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -104,12 +96,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Yeh Dosti Hum Nahi Todenge - Sargam, Harmonium And Flute Notes
-* Bandeya Re Bandeya (Simmba) - Sargam, Harmonium And Flute Notes
-* Dil Mere (The Local Train) - Sargam, Harmonium And Flute Notes
-* Kabhi Khushi Kabhie Gham - Sargam, Harmonium And Flute Notes
-* Sajde (K.K.) - Sargam, Harmonium And Flute Notes
-* Abhi Abhi Toh Mile Ho (Jism 2) - Sargam, Harmonium And Flute Notes
+- Yeh Dosti Hum Nahi Todenge - Sargam, Harmonium And Flute Notes
+- Bandeya Re Bandeya (Simmba) - Sargam, Harmonium And Flute Notes
+- Dil Mere (The Local Train) - Sargam, Harmonium And Flute Notes
+- Kabhi Khushi Kabhie Gham - Sargam, Harmonium And Flute Notes
+- Sajde (K.K.) - Sargam, Harmonium And Flute Notes
+- Abhi Abhi Toh Mile Ho (Jism 2) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -134,4 +126,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

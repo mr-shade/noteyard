@@ -1,5 +1,5 @@
 ---
-title: "# Ek Pyar Ka Nagma Hai (Lata Mangeshkar) – Sargam, Harmonium And Flute Notes"
+title: " Ek Pyar Ka Nagma Hai (Lata Mangeshkar) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Ek Pyar Ka Nagma Hai (Lata Mangeshkar) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: ek-pyar-ka-nagma-hai-lata-mangeshkar-sargam-harmonium-and-flute-notes
@@ -206,11 +206,11 @@ S..R..G…m..P..m..m..G..G..
 
 Also Read This :-
 
-* Mehrama (Love Aaj Kal) – Sargam And Flute Notes
-* Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
-* Aaj Bhi (Vishal Mishra) – Sargam And Flute Notes
-* Muskurayega India (Vishal Mishra) – Sargam And Flute Notes
-* Pehla Pyaar (Kabir Singh) – Sargam And Flute Notes
+- Mehrama (Love Aaj Kal) – Sargam And Flute Notes
+- Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
+- Aaj Bhi (Vishal Mishra) – Sargam And Flute Notes
+- Muskurayega India (Vishal Mishra) – Sargam And Flute Notes
+- Pehla Pyaar (Kabir Singh) – Sargam And Flute Notes
 
 Where
 
@@ -224,12 +224,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Oonchi Oonchi Deewarein - Sargam, Harmonium And Flute Notes
-* Thoda Thoda Pyaar - Sargam, Harmonium And Flute Notes
-* Aziyat (2nd Version) - Sargam, Harmonium And Flute Notes
-* Vaaste (Full Song) - Sargam, Harmonium And Flute Notes
-* Emptiness - Sargam, Harmonium And Flute Notes
-* Aayi Nai (Stree 2) - Sargam, Harmonium And Flute Notes
+- Oonchi Oonchi Deewarein - Sargam, Harmonium And Flute Notes
+- Thoda Thoda Pyaar - Sargam, Harmonium And Flute Notes
+- Aziyat (2nd Version) - Sargam, Harmonium And Flute Notes
+- Vaaste (Full Song) - Sargam, Harmonium And Flute Notes
+- Emptiness - Sargam, Harmonium And Flute Notes
+- Aayi Nai (Stree 2) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -254,4 +254,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

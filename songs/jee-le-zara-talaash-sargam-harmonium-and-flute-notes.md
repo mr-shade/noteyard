@@ -1,5 +1,5 @@
 ---
-title: "# Jee Le Zara (Talaash) – Sargam, Harmonium And Flute Notes"
+title: " Jee Le Zara (Talaash) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Jee Le Zara (Talaash) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: jee-le-zara-talaash-sargam-harmonium-and-flute-notes
@@ -110,27 +110,19 @@ Aaa paas aaa jee le zara
 
 d…G…R..R.. n..S..n..d..
 
-
-
 Also Read This :-
 
-
-
-* Gulabi Ankhen (The Train) – Sargam And Flute Notes
-* Sanu Ek Pal Chain (Raid) – Sargam And Flute Notes
-* Gerua (Dilwale) – Sargam And Flute Notes
-* Tum Hi Aana (Marjaavaan) – Sargam And Flute Notes
-* Titanic (My Heart Will Go On) – Sargam And Flute Notes
+- Gulabi Ankhen (The Train) – Sargam And Flute Notes
+- Sanu Ek Pal Chain (Raid) – Sargam And Flute Notes
+- Gerua (Dilwale) – Sargam And Flute Notes
+- Tum Hi Aana (Marjaavaan) – Sargam And Flute Notes
+- Titanic (My Heart Will Go On) – Sargam And Flute Notes
 
 Where
-
-
 
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
 
 nw Paragraph 3
-
-
 
 relpost-thumb-wrapper
 
@@ -140,12 +132,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Haan Ke Haan (Maharaj) - Sargam, Harmonium And Flute Notes
-* Laadki - Sargam, Harmonium And Flute Notes
-* Tum Ko Dekha Toh Ye Khayal - Sargam, Harmonium And Flute Notes
-* Tera Ban Jaunga (Kabir Singh) - Sargam, Harmonium And Flute Notes
-* Manikya Malaraya Poovi - Sargam, Harmonium And Flute Notes
-* Tose Naina Lage (Anwar) - Sargam, Harmonium And Flute Notes
+- Haan Ke Haan (Maharaj) - Sargam, Harmonium And Flute Notes
+- Laadki - Sargam, Harmonium And Flute Notes
+- Tum Ko Dekha Toh Ye Khayal - Sargam, Harmonium And Flute Notes
+- Tera Ban Jaunga (Kabir Singh) - Sargam, Harmonium And Flute Notes
+- Manikya Malaraya Poovi - Sargam, Harmonium And Flute Notes
+- Tose Naina Lage (Anwar) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -170,4 +162,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

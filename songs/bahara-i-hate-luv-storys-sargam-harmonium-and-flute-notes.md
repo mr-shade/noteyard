@@ -1,5 +1,5 @@
 ---
-title: "# Bahara (I Hate Luv Storys) – Sargam, Harmonium And Flute Notes"
+title: " Bahara (I Hate Luv Storys) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Bahara (I Hate Luv Storys) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: bahara-i-hate-luv-storys-sargam-harmonium-and-flute-notes
@@ -90,11 +90,11 @@ S.R..R.G..R..S..p..S..S..G..G.R…
 
 Also Read This :-
 
-* Ek Ajnabee Haseena Se (Ajnabee) – Sargam And Flute Notes
-* Kalank (Title Track) – Sargam And Flute Notes
-* Dekha Hazaro Dafaa (Rustom) – Sargam And Flute Notes
-* I Like Me Better (Lauv) – Sargam And Flute Notes
-* Mere Wala Sardar (Jugraj Sandhu) – Sargam And Flute Notes
+- Ek Ajnabee Haseena Se (Ajnabee) – Sargam And Flute Notes
+- Kalank (Title Track) – Sargam And Flute Notes
+- Dekha Hazaro Dafaa (Rustom) – Sargam And Flute Notes
+- I Like Me Better (Lauv) – Sargam And Flute Notes
+- Mere Wala Sardar (Jugraj Sandhu) – Sargam And Flute Notes
 
 Where
 
@@ -108,12 +108,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Sooraj Ki Baahon Mein (ZNMD) - Sargam, Harmonium, Flute Notes
-* Dhadak (Title Song) - Sargam, Harmonium And Flute Notes
-* Bole Chudiyan (K3G) - Sargam, Harmonium And Flute Notes
-* Mujhko Barsaat Bana Lo - Sargam, Harmonium And Flute Notes
-* Choo Lo [FULL SONG] - Sargam, Harmonium And Flute Notes
-* Tum Hi Ho (Aashiqui 2) - Sargam, Harmonium And Flute Notes
+- Sooraj Ki Baahon Mein (ZNMD) - Sargam, Harmonium, Flute Notes
+- Dhadak (Title Song) - Sargam, Harmonium And Flute Notes
+- Bole Chudiyan (K3G) - Sargam, Harmonium And Flute Notes
+- Mujhko Barsaat Bana Lo - Sargam, Harmonium And Flute Notes
+- Choo Lo [FULL SONG] - Sargam, Harmonium And Flute Notes
+- Tum Hi Ho (Aashiqui 2) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -138,4 +138,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

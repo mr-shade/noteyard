@@ -1,5 +1,5 @@
 ---
-title: "# Thodi Jagah (Marjaavaan) – Sargam, Harmonium And Flute Notes"
+title: " Thodi Jagah (Marjaavaan) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Thodi Jagah (Marjaavaan) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: thodi-jagah-marjaavaan-sargam-harmonium-and-flute-notes
@@ -62,25 +62,17 @@ Teree paas kahin reh jaaun mainn
 
 G..S’.S’..S’..N..D..P..m..m..G..G..m..G.R..
 
-
-
 Also Read This :-
 
-
-
-* Bheegi Bheegi (Neha Kakkar, Tony Kakkar) – Sargam And Flute Notes
-* Tere Bina (Salman Khan) – Sargam And Flute Notes
-* Airtel Theme Music Sargam And Flute Notes For Beginners
-* Baari (Bilal Saeed) – Sargam And Flute Notes
-* Saari Ki Saari 2.0 (Darshan Raval) – Sargam And Flute Notes
+- Bheegi Bheegi (Neha Kakkar, Tony Kakkar) – Sargam And Flute Notes
+- Tere Bina (Salman Khan) – Sargam And Flute Notes
+- Airtel Theme Music Sargam And Flute Notes For Beginners
+- Baari (Bilal Saeed) – Sargam And Flute Notes
+- Saari Ki Saari 2.0 (Darshan Raval) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -90,12 +82,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Barso Re Megha Megha (Guru) - Sargam, Harmonium And Flute Notes
-* Mere Yaaraa (Sooryavanshi) - Sargam, Harmonium And Flute Notes
-* Tere Ishq Mein (Aditya Yadav) - Sargam, Harmonium And Flute Notes
-* Mere Baba (Jubin Nautiyal) - Sargam, Harmonium And Flute Notes
-* Dori Tutt Gaiyaan (Gunjan Saxena) - Sargam, Harmonium And Flute Notes
-* Tera Chehra Jab Nazar Aaye - Sargam, Harmonium, Flute Notes
+- Barso Re Megha Megha (Guru) - Sargam, Harmonium And Flute Notes
+- Mere Yaaraa (Sooryavanshi) - Sargam, Harmonium And Flute Notes
+- Tere Ishq Mein (Aditya Yadav) - Sargam, Harmonium And Flute Notes
+- Mere Baba (Jubin Nautiyal) - Sargam, Harmonium And Flute Notes
+- Dori Tutt Gaiyaan (Gunjan Saxena) - Sargam, Harmonium And Flute Notes
+- Tera Chehra Jab Nazar Aaye - Sargam, Harmonium, Flute Notes
 
 close related_posts_thumbnails
 
@@ -120,4 +112,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

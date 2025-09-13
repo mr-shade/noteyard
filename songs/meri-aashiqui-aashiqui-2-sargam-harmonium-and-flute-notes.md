@@ -1,5 +1,5 @@
 ---
-title: "# Meri Aashiqui (Aashiqui 2) – Sargam, Harmonium And Flute Notes"
+title: " Meri Aashiqui (Aashiqui 2) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Meri Aashiqui (Aashiqui 2) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: meri-aashiqui-aashiqui-2-sargam-harmonium-and-flute-notes
@@ -76,11 +76,11 @@ M.M.M…D..P…M.G.M…R..G…R..S..n..
 
 Also Read This :-
 
-* Aaoge Jab Tum (Jab We Met) – Sargam And Flute Notes
-* Tujhko Jo Paaya (Crook) – Sargam And Flute Notes
-* Yaara Teri Yaari – Sargam And Flute Notes
-* Dhadak (Title Song) – Sargam And Flute Notes
-* Barso Re Megha Megha (Guru) – Sargam And Flute Notes
+- Aaoge Jab Tum (Jab We Met) – Sargam And Flute Notes
+- Tujhko Jo Paaya (Crook) – Sargam And Flute Notes
+- Yaara Teri Yaari – Sargam And Flute Notes
+- Dhadak (Title Song) – Sargam And Flute Notes
+- Barso Re Megha Megha (Guru) – Sargam And Flute Notes
 
 Where
 
@@ -94,12 +94,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Aao Bachho Tumhe Dikhaye - Sargam, Harmonium, Flute Notes
-* Mera Pehla Pehla Pyaar (K.K.) - Sargam, Harmonium, Flute Notes
-* Mera Dil Ye Pukare Aaja - Sargam, Harmonium And Flute Notes
-* Hothon Se Chhulo Tum Sargam, Harmonium And Flute Notes
-* Main Hoon Na (Title Track) - Sargam, Harmonium And Flute Notes
-* Suna Suna Lamha Lamha - Sargam, Harmonium And Flute Notes
+- Aao Bachho Tumhe Dikhaye - Sargam, Harmonium, Flute Notes
+- Mera Pehla Pehla Pyaar (K.K.) - Sargam, Harmonium, Flute Notes
+- Mera Dil Ye Pukare Aaja - Sargam, Harmonium And Flute Notes
+- Hothon Se Chhulo Tum Sargam, Harmonium And Flute Notes
+- Main Hoon Na (Title Track) - Sargam, Harmonium And Flute Notes
+- Suna Suna Lamha Lamha - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -124,4 +124,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

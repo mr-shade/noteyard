@@ -1,5 +1,5 @@
 ---
-title: "# Yeh Chand Sa Roshan Chehra – Sargam, Harmonium And Flute Notes"
+title: " Yeh Chand Sa Roshan Chehra – Sargam, Harmonium And Flute Notes"
 description: "Learn # Yeh Chand Sa Roshan Chehra notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: yeh-chand-sa-roshan-chehra-sargam-harmonium-and-flute-notes
@@ -136,11 +136,11 @@ D..D..P…G..R…P..G..R..S..
 
 Also Read This :-
 
-* Dil Meri Na Sune (Genius) – Sargam, Harmonium And Flute Notes
-* Pehla Pyaar Full Song – Sargam, Harmonium And Flute Notes
-* Tujhse Naraaz Nahin Zindagi – Sargam, Harmonium And Flute Notes
-* Kyun Main Jaagoon – Sargam, Harmonium And Flute Notes
-* Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
+- Dil Meri Na Sune (Genius) – Sargam, Harmonium And Flute Notes
+- Pehla Pyaar Full Song – Sargam, Harmonium And Flute Notes
+- Tujhse Naraaz Nahin Zindagi – Sargam, Harmonium And Flute Notes
+- Kyun Main Jaagoon – Sargam, Harmonium And Flute Notes
+- Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -154,12 +154,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Kaun Tujhe (Easy Version) - Sargam, Harmonium And Flute Notes
-* Chaand Baaliyan (Aditya A.) - Sargam, Harmonium And Flute Notes
-* I Love You (Bodyguard) - Sargam, Harmonium And Flute Notes
-* Ishq Sufiana (The Dirty Picture) - Sargam, Harmonium And Flute Notes
-* Choo Lo (The Local Train) - Sargam, Harmonium And Flute Notes
-* Pyar Diwana Hota Hai - Sargam, Harmonium And Flute Notes
+- Kaun Tujhe (Easy Version) - Sargam, Harmonium And Flute Notes
+- Chaand Baaliyan (Aditya A.) - Sargam, Harmonium And Flute Notes
+- I Love You (Bodyguard) - Sargam, Harmonium And Flute Notes
+- Ishq Sufiana (The Dirty Picture) - Sargam, Harmonium And Flute Notes
+- Choo Lo (The Local Train) - Sargam, Harmonium And Flute Notes
+- Pyar Diwana Hota Hai - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -184,4 +184,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

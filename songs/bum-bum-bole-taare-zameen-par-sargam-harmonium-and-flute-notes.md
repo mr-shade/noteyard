@@ -1,5 +1,5 @@
 ---
-title: "# Bum Bum Bole (Taare Zameen Par) – Sargam, Harmonium And Flute Notes"
+title: " Bum Bum Bole (Taare Zameen Par) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Bum Bum Bole (Taare Zameen Par) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: bum-bum-bole-taare-zameen-par-sargam-harmonium-and-flute-notes
@@ -74,27 +74,19 @@ Mastii main tuu dol ree
 
 m.P.m.P..m..G..R..G..S..
 
-
-
 Also Read This :-
 
-
-
-* Aao Na – Sargam And Flute Notes
-* Bhagwan Hain Kahan Re Tu – Sargam And Flute Notes
-* Teri Mitti – Indian Flute And Sargam Notes
-* Meherbaani – Sargam And Flute Notes
-* Hatim Theme Tune – Sargam And Flute Notes
+- Aao Na – Sargam And Flute Notes
+- Bhagwan Hain Kahan Re Tu – Sargam And Flute Notes
+- Teri Mitti – Indian Flute And Sargam Notes
+- Meherbaani – Sargam And Flute Notes
+- Hatim Theme Tune – Sargam And Flute Notes
 
 Where
 
 nw Paragraph 2
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -104,12 +96,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Jahan Dal Dal Pe Sone Ki Chidiya - Sargam And Flute Notes
-* Sooraj Dooba Hain - Sargam, Harmonium And Flute Notes
-* Raaz Aankhein Teri (Raaz Reboot) - Sargam, Harmonium And Flute Notes
-* Khoobsurat (Stree 2) - Sargam, Harmonium And Flute Notes
-* Tere Ishq Mein (Aditya Yadav) - Sargam, Harmonium And Flute Notes
-* Manikya Malaraya Poovi - Sargam, Harmonium And Flute Notes
+- Jahan Dal Dal Pe Sone Ki Chidiya - Sargam And Flute Notes
+- Sooraj Dooba Hain - Sargam, Harmonium And Flute Notes
+- Raaz Aankhein Teri (Raaz Reboot) - Sargam, Harmonium And Flute Notes
+- Khoobsurat (Stree 2) - Sargam, Harmonium And Flute Notes
+- Tere Ishq Mein (Aditya Yadav) - Sargam, Harmonium And Flute Notes
+- Manikya Malaraya Poovi - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -134,4 +126,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

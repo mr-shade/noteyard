@@ -1,5 +1,5 @@
 ---
-title: "# Chahun Main Ya Naa (Aashiqui 2) – Sargam, Harmonium And Flute Notes"
+title: " Chahun Main Ya Naa (Aashiqui 2) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Chahun Main Ya Naa (Aashiqui 2) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: chahun-main-ya-naa-aashiqui-2-sargam-harmonium-and-flute-notes
@@ -220,11 +220,11 @@ P..D..N…D..D…
 
 Also Read This :-
 
-* Girls Like You (Maroon 5) – Sargam And Flute Notes
-* Shayad (Love Aaj Kal) – Sargam And Flute Notes
-* Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
-* Havana (Camila Cabello) – Sargam And Flute Notes
-* Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
+- Girls Like You (Maroon 5) – Sargam And Flute Notes
+- Shayad (Love Aaj Kal) – Sargam And Flute Notes
+- Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
+- Havana (Camila Cabello) – Sargam And Flute Notes
+- Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
 
 Where
 
@@ -265,12 +265,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Chori Kiya Re Jiya -  Sargam, Harmonium And Flute Notes
-* Rishte Naate - Sargam, Harmonium And Flute Notes
-* Ohh Maa (Ritesh Tiwari) - Sargam, Harmonium And Flute Notes
-* Tere Bina (1921) - Sargam, Harmonium And Flute Notes
-* Chor (Justh) - Sargam, Harmonium And Flute Notes
-* Tu Jo Mila (2nd Version) - Sargam, Harmonium And Flute Notes
+- Chori Kiya Re Jiya - Sargam, Harmonium And Flute Notes
+- Rishte Naate - Sargam, Harmonium And Flute Notes
+- Ohh Maa (Ritesh Tiwari) - Sargam, Harmonium And Flute Notes
+- Tere Bina (1921) - Sargam, Harmonium And Flute Notes
+- Chor (Justh) - Sargam, Harmonium And Flute Notes
+- Tu Jo Mila (2nd Version) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -295,4 +295,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

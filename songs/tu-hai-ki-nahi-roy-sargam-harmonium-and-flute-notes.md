@@ -1,5 +1,5 @@
 ---
-title: "# Tu Hai Ki Nahi (Roy) – Sargam, Harmonium And Flute Notes"
+title: " Tu Hai Ki Nahi (Roy) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Tu Hai Ki Nahi (Roy) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: tu-hai-ki-nahi-roy-sargam-harmonium-and-flute-notes
@@ -72,27 +72,19 @@ D..P..G.R.G..P..S..R.S.R..S.R.G.R..S.d..
 
 D..P..G.R.G..P..S..R.S.R..S.R.G.R..S.d..
 
-
-
 Also Read This :-
 
-
-
-* Aaoge Jab Tum (Jab We Met) – Sargam And Flute Notes
-* Yaara Teri Yaari – Sargam And Flute Notes
-* Ishq Sufiana (The Dirty Picture) – Sargam And Flute Notes
-* Vaaste (Dhvani Bhanushali) (Full Song) – Sargam And Flute Notes
-* Dhadak (Title Song) – Sargam And Flute Notes
+- Aaoge Jab Tum (Jab We Met) – Sargam And Flute Notes
+- Yaara Teri Yaari – Sargam And Flute Notes
+- Ishq Sufiana (The Dirty Picture) – Sargam And Flute Notes
+- Vaaste (Dhvani Bhanushali) (Full Song) – Sargam And Flute Notes
+- Dhadak (Title Song) – Sargam And Flute Notes
 
 Where
-
-
 
 nw Paragraph 2
 
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -102,12 +94,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Bin Tere (I Hate Luv Storys) - Sargam, Harmonium And Flute Notes
-* Bahut Pyaar Karte Hai (Saajan) - Sargam, Harmonium, Flute Notes
-* Itni Si Baat Hain (Azhar) - Sargam, Harmonium And Flute Notes
-* Kabira - Sargam, Harmonium And Flute Notes
-* Samjhawan - Sargam, Harmonium And Flute Notes
-* Hasi (Hamari Adhuri Kahani) - Sargam, Harmonium And Flute Notes
+- Bin Tere (I Hate Luv Storys) - Sargam, Harmonium And Flute Notes
+- Bahut Pyaar Karte Hai (Saajan) - Sargam, Harmonium, Flute Notes
+- Itni Si Baat Hain (Azhar) - Sargam, Harmonium And Flute Notes
+- Kabira - Sargam, Harmonium And Flute Notes
+- Samjhawan - Sargam, Harmonium And Flute Notes
+- Hasi (Hamari Adhuri Kahani) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -132,4 +124,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Yeh Shaam Mastani (Kati Patang) [Full Song] – Sargam, Harmonium And Flute Notes"
+title: " Yeh Shaam Mastani (Kati Patang) [Full Song] – Sargam, Harmonium And Flute Notes"
 description: "Learn # Yeh Shaam Mastani (Kati Patang) [Full Song] notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: yeh-shaam-mastani-kati-patang-full-song-sargam-harmonium-and-flute-notes
@@ -190,11 +190,11 @@ S’..N..N.S’.N.D…R’..R’..N.R’.P..
 
 Also Read This :-
 
-* Girls Like You (Maroon 5) – Sargam And Flute Notes
-* Shayad (Love Aaj Kal) – Sargam And Flute Notes
-* Havana (Camila Cabello) – Sargam And Flute Notes
-* Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
-* Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
+- Girls Like You (Maroon 5) – Sargam And Flute Notes
+- Shayad (Love Aaj Kal) – Sargam And Flute Notes
+- Havana (Camila Cabello) – Sargam And Flute Notes
+- Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
+- Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
 
 Where
 
@@ -208,12 +208,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Kaun Tujhe (Easy Version) - Sargam, Harmonium And Flute Notes
-* Tu Bhoola Jise (Airlift) - Sargam, Harmonium And Flute Notes
-* Tu Hi Meri Shab Hai (Gangster) - Sargam, Harmonium And Flute Notes
-* Jag Soona Soona Lage - Sargam, Harmonium And Flute Notes
-* Lutt Putt Gaya (Dunki) - Sargam, Harmonium And Flute Notes
-* Jo Wada Kiya Woh Nibhana Padega - Sargam And Flute Notes
+- Kaun Tujhe (Easy Version) - Sargam, Harmonium And Flute Notes
+- Tu Bhoola Jise (Airlift) - Sargam, Harmonium And Flute Notes
+- Tu Hi Meri Shab Hai (Gangster) - Sargam, Harmonium And Flute Notes
+- Jag Soona Soona Lage - Sargam, Harmonium And Flute Notes
+- Lutt Putt Gaya (Dunki) - Sargam, Harmonium And Flute Notes
+- Jo Wada Kiya Woh Nibhana Padega - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -238,4 +238,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

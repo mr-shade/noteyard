@@ -1,5 +1,5 @@
 ---
-title: "# Te Amo – Sargam, Harmonium And Flute Notes"
+title: " Te Amo – Sargam, Harmonium And Flute Notes"
 description: "Learn # Te Amo notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: te-amo-sargam-harmonium-and-flute-notes
@@ -90,25 +90,17 @@ R…G..G.. R…R…G..G..
 
 Teree hazaroo roop hai
 
-
-
 Also Read This :-
 
-
-
-* Tum Hi Ho (Aashiqui 2) – Sargam And Flute Notes
-* Namo Namo (Kedarnath) – Sargam And Flute Notes
-* Channa Mereya (Ae Dil Hai Mushkil) – Sargam And Flute Notes
-* Aaj Se Teri (Padman) – Sargam And Flute Notes
-* Meri Aashiqui (Jubin Nautiyal) – Sargam And Flute Notes
+- Tum Hi Ho (Aashiqui 2) – Sargam And Flute Notes
+- Namo Namo (Kedarnath) – Sargam And Flute Notes
+- Channa Mereya (Ae Dil Hai Mushkil) – Sargam And Flute Notes
+- Aaj Se Teri (Padman) – Sargam And Flute Notes
+- Meri Aashiqui (Jubin Nautiyal) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -118,12 +110,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Naina (Danngal) - Sargam, Harmonium And Flute Notes
-* Ik Tu Hai (Attack) - Sargam, Harmonium And Flute Notes
-* Raataan Lambiyan (Shershaah) - Sargam, Harmonium And Flute Notes
-* Taarifein (Ankit Tiwari) - Sargam, Harmonium And Flute Notes
-* Milne Hai Mujhse Aayi - Sargam, Harmonium And Flute Notes
-* Sach keh Raha Hai Deewana (Full Song) - Sargam and Flute Notes
+- Naina (Danngal) - Sargam, Harmonium And Flute Notes
+- Ik Tu Hai (Attack) - Sargam, Harmonium And Flute Notes
+- Raataan Lambiyan (Shershaah) - Sargam, Harmonium And Flute Notes
+- Taarifein (Ankit Tiwari) - Sargam, Harmonium And Flute Notes
+- Milne Hai Mujhse Aayi - Sargam, Harmonium And Flute Notes
+- Sach keh Raha Hai Deewana (Full Song) - Sargam and Flute Notes
 
 close related_posts_thumbnails
 
@@ -148,4 +140,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

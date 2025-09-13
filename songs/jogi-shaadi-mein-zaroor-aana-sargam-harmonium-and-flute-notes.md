@@ -1,5 +1,5 @@
 ---
-title: "# Jogi (Shaadi Mein Zaroor Aana) – Sargam, Harmonium And Flute Notes"
+title: " Jogi (Shaadi Mein Zaroor Aana) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Jogi (Shaadi Mein Zaroor Aana) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: jogi-shaadi-mein-zaroor-aana-sargam-harmonium-and-flute-notes
@@ -100,11 +100,11 @@ G.P.P..P..P..D.P..G.R..G.P.S’.N.S’..N.D.P.D.P.G.R.G.R.S..
 
 Also Read This :-
 
-* Dil Meri Na Sune (Genius) – Sargam, Harmonium And Flute Notes
-* Pehla Pyaar Full Song – Sargam, Harmonium And Flute Notes
-* Tujhse Naraaz Nahin Zindagi – Sargam, Harmonium And Flute Notes
-* Kyun Main Jaagoon – Sargam, Harmonium And Flute Notes
-* Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
+- Dil Meri Na Sune (Genius) – Sargam, Harmonium And Flute Notes
+- Pehla Pyaar Full Song – Sargam, Harmonium And Flute Notes
+- Tujhse Naraaz Nahin Zindagi – Sargam, Harmonium And Flute Notes
+- Kyun Main Jaagoon – Sargam, Harmonium And Flute Notes
+- Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -118,12 +118,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Kaise Ab Kahein (Gutar Gu) - Sargam, Harmonium And Flute Notes
-* Jhol (Coke Studio S15) - Sargam, Harmonium And Flute Notes
-* Baarish Lete Aana (Darshan Raval) - Sargam, Harmonium And Flute Notes
-* Dil Ko Maine Di Kasam Sargam, Harmonium And Flute Notes
-* Tum Hi Ho (Aashiqui 2) - Sargam, Harmonium And Flute Notes
-* Qismat (Ammy Virk) - Sargam, Harmonium And Flute Notes
+- Kaise Ab Kahein (Gutar Gu) - Sargam, Harmonium And Flute Notes
+- Jhol (Coke Studio S15) - Sargam, Harmonium And Flute Notes
+- Baarish Lete Aana (Darshan Raval) - Sargam, Harmonium And Flute Notes
+- Dil Ko Maine Di Kasam Sargam, Harmonium And Flute Notes
+- Tum Hi Ho (Aashiqui 2) - Sargam, Harmonium And Flute Notes
+- Qismat (Ammy Virk) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -148,4 +148,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

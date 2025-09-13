@@ -1,5 +1,5 @@
 ---
-title: "# Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes"
+title: " Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Teri Jhuki Nazar (Murder 3) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: teri-jhuki-nazar-murder-3-sargam-harmonium-and-flute-notes
@@ -98,11 +98,11 @@ d..d..G..R..R..
 
 Also Read This :-
 
-* Neki Ki Raah (Traffic) – Sargam, Harmonium And Flute Notes | Arijit Singh
-* Tera Fitoor (Genius) – Sargam, Harmonium And Flute Notes
-* Aasan Nahin Yahan (Aashiqui 2) – Sargam, Harmonium And Flute Notes
-* Koi Ishaara (Force 2) – Sargam, Harmonium And Flute Notes
-* Main Janta Hoon (The Body) – Sargam, Harmonium And Flute Notes
+- Neki Ki Raah (Traffic) – Sargam, Harmonium And Flute Notes | Arijit Singh
+- Tera Fitoor (Genius) – Sargam, Harmonium And Flute Notes
+- Aasan Nahin Yahan (Aashiqui 2) – Sargam, Harmonium And Flute Notes
+- Koi Ishaara (Force 2) – Sargam, Harmonium And Flute Notes
+- Main Janta Hoon (The Body) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -143,12 +143,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Tera Hi Bas Hona Chahoon - Sargam, Harmonium And Flute Notes
-* Deewana Kar Raha Hai - Sargam, Harmonium And Flute Notes
-* Dil (Ek Villain Returns) - Sargam, Harmonium And Flute Notes
-* Tum Ko Dekha Toh Ye Khayal - Sargam, Harmonium And Flute Notes
-* Jeete Hai Chal (Neerja) - Sargam, Harmonium And Flute Notes
-* Baarish (Stebin Ben, Payal Dev) - Sargam, Harmonium And Flute Notes
+- Tera Hi Bas Hona Chahoon - Sargam, Harmonium And Flute Notes
+- Deewana Kar Raha Hai - Sargam, Harmonium And Flute Notes
+- Dil (Ek Villain Returns) - Sargam, Harmonium And Flute Notes
+- Tum Ko Dekha Toh Ye Khayal - Sargam, Harmonium And Flute Notes
+- Jeete Hai Chal (Neerja) - Sargam, Harmonium And Flute Notes
+- Baarish (Stebin Ben, Payal Dev) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -173,4 +173,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

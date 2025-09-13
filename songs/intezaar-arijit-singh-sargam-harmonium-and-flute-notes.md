@@ -1,5 +1,5 @@
 ---
-title: "# Intezaar (Arijit Singh) – Sargam, Harmonium And Flute Notes"
+title: " Intezaar (Arijit Singh) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Intezaar (Arijit Singh) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: intezaar-arijit-singh-sargam-harmonium-and-flute-notes
@@ -92,25 +92,17 @@ Tera intezaar haii
 
 R’.S’.N..S’..R’..N..D..
 
-
-
 Also Read This :–
 
-
-
-* Tu Hai Ki Nahi (Roy) – Sargam And Flute Notes
-* Phir Kabhi (M.S. Dhoni) – Sargam And Flute Notes
-* Game Of Thrones – Sargam And Flute Note
-* O.M.G. Flute Tune – Sargam And Flute Notes
-* Zaalima (Raees) – Sargam And Flute Notes
+- Tu Hai Ki Nahi (Roy) – Sargam And Flute Notes
+- Phir Kabhi (M.S. Dhoni) – Sargam And Flute Notes
+- Game Of Thrones – Sargam And Flute Note
+- O.M.G. Flute Tune – Sargam And Flute Notes
+- Zaalima (Raees) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -120,12 +112,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Jeena Sikha De (Srikanth) - Sargam, Harmonium And Flute Notes
-* Channa Mereya Sargam, Harmonium And Flute Notes
-* Ishq Hai (Mismatched S3) - Sargam, Harmonium And Flute Notes
-* Paro (Aditya Rikhari) - Sargam, Harmonium And Flute Notes
-* Mitwa (Kabhi Alvida Na Kehna) - Sargam, Harmonium And Flute Notes
-* Barsaat Ki Dhun (Jubin Nautiyal) - Sargam, Harmonium And Flute Notes
+- Jeena Sikha De (Srikanth) - Sargam, Harmonium And Flute Notes
+- Channa Mereya Sargam, Harmonium And Flute Notes
+- Ishq Hai (Mismatched S3) - Sargam, Harmonium And Flute Notes
+- Paro (Aditya Rikhari) - Sargam, Harmonium And Flute Notes
+- Mitwa (Kabhi Alvida Na Kehna) - Sargam, Harmonium And Flute Notes
+- Barsaat Ki Dhun (Jubin Nautiyal) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -150,4 +142,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

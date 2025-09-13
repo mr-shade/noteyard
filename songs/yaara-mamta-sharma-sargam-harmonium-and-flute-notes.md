@@ -1,5 +1,5 @@
 ---
-title: "# Yaara (Mamta Sharma) – Sargam, Harmonium And Flute Notes"
+title: " Yaara (Mamta Sharma) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Yaara (Mamta Sharma) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: yaara-mamta-sharma-sargam-harmonium-and-flute-notes
@@ -104,25 +104,17 @@ Yahii fariyaad karte haii
 
 R.S.S.n(k).n(k).S..R.R.S.S.S.
 
-
-
 Also Read This :-
 
-
-
-* Dil Mein Ho Tum (Why Cheat India) – Sargam And Flute Notes
-* Raabta (Agent Vinod) (Full Song) – Sargam And Flute Notes
-* Senorita (Shawn Mendes, Camila Cabello) – Sargam And Flute Notes
-* Sohnea (Miss Pooja) – Sargam And Flute Notes
-* Let Me Love You (DJ Snake ft. Justin Bieber) – Sargam And Flute Notes
+- Dil Mein Ho Tum (Why Cheat India) – Sargam And Flute Notes
+- Raabta (Agent Vinod) (Full Song) – Sargam And Flute Notes
+- Senorita (Shawn Mendes, Camila Cabello) – Sargam And Flute Notes
+- Sohnea (Miss Pooja) – Sargam And Flute Notes
+- Let Me Love You (DJ Snake ft. Justin Bieber) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -132,12 +124,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Kaise Ab Kahein (Gutar Gu) - Sargam, Harmonium And Flute Notes
-* Raaz Aankhein Teri (2nd Version) - Sargam And Flute Notes
-* Yaad Teri Aaye Baar Baar - Sargam, Harmonium And Flute Notes
-* Dil Ko Maine Di Kasam Sargam, Harmonium And Flute Notes
-* Kehna Hi Kya (Bombay) - Sargam, Harmonium And Flute Notes
-* Kaala Jaadu (Freddy) - Sargam, Harmonium And Flute Notes
+- Kaise Ab Kahein (Gutar Gu) - Sargam, Harmonium And Flute Notes
+- Raaz Aankhein Teri (2nd Version) - Sargam And Flute Notes
+- Yaad Teri Aaye Baar Baar - Sargam, Harmonium And Flute Notes
+- Dil Ko Maine Di Kasam Sargam, Harmonium And Flute Notes
+- Kehna Hi Kya (Bombay) - Sargam, Harmonium And Flute Notes
+- Kaala Jaadu (Freddy) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -162,4 +154,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

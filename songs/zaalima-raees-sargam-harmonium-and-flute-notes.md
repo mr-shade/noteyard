@@ -1,5 +1,5 @@
 ---
-title: "# Zaalima (Raees) – Sargam, Harmonium And Flute Notes"
+title: " Zaalima (Raees) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Zaalima (Raees) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: zaalima-raees-sargam-harmonium-and-flute-notes
@@ -62,25 +62,17 @@ Teree husnn kaa dewaanaa huaa
 
 m..m..P..D..D..D..P..  P..P..S’..D..P..m.. P..m..G..
 
-
-
 Also Read This :-
 
-
-
-* Tum Hi Ho (Aashiqui 2) – Sargam And Flute Notes
-* Namo Namo (Kedarnath) – Sargam And Flute Notes
-* Channa Mereya (Ae Dil Hai Mushkil) – Sargam And Flute Notes
-* Aaj Se Teri (Padman) – Sargam And Flute Notes
-* Rula Ke Gaya Ishq (Stebin Ben) – Sargam And Flute Notes
+- Tum Hi Ho (Aashiqui 2) – Sargam And Flute Notes
+- Namo Namo (Kedarnath) – Sargam And Flute Notes
+- Channa Mereya (Ae Dil Hai Mushkil) – Sargam And Flute Notes
+- Aaj Se Teri (Padman) – Sargam And Flute Notes
+- Rula Ke Gaya Ishq (Stebin Ben) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -90,12 +82,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Main Agar Kahoon - Sargam, Harmonium And Flute Notes
-* Tumhe Dillagi (Raid 2) - Sargam, Harmonium And Flute Notes
-* Salaam Aaya (Veer) - Sargam, Harmonium And Flute Notes
-* Badal Barsha Bijuli - Sargam, Harmonium And Flute Notes
-* Oh Hansini (Kishore Kumar) - Sargam, Harmonium And Flute Notes
-* Falak Tak (Tashan) - Sargam, Harmonium And Flute Notes
+- Main Agar Kahoon - Sargam, Harmonium And Flute Notes
+- Tumhe Dillagi (Raid 2) - Sargam, Harmonium And Flute Notes
+- Salaam Aaya (Veer) - Sargam, Harmonium And Flute Notes
+- Badal Barsha Bijuli - Sargam, Harmonium And Flute Notes
+- Oh Hansini (Kishore Kumar) - Sargam, Harmonium And Flute Notes
+- Falak Tak (Tashan) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -120,4 +112,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

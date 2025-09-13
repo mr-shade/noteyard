@@ -1,5 +1,5 @@
 ---
-title: "# Pehla Nasha (Jo Jeeta Wohi Sikandar) – Sargam, Harmonium And Flute Notes"
+title: " Pehla Nasha (Jo Jeeta Wohi Sikandar) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Pehla Nasha (Jo Jeeta Wohi Sikandar) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: pehla-nasha-jo-jeeta-wohi-sikandar-sargam-harmonium-and-flute-notes
@@ -162,11 +162,11 @@ nw Paragraph 4
 
 Also Read This :-
 
-* Luka Chuppi (Lata Mangeshkar) – Sargam And Flute Notes
-* The Jungle Book (Title Song) – Sargam And Flute Notes
-* Afreen Afreen (Coke Studio) – Sargam And Flute Notes
-* Zindagi Do Pal Ki (Kites) – Sargam And Flute Notes
-* Pubg Theme Song – Sargam And Flute Notes
+- Luka Chuppi (Lata Mangeshkar) – Sargam And Flute Notes
+- The Jungle Book (Title Song) – Sargam And Flute Notes
+- Afreen Afreen (Coke Studio) – Sargam And Flute Notes
+- Zindagi Do Pal Ki (Kites) – Sargam And Flute Notes
+- Pubg Theme Song – Sargam And Flute Notes
 
 Where
 
@@ -180,12 +180,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Yaara Teri Yaari - Sargam, Harmonium And Flute Notes
-* Mahiye Jinna Sohna (Darshan Raval) - Sargam And Flute Notes
-* Lut Gaye (Jubin Nautiyal) - Sargam, Harmonium And Flute Notes
-* Jiyein Kyun Sargam, Harmonium And Flute Notes | Dum Maaro Dum
-* Dhaaga (2nd Version) - Sargam, Harmonium And Flute Notes
-* Pyaar Karona (Salman Khan) - Sargam, Harmonium And Flute Notes
+- Yaara Teri Yaari - Sargam, Harmonium And Flute Notes
+- Mahiye Jinna Sohna (Darshan Raval) - Sargam And Flute Notes
+- Lut Gaye (Jubin Nautiyal) - Sargam, Harmonium And Flute Notes
+- Jiyein Kyun Sargam, Harmonium And Flute Notes | Dum Maaro Dum
+- Dhaaga (2nd Version) - Sargam, Harmonium And Flute Notes
+- Pyaar Karona (Salman Khan) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -210,4 +210,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

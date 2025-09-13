@@ -1,5 +1,5 @@
 ---
-title: "# Aao Na – Sargam, Harmonium And Flute Notes"
+title: " Aao Na – Sargam, Harmonium And Flute Notes"
 description: "Learn # Aao Na notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: aao-na-sargam-harmonium-and-flute-notes
@@ -102,25 +102,17 @@ Dill mein jo baatein hai honto pe laao na
 
 P.S’.D..P.S’.D..P.S’.R’.N..N.D.S’…
 
-
-
 Also Read This :-
 
-
-
-* Dil Mein Ho Tum (Why Cheat India) – Sargam And Flute Notes
-* Aadat (Jal) – Sargam And Flute Notes
-* Raabta (Agent Vinod) (Full Song) – Sargam And Flute Notes
-* Senorita (Shawn Mendes, Camila Cabello) – Sargam And Flute Notes
-* Sohnea (Miss Pooja) – Sargam And Flute Notes
+- Dil Mein Ho Tum (Why Cheat India) – Sargam And Flute Notes
+- Aadat (Jal) – Sargam And Flute Notes
+- Raabta (Agent Vinod) (Full Song) – Sargam And Flute Notes
+- Senorita (Shawn Mendes, Camila Cabello) – Sargam And Flute Notes
+- Sohnea (Miss Pooja) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -130,12 +122,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Koi Ishaara (Force 2) - Sargam, Harmonium And Flute Notes
-* Hey Shona - Sargam, Harmonium And Flute Notes
-* Ilahi (Arijit Singh) - Sargam, Harmonium And Flute Notes
-* Chori Kiya Re Jiya -  Sargam, Harmonium And Flute Notes
-* Tere Naal (Darshan Raval) - Sargam, Harmonium And Flute Notes
-* Chhota Bheem (Title Song) - Sargam, Harmonium And Flute Notes
+- Koi Ishaara (Force 2) - Sargam, Harmonium And Flute Notes
+- Hey Shona - Sargam, Harmonium And Flute Notes
+- Ilahi (Arijit Singh) - Sargam, Harmonium And Flute Notes
+- Chori Kiya Re Jiya - Sargam, Harmonium And Flute Notes
+- Tere Naal (Darshan Raval) - Sargam, Harmonium And Flute Notes
+- Chhota Bheem (Title Song) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -160,4 +152,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

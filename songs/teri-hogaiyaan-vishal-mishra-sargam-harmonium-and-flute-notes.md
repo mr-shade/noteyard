@@ -1,5 +1,5 @@
 ---
-title: "# Teri Hogaiyaan (Vishal Mishra) – Sargam, Harmonium And Flute Notes"
+title: " Teri Hogaiyaan (Vishal Mishra) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Teri Hogaiyaan (Vishal Mishra) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: teri-hogaiyaan-vishal-mishra-sargam-harmonium-and-flute-notes
@@ -140,11 +140,11 @@ G..G..m..P..P.m.m…
 
 Also Read This :-
 
-* Meri Maa Ke Barabar Koi Nahi – Sargam, Harmonium And Flute Notes
-* Chunar (ABCD 2) – Sargam, Harmonium And Flute Notes
-* Chandan Sa Badan – Sargam, Harmonium And Flute Notes
-* Tere Naam Humne Kiya Hai – Sargam, Harmonium And Flute Notes
-* Main Tumhara (Easy Version) – Sargam, Harmonium And Flute Notes
+- Meri Maa Ke Barabar Koi Nahi – Sargam, Harmonium And Flute Notes
+- Chunar (ABCD 2) – Sargam, Harmonium And Flute Notes
+- Chandan Sa Badan – Sargam, Harmonium And Flute Notes
+- Tere Naam Humne Kiya Hai – Sargam, Harmonium And Flute Notes
+- Main Tumhara (Easy Version) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -158,12 +158,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Piya O Re Piya (Atif Aslam) - Sargam, Harmonium And Flute Notes
-* Tose Naina Lage (Anwar) - Sargam, Harmonium And Flute Notes
-* Iktara (Wake Up Sid) [FULL SONG] - Sargam, Harmonium And Flute Notes
-* Lae Dooba (Aiyaary) - Sargam, Harmonium And Flute Notes
-* Phir Miloge Na (JalRaj) - Sargam, Harmonium And Flute Notes
-* Kaun Disha Mein Leke Chala Re - Sargam, Harmonium And Flute Notes
+- Piya O Re Piya (Atif Aslam) - Sargam, Harmonium And Flute Notes
+- Tose Naina Lage (Anwar) - Sargam, Harmonium And Flute Notes
+- Iktara (Wake Up Sid) [FULL SONG] - Sargam, Harmonium And Flute Notes
+- Lae Dooba (Aiyaary) - Sargam, Harmonium And Flute Notes
+- Phir Miloge Na (JalRaj) - Sargam, Harmonium And Flute Notes
+- Kaun Disha Mein Leke Chala Re - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -188,4 +188,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

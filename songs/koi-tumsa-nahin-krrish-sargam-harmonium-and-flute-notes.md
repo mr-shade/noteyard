@@ -1,5 +1,5 @@
 ---
-title: "# Koi Tumsa Nahin (Krrish) – Sargam, Harmonium And Flute Notes"
+title: " Koi Tumsa Nahin (Krrish) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Koi Tumsa Nahin (Krrish) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: koi-tumsa-nahin-krrish-sargam-harmonium-and-flute-notes
@@ -172,11 +172,11 @@ m.m.G.R..R.S.S…
 
 Also Read This :-
 
-* Raataan Lambiyan (Full Song) – Sargam And Flute Notes – Shershaah
-* Itni Si Baat Hain (Azhar) – Sargam, Harmonium And Flute Notes
-* Gulabi Aankhen (SANAM) – Sargam, Harmonium And Flute Notes
-* Dil Ko Karaar Aaya – Sargam, Harmonium And Flute Notes
-* Mann Bharryaa 2.0 (Shershaah) – Sargam, Harmonium And Flute Notes
+- Raataan Lambiyan (Full Song) – Sargam And Flute Notes – Shershaah
+- Itni Si Baat Hain (Azhar) – Sargam, Harmonium And Flute Notes
+- Gulabi Aankhen (SANAM) – Sargam, Harmonium And Flute Notes
+- Dil Ko Karaar Aaya – Sargam, Harmonium And Flute Notes
+- Mann Bharryaa 2.0 (Shershaah) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -217,12 +217,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Namo Namo (FULL SONG) - Sargam, Harmonium And Flute Notes
-* Tumhe Dillagi (Raid 2) - Sargam, Harmonium And Flute Notes
-* Moh Moh Ke Dhaage - Sargam, Harmonium And Flute Notes
-* Zindagi Aa Raha Hoon Main - Sargam, Harmonium And Flute Notes
-* Tune Jo Na Kaha (New York) - Sargam, Harmonium And Flute Notes
-* Tu Aake Dekhle (King) - Sargam, Harmonium And Flute Notes
+- Namo Namo (FULL SONG) - Sargam, Harmonium And Flute Notes
+- Tumhe Dillagi (Raid 2) - Sargam, Harmonium And Flute Notes
+- Moh Moh Ke Dhaage - Sargam, Harmonium And Flute Notes
+- Zindagi Aa Raha Hoon Main - Sargam, Harmonium And Flute Notes
+- Tune Jo Na Kaha (New York) - Sargam, Harmonium And Flute Notes
+- Tu Aake Dekhle (King) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -247,4 +247,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

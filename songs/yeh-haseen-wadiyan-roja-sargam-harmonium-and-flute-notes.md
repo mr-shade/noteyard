@@ -1,5 +1,5 @@
 ---
-title: "# Yeh Haseen Wadiyan (Roja) – Sargam, Harmonium And Flute Notes"
+title: " Yeh Haseen Wadiyan (Roja) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Yeh Haseen Wadiyan (Roja) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: yeh-haseen-wadiyan-roja-sargam-harmonium-and-flute-notes
@@ -112,11 +112,11 @@ d..n..G..R.S..R..n..
 
 Also Read This :-
 
-* Ek Ajnabee Haseena Se (Ajnabee) – Sargam And Flute Notes
-* Kalank (Title Track) – Sargam And Flute Notes
-* Dekha Hazaro Dafaa (Rustom) – Sargam And Flute Notes
-* I Like Me Better (Lauv) – Sargam And Flute Notes
-* Mere Wala Sardar (Jugraj Sandhu) – Sargam And Flute Notes
+- Ek Ajnabee Haseena Se (Ajnabee) – Sargam And Flute Notes
+- Kalank (Title Track) – Sargam And Flute Notes
+- Dekha Hazaro Dafaa (Rustom) – Sargam And Flute Notes
+- I Like Me Better (Lauv) – Sargam And Flute Notes
+- Mere Wala Sardar (Jugraj Sandhu) – Sargam And Flute Notes
 
 Where
 
@@ -130,12 +130,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Kyun Main Jaagoon - Sargam, Harmonium And Flute Notes
-* Jeena Jeena [Full Song] - Sargam, Harmonium And Flute Notes
-* Baadshah O Baadshah - Sargam, Harmonium And Flute Notes
-* Mere Naam Tu (Zero) - Sargam, Harmonium And Flute Notes
-* Baarish Lete Aana Full Song Sargam, Harmonium And Flute Notes (Darshan Raval)
-* Yeh Mera Prem Patra - Sargam, Harmonium And Flute Notes
+- Kyun Main Jaagoon - Sargam, Harmonium And Flute Notes
+- Jeena Jeena [Full Song] - Sargam, Harmonium And Flute Notes
+- Baadshah O Baadshah - Sargam, Harmonium And Flute Notes
+- Mere Naam Tu (Zero) - Sargam, Harmonium And Flute Notes
+- Baarish Lete Aana Full Song Sargam, Harmonium And Flute Notes (Darshan Raval)
+- Yeh Mera Prem Patra - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -160,4 +160,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

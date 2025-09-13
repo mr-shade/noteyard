@@ -1,5 +1,5 @@
 ---
-title: "# Tujh Mein Rab Dikhta Hai (Easy Version) – Sargam And Flute Notes"
+title: " Tujh Mein Rab Dikhta Hai (Easy Version) – Sargam And Flute Notes"
 description: "Learn # Tujh Mein Rab Dikhta Hai (Easy Version) – Sargam And Flute Notes notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: tujh-mein-rab-dikhta-hai-easy-version-sargam-and-flute-notes
@@ -80,11 +80,11 @@ S..S.P…P.D.P.D..M.M..G..
 
 Also Read This :-
 
-* Raataan Lambiyan (Full Song) – Sargam And Flute Notes – Shershaah
-* Itni Si Baat Hain (Azhar) – Sargam, Harmonium And Flute Notes
-* Gulabi Aankhen (SANAM) – Sargam, Harmonium And Flute Notes
-* Dil Ko Karaar Aaya – Sargam, Harmonium And Flute Notes
-* Mann Bharryaa 2.0 (Shershaah) – Sargam, Harmonium And Flute Notes
+- Raataan Lambiyan (Full Song) – Sargam And Flute Notes – Shershaah
+- Itni Si Baat Hain (Azhar) – Sargam, Harmonium And Flute Notes
+- Gulabi Aankhen (SANAM) – Sargam, Harmonium And Flute Notes
+- Dil Ko Karaar Aaya – Sargam, Harmonium And Flute Notes
+- Mann Bharryaa 2.0 (Shershaah) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -127,12 +127,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Shri Krishna Govind Hare Murari [2nd Ver.] - Sargam, Flute Notes
-* Kandhon Se Milte Hain Kandhe - Sargam And Flute Notes
-* Tu Na Jaane Aas Paas Hai Khuda - Sargam And Flute Notes
-* Jeena Sikha De (Srikanth) - Sargam, Harmonium And Flute Notes
-* Aashiyan (Barfi) - Sargam, Harmonium And Flute Notes
-* Kitni Haseen Hogi (HIT) - Sargam, Harmonium And Flute Notes
+- Shri Krishna Govind Hare Murari [2nd Ver.] - Sargam, Flute Notes
+- Kandhon Se Milte Hain Kandhe - Sargam And Flute Notes
+- Tu Na Jaane Aas Paas Hai Khuda - Sargam And Flute Notes
+- Jeena Sikha De (Srikanth) - Sargam, Harmonium And Flute Notes
+- Aashiyan (Barfi) - Sargam, Harmonium And Flute Notes
+- Kitni Haseen Hogi (HIT) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -157,4 +157,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Tere Bina (Guru) – Sargam, Harmonium And Flute Notes"
+title: " Tere Bina (Guru) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Tere Bina (Guru) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: tere-bina-guru-sargam-harmonium-and-flute-notes
@@ -140,11 +140,11 @@ S.R..G..P..G.R.S..S..S..
 
 Also Read This :-
 
-* Tera Ban Jaunga (Kabir Singh) – Sargam And Flute Notes
-* On My Way (Alan Walker) – Sargam And Flute Notes
-* Sholay Theme Tune – Sargam And Flute Notes
-* Tera Ghata (Gajendra Verma) – Sargam And Flute Notes
-* Pirates Of The Caribbean – Sargam And Flute Notes
+- Tera Ban Jaunga (Kabir Singh) – Sargam And Flute Notes
+- On My Way (Alan Walker) – Sargam And Flute Notes
+- Sholay Theme Tune – Sargam And Flute Notes
+- Tera Ghata (Gajendra Verma) – Sargam And Flute Notes
+- Pirates Of The Caribbean – Sargam And Flute Notes
 
 relpost-thumb-wrapper
 
@@ -154,12 +154,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Jaan Ban Gaye (Khuda Haffiz)  - Sargam, Harmonium And Flute Notes
-* Phir Kabhi (Full Song) - Sargam, Harmonium And Flute Notes
-* Gulabi Sharara (Viral Song) - Sargam, Harmonium And Flute Notes
-* Pal (Jalebi) - Sargam, Harmonium And Flute Notes
-* Balam Pichkari - Sargam, Harmonium And Flute Notes
-* Dhaagon Se Baandhaa - Sargam, Harmonium And Flute Notes
+- Jaan Ban Gaye (Khuda Haffiz) - Sargam, Harmonium And Flute Notes
+- Phir Kabhi (Full Song) - Sargam, Harmonium And Flute Notes
+- Gulabi Sharara (Viral Song) - Sargam, Harmonium And Flute Notes
+- Pal (Jalebi) - Sargam, Harmonium And Flute Notes
+- Balam Pichkari - Sargam, Harmonium And Flute Notes
+- Dhaagon Se Baandhaa - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -184,4 +184,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

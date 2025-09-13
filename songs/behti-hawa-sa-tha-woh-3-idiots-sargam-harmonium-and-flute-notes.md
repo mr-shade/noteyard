@@ -1,5 +1,5 @@
 ---
-title: "# Behti Hawa Sa Tha Woh (3 Idiots) – Sargam, Harmonium And Flute Notes"
+title: " Behti Hawa Sa Tha Woh (3 Idiots) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Behti Hawa Sa Tha Woh (3 Idiots) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: behti-hawa-sa-tha-woh-3-idiots-sargam-harmonium-and-flute-notes
@@ -182,11 +182,11 @@ N..S’..N..D..P..D..m..P…
 
 Also Read This :-
 
-* Ek Ajnabee Haseena Se (Ajnabee) – Sargam And Flute Notes
-* Kalank (Title Track) – Sargam And Flute Notes
-* Dekha Hazaro Dafaa (Rustom) – Sargam And Flute Notes
-* I Like Me Better (Lauv) – Sargam And Flute Notes
-* Mere Wala Sardar (Jugraj Sandhu) – Sargam And Flute Notes
+- Ek Ajnabee Haseena Se (Ajnabee) – Sargam And Flute Notes
+- Kalank (Title Track) – Sargam And Flute Notes
+- Dekha Hazaro Dafaa (Rustom) – Sargam And Flute Notes
+- I Like Me Better (Lauv) – Sargam And Flute Notes
+- Mere Wala Sardar (Jugraj Sandhu) – Sargam And Flute Notes
 
 Where
 
@@ -200,12 +200,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Tere Bin (Simmba) - Sargam, Harmonium And Flute Notes
-* Shiv Kailasho Ke Vasi - Sargam, Harmonium And Flute Notes
-* Chandan Sa Badan - Sargam, Harmonium And Flute Notes
-* Mera Mulk Mera Desh - Sargam, Harmonium And Flute Notes
-* Saware (Phantom) - Sargam, Harmonium And Flute Notes
-* Rasiya (Easy Version) - Sargam, Harmonium And Flute Notes
+- Tere Bin (Simmba) - Sargam, Harmonium And Flute Notes
+- Shiv Kailasho Ke Vasi - Sargam, Harmonium And Flute Notes
+- Chandan Sa Badan - Sargam, Harmonium And Flute Notes
+- Mera Mulk Mera Desh - Sargam, Harmonium And Flute Notes
+- Saware (Phantom) - Sargam, Harmonium And Flute Notes
+- Rasiya (Easy Version) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -230,4 +230,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

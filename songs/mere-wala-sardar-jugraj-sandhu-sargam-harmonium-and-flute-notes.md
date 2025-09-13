@@ -1,5 +1,5 @@
 ---
-title: "# Mere Wala Sardar (Jugraj Sandhu) – Sargam, Harmonium And Flute Notes"
+title: " Mere Wala Sardar (Jugraj Sandhu) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Mere Wala Sardar (Jugraj Sandhu) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: mere-wala-sardar-jugraj-sandhu-sargam-harmonium-and-flute-notes
@@ -66,25 +66,17 @@ Mai gal pauna sidha chude waala haar vee
 
 G.R.R. R.R. R.R. R.m. m.G.G. G.R.S.R.S.
 
-
-
 Also Read This :-
 
-
-
-* Dekhte Dekhte (Batti Gul Meter Chalu) – Sargam And Flute Notes
-* Mere Saamne Wali Khidki Mein (Padosan) – Sargam And Flute Notes
-* Girls Like You (Maroon 5) – Sargam And Flute Notes
-* Shayad (Love Aaj Kal) – Sargam And Flute Notes
-* Havana (Camila Cabello) – Sargam And Flute Notes
+- Dekhte Dekhte (Batti Gul Meter Chalu) – Sargam And Flute Notes
+- Mere Saamne Wali Khidki Mein (Padosan) – Sargam And Flute Notes
+- Girls Like You (Maroon 5) – Sargam And Flute Notes
+- Shayad (Love Aaj Kal) – Sargam And Flute Notes
+- Havana (Camila Cabello) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -94,12 +86,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Kalla Sohna Nai (Neha Kakkar) - Sargam, Harmonium And Flute Notes
-* Ambarsariya (Fukrey) - Sargam, Harmonium And Flute Notes
-* Mitti Di Khushboo - Sargam, Harmonium And Flute Notes
-* Daru Badnaam - Sargam, Harmonium And Flute Notes
-* Arjan Vailly (Animal) - Sargam, Harmonium And Flute Notes
-* With You (AP Dhillon) - Sargam, Harmonium And Flute Notes
+- Kalla Sohna Nai (Neha Kakkar) - Sargam, Harmonium And Flute Notes
+- Ambarsariya (Fukrey) - Sargam, Harmonium And Flute Notes
+- Mitti Di Khushboo - Sargam, Harmonium And Flute Notes
+- Daru Badnaam - Sargam, Harmonium And Flute Notes
+- Arjan Vailly (Animal) - Sargam, Harmonium And Flute Notes
+- With You (AP Dhillon) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -124,4 +116,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

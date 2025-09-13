@@ -1,5 +1,5 @@
 ---
-title: "# Kali Kali Zulfon Ke Phande Na (Nusrat Fateh Ali Khan) – Sargam, Harmonium And Flute Notes"
+title: " Kali Kali Zulfon Ke Phande Na (Nusrat Fateh Ali Khan) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Kali Kali Zulfon Ke Phande Na (Nusrat Fateh Ali Khan) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: kali-kali-zulfon-ke-phande-na-nusrat-fateh-ali-khan-sargam-harmonium-and-flute-notes
@@ -180,11 +180,11 @@ P…D..D..P..G.R..S..
 
 Also Read This :-
 
-* Aashiqui Aa Gayi (Radhe Shyam) – Sargam, Harmonium And Flute Notes
-* Kuch Na Kaho (1942 A Love Story) – Sargam, Harmonium And Flute Notes
-* Love Me Thoda Aur (Yaariyan) – Sargam, Harmonium And Flute Notes
-* Kaise Bataaoon (3G) – Sargam, Harmonium And Flute Notes
-* Rait Zara Si (Atrangi Re) – Sargam, Harmonium And Flute Notes
+- Aashiqui Aa Gayi (Radhe Shyam) – Sargam, Harmonium And Flute Notes
+- Kuch Na Kaho (1942 A Love Story) – Sargam, Harmonium And Flute Notes
+- Love Me Thoda Aur (Yaariyan) – Sargam, Harmonium And Flute Notes
+- Kaise Bataaoon (3G) – Sargam, Harmonium And Flute Notes
+- Rait Zara Si (Atrangi Re) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -225,12 +225,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Manike Mage Hithe - Sargam, Harmonium And Flute Notes
-* Aaj Se Teri (Padman) - Sargam, Harmonium And Flute Notes
-* Dil Ko Maine Di Kasam Sargam, Harmonium And Flute Notes
-* Ruaan (Tiger 3) - Sargam, Harmonium And Flute Notes
-* Bulleya (Ae Dil Hai Mushkil) - Sargam, Harmonium And Flute Notes
-* Mann Jogiya (Arijit Singh) - Sargam, Harmonium And Flute Notes
+- Manike Mage Hithe - Sargam, Harmonium And Flute Notes
+- Aaj Se Teri (Padman) - Sargam, Harmonium And Flute Notes
+- Dil Ko Maine Di Kasam Sargam, Harmonium And Flute Notes
+- Ruaan (Tiger 3) - Sargam, Harmonium And Flute Notes
+- Bulleya (Ae Dil Hai Mushkil) - Sargam, Harmonium And Flute Notes
+- Mann Jogiya (Arijit Singh) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -255,4 +255,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

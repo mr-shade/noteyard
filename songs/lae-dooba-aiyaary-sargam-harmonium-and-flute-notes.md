@@ -1,5 +1,5 @@
 ---
-title: "# Lae Dooba (Aiyaary) – Sargam, Harmonium And Flute Notes"
+title: " Lae Dooba (Aiyaary) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Lae Dooba (Aiyaary) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: lae-dooba-aiyaary-sargam-harmonium-and-flute-notes
@@ -106,11 +106,11 @@ S..n..S..n..p..d….S..d..p..
 
 Also Read This :-
 
-* Tose Naina (Mickey Virus) – Sargam, Harmonium And Flute Notes
-* Hamari Adhuri Kahani (Title Song) – Sargam, Harmonium And Flute Notes
-* Lambiyaan Si Judaiyaan (Raabta) – Sargam, Harmonium And Flute Notes
-* Kaise Mujhe (Ghajini) – Sargam, Harmonium And Flute Notes
-* Yeh Aaina Full Song (Kabir Singh) – Sargam, Harmonium And Flute Notes
+- Tose Naina (Mickey Virus) – Sargam, Harmonium And Flute Notes
+- Hamari Adhuri Kahani (Title Song) – Sargam, Harmonium And Flute Notes
+- Lambiyaan Si Judaiyaan (Raabta) – Sargam, Harmonium And Flute Notes
+- Kaise Mujhe (Ghajini) – Sargam, Harmonium And Flute Notes
+- Yeh Aaina Full Song (Kabir Singh) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -124,12 +124,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Pehla Pyaar Full Song - Sargam, Harmonium And Flute Notes
-* Ishq Hai (Mismatched S3) - Sargam, Harmonium And Flute Notes
-* Dil Ko Karaar Aaya - Sargam, Harmonium And Flute Notes
-* Phir Mulaaqat (Cheat India) - Sargam, Harmonium And Flute Notes
-* Oh Oh Jane Jaana - Sargam, Harmonium And Flute Notes
-* Duur Na Karin (Khel Khel Mein) - Sargam, Harmonium, Flute Notes
+- Pehla Pyaar Full Song - Sargam, Harmonium And Flute Notes
+- Ishq Hai (Mismatched S3) - Sargam, Harmonium And Flute Notes
+- Dil Ko Karaar Aaya - Sargam, Harmonium And Flute Notes
+- Phir Mulaaqat (Cheat India) - Sargam, Harmonium And Flute Notes
+- Oh Oh Jane Jaana - Sargam, Harmonium And Flute Notes
+- Duur Na Karin (Khel Khel Mein) - Sargam, Harmonium, Flute Notes
 
 close related_posts_thumbnails
 
@@ -154,4 +154,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

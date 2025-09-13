@@ -1,5 +1,5 @@
 ---
-title: "# Tu Chahiye (Bajrangi Bhaijaan) – Sargam, Harmonium And Flute Notes"
+title: " Tu Chahiye (Bajrangi Bhaijaan) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Tu Chahiye (Bajrangi Bhaijaan) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: tu-chahiye-bajrangi-bhaijaan-sargam-harmonium-and-flute-notes
@@ -76,11 +76,11 @@ S..G..G..G…R..
 
 Also Read This :-
 
-* Phir Kabhi (Full Song) – Sargam, Harmonium And Flute Notes
-* Kahin To Hogi Woh – Sargam, Harmonium And Flute Notes
-* Tum Tak (Raanjhanaa) – Sargam, Harmonium And Flute Notes
-* Kya Mujhe Pyaar Hai (Woh Lamhe) – Sargam, Harmonium And Flute Notes
-* Hua Hain Aaj Pehli Baar – Sargam, Harmonium And Flute Notes
+- Phir Kabhi (Full Song) – Sargam, Harmonium And Flute Notes
+- Kahin To Hogi Woh – Sargam, Harmonium And Flute Notes
+- Tum Tak (Raanjhanaa) – Sargam, Harmonium And Flute Notes
+- Kya Mujhe Pyaar Hai (Woh Lamhe) – Sargam, Harmonium And Flute Notes
+- Hua Hain Aaj Pehli Baar – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -123,12 +123,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Isharo Isharo Mein - Sargam, Harmonium And Flute Notes
-* Chudi Jo Khanki - Sargam, Harmonium And Flute Notes
-* Chhod Diya (Baazaar) - Sargam, Harmonium And Flute Notes
-* Kajra Mohabbat Wala - Sargam, Harmonium And Flute Notes
-* Tose Naina (Mickey Virus) - Sargam, Harmonium And Flute Notes
-* Tose Naina Lage (Anwar) - Sargam, Harmonium And Flute Notes
+- Isharo Isharo Mein - Sargam, Harmonium And Flute Notes
+- Chudi Jo Khanki - Sargam, Harmonium And Flute Notes
+- Chhod Diya (Baazaar) - Sargam, Harmonium And Flute Notes
+- Kajra Mohabbat Wala - Sargam, Harmonium And Flute Notes
+- Tose Naina (Mickey Virus) - Sargam, Harmonium And Flute Notes
+- Tose Naina Lage (Anwar) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -153,4 +153,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

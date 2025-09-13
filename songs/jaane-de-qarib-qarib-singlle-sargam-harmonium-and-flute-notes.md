@@ -1,5 +1,5 @@
 ---
-title: "# Jaane De (Qarib Qarib Singlle) – Sargam, Harmonium And Flute Notes"
+title: " Jaane De (Qarib Qarib Singlle) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Jaane De (Qarib Qarib Singlle) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: jaane-de-qarib-qarib-singlle-sargam-harmonium-and-flute-notes
@@ -90,11 +90,11 @@ m..m..N(K)…D..N(K)..D..P..P..
 
 Also Read This :-
 
-* Kaun Tujhe (M.S. Dhoni The Untold Story) – Sargam And Flute Notes
-* Motu Patlu (Title Song) – Sargam And Flute Notes For Beginners
-* Ek Tukda Dhoop (Thappad) – Sargam And Flute Notes
-* Bheegi Bheegi (Neha Kakkar, Tony Kakkar) – Sargam And Flute Notes
-* Tere Bina (Salman Khan) – Sargam And Flute Notes
+- Kaun Tujhe (M.S. Dhoni The Untold Story) – Sargam And Flute Notes
+- Motu Patlu (Title Song) – Sargam And Flute Notes For Beginners
+- Ek Tukda Dhoop (Thappad) – Sargam And Flute Notes
+- Bheegi Bheegi (Neha Kakkar, Tony Kakkar) – Sargam And Flute Notes
+- Tere Bina (Salman Khan) – Sargam And Flute Notes
 
 relpost-thumb-wrapper
 
@@ -104,12 +104,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Afreen Afreen (Coke Studio) - Sargam, Harmonium And Flute Notes
-* Jag Ghoomeya (Sultan) - Sargam, Harmonium And Flute Notes
-* Bas Tum Mere Paas Raho - Sargam, Harmonium And Flute Notes
-* Main Nikla Gaddi Leke - Sargam, Harmonium And Flute Notes
-* Inn Aankhon Mein Tum (Jodha Akbar Serial Theme Song) - Sargam, Harmonium And Flute Notes
-* Yaad Hai (Aiyaary) - Sargam, Harmonium And Flute Notes
+- Afreen Afreen (Coke Studio) - Sargam, Harmonium And Flute Notes
+- Jag Ghoomeya (Sultan) - Sargam, Harmonium And Flute Notes
+- Bas Tum Mere Paas Raho - Sargam, Harmonium And Flute Notes
+- Main Nikla Gaddi Leke - Sargam, Harmonium And Flute Notes
+- Inn Aankhon Mein Tum (Jodha Akbar Serial Theme Song) - Sargam, Harmonium And Flute Notes
+- Yaad Hai (Aiyaary) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -134,4 +134,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

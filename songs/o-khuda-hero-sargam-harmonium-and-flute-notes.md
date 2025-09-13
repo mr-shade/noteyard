@@ -1,5 +1,5 @@
 ---
-title: "# O Khuda (Hero) – Sargam, Harmonium And Flute Notes"
+title: " O Khuda (Hero) – Sargam, Harmonium And Flute Notes"
 description: "Learn # O Khuda (Hero) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: o-khuda-hero-sargam-harmonium-and-flute-notes
@@ -90,11 +90,11 @@ p..p..R..S..R..n…d.n…d.d…
 
 Also Read This :-
 
-* Aaoge Jab Tum (Jab We Met) – Sargam And Flute Notes
-* Tujhko Jo Paaya (Crook) – Sargam And Flute Notes
-* Yaara Teri Yaari – Sargam And Flute Notes
-* Dhadak (Title Song) – Sargam And Flute Notes
-* Barso Re Megha Megha (Guru) – Sargam And Flute Notes
+- Aaoge Jab Tum (Jab We Met) – Sargam And Flute Notes
+- Tujhko Jo Paaya (Crook) – Sargam And Flute Notes
+- Yaara Teri Yaari – Sargam And Flute Notes
+- Dhadak (Title Song) – Sargam And Flute Notes
+- Barso Re Megha Megha (Guru) – Sargam And Flute Notes
 
 Where
 
@@ -108,12 +108,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Badtameez Dil - Sargam, Harmonium And Flute Notes
-* Suno Suno Saanware Ki - Sargam, Harmonium And Flute Notes
-* Ishq Sufiana (The Dirty Picture) - Sargam, Harmonium And Flute Notes
-* Kaise Hua (FULL SONG) - Sargam, Harmonium And Flute Notes
-* Tumhe Dillagi (Raid 2) - Sargam, Harmonium And Flute Notes
-* Agar Tum Saath Ho [FULL SONG] - Sargam And Flute Notes
+- Badtameez Dil - Sargam, Harmonium And Flute Notes
+- Suno Suno Saanware Ki - Sargam, Harmonium And Flute Notes
+- Ishq Sufiana (The Dirty Picture) - Sargam, Harmonium And Flute Notes
+- Kaise Hua (FULL SONG) - Sargam, Harmonium And Flute Notes
+- Tumhe Dillagi (Raid 2) - Sargam, Harmonium And Flute Notes
+- Agar Tum Saath Ho [FULL SONG] - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -138,4 +138,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

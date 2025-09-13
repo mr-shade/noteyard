@@ -1,5 +1,5 @@
 ---
-title: "# Tum Se Hi (Sadak 2) – Sargam, Harmonium And Flute Notes"
+title: " Tum Se Hi (Sadak 2) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Tum Se Hi (Sadak 2) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: tum-se-hi-sadak-2-sargam-harmonium-and-flute-notes
@@ -56,11 +56,11 @@ P.D.N…P..P.. m..m..D.P.m..G..
 
 Also Read This :-
 
-* Ajeeb Dastan (Lata Mangeshkar) – Sargam And Flute Notes
-* Baarish (Stebin Ben, Payal Dev) – Sargam And Flute Notes
-* Dil Ko Maine Di Kasam (Arijit Singh) – Sargam And Flute Notes
-* Taare Ginn (Dil Bechara) – Sargam And Flute Notes
-* Ek Tarfa (Darshan Raval) – Sargam And Flute Notes
+- Ajeeb Dastan (Lata Mangeshkar) – Sargam And Flute Notes
+- Baarish (Stebin Ben, Payal Dev) – Sargam And Flute Notes
+- Dil Ko Maine Di Kasam (Arijit Singh) – Sargam And Flute Notes
+- Taare Ginn (Dil Bechara) – Sargam And Flute Notes
+- Ek Tarfa (Darshan Raval) – Sargam And Flute Notes
 
 Where
 
@@ -74,12 +74,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Kandhon Se Milte Hain Kandhe - Sargam And Flute Notes
-* Maan Meri Jaan (King) - Sargam, Harmonium And Flute Notes
-* Chura Ke Dil Mera - Sargam, Harmonium And Flute Notes
-* Main Pal Do Pal Ka Shair Hoon - Sargam And Flute Notes
-* Khaare Raste - Sargam, Harmonium And Flute Notes
-* Kaho Na Kaho (Murder) - Sargam, Harmonium And Flute Notes
+- Kandhon Se Milte Hain Kandhe - Sargam And Flute Notes
+- Maan Meri Jaan (King) - Sargam, Harmonium And Flute Notes
+- Chura Ke Dil Mera - Sargam, Harmonium And Flute Notes
+- Main Pal Do Pal Ka Shair Hoon - Sargam And Flute Notes
+- Khaare Raste - Sargam, Harmonium And Flute Notes
+- Kaho Na Kaho (Murder) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -104,4 +104,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

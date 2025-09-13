@@ -1,5 +1,5 @@
 ---
-title: "# The Jungle Book (Title Song) – Sargam, Harmonium And Flute Notes"
+title: " The Jungle Book (Title Song) – Sargam, Harmonium And Flute Notes"
 description: "Learn # The Jungle Book (Title Song) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: the-jungle-book-title-song-sargam-harmonium-and-flute-notes
@@ -88,25 +88,17 @@ chaddi pehen kee phool khila haii
 
 G.G..R.R.R..S..S.S.S..
 
-
-
 Also Read This :-
 
-
-
-* Harry Potter (Theme Song) – Sargam And Flute Notes
-* Tujhe Dekha To Yeh Jana Sanam (DDLJ) – Sargam And Flute Notes
-* Mere Rashke Qamar (Baadshaho) – Sargam And Flute Notes
-* Main Jahaan Rahoon (Namastey London) – Sargam And Flute Notes
-* Aaoge Jab Tum (Jab We Met) – Sargam And Flute Notes
+- Harry Potter (Theme Song) – Sargam And Flute Notes
+- Tujhe Dekha To Yeh Jana Sanam (DDLJ) – Sargam And Flute Notes
+- Mere Rashke Qamar (Baadshaho) – Sargam And Flute Notes
+- Main Jahaan Rahoon (Namastey London) – Sargam And Flute Notes
+- Aaoge Jab Tum (Jab We Met) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -116,12 +108,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Maula Mera Le Le Meri Jann Sargam, Harmonium And Flute Notes
-* Tere Bina Zindagi Se - Sargam, Harmonium And Flute Notes
-* Nadaaniyan (Akshath) - Sargam, Harmonium And Flute Notes
-* Aaye Ho Meri Zindagi Mein (Raja Hindustani) - Sargam, Harmonium And Flute Notes
-* Woh Lamhe (Atif Aslam) Sargam, Harmonium And Flute Notes
-* Haan Ke Haan (Maharaj) - Sargam, Harmonium And Flute Notes
+- Maula Mera Le Le Meri Jann Sargam, Harmonium And Flute Notes
+- Tere Bina Zindagi Se - Sargam, Harmonium And Flute Notes
+- Nadaaniyan (Akshath) - Sargam, Harmonium And Flute Notes
+- Aaye Ho Meri Zindagi Mein (Raja Hindustani) - Sargam, Harmonium And Flute Notes
+- Woh Lamhe (Atif Aslam) Sargam, Harmonium And Flute Notes
+- Haan Ke Haan (Maharaj) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -146,4 +138,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Chookar Mere Mann Ko (Yaarana) – Sargam, Harmonium And Flute Notes"
+title: " Chookar Mere Mann Ko (Yaarana) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Chookar Mere Mann Ko (Yaarana) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: chookar-mere-mann-ko-yaarana-sargam-harmonium-and-flute-notes
@@ -120,11 +120,11 @@ p..d..n..n.. S..R..G..S..
 
 Also Read This :-
 
-* Dil Diyan Gallan (Tiger Zinda Hai) – Sargam And Flute Notes
-* Tujh Mein Rab Dikhta Hai (Rab Ne Banadi Jodi) – Sargam And Flute Notes
-* Zara Zara (RHTDM) – Sargam And Flute Notes
-* Maana Ke Hum Yaar Nahi (Meri Pyaari Bindu) – Sargam And Flute Notes
-* Tujhe Kitna Chahne Lage (Kabir Singh) – Sargam And Flute Notes
+- Dil Diyan Gallan (Tiger Zinda Hai) – Sargam And Flute Notes
+- Tujh Mein Rab Dikhta Hai (Rab Ne Banadi Jodi) – Sargam And Flute Notes
+- Zara Zara (RHTDM) – Sargam And Flute Notes
+- Maana Ke Hum Yaar Nahi (Meri Pyaari Bindu) – Sargam And Flute Notes
+- Tujhe Kitna Chahne Lage (Kabir Singh) – Sargam And Flute Notes
 
 Where
 
@@ -140,12 +140,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Jai Shree Ram (Hansraj Raghuwanshi) - Sargam And Flute Notes
-* Rait Zara Si (Atrangi Re) - Sargam, Harmonium And Flute Notes
-* Tera Hua (Bad Boy) - Sargam, Harmonium And Flute Notes
-* Abhi Mujh Mein Kahin (Agneepath) - Sargam, Harmonium And Flute Notes
-* Girl I Need You (Baaghi) - Sargam, Harmonium And Flute Notes
-* Safarnama (Tamasha) - Sargam, Harmonium And Flute Notes
+- Jai Shree Ram (Hansraj Raghuwanshi) - Sargam And Flute Notes
+- Rait Zara Si (Atrangi Re) - Sargam, Harmonium And Flute Notes
+- Tera Hua (Bad Boy) - Sargam, Harmonium And Flute Notes
+- Abhi Mujh Mein Kahin (Agneepath) - Sargam, Harmonium And Flute Notes
+- Girl I Need You (Baaghi) - Sargam, Harmonium And Flute Notes
+- Safarnama (Tamasha) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -170,4 +170,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

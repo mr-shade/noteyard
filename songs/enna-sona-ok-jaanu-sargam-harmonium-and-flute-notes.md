@@ -1,5 +1,5 @@
 ---
-title: "# Enna Sona (Ok Jaanu) – Sargam, Harmonium And Flute Notes"
+title: " Enna Sona (Ok Jaanu) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Enna Sona (Ok Jaanu) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: enna-sona-ok-jaanu-sargam-harmonium-and-flute-notes
@@ -68,11 +68,11 @@ n..p..d..n..n..S..n.. d..p..p..d…
 
 Also Read This :-
 
-* Beete Lamhein (The Train) – Sargam, Harmonium And Flute Notes
-* Mar Jaayen (Loveshhuda) – Sargam, Harmonium And Flute Notes
-* Khyaal Rakhya Kar (Neha Kakkar) – Sargam, Harmonium And Flute Notes
-* Dhokha Dhadi (R.. Rajkumar) – Sargam, Harmonium And Flute Notes
-* Shukra Tera (Samrat & Co) – Sargam, Harmonium And Flute Notes
+- Beete Lamhein (The Train) – Sargam, Harmonium And Flute Notes
+- Mar Jaayen (Loveshhuda) – Sargam, Harmonium And Flute Notes
+- Khyaal Rakhya Kar (Neha Kakkar) – Sargam, Harmonium And Flute Notes
+- Dhokha Dhadi (R.. Rajkumar) – Sargam, Harmonium And Flute Notes
+- Shukra Tera (Samrat & Co) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -86,12 +86,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Sang Rahiyo - Sargam, Harmonium And Flute Notes
-* Tu Chahiye (Bajrangi Bhaijaan) - Sargam, Harmonium And Flute Notes
-* Tum Hi Aana (Marjaavaan) - Sargam, Harmonium And Flute Notes
-* Ek Mulaqat (Jubin Nautiyal) - Sargam, Harmonium And Flute Notes
-* What Jhumka - Sargam, Harmonium And Flute Notes
-* Nazm Nazm (Bareilly Ki Barfi) - Sargam, Harmonium And Flute Notes
+- Sang Rahiyo - Sargam, Harmonium And Flute Notes
+- Tu Chahiye (Bajrangi Bhaijaan) - Sargam, Harmonium And Flute Notes
+- Tum Hi Aana (Marjaavaan) - Sargam, Harmonium And Flute Notes
+- Ek Mulaqat (Jubin Nautiyal) - Sargam, Harmonium And Flute Notes
+- What Jhumka - Sargam, Harmonium And Flute Notes
+- Nazm Nazm (Bareilly Ki Barfi) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -116,4 +116,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

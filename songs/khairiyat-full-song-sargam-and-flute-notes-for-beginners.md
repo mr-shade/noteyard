@@ -1,5 +1,5 @@
 ---
-title: "# Khairiyat Full Song Sargam And Flute Notes For Beginners"
+title: " Khairiyat Full Song Sargam And Flute Notes For Beginners"
 description: "Learn # Khairiyat Full Song Sargam And Flute Notes For Beginners notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: khairiyat-full-song-sargam-and-flute-notes-for-beginners
@@ -212,11 +212,11 @@ P…m..D..P.. m..m..P..G…
 
 Also Read This :-
 
-* Girls Like You (Maroon 5) – Sargam And Flute Notes
-* Shayad (Love Aaj Kal) – Sargam And Flute Notes
-* Havana (Camila Cabello) – Sargam And Flute Notes
-* Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
-* Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
+- Girls Like You (Maroon 5) – Sargam And Flute Notes
+- Shayad (Love Aaj Kal) – Sargam And Flute Notes
+- Havana (Camila Cabello) – Sargam And Flute Notes
+- Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
+- Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
 
 Where
 
@@ -249,8 +249,6 @@ NI –       N(k)
 RE –       R(k)
 GA –      G(k)
 
-
-
 relpost-thumb-wrapper
 
 filter-class
@@ -259,12 +257,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Hamari Adhuri Kahani (Title Song) - Sargam, Harmonium And Flute Notes
-* Ninja Hattori Theme Song - Sargam, Harmonium And Flute Notes
-* Humdum (Savi) - Sargam, Harmonium And Flute Notes
-* Lakshya (Title Track) - Sargam, Harmonium And Flute Notes
-* Dil Kya Kare (Julie) - Sargam, Harmonium And Flute Notes
-* Namo Namo (FULL SONG) - Sargam, Harmonium And Flute Notes
+- Hamari Adhuri Kahani (Title Song) - Sargam, Harmonium And Flute Notes
+- Ninja Hattori Theme Song - Sargam, Harmonium And Flute Notes
+- Humdum (Savi) - Sargam, Harmonium And Flute Notes
+- Lakshya (Title Track) - Sargam, Harmonium And Flute Notes
+- Dil Kya Kare (Julie) - Sargam, Harmonium And Flute Notes
+- Namo Namo (FULL SONG) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -289,4 +287,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

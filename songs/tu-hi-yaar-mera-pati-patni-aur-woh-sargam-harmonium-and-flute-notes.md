@@ -1,5 +1,5 @@
 ---
-title: "# Tu Hi Yaar Mera (Pati Patni Aur Woh) – Sargam, Harmonium And Flute Notes"
+title: " Tu Hi Yaar Mera (Pati Patni Aur Woh) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Tu Hi Yaar Mera (Pati Patni Aur Woh) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: tu-hi-yaar-mera-pati-patni-aur-woh-sargam-harmonium-and-flute-notes
@@ -80,11 +80,11 @@ R..S..S..R.m.G..R..S.d..S..
 
 Also Read This :-
 
-* Mehrama (Love Aaj Kal) – Sargam And Flute Notes
-* Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
-* Aaj Bhi (Vishal Mishra) – Sargam And Flute Notes
-* Muskurayega India (Vishal Mishra) – Sargam And Flute Notes
-* Pehla Pyaar (Kabir Singh) – Sargam And Flute Notes
+- Mehrama (Love Aaj Kal) – Sargam And Flute Notes
+- Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
+- Aaj Bhi (Vishal Mishra) – Sargam And Flute Notes
+- Muskurayega India (Vishal Mishra) – Sargam And Flute Notes
+- Pehla Pyaar (Kabir Singh) – Sargam And Flute Notes
 
 Where
 
@@ -100,12 +100,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Kaise Ab Kahein (Gutar Gu) - Sargam, Harmonium And Flute Notes
-* Aashiqui Aa Gayi (Radhe Shyam) - Sargam, Harmonium And Flute Notes
-* Kandhon Se Milte Hain Kandhe - Sargam And Flute Notes
-* Saanson Ko (Zid) - Sargam, Harmonium And Flute Notes
-* Thoda Thoda Pyaar - Sargam, Harmonium And Flute Notes
-* Jhoom (R&B version) - Sargam, Harmonium And Flute Notes
+- Kaise Ab Kahein (Gutar Gu) - Sargam, Harmonium And Flute Notes
+- Aashiqui Aa Gayi (Radhe Shyam) - Sargam, Harmonium And Flute Notes
+- Kandhon Se Milte Hain Kandhe - Sargam And Flute Notes
+- Saanson Ko (Zid) - Sargam, Harmonium And Flute Notes
+- Thoda Thoda Pyaar - Sargam, Harmonium And Flute Notes
+- Jhoom (R&B version) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -130,4 +130,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

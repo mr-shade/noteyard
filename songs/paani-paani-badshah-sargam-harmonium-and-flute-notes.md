@@ -1,5 +1,5 @@
 ---
-title: "# Paani Paani (Badshah) – Sargam, Harmonium And Flute Notes"
+title: " Paani Paani (Badshah) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Paani Paani (Badshah) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: paani-paani-badshah-sargam-harmonium-and-flute-notes
@@ -56,11 +56,11 @@ S..R..G..G..m..G..S..R..
 
 Also Read This :-
 
-* Tu Hi Yaar Mera – Sargam, Harmonium And Flute Notes
-* Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
-* Sandese Aate Hai (Border) – Sargam, Harmonium And Flute Notes
-* Doorie (Atif Aslam) – Sargam, Harmonium And Flute Notes
-* Tere Bina (Guru) – Sargam, Harmonium And Flute Notes
+- Tu Hi Yaar Mera – Sargam, Harmonium And Flute Notes
+- Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
+- Sandese Aate Hai (Border) – Sargam, Harmonium And Flute Notes
+- Doorie (Atif Aslam) – Sargam, Harmonium And Flute Notes
+- Tere Bina (Guru) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -74,12 +74,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Dekh Lena (Tum Bin 2) - Sargam, Harmonium And Flute Notes
-* Pyaar Hua Chupke Se - Sargam, Harmonium And Flute Notes
-* Sahiba (Jasleen Royal) - Sargam, Harmonium And Flute Notes
-* Sapna Jahan (Brothers) - Sargam, Harmonium And Flute Notes
-* Pyaar Ke Pal (K.K.)- Sargam, Harmonium And Flute Notes
-* Iktara (Wake Up Sid) [FULL SONG] - Sargam, Harmonium And Flute Notes
+- Dekh Lena (Tum Bin 2) - Sargam, Harmonium And Flute Notes
+- Pyaar Hua Chupke Se - Sargam, Harmonium And Flute Notes
+- Sahiba (Jasleen Royal) - Sargam, Harmonium And Flute Notes
+- Sapna Jahan (Brothers) - Sargam, Harmonium And Flute Notes
+- Pyaar Ke Pal (K.K.)- Sargam, Harmonium And Flute Notes
+- Iktara (Wake Up Sid) [FULL SONG] - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -104,4 +104,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

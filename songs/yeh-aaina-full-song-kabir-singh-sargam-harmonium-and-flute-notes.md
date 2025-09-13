@@ -1,5 +1,5 @@
 ---
-title: "# Yeh Aaina Full Song (Kabir Singh) – Sargam, Harmonium And Flute Notes"
+title: " Yeh Aaina Full Song (Kabir Singh) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Yeh Aaina Full Song (Kabir Singh) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: yeh-aaina-full-song-kabir-singh-sargam-harmonium-and-flute-notes
@@ -166,11 +166,11 @@ p..S…R..G..R…S.S..n…S…
 
 Also Read This :-
 
-* Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
-* Sandese Aate Hai (Border) – Sargam, Harmonium And Flute Notes
-* Uska Hi Banana (Arijit Singh) – Sargam, Harmonium And Flute Notes
-* Doorie (Atif Aslam) – Sargam, Harmonium And Flute Notes
-* Tu Bhoola Jise (Airlift) – Sargam, Harmonium And Flute Notes
+- Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
+- Sandese Aate Hai (Border) – Sargam, Harmonium And Flute Notes
+- Uska Hi Banana (Arijit Singh) – Sargam, Harmonium And Flute Notes
+- Doorie (Atif Aslam) – Sargam, Harmonium And Flute Notes
+- Tu Bhoola Jise (Airlift) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -211,12 +211,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Maiyya Mainu [Full Song] - Sargam, Harmonium And Flute Notes
-* Ye Samaa Samaa Hai Pyar Ka - Sargam, Harmonium, Flute Notes
-* Main Hoon Saath Tere - Sargam, Harmonium And Flute Notes
-* Khuda Haafiz (Title Track) - Sargam, Harmonium And Flute Notes
-* Ae Watan (Raazi) - Sargam, Harmonium And Flute Notes
-* Badal Barsha Bijuli - Sargam, Harmonium And Flute Notes
+- Maiyya Mainu [Full Song] - Sargam, Harmonium And Flute Notes
+- Ye Samaa Samaa Hai Pyar Ka - Sargam, Harmonium, Flute Notes
+- Main Hoon Saath Tere - Sargam, Harmonium And Flute Notes
+- Khuda Haafiz (Title Track) - Sargam, Harmonium And Flute Notes
+- Ae Watan (Raazi) - Sargam, Harmonium And Flute Notes
+- Badal Barsha Bijuli - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -241,4 +241,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

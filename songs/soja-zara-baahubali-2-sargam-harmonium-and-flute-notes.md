@@ -1,5 +1,5 @@
 ---
-title: "# Soja Zara (Baahubali 2) – Sargam, Harmonium And Flute Notes"
+title: " Soja Zara (Baahubali 2) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Soja Zara (Baahubali 2) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: soja-zara-baahubali-2-sargam-harmonium-and-flute-notes
@@ -106,11 +106,11 @@ m..m..m..m.G.R..P.G.R.S.
 
 Also Read This :-
 
-* Mehrama (Love Aaj Kal) – Sargam And Flute Notes
-* Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
-* Aaj Bhi (Vishal Mishra) – Sargam And Flute Notes
-* Muskurayega India (Vishal Mishra) – Sargam And Flute Notes
-* Pehla Pyaar (Kabir Singh) – Sargam And Flute Notes
+- Mehrama (Love Aaj Kal) – Sargam And Flute Notes
+- Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
+- Aaj Bhi (Vishal Mishra) – Sargam And Flute Notes
+- Muskurayega India (Vishal Mishra) – Sargam And Flute Notes
+- Pehla Pyaar (Kabir Singh) – Sargam And Flute Notes
 
 Where
 
@@ -124,12 +124,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Ye Samaa Samaa Hai Pyar Ka - Sargam, Harmonium, Flute Notes
-* Teri Hogaiyaan (Vishal Mishra) - Sargam, Harmonium And Flute Notes
-* Dil Toh Bachcha Hai Ji - Sargam, Harmonium And Flute Notes
-* Main Dhoondne Ko Zamaane Mein - Sargam, Harmonium And Flute Notes
-* Yeh Rishta Kya Kehlata Hai - Sargam, Harmonium And Flute Notes
-* Kabhi Yaadon Mein - Sargam, Harmonium And Flute Notes
+- Ye Samaa Samaa Hai Pyar Ka - Sargam, Harmonium, Flute Notes
+- Teri Hogaiyaan (Vishal Mishra) - Sargam, Harmonium And Flute Notes
+- Dil Toh Bachcha Hai Ji - Sargam, Harmonium And Flute Notes
+- Main Dhoondne Ko Zamaane Mein - Sargam, Harmonium And Flute Notes
+- Yeh Rishta Kya Kehlata Hai - Sargam, Harmonium And Flute Notes
+- Kabhi Yaadon Mein - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -154,4 +154,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

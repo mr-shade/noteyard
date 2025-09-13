@@ -1,5 +1,5 @@
 ---
-title: "# Shei Tumi Keno Eto Ochena Hole (Heart Touch Flute Music) – Sargam, Harmonium And Flute Notes"
+title: " Shei Tumi Keno Eto Ochena Hole (Heart Touch Flute Music) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Shei Tumi Keno Eto Ochena Hole (Heart Touch Flute Music) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: shei-tumi-keno-eto-ochena-hole-heart-touch-flute-music-sargam-harmonium-and-flute-notes
@@ -58,25 +58,17 @@ Tumii khomo kore dio amay
 
 S’.R’..G'(K)..G'(K)..R’..S’.R’..N..S’..
 
-
-
 Also Read This :-
 
-
-
-* Girl I Need You (Baaghi) – Sargam And Flute Notes
-* Jee Le Zara (Talaash) – Sargam And Flute Notes
-* Ve maahi (Kesari) – Sargam And Flute Notes
-* Mitwa (Kabhi Alvida Na Kehna) – Sargam And Flute Notes
-* Iktara (Wake Up Sid) – Sargam And Flute Notes
+- Girl I Need You (Baaghi) – Sargam And Flute Notes
+- Jee Le Zara (Talaash) – Sargam And Flute Notes
+- Ve maahi (Kesari) – Sargam And Flute Notes
+- Mitwa (Kabhi Alvida Na Kehna) – Sargam And Flute Notes
+- Iktara (Wake Up Sid) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -86,9 +78,9 @@ filter-class
 
 related_posts_thumbnails
 
-* Ekla Chalo Re - Sargam, Harmonium And Flute Notes
-* O Paalanhaare (Lagaan) - Sargam, Harmonium And Flute Notes
-* Monta Re (Lootera) - Sargam, Harmonium And Flute Notes
+- Ekla Chalo Re - Sargam, Harmonium And Flute Notes
+- O Paalanhaare (Lagaan) - Sargam, Harmonium And Flute Notes
+- Monta Re (Lootera) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -113,4 +105,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

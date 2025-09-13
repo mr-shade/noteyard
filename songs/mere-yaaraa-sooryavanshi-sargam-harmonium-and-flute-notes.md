@@ -1,5 +1,5 @@
 ---
-title: "# Mere Yaaraa (Sooryavanshi) – Sargam, Harmonium And Flute Notes"
+title: " Mere Yaaraa (Sooryavanshi) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Mere Yaaraa (Sooryavanshi) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: mere-yaaraa-sooryavanshi-sargam-harmonium-and-flute-notes
@@ -98,11 +98,11 @@ d.R..S..d.p.p…
 
 Also Read This :-
 
-* Taare Zameen Par (Title Song) – Sargam, Harmonium And Flute Notes
-* Teri Hogaiyaan (Vishal Mishra) – Sargam, Harmonium And Flute Notes
-* Kaun Mera (Special 26) – Sargam, Harmonium And Flute Notes
-* Aa Jao Meri Tamannah – Sargam, Harmonium And Flute Notes
-* Teri Meri Prem Kahani (Bodyguard) – Sargam, Harmonium And Flute Notes
+- Taare Zameen Par (Title Song) – Sargam, Harmonium And Flute Notes
+- Teri Hogaiyaan (Vishal Mishra) – Sargam, Harmonium And Flute Notes
+- Kaun Mera (Special 26) – Sargam, Harmonium And Flute Notes
+- Aa Jao Meri Tamannah – Sargam, Harmonium And Flute Notes
+- Teri Meri Prem Kahani (Bodyguard) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -116,12 +116,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Aaoge Tum Kabhi (The Local Train) - Sargam And Flute Notes
-* Paro (Aditya Rikhari) - Sargam, Harmonium And Flute Notes
-* Tum Jo Aaye - Sargam, Harmonium And Flute Notes
-* Leja Re (Dhvani Bhanushali) - Sargam, Harmonium And Flute Notes
-* Lehra Do (83) - Sargam, Harmonium And Flute Notes
-* Aha Tamatar Bade Mazedaar Sargam Harmonium And Flute Notes
+- Aaoge Tum Kabhi (The Local Train) - Sargam And Flute Notes
+- Paro (Aditya Rikhari) - Sargam, Harmonium And Flute Notes
+- Tum Jo Aaye - Sargam, Harmonium And Flute Notes
+- Leja Re (Dhvani Bhanushali) - Sargam, Harmonium And Flute Notes
+- Lehra Do (83) - Sargam, Harmonium And Flute Notes
+- Aha Tamatar Bade Mazedaar Sargam Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -146,4 +146,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

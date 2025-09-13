@@ -1,5 +1,5 @@
 ---
-title: "# Dhokha Dhadi (R.. Rajkumar) – Sargam, Harmonium And Flute Notes"
+title: " Dhokha Dhadi (R.. Rajkumar) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Dhokha Dhadi (R.. Rajkumar) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: dhokha-dhadi-r-rajkumar-sargam-harmonium-and-flute-notes
@@ -90,11 +90,11 @@ P..G’..R’..G’…R’.S’…
 
 Also Read This :-
 
-* Aao Na – Sargam And Flute Notes
-* Bhagwan Hain Kahan Re Tu – Sargam And Flute Notes
-* Teri Mitti – Indian Flute And Sargam Notes
-* Laadki – Sargam And Flute Notes
-* Muskurane – Sargam And Flute Notes
+- Aao Na – Sargam And Flute Notes
+- Bhagwan Hain Kahan Re Tu – Sargam And Flute Notes
+- Teri Mitti – Indian Flute And Sargam Notes
+- Laadki – Sargam And Flute Notes
+- Muskurane – Sargam And Flute Notes
 
 Where
 
@@ -108,12 +108,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Girl I Need You (Baaghi) - Sargam, Harmonium And Flute Notes
-* Holi Songs - Sargam, Harmonium And Flute Notes
-* Zindagi Ka Safar (Easy Version) - Sargam And Flute Notes
-* Baaton Ko Teri - Sargam, Harmonium And Flute Notes
-* Musafir (Sweetiee Weds NRI) - Sargam, Harmonium And Flute Notes
-* Deva Deva (2nd Version) - Sargam, Harmonium And Flute Notes
+- Girl I Need You (Baaghi) - Sargam, Harmonium And Flute Notes
+- Holi Songs - Sargam, Harmonium And Flute Notes
+- Zindagi Ka Safar (Easy Version) - Sargam And Flute Notes
+- Baaton Ko Teri - Sargam, Harmonium And Flute Notes
+- Musafir (Sweetiee Weds NRI) - Sargam, Harmonium And Flute Notes
+- Deva Deva (2nd Version) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -138,4 +138,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

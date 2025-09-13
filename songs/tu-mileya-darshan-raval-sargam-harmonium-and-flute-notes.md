@@ -1,5 +1,5 @@
 ---
-title: "# Tu Mileya (Darshan Raval) – Sargam, Harmonium And Flute Notes"
+title: " Tu Mileya (Darshan Raval) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Tu Mileya (Darshan Raval) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: tu-mileya-darshan-raval-sargam-harmonium-and-flute-notes
@@ -74,27 +74,19 @@ Mainu nai jeena teree binaa aahaa
 
 S’.S’.S’.N.N.D.D…N.. m..D…D.P…D..P..
 
-
-
 Also Read This :-
 
-
-
-* Dil Diyan Gallan (Tiger Zinda Hai) – Sargam And Flute Notes
-* Tujh Mein Rab Dikhta Hai (Rab Ne Banadi Jodi) – Sargam And Flute Notes
-* Zara Zara (RHTDM) – Sargam And Flute Notes
-* Maana Ke Hum Yaar Nahi (Meri Pyaari Bindu) – Sargam And Flute Notes
-* Tujhe Kitna Chahne Lage (Kabir Singh) – Sargam And Flute Notes
+- Dil Diyan Gallan (Tiger Zinda Hai) – Sargam And Flute Notes
+- Tujh Mein Rab Dikhta Hai (Rab Ne Banadi Jodi) – Sargam And Flute Notes
+- Zara Zara (RHTDM) – Sargam And Flute Notes
+- Maana Ke Hum Yaar Nahi (Meri Pyaari Bindu) – Sargam And Flute Notes
+- Tujhe Kitna Chahne Lage (Kabir Singh) – Sargam And Flute Notes
 
 Where
 
 nw Paragraph 2
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -104,12 +96,12 @@ filter-class
 
 related_posts_thumbnails
 
-* O Ri Chiraiya - Sargam, Harmonium And Flute Notes
-* Tere Bina (Guru) - Sargam, Harmonium And Flute Notes
-* Holi Songs - Sargam, Harmonium And Flute Notes
-* Baarishein (Anuv Jain) - Sargam, Harmonium And Flute Notes
-* Riha (Anuv Jain) - Sargam, Harmonium And Flute Notes
-* Raam Aayenge (2nd Version) - Sargam And Flute Notes
+- O Ri Chiraiya - Sargam, Harmonium And Flute Notes
+- Tere Bina (Guru) - Sargam, Harmonium And Flute Notes
+- Holi Songs - Sargam, Harmonium And Flute Notes
+- Baarishein (Anuv Jain) - Sargam, Harmonium And Flute Notes
+- Riha (Anuv Jain) - Sargam, Harmonium And Flute Notes
+- Raam Aayenge (2nd Version) - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -134,4 +126,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

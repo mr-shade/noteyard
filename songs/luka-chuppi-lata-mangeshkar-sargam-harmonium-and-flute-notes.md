@@ -1,5 +1,5 @@
 ---
-title: "# Luka Chuppi (Lata Mangeshkar) – Sargam, Harmonium And Flute Notes"
+title: " Luka Chuppi (Lata Mangeshkar) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Luka Chuppi (Lata Mangeshkar) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: luka-chuppi-lata-mangeshkar-sargam-harmonium-and-flute-notes
@@ -106,25 +106,17 @@ Dhundhla gayi dekh meri nazar aa jaa naa
 
 P..D.N.D..D.P.M. M.P.. D.N.S’.R’..R’..S’..S’.N.D.N..D.P.M.P..
 
-
-
 Also Read This :-
 
-
-
-* Dil Mein Ho Tum (Why Cheat India) – Sargam And Flute Notes
-* Aadat (Jal) – Sargam And Flute Notes
-* Raabta (Agent Vinod) (Full Song) – Sargam And Flute Notes
-* Senorita (Shawn Mendes, Camila Cabello) – Sargam And Flute Notes
-* Sohnea (Miss Pooja) – Sargam And Flute Notes
+- Dil Mein Ho Tum (Why Cheat India) – Sargam And Flute Notes
+- Aadat (Jal) – Sargam And Flute Notes
+- Raabta (Agent Vinod) (Full Song) – Sargam And Flute Notes
+- Senorita (Shawn Mendes, Camila Cabello) – Sargam And Flute Notes
+- Sohnea (Miss Pooja) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -134,12 +126,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Nainowale Ne (Padmaavat) - Sargam, Harmonium And Flute Notes
-* Taaron Ke Shehar (Neha Kakkar, Jubin Nautiyal) - Sargam, Harmonium And Flute Notes
-* Papa Meri Jaan (Animal) - Sargam, Harmonium And Flute Notes
-* Tose Naina Lage (Anwar) - Sargam, Harmonium And Flute Notes
-* Baaton Ko Teri - Sargam, Harmonium And Flute Notes
-* Kahin Door Jab Din Dhal Jaye (Mukesh) - Sargam And Flute Notes
+- Nainowale Ne (Padmaavat) - Sargam, Harmonium And Flute Notes
+- Taaron Ke Shehar (Neha Kakkar, Jubin Nautiyal) - Sargam, Harmonium And Flute Notes
+- Papa Meri Jaan (Animal) - Sargam, Harmonium And Flute Notes
+- Tose Naina Lage (Anwar) - Sargam, Harmonium And Flute Notes
+- Baaton Ko Teri - Sargam, Harmonium And Flute Notes
+- Kahin Door Jab Din Dhal Jaye (Mukesh) - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -164,4 +156,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

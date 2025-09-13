@@ -1,5 +1,5 @@
 ---
-title: "# Lut Gaye (Jubin Nautiyal) – Sargam, Harmonium And Flute Notes"
+title: " Lut Gaye (Jubin Nautiyal) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Lut Gaye (Jubin Nautiyal) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: lut-gaye-jubin-nautiyal-sargam-harmonium-and-flute-notes
@@ -88,15 +88,13 @@ S’..N..P..D..D…
 
 Also Read This :-
 
-* Mehrama (Love Aaj Kal) – Sargam And Flute Notes
-* Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
-* Aaj Bhi (Vishal Mishra) – Sargam And Flute Notes
-* Pehla Pyaar (Kabir Singh) – Sargam And Flute Notes
-* Jinke Liye (Neha Kakkar) – Sargam And Flute Notes
+- Mehrama (Love Aaj Kal) – Sargam And Flute Notes
+- Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
+- Aaj Bhi (Vishal Mishra) – Sargam And Flute Notes
+- Pehla Pyaar (Kabir Singh) – Sargam And Flute Notes
+- Jinke Liye (Neha Kakkar) – Sargam And Flute Notes
 
 Where
-
-
 
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
 
@@ -108,12 +106,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Kesariyo Rang - Sargam, Harmonium And Flute Notes
-* Main Agar (Tubelight) - Sargam, Harmonium And Flute Notes
-* Tu Jo Mila (Bajrangi Bhaijaan) - Sargam, Harmonium And Flute Notes
-* Aziyat (2nd Version) - Sargam, Harmonium And Flute Notes
-* Sukoon (Hassan & Roshaan) - Sargam And Flute Notes
-* Chashni (Bharat) - Sargam, Harmonium And Flute Notes
+- Kesariyo Rang - Sargam, Harmonium And Flute Notes
+- Main Agar (Tubelight) - Sargam, Harmonium And Flute Notes
+- Tu Jo Mila (Bajrangi Bhaijaan) - Sargam, Harmonium And Flute Notes
+- Aziyat (2nd Version) - Sargam, Harmonium And Flute Notes
+- Sukoon (Hassan & Roshaan) - Sargam And Flute Notes
+- Chashni (Bharat) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -138,4 +136,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

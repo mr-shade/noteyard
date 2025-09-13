@@ -1,5 +1,5 @@
 ---
-title: "# Ek Tarfa (Darshan Raval) – Sargam, Harmonium And Flute Notes"
+title: " Ek Tarfa (Darshan Raval) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Ek Tarfa (Darshan Raval) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: ek-tarfa-darshan-raval-sargam-harmonium-and-flute-notes
@@ -72,11 +72,11 @@ D..N..S’..S’..N..D..P..
 
 Also Read This :-
 
-* Ek Ajnabee Haseena Se (Ajnabee) – Sargam And Flute Notes
-* Kalank (Title Track) – Sargam And Flute Notes
-* Dekha Hazaro Dafaa (Rustom) – Sargam And Flute Notes
-* I Like Me Better (Lauv) – Sargam And Flute Notes
-* Mere Wala Sardar (Jugraj Sandhu) – Sargam And Flute Notes
+- Ek Ajnabee Haseena Se (Ajnabee) – Sargam And Flute Notes
+- Kalank (Title Track) – Sargam And Flute Notes
+- Dekha Hazaro Dafaa (Rustom) – Sargam And Flute Notes
+- I Like Me Better (Lauv) – Sargam And Flute Notes
+- Mere Wala Sardar (Jugraj Sandhu) – Sargam And Flute Notes
 
 Where
 
@@ -90,12 +90,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Tumse Milke Dilka Jo Haal - Sargam, Harmonium And Flute Notes
-* Tujh Mein Rab Dikhta Hai (Full Song) - Sargam And Flute Notes
-* Gul (Anuv Jain) - Sargam, Harmonium And Flute Notes
-* Sapna Jahan (Brothers) - Sargam, Harmonium And Flute Notes
-* Enna Sona (Ok Jaanu) - Sargam, Harmonium And Flute Notes
-* Are Re Are Ye Kya Hua - Sargam, Harmonium And Flute Notes
+- Tumse Milke Dilka Jo Haal - Sargam, Harmonium And Flute Notes
+- Tujh Mein Rab Dikhta Hai (Full Song) - Sargam And Flute Notes
+- Gul (Anuv Jain) - Sargam, Harmonium And Flute Notes
+- Sapna Jahan (Brothers) - Sargam, Harmonium And Flute Notes
+- Enna Sona (Ok Jaanu) - Sargam, Harmonium And Flute Notes
+- Are Re Are Ye Kya Hua - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -120,4 +120,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

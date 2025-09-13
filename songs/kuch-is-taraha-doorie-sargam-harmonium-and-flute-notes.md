@@ -1,5 +1,5 @@
 ---
-title: "# Kuch Is Taraha (Doorie) – Sargam, Harmonium And Flute Notes"
+title: " Kuch Is Taraha (Doorie) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Kuch Is Taraha (Doorie) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: kuch-is-taraha-doorie-sargam-harmonium-and-flute-notes
@@ -70,27 +70,19 @@ Anso tere sare meri palko pe saja dee
 
 P..m..G..R.. S.R.S.n.. n.S.R…R.G.R.S..R..G..
 
-
-
 Also Read This :-
 
-
-
-* Tujhe Kitna Chahne Lahe Hum Sargam And Flute Notes
-* Bekhayali Full Song Sargam And Flute Notes
-* Leja Re Sargam And Flute Notes
-* Muskurayega India Sargam And Flute Notes
-* Aaj Bhi Sargam And Flute Notes
+- Tujhe Kitna Chahne Lahe Hum Sargam And Flute Notes
+- Bekhayali Full Song Sargam And Flute Notes
+- Leja Re Sargam And Flute Notes
+- Muskurayega India Sargam And Flute Notes
+- Aaj Bhi Sargam And Flute Notes
 
 Where
-
-
 
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
 
 nw Paragraph 2
-
-
 
 relpost-thumb-wrapper
 
@@ -100,12 +92,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Sabse Pehle Hai Pyaar - Sargam, Harmonium And Flute Notes
-* Kaala Jaadu (Freddy) - Sargam, Harmonium And Flute Notes
-* Aaj Bhi (Vishal Mishra) - Sargam, Harmonium And Flute Notes
-* Laree Chootee (2nd Version) - Sargam And Flute Notes
-* Tere Liye (Prince) - Sargam, Harmonium And Flute Notes
-* Kehna Hi Kya (Bombay) - Sargam, Harmonium And Flute Notes
+- Sabse Pehle Hai Pyaar - Sargam, Harmonium And Flute Notes
+- Kaala Jaadu (Freddy) - Sargam, Harmonium And Flute Notes
+- Aaj Bhi (Vishal Mishra) - Sargam, Harmonium And Flute Notes
+- Laree Chootee (2nd Version) - Sargam And Flute Notes
+- Tere Liye (Prince) - Sargam, Harmonium And Flute Notes
+- Kehna Hi Kya (Bombay) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -130,4 +122,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

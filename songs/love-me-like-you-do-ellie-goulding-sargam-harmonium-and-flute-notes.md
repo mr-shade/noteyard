@@ -1,5 +1,5 @@
 ---
-title: "# Love Me Like You Do (Ellie Goulding) – Sargam, Harmonium And Flute Notes"
+title: " Love Me Like You Do (Ellie Goulding) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Love Me Like You Do (Ellie Goulding) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: love-me-like-you-do-ellie-goulding-sargam-harmonium-and-flute-notes
@@ -70,27 +70,19 @@ What are youu waiting for
 
 S.R.G. G.R.R..
 
-
-
 Also Read This :-
 
-
-
-* Girls Like You (Maroon 5) – Sargam And Flute Notes
-* Shayad (Love Aaj Kal) – Sargam And Flute Notes
-* Havana (Camila Cabello) – Sargam And Flute Notes
-* Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
-* Intezaar (Arijit Singh) – Sargam And Flute Notes
+- Girls Like You (Maroon 5) – Sargam And Flute Notes
+- Shayad (Love Aaj Kal) – Sargam And Flute Notes
+- Havana (Camila Cabello) – Sargam And Flute Notes
+- Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
+- Intezaar (Arijit Singh) – Sargam And Flute Notes
 
 Where
-
-
 
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
 
 nw Paragraph 2
-
-
 
 relpost-thumb-wrapper
 
@@ -100,12 +92,12 @@ filter-class
 
 related_posts_thumbnails
 
-* (Everything I Do) I Do It for You - Sargam And Flute Notes
-* Attention (Charlie Puth) - Sargam, Harmonium And Flute Notes
-* Lonely (Justin Bieber) - Sargam, Harmonium And Flute Notes
-* A Million Dreams - Sargam, Harmonium And Flute Notes
-* Flowers (Miley Cyrus) - Sargam, Harmonium And Flute Notes
-* Für Elise Easy Version - Sargam, Harmonium And Flute Notes
+- (Everything I Do) I Do It for You - Sargam And Flute Notes
+- Attention (Charlie Puth) - Sargam, Harmonium And Flute Notes
+- Lonely (Justin Bieber) - Sargam, Harmonium And Flute Notes
+- A Million Dreams - Sargam, Harmonium And Flute Notes
+- Flowers (Miley Cyrus) - Sargam, Harmonium And Flute Notes
+- Für Elise Easy Version - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -130,4 +122,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

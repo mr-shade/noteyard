@@ -1,5 +1,5 @@
 ---
-title: "# Tum Tak (Raanjhanaa) – Sargam, Harmonium And Flute Notes"
+title: " Tum Tak (Raanjhanaa) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Tum Tak (Raanjhanaa) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: tum-tak-raanjhanaa-sargam-harmonium-and-flute-notes
@@ -80,11 +80,11 @@ p..d..S…S..d..R…R..S..S..S..S..G..G…
 
 Also Read This :-
 
-* Chandan Sa Badan – Sargam, Harmonium And Flute Notes
-* Tere Naam Humne Kiya Hai – Sargam, Harmonium And Flute Notes
-* Main Tumhara (Easy Version) – Sargam, Harmonium And Flute Notes
-* Abhi Mujh Mein Kahin (Full Song) – Sargam, Harmonium And Flute Notes
-* Kaun Disha Mein Leke Chala Re – Sargam, Harmonium And Flute Notes
+- Chandan Sa Badan – Sargam, Harmonium And Flute Notes
+- Tere Naam Humne Kiya Hai – Sargam, Harmonium And Flute Notes
+- Main Tumhara (Easy Version) – Sargam, Harmonium And Flute Notes
+- Abhi Mujh Mein Kahin (Full Song) – Sargam, Harmonium And Flute Notes
+- Kaun Disha Mein Leke Chala Re – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -127,12 +127,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Saaiyaan (Heroine) - Sargam, Harmonium And Flute Notes
-* Tere Bin (Simmba) - Sargam, Harmonium And Flute Notes
-* Sukoon (Hassan & Roshaan) - Sargam And Flute Notes
-* Jaan Nisaar (FULL SONG) - Sargam, Harmonium And Flute Notes
-* Dhaaga (2nd Version) - Sargam, Harmonium And Flute Notes
-* Kaun Tujhe - Sargam, Harmonium And Flute Notes
+- Saaiyaan (Heroine) - Sargam, Harmonium And Flute Notes
+- Tere Bin (Simmba) - Sargam, Harmonium And Flute Notes
+- Sukoon (Hassan & Roshaan) - Sargam And Flute Notes
+- Jaan Nisaar (FULL SONG) - Sargam, Harmonium And Flute Notes
+- Dhaaga (2nd Version) - Sargam, Harmonium And Flute Notes
+- Kaun Tujhe - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -157,4 +157,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

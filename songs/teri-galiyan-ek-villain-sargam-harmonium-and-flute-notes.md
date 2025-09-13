@@ -1,5 +1,5 @@
 ---
-title: "# Teri Galiyan (Ek Villain) – Sargam, Harmonium And Flute Notes"
+title: " Teri Galiyan (Ek Villain) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Teri Galiyan (Ek Villain) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: teri-galiyan-ek-villain-sargam-harmonium-and-flute-notes
@@ -170,11 +170,11 @@ P..D..D.N.N…D.N.N..D..N..N.S’.S’..
 
 Also Read This :-
 
-* Tera Ban Jaunga (Kabir Singh) – Sargam And Flute Notes
-* On My Way (Alan Walker) – Sargam And Flute Notes
-* Sholay Theme Tune – Sargam And Flute Notes
-* Tera Ghata (Gajendra Verma) – Sargam And Flute Notes
-* Pirates Of The Caribbean – Sargam And Flute Notes
+- Tera Ban Jaunga (Kabir Singh) – Sargam And Flute Notes
+- On My Way (Alan Walker) – Sargam And Flute Notes
+- Sholay Theme Tune – Sargam And Flute Notes
+- Tera Ghata (Gajendra Verma) – Sargam And Flute Notes
+- Pirates Of The Caribbean – Sargam And Flute Notes
 
 relpost-thumb-wrapper
 
@@ -184,12 +184,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Lambiyaan Si Judaiyaan (Raabta) - Sargam, Harmonium And Flute Notes
-* Heer Raanjhana - Sargam, Harmonium And Flute Notes
-* Chandi Ki Daal Par - Sargam, Harmonium And Flute Notes
-* Jeene Laga Hoon (Atif Aslam) - Sargam, Harmonium And Flute Notes
-* Baarish Lete Aana Full Song Sargam, Harmonium And Flute Notes (Darshan Raval)
-* Bhula Dena (Aashiqui 2) - Sargam, Harmonium And Flute Notes
+- Lambiyaan Si Judaiyaan (Raabta) - Sargam, Harmonium And Flute Notes
+- Heer Raanjhana - Sargam, Harmonium And Flute Notes
+- Chandi Ki Daal Par - Sargam, Harmonium And Flute Notes
+- Jeene Laga Hoon (Atif Aslam) - Sargam, Harmonium And Flute Notes
+- Baarish Lete Aana Full Song Sargam, Harmonium And Flute Notes (Darshan Raval)
+- Bhula Dena (Aashiqui 2) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -214,4 +214,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

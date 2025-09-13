@@ -1,5 +1,5 @@
 ---
-title: "# Murshida (Arijit Singh) – Sargam, Harmonium And Flute Notes"
+title: " Murshida (Arijit Singh) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Murshida (Arijit Singh) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: murshida-arijit-singh-sargam-harmonium-and-flute-notes
@@ -98,11 +98,11 @@ G..R..m..G…G..R..P…S..n..S…
 
 Also Read This :-
 
-* Girls Like You (Maroon 5) – Sargam And Flute Notes
-* Shayad (Love Aaj Kal) – Sargam And Flute Notes
-* Havana (Camila Cabello) – Sargam And Flute Notes
-* Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
-* Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
+- Girls Like You (Maroon 5) – Sargam And Flute Notes
+- Shayad (Love Aaj Kal) – Sargam And Flute Notes
+- Havana (Camila Cabello) – Sargam And Flute Notes
+- Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
+- Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
 
 relpost-thumb-wrapper
 
@@ -112,12 +112,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Tu Mileya (Darshan Raval) - Sargam, Harmonium And Flute Notes
-* Kahani Suno 2.0 - Sargam, Harmonium And Flute Notes
-* Kabhi Kabhi Mere Dil Mein - Sargam, Harmonium And Flute Notes
-* Har Kisi Ko Nahi Milta - Sargam, Harmonium And Flute Notes
-* Aaj Phir (Hate Story 2) - Sargam, Harmonium And Flute Notes
-* Kabhi Yaadon Mein - Sargam, Harmonium And Flute Notes
+- Tu Mileya (Darshan Raval) - Sargam, Harmonium And Flute Notes
+- Kahani Suno 2.0 - Sargam, Harmonium And Flute Notes
+- Kabhi Kabhi Mere Dil Mein - Sargam, Harmonium And Flute Notes
+- Har Kisi Ko Nahi Milta - Sargam, Harmonium And Flute Notes
+- Aaj Phir (Hate Story 2) - Sargam, Harmonium And Flute Notes
+- Kabhi Yaadon Mein - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -142,4 +142,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

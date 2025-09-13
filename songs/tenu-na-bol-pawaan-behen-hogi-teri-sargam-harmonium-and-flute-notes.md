@@ -1,5 +1,5 @@
 ---
-title: "# Tenu Na Bol Pawaan (Behen Hogi Teri) – Sargam, Harmonium And Flute Notes"
+title: " Tenu Na Bol Pawaan (Behen Hogi Teri) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Tenu Na Bol Pawaan (Behen Hogi Teri) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: tenu-na-bol-pawaan-behen-hogi-teri-sargam-harmonium-and-flute-notes
@@ -150,11 +150,11 @@ S..R..S..R..G..R..S..S…
 
 Also Read This :-
 
-* Raataan Lambiyan (Full Song) – Sargam And Flute Notes – Shershaah
-* Itni Si Baat Hain (Azhar) – Sargam, Harmonium And Flute Notes
-* Gulabi Aankhen (SANAM) – Sargam, Harmonium And Flute Notes
-* Dil Ko Karaar Aaya – Sargam, Harmonium And Flute Notes
-* Mann Bharryaa 2.0 (Shershaah) – Sargam, Harmonium And Flute Notes
+- Raataan Lambiyan (Full Song) – Sargam And Flute Notes – Shershaah
+- Itni Si Baat Hain (Azhar) – Sargam, Harmonium And Flute Notes
+- Gulabi Aankhen (SANAM) – Sargam, Harmonium And Flute Notes
+- Dil Ko Karaar Aaya – Sargam, Harmonium And Flute Notes
+- Mann Bharryaa 2.0 (Shershaah) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -168,12 +168,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Duniyaa (Luka Chuppi) - Sargam, Harmonium And Flute Notes
-* Mera Dil Ye Pukare Aaja - Sargam, Harmonium And Flute Notes
-* The Jungle Book (Title Song) - Sargam, Harmonium And Flute Notes
-* Mujhe Peene Do (Darshan Raval) - Sargam, Harmonium And Flute Notes
-* Pasoori (Coke Studio 14) - Sargam, Harmonium And Flute Notes
-* Kinna Sona (Bhaag Johnny) - Sargam, Harmonium And Flute Notes
+- Duniyaa (Luka Chuppi) - Sargam, Harmonium And Flute Notes
+- Mera Dil Ye Pukare Aaja - Sargam, Harmonium And Flute Notes
+- The Jungle Book (Title Song) - Sargam, Harmonium And Flute Notes
+- Mujhe Peene Do (Darshan Raval) - Sargam, Harmonium And Flute Notes
+- Pasoori (Coke Studio 14) - Sargam, Harmonium And Flute Notes
+- Kinna Sona (Bhaag Johnny) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -198,4 +198,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

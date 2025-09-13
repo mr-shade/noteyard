@@ -1,5 +1,5 @@
 ---
-title: "# Channa Mereya (Ae Dil Hai Mushkil) – Sargam, Harmonium And Flute Notes"
+title: " Channa Mereya (Ae Dil Hai Mushkil) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Channa Mereya (Ae Dil Hai Mushkil) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: channa-mereya-ae-dil-hai-mushkil-sargam-harmonium-and-flute-notes
@@ -94,25 +94,17 @@ Chaanaa mereyaa mereyaa beliyaa
 
 G..G..m..m..m.. P.D.N. D.P.P.
 
-
-
 Also Read This :-
 
-
-
-* Tujhe Kitna Chahne Lahe Hum Sargam And Flute Notes
-* Bekhayali Full Song Sargam And Flute Notes
-* Leja Re Sargam And Flute Notes
-* Muskurayega India Sargam And Flute Notes
-* Aaj Bhi Sargam And Flute Notes
+- Tujhe Kitna Chahne Lahe Hum Sargam And Flute Notes
+- Bekhayali Full Song Sargam And Flute Notes
+- Leja Re Sargam And Flute Notes
+- Muskurayega India Sargam And Flute Notes
+- Aaj Bhi Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -122,12 +114,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Humdum (Savi) - Sargam, Harmonium And Flute Notes
-* Zara Sa Dil Mein (Jannat) - Sargam, Harmonium And Flute Notes
-* Hum Toh Deewane (FULL SONG) - Sargam And Flute Notes
-* My Name Is Lakhan - Sargam, Harmonium And Flute Notes
-* Aaj Se Teri (Padman) - Sargam, Harmonium And Flute Notes
-* Aane Se Uske Aaye Bahar - Sargam, Harmonium And Flute Notes
+- Humdum (Savi) - Sargam, Harmonium And Flute Notes
+- Zara Sa Dil Mein (Jannat) - Sargam, Harmonium And Flute Notes
+- Hum Toh Deewane (FULL SONG) - Sargam And Flute Notes
+- My Name Is Lakhan - Sargam, Harmonium And Flute Notes
+- Aaj Se Teri (Padman) - Sargam, Harmonium And Flute Notes
+- Aane Se Uske Aaye Bahar - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -152,4 +144,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

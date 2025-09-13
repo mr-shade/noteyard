@@ -1,5 +1,5 @@
 ---
-title: "# Chand Chupa Badal Mein (Hum Dil De Chuke Sanam) – Sargam, Harmonium And Flute Notes"
+title: " Chand Chupa Badal Mein (Hum Dil De Chuke Sanam) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Chand Chupa Badal Mein (Hum Dil De Chuke Sanam) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: chand-chupa-badal-mein-hum-dil-de-chuke-sanam-sargam-harmonium-and-flute-notes
@@ -70,11 +70,11 @@ N…R..N.. S’..N..D..D..
 
 Also Read This :-
 
-* Kandhe Ka Woh Til (Sachet Tandon) – Sargam And Flute Notes
-* Ek Ladki Ko Dekha To Aisa Laga (1942 A Love Story) – Sargam And Flute Notes
-* Kabhi Alvida Na Kehna (Title Song) – Sargam And Flute Notes
-* Qaafirana (Kedarnath) – Sargam And Flute Notes
-* Shukriya (Sadak 2) – Sargam And Flute Notes
+- Kandhe Ka Woh Til (Sachet Tandon) – Sargam And Flute Notes
+- Ek Ladki Ko Dekha To Aisa Laga (1942 A Love Story) – Sargam And Flute Notes
+- Kabhi Alvida Na Kehna (Title Song) – Sargam And Flute Notes
+- Qaafirana (Kedarnath) – Sargam And Flute Notes
+- Shukriya (Sadak 2) – Sargam And Flute Notes
 
 relpost-thumb-wrapper
 
@@ -84,12 +84,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Rang Lageya (Mohit Chauhan) - Sargam And Flute Notes
-* Mera Dil Ye Pukare Aaja - Sargam, Harmonium And Flute Notes
-* Dastaan-E-Om Shanti Om - Sargam, Harmonium And Flute Notes
-* Aashayein (Iqbal) - Sargam, Harmonium And Flute Notes
-* Kabhi Jo Badal Barse (Jackpot) - Sargam, Harmonium And Flute Notes
-* Dhadak Title Song (2nd Version) - Sargam And Flute Notes
+- Rang Lageya (Mohit Chauhan) - Sargam And Flute Notes
+- Mera Dil Ye Pukare Aaja - Sargam, Harmonium And Flute Notes
+- Dastaan-E-Om Shanti Om - Sargam, Harmonium And Flute Notes
+- Aashayein (Iqbal) - Sargam, Harmonium And Flute Notes
+- Kabhi Jo Badal Barse (Jackpot) - Sargam, Harmonium And Flute Notes
+- Dhadak Title Song (2nd Version) - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -114,4 +114,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

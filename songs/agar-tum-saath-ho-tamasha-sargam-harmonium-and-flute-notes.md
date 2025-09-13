@@ -1,5 +1,5 @@
 ---
-title: "# Agar Tum Saath Ho (Tamasha) – Sargam, Harmonium And Flute Notes"
+title: " Agar Tum Saath Ho (Tamasha) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Agar Tum Saath Ho (Tamasha) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: agar-tum-saath-ho-tamasha-sargam-harmonium-and-flute-notes
@@ -66,11 +66,11 @@ S.S.R.R.m…m..G..R..G…
 
 Also Read This :-
 
-* Girls Like You (Maroon 5) – Sargam And Flute Notes
-* Shayad (Love Aaj Kal) – Sargam And Flute Notes
-* Havana (Camila Cabello) – Sargam And Flute Notes
-* Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
-* Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
+- Girls Like You (Maroon 5) – Sargam And Flute Notes
+- Shayad (Love Aaj Kal) – Sargam And Flute Notes
+- Havana (Camila Cabello) – Sargam And Flute Notes
+- Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
+- Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
 
 Where
 
@@ -111,12 +111,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Mujhe Peene Do (Darshan Raval) - Sargam, Harmonium And Flute Notes
-* Kal Ki Hi Baat Hai (Chhichhore) - Sargam, Harmonium And Flute Notes
-* Isq Risk - Sargam, Harmonium And Flute Notes
-* Ibadatein (Rito Riba) - Sargam, Harmonium And Flute Notes
-* Namo Namo (Kedarnath) - Sargam, Harmonium And Flute Notes
-* Tum Bin (Sanam Re) - Sargam, Harmonium And Flute Notes
+- Mujhe Peene Do (Darshan Raval) - Sargam, Harmonium And Flute Notes
+- Kal Ki Hi Baat Hai (Chhichhore) - Sargam, Harmonium And Flute Notes
+- Isq Risk - Sargam, Harmonium And Flute Notes
+- Ibadatein (Rito Riba) - Sargam, Harmonium And Flute Notes
+- Namo Namo (Kedarnath) - Sargam, Harmonium And Flute Notes
+- Tum Bin (Sanam Re) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -141,4 +141,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

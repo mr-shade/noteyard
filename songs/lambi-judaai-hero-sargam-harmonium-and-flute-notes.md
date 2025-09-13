@@ -1,5 +1,5 @@
 ---
-title: "# Lambi Judaai (Hero) – Sargam, Harmonium And Flute Notes"
+title: " Lambi Judaai (Hero) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Lambi Judaai (Hero) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: lambi-judaai-hero-sargam-harmonium-and-flute-notes
@@ -98,11 +98,11 @@ G..R..G..P..G.R.S.R..S.S..
 
 Also Read This :-
 
-* Chandan Sa Badan – Sargam, Harmonium And Flute Notes
-* Tere Naam Humne Kiya Hai – Sargam, Harmonium And Flute Notes
-* Main Tumhara (Easy Version) – Sargam, Harmonium And Flute Notes
-* Abhi Mujh Mein Kahin (Full Song) – Sargam, Harmonium And Flute Notes
-* Kaun Disha Mein Leke Chala Re – Sargam, Harmonium And Flute Notes
+- Chandan Sa Badan – Sargam, Harmonium And Flute Notes
+- Tere Naam Humne Kiya Hai – Sargam, Harmonium And Flute Notes
+- Main Tumhara (Easy Version) – Sargam, Harmonium And Flute Notes
+- Abhi Mujh Mein Kahin (Full Song) – Sargam, Harmonium And Flute Notes
+- Kaun Disha Mein Leke Chala Re – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -143,12 +143,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Gulabi Ankhen (The Train) - Sargam, Harmonium And Flute Notes
-* Tere Bina (1921) - Sargam, Harmonium And Flute Notes
-* Matkar Maya Ko Ahankar - Sargam, Harmonium And Flute Notes
-* Mere Rashke Qamar Sargam, Harmonium And Flute Notes
-* Hale Dil Tujhko Sunata (Murder 2) - Sargam, Harmonium And Flute Notes
-* Teri Aankhon Mein (Darshan Raval) - Sargam, Harmonium And Flute Notes
+- Gulabi Ankhen (The Train) - Sargam, Harmonium And Flute Notes
+- Tere Bina (1921) - Sargam, Harmonium And Flute Notes
+- Matkar Maya Ko Ahankar - Sargam, Harmonium And Flute Notes
+- Mere Rashke Qamar Sargam, Harmonium And Flute Notes
+- Hale Dil Tujhko Sunata (Murder 2) - Sargam, Harmonium And Flute Notes
+- Teri Aankhon Mein (Darshan Raval) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -173,4 +173,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

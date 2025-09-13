@@ -1,5 +1,5 @@
 ---
-title: "# Tumse Bhi Zyada (Tadap) – Sargam, Harmonium And Flute Notes"
+title: " Tumse Bhi Zyada (Tadap) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Tumse Bhi Zyada (Tadap) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: tumse-bhi-zyada-tadap-sargam-harmonium-and-flute-notes
@@ -80,11 +80,11 @@ m.P.D..D..P..m..G..R..R.. G..m..P…P..m..P..m..G..
 
 Also Read This :-
 
-* Bahara (I Hate Luv Storys) – Sargam, Harmonium And Flute Notes
-* Sach keh Raha Hai Deewana – Sargam, Harmonium And Flute Notes
-* Yeh Raaten Yeh Mausam – Sargam, Harmonium And Flute Notes
-* Chookar Mere Mann Ko (Yaarana) – Sargam, Harmonium And Flute Notes
-* Soja Zara (Baahubali 2) – Sargam, Harmonium And Flute Notes
+- Bahara (I Hate Luv Storys) – Sargam, Harmonium And Flute Notes
+- Sach keh Raha Hai Deewana – Sargam, Harmonium And Flute Notes
+- Yeh Raaten Yeh Mausam – Sargam, Harmonium And Flute Notes
+- Chookar Mere Mann Ko (Yaarana) – Sargam, Harmonium And Flute Notes
+- Soja Zara (Baahubali 2) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -127,12 +127,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Jay Jaykara (Baahubali 2) - Sargam, Harmonium And Flute Notes
-* Mere Nishaan (Darshan Raval) - Sargam, Harmonium And Flute Notes
-* Tu Hai Ki Nahi (Roy) - Sargam, Harmonium And Flute Notes
-* Teri Khushboo (Mr. X) - Sargam, Harmonium And Flute Notes
-* Lab Par Aaye (Bandish Bandits) - Sargam, Harmonium And Flute Notes
-* Nachdi Phira (Secret Superstar) - Sargam, Harmonium And Flute Notes
+- Jay Jaykara (Baahubali 2) - Sargam, Harmonium And Flute Notes
+- Mere Nishaan (Darshan Raval) - Sargam, Harmonium And Flute Notes
+- Tu Hai Ki Nahi (Roy) - Sargam, Harmonium And Flute Notes
+- Teri Khushboo (Mr. X) - Sargam, Harmonium And Flute Notes
+- Lab Par Aaye (Bandish Bandits) - Sargam, Harmonium And Flute Notes
+- Nachdi Phira (Secret Superstar) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -157,4 +157,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

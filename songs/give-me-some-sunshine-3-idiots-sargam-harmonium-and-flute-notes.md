@@ -1,5 +1,5 @@
 ---
-title: "# Give Me Some Sunshine (3 Idiots) – Sargam, Harmonium And Flute Notes"
+title: " Give Me Some Sunshine (3 Idiots) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Give Me Some Sunshine (3 Idiots) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: give-me-some-sunshine-3-idiots-sargam-harmonium-and-flute-notes
@@ -90,11 +90,11 @@ S’.N.D..S’.. S’..D..R’..
 
 Also Read This :-
 
-* Mehrama (Love Aaj Kal) – Sargam And Flute Notes
-* Memories (Maroon 5) – Sargam And Flute Notes
-* Muskurayega India (Vishal Mishra) – Sargam And Flute Notes
-* Aaj Bhi (Vishal Mishra) – Sargam And Flute Notes
-* Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
+- Mehrama (Love Aaj Kal) – Sargam And Flute Notes
+- Memories (Maroon 5) – Sargam And Flute Notes
+- Muskurayega India (Vishal Mishra) – Sargam And Flute Notes
+- Aaj Bhi (Vishal Mishra) – Sargam And Flute Notes
+- Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
 
 relpost-thumb-wrapper
 
@@ -104,12 +104,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Breathless (Shankar Mahadevan) - Sargam And Flute Notes
-* Main Balak Tu Mata - Sargam, Harmonium And Flute Notes
-* Rasiya (Easy Version) - Sargam, Harmonium And Flute Notes
-* Tum Prem Ho Tum Preet Ho (2nd Ver.) - Sargam And Flute Notes
-* Dil Hai Chhota Sa (Roja) - Sargam, Harmonium And Flute Notes
-* Abhi Kuch Dino Se - Sargam, Harmonium And Flute Notes
+- Breathless (Shankar Mahadevan) - Sargam And Flute Notes
+- Main Balak Tu Mata - Sargam, Harmonium And Flute Notes
+- Rasiya (Easy Version) - Sargam, Harmonium And Flute Notes
+- Tum Prem Ho Tum Preet Ho (2nd Ver.) - Sargam And Flute Notes
+- Dil Hai Chhota Sa (Roja) - Sargam, Harmonium And Flute Notes
+- Abhi Kuch Dino Se - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -134,4 +134,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Rait Zara Si (Atrangi Re) – Sargam, Harmonium And Flute Notes"
+title: " Rait Zara Si (Atrangi Re) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Rait Zara Si (Atrangi Re) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: rait-zara-si-atrangi-re-sargam-harmonium-and-flute-notes
@@ -72,11 +72,11 @@ G.P..G..R..S…S..S..S…G.R…
 
 Also Read This :-
 
-* Girls Like You (Maroon 5) – Sargam And Flute Notes
-* Shayad (Love Aaj Kal) – Sargam And Flute Notes
-* Havana (Camila Cabello) – Sargam And Flute Notes
-* Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
-* Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
+- Girls Like You (Maroon 5) – Sargam And Flute Notes
+- Shayad (Love Aaj Kal) – Sargam And Flute Notes
+- Havana (Camila Cabello) – Sargam And Flute Notes
+- Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
+- Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
 
 Where
 
@@ -90,12 +90,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Main Jat Yamla Pagla Deewana - Sargam And Flute Notes
-* Motu Patlu (Title Song) - Sargam, Harmonium And Flute Notes
-* Maan Meri Jaan (King) - Sargam, Harmonium And Flute Notes
-* Thoda Thoda Pyaar - Sargam, Harmonium And Flute Notes
-* Ishq Mubarak (Tum Bin 2) - Sargam, Harmonium And Flute Notes
-* Rula Ke Gaya Ishq (Stebin Ben) - Sargam, Harmonium And Flute Notes
+- Main Jat Yamla Pagla Deewana - Sargam And Flute Notes
+- Motu Patlu (Title Song) - Sargam, Harmonium And Flute Notes
+- Maan Meri Jaan (King) - Sargam, Harmonium And Flute Notes
+- Thoda Thoda Pyaar - Sargam, Harmonium And Flute Notes
+- Ishq Mubarak (Tum Bin 2) - Sargam, Harmonium And Flute Notes
+- Rula Ke Gaya Ishq (Stebin Ben) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -120,4 +120,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Main Hoon Hero Tera (Salman Khan) – Sargam, Harmonium And Flute Notes"
+title: " Main Hoon Hero Tera (Salman Khan) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Main Hoon Hero Tera (Salman Khan) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: main-hoon-hero-tera-salman-khan-sargam-harmonium-and-flute-notes
@@ -70,27 +70,19 @@ Kee main hoon hero teraa
 
 P.P.D.P.G.P.. G.P..N.D.P.M..P.M.G..
 
-
-
 Also Read This :-
 
-
-
-* Gerua (Dilwale) – Sargam And Flute Notes
-* Tum Hi Aana (Marjaavaan) – Sargam And Flute Notes
-* Teri Meri Kahani (Happy Hardy And Heer) – Sargam And Flute Notes
-* Titanic (My Heart Will Go On) – Sargam And Flute Notes
-* Nanha Munna Rahi Hoon (Son Of India) – Sargam And Flute Notes
+- Gerua (Dilwale) – Sargam And Flute Notes
+- Tum Hi Aana (Marjaavaan) – Sargam And Flute Notes
+- Teri Meri Kahani (Happy Hardy And Heer) – Sargam And Flute Notes
+- Titanic (My Heart Will Go On) – Sargam And Flute Notes
+- Nanha Munna Rahi Hoon (Son Of India) – Sargam And Flute Notes
 
 Where
-
-
 
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
 
 nw Paragraph 2
-
-
 
 relpost-thumb-wrapper
 
@@ -100,12 +92,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Baadshah O Baadshah - Sargam, Harmonium And Flute Notes
-* Kuch Na Kaho (1942 A Love Story) - Sargam, Harmonium And Flute Notes
-* Allah Ke Bande (Kailash Kher) - Sargam, Harmonium And Flute Notes
-* Tu Aake Dekhle (King) - Sargam, Harmonium And Flute Notes
-* Jana Gana Mana (2nd Version) - Sargam And Flute Notes
-* Gerua (Dilwale) - Sargam, Harmonium And Flute Notes
+- Baadshah O Baadshah - Sargam, Harmonium And Flute Notes
+- Kuch Na Kaho (1942 A Love Story) - Sargam, Harmonium And Flute Notes
+- Allah Ke Bande (Kailash Kher) - Sargam, Harmonium And Flute Notes
+- Tu Aake Dekhle (King) - Sargam, Harmonium And Flute Notes
+- Jana Gana Mana (2nd Version) - Sargam And Flute Notes
+- Gerua (Dilwale) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -130,4 +122,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

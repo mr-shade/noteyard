@@ -1,5 +1,5 @@
 ---
-title: "# Lakdi Ki Kaathi (Masoom) – Sargam, Harmonium And Flute Notes"
+title: " Lakdi Ki Kaathi (Masoom) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Lakdi Ki Kaathi (Masoom) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: lakdi-ki-kaathi-masoom-sargam-harmonium-and-flute-notes
@@ -62,25 +62,17 @@ Dhaudaa dhaudda dhaudaa dhaudda dum uthakee dauddaa
 
 D.D.D.D.P.P.m.m.G. G.R.R.S.S.
 
-
-
 Also Read This :-
 
-
-
-* Main Rahoon Ya Na Rahoon (Armaan Malik) – Sargam And Flute Notes
-* Moh Moh ke dhaage (Dum Laga Ke Haisha) – Sargam And Flute Notes
-* Kisi Aur Naal (Asees Kaur) – Sargam And Flute Notes
-* Intezaar (Arijit Singh) – Sargam And Flute Notes
-* Dekhte Dekhte (Batti Gul Meter Chalu) – Sargam And Flute Notes
+- Main Rahoon Ya Na Rahoon (Armaan Malik) – Sargam And Flute Notes
+- Moh Moh ke dhaage (Dum Laga Ke Haisha) – Sargam And Flute Notes
+- Kisi Aur Naal (Asees Kaur) – Sargam And Flute Notes
+- Intezaar (Arijit Singh) – Sargam And Flute Notes
+- Dekhte Dekhte (Batti Gul Meter Chalu) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -90,12 +82,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Tere Pyaar Mein (Arijit Singh) - Sargam And Flute Notes
-* Chura Liya Hai Tumne Jo Dil Ko Sargam, Harmonium And Flute Notes
-* Kabhi Kabhi Mere Dil Mein - Sargam, Harmonium And Flute Notes
-* Kandhon Se Milte Hain Kandhe - Sargam And Flute Notes
-* Phir Kabhi (2nd Version) - Sargam, Harmonium And Flute Notes
-* Maa (Taare Zameen Par) - Sargam, Harmonium And Flute Notes
+- Tere Pyaar Mein (Arijit Singh) - Sargam And Flute Notes
+- Chura Liya Hai Tumne Jo Dil Ko Sargam, Harmonium And Flute Notes
+- Kabhi Kabhi Mere Dil Mein - Sargam, Harmonium And Flute Notes
+- Kandhon Se Milte Hain Kandhe - Sargam And Flute Notes
+- Phir Kabhi (2nd Version) - Sargam, Harmonium And Flute Notes
+- Maa (Taare Zameen Par) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -120,4 +112,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

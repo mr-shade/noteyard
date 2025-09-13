@@ -1,5 +1,5 @@
 ---
-title: "# Mehendi Wale Haath (Guru Randhawa) – Sargam, Harmonium And Flute Notes"
+title: " Mehendi Wale Haath (Guru Randhawa) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Mehendi Wale Haath (Guru Randhawa) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: mehendi-wale-haath-guru-randhawa-sargam-harmonium-and-flute-notes
@@ -68,11 +68,11 @@ N..S’..N..P.D.D..
 
 Also Read This :-
 
-* Khaabon Ke Parinday (Z.N.M.D.) – Sargam, Harmonium And Flute Notes
-* Meri Aashiqui (Aashiqui 2) – Sargam, Harmonium And Flute Notes
-* Tujhe Kitna Chahne Lage Hum (Easy Version) – Sargam, Harmonium And Flute Notes
-* Tera Zikr (Darshan Raval) – Sargam, Harmonium And Flute Notes
-* Toh Aagaye Hum (Jubin Nautiyal) – Sargam, Harmonium And Flute Notes
+- Khaabon Ke Parinday (Z.N.M.D.) – Sargam, Harmonium And Flute Notes
+- Meri Aashiqui (Aashiqui 2) – Sargam, Harmonium And Flute Notes
+- Tujhe Kitna Chahne Lage Hum (Easy Version) – Sargam, Harmonium And Flute Notes
+- Tera Zikr (Darshan Raval) – Sargam, Harmonium And Flute Notes
+- Toh Aagaye Hum (Jubin Nautiyal) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -86,12 +86,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Ram Siya Ram (Adipurush) - Sargam, Harmonium And Flute Notes
-* O Mere Dil Ke Chain - Sargam, Harmonium And Flute Notes
-* Tu Hi Yaar Mera - Sargam, Harmonium  And Flute Notes
-* Lambi Judaai (Hero) - Sargam, Harmonium And Flute Notes
-* Ae Watan Ae Watan Humko Teri Kasam - Sargam And Flute Notes
-* Main Rahoon Ya Na Rahoon Sargam, Harmonium And Flute Notes
+- Ram Siya Ram (Adipurush) - Sargam, Harmonium And Flute Notes
+- O Mere Dil Ke Chain - Sargam, Harmonium And Flute Notes
+- Tu Hi Yaar Mera - Sargam, Harmonium And Flute Notes
+- Lambi Judaai (Hero) - Sargam, Harmonium And Flute Notes
+- Ae Watan Ae Watan Humko Teri Kasam - Sargam And Flute Notes
+- Main Rahoon Ya Na Rahoon Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -116,4 +116,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

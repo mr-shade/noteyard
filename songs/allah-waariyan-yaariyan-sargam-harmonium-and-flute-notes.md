@@ -1,5 +1,5 @@
 ---
-title: "# Allah Waariyan (Yaariyan) – Sargam, Harmonium And Flute Notes"
+title: " Allah Waariyan (Yaariyan) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Allah Waariyan (Yaariyan) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: allah-waariyan-yaariyan-sargam-harmonium-and-flute-notes
@@ -98,11 +98,11 @@ m.m..D..S’.P.
 
 Also Read This :-
 
-* Tera Ban Jaunga (Kabir Singh) – Sargam And Flute Notes
-* On My Way (Alan Walker) – Sargam And Flute Notes
-* Sholay Theme Tune – Sargam And Flute Notes
-* Tera Ghata (Gajendra Verma) – Sargam And Flute Notes
-* Pirates Of The Caribbean – Sargam And Flute Notes
+- Tera Ban Jaunga (Kabir Singh) – Sargam And Flute Notes
+- On My Way (Alan Walker) – Sargam And Flute Notes
+- Sholay Theme Tune – Sargam And Flute Notes
+- Tera Ghata (Gajendra Verma) – Sargam And Flute Notes
+- Pirates Of The Caribbean – Sargam And Flute Notes
 
 relpost-thumb-wrapper
 
@@ -112,12 +112,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Salaam Aaya (Veer) - Sargam, Harmonium And Flute Notes
-* Chura Liya Hai Tumne Jo Dil Ko Sargam, Harmonium And Flute Notes
-* Gerua (Dilwale) - Sargam, Harmonium And Flute Notes
-* Jab Bhi Teri Yaad (IZSHOJ) - Sargam, Harmonium And Flute Notes
-* Dhaaga (2nd Version) - Sargam, Harmonium And Flute Notes
-* Tujh Mein Rab Dikhta Hai Sargam, Harmonium And Flute Notes
+- Salaam Aaya (Veer) - Sargam, Harmonium And Flute Notes
+- Chura Liya Hai Tumne Jo Dil Ko Sargam, Harmonium And Flute Notes
+- Gerua (Dilwale) - Sargam, Harmonium And Flute Notes
+- Jab Bhi Teri Yaad (IZSHOJ) - Sargam, Harmonium And Flute Notes
+- Dhaaga (2nd Version) - Sargam, Harmonium And Flute Notes
+- Tujh Mein Rab Dikhta Hai Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -142,4 +142,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

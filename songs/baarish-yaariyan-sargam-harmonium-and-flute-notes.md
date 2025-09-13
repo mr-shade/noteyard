@@ -1,5 +1,5 @@
 ---
-title: "# Baarish (Yaariyan) – Sargam, Harmonium And Flute Notes"
+title: " Baarish (Yaariyan) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Baarish (Yaariyan) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: baarish-yaariyan-sargam-harmonium-and-flute-notes
@@ -64,11 +64,11 @@ R..R(K).R(K)..R(K).R..G..G.R.R..m..G..R..
 
 Also Read This :-
 
-* Raataan Lambiyan (Full Song) – Sargam And Flute Notes – Shershaah
-* Itni Si Baat Hain (Azhar) – Sargam, Harmonium And Flute Notes
-* Gulabi Aankhen (SANAM) – Sargam, Harmonium And Flute Notes
-* Dil Ko Karaar Aaya – Sargam, Harmonium And Flute Notes
-* Mann Bharryaa 2.0 (Shershaah) – Sargam, Harmonium And Flute Notes
+- Raataan Lambiyan (Full Song) – Sargam And Flute Notes – Shershaah
+- Itni Si Baat Hain (Azhar) – Sargam, Harmonium And Flute Notes
+- Gulabi Aankhen (SANAM) – Sargam, Harmonium And Flute Notes
+- Dil Ko Karaar Aaya – Sargam, Harmonium And Flute Notes
+- Mann Bharryaa 2.0 (Shershaah) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -82,12 +82,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Aye Dil Laya Hai Bahaar - Sargam, Harmonium And Flute Notes
-* Kesariya (2nd Version) - Sargam, Harmonium And Flute Notes
-* Main Kaun Hoon (Secret Superstar) - Sargam And Flute Notes
-* Tere Pyaar Mein (Arijit Singh) - Sargam And Flute Notes
-* Meet (Simran) - Sargam, Harmonium And Flute Notes
-* Shiddat (Title Song) - Sargam, Harmonium And Flute Notes
+- Aye Dil Laya Hai Bahaar - Sargam, Harmonium And Flute Notes
+- Kesariya (2nd Version) - Sargam, Harmonium And Flute Notes
+- Main Kaun Hoon (Secret Superstar) - Sargam And Flute Notes
+- Tere Pyaar Mein (Arijit Singh) - Sargam And Flute Notes
+- Meet (Simran) - Sargam, Harmonium And Flute Notes
+- Shiddat (Title Song) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -112,4 +112,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

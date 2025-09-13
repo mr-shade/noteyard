@@ -1,5 +1,5 @@
 ---
-title: "# Pehla Pyaar Full Song – Sargam, Harmonium And Flute Notes"
+title: " Pehla Pyaar Full Song – Sargam, Harmonium And Flute Notes"
 description: "Learn # Pehla Pyaar Full Song notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: pehla-pyaar-full-song-sargam-harmonium-and-flute-notes
@@ -200,11 +200,11 @@ Also Read This :-
 
 nw Paragraph 5
 
-* Tu Hi Yaar Mera – Sargam, Harmonium And Flute Notes
-* Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
-* Sandese Aate Hai (Border) – Sargam, Harmonium And Flute Notes
-* Doorie (Atif Aslam) – Sargam, Harmonium And Flute Notes
-* Tere Bina (Guru) – Sargam, Harmonium And Flute Notes
+- Tu Hi Yaar Mera – Sargam, Harmonium And Flute Notes
+- Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
+- Sandese Aate Hai (Border) – Sargam, Harmonium And Flute Notes
+- Doorie (Atif Aslam) – Sargam, Harmonium And Flute Notes
+- Tere Bina (Guru) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -218,12 +218,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Kaise Hua (FULL SONG) - Sargam, Harmonium And Flute Notes
-* Teri Aankhon Mein (Darshan Raval) - Sargam, Harmonium And Flute Notes
-* Pachtaoge (Arijit Singh) - Sargam, Harmonium And Flute Notes
-* Balam Pichkari - Sargam, Harmonium And Flute Notes
-* Jinke Liye (Neha Kakkar) - Sargam, Harmonium And Flute Notes
-* Bana Sharabi - Sargam, Harmonium And Flute Notes
+- Kaise Hua (FULL SONG) - Sargam, Harmonium And Flute Notes
+- Teri Aankhon Mein (Darshan Raval) - Sargam, Harmonium And Flute Notes
+- Pachtaoge (Arijit Singh) - Sargam, Harmonium And Flute Notes
+- Balam Pichkari - Sargam, Harmonium And Flute Notes
+- Jinke Liye (Neha Kakkar) - Sargam, Harmonium And Flute Notes
+- Bana Sharabi - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -248,4 +248,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

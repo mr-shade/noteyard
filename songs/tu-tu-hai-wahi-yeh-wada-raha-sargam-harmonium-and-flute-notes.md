@@ -1,5 +1,5 @@
 ---
-title: "# Tu Tu Hai Wahi (Yeh Wada Raha) – Sargam, Harmonium And Flute Notes"
+title: " Tu Tu Hai Wahi (Yeh Wada Raha) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Tu Tu Hai Wahi (Yeh Wada Raha) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: tu-tu-hai-wahi-yeh-wada-raha-sargam-harmonium-and-flute-notes
@@ -60,11 +60,11 @@ S..n..d..n..p…n…S.n.d..
 
 Also Read This :-
 
-* Raataan Lambiyan (Full Song) – Sargam And Flute Notes – Shershaah
-* Itni Si Baat Hain (Azhar) – Sargam, Harmonium And Flute Notes
-* Gulabi Aankhen (SANAM) – Sargam, Harmonium And Flute Notes
-* Dil Ko Karaar Aaya – Sargam, Harmonium And Flute Notes
-* Mann Bharryaa 2.0 (Shershaah) – Sargam, Harmonium And Flute Notes
+- Raataan Lambiyan (Full Song) – Sargam And Flute Notes – Shershaah
+- Itni Si Baat Hain (Azhar) – Sargam, Harmonium And Flute Notes
+- Gulabi Aankhen (SANAM) – Sargam, Harmonium And Flute Notes
+- Dil Ko Karaar Aaya – Sargam, Harmonium And Flute Notes
+- Mann Bharryaa 2.0 (Shershaah) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -105,12 +105,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Radhe Krishna Ki Jyoti - Sargam, Harmonium And Flute Notes
-* Bade Acche Lagte Hain - Sargam, Harmonium And Flute Notes
-* Tu Jaane Na - Sargam, Harmonium And Flute Notes
-* Pasoori (Coke Studio 14) - Sargam, Harmonium And Flute Notes
-* Tum Se - Sargam, Harmonium And Flute Notes
-* Sukoon (Hassan & Roshaan) - Sargam And Flute Notes
+- Radhe Krishna Ki Jyoti - Sargam, Harmonium And Flute Notes
+- Bade Acche Lagte Hain - Sargam, Harmonium And Flute Notes
+- Tu Jaane Na - Sargam, Harmonium And Flute Notes
+- Pasoori (Coke Studio 14) - Sargam, Harmonium And Flute Notes
+- Tum Se - Sargam, Harmonium And Flute Notes
+- Sukoon (Hassan & Roshaan) - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -135,4 +135,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

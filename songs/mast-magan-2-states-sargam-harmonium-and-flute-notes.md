@@ -1,5 +1,5 @@
 ---
-title: "# Mast Magan (2 States) – Sargam, Harmonium And Flute Notes"
+title: " Mast Magan (2 States) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Mast Magan (2 States) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: mast-magan-2-states-sargam-harmonium-and-flute-notes
@@ -70,27 +70,19 @@ Tera naam dhohraayee
 
 S.n.S.S.R.R.R.S.n.R.S.S.
 
-
-
 Also Read This :-
 
-
-
-* Girls Like You (Maroon 5) – Sargam And Flute Notes
-* Main Rahoon Ya Na Rahoon (Armaan Malik) – Sargam And Flute Notes
-* Moh Moh ke dhaage (Dum Laga Ke Haisha) – Sargam And Flute Notes
-* Kisi Aur Naal (Asees Kaur) – Sargam And Flute Notes
-* Intezaar (Arijit Singh) – Sargam And Flute Notes
+- Girls Like You (Maroon 5) – Sargam And Flute Notes
+- Main Rahoon Ya Na Rahoon (Armaan Malik) – Sargam And Flute Notes
+- Moh Moh ke dhaage (Dum Laga Ke Haisha) – Sargam And Flute Notes
+- Kisi Aur Naal (Asees Kaur) – Sargam And Flute Notes
+- Intezaar (Arijit Singh) – Sargam And Flute Notes
 
 Where
-
-
 
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
 
 nw Paragraph 2
-
-
 
 relpost-thumb-wrapper
 
@@ -100,12 +92,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Aane Se Uske Aaye Bahar - Sargam, Harmonium And Flute Notes
-* Namo Namo (FULL SONG) - Sargam, Harmonium And Flute Notes
-* Mera Pyar Tera Pyar - Sargam, Harmonium And Flute Notes
-* Tera Chehra (Sanam Teri Kasam) - Sargam, Harmonium And Flute Notes
-* Tu Hai (Mohenjo Daro) - Sargam, Harmonium And Flute Notes
-* Raat Bhar (Heropanti) - Sargam, Harmonium And Flute Notes
+- Aane Se Uske Aaye Bahar - Sargam, Harmonium And Flute Notes
+- Namo Namo (FULL SONG) - Sargam, Harmonium And Flute Notes
+- Mera Pyar Tera Pyar - Sargam, Harmonium And Flute Notes
+- Tera Chehra (Sanam Teri Kasam) - Sargam, Harmonium And Flute Notes
+- Tu Hai (Mohenjo Daro) - Sargam, Harmonium And Flute Notes
+- Raat Bhar (Heropanti) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -130,4 +122,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

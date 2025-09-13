@@ -1,5 +1,5 @@
 ---
-title: "# Kabhii Tumhhe (Shershaah) – Sargam, Harmonium And Flute Notes"
+title: " Kabhii Tumhhe (Shershaah) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Kabhii Tumhhe (Shershaah) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: kabhii-tumhhe-shershaah-sargam-harmonium-and-flute-notes
@@ -140,11 +140,11 @@ p..R..R..S..R…S..n..d..p..p..m..d..
 
 Also Read This :-
 
-* Kabhi Alvida Na Kehna (Title Song) – Sargam And Flute Notes
-* Ek Ladki Ko Dekha To Aisa Laga (1942 A Love Story) – Sargam And Flute Notes
-* Jaan Nisaar Sargam And Flute Notes Kedarnath For Beginners
-* Ghar Se Nikalte Hi (Armaan Malik) – Sargam And Flute Notes
-* Kandhe Ka Woh Til (Sachet Tandon) – Sargam And Flute Notes
+- Kabhi Alvida Na Kehna (Title Song) – Sargam And Flute Notes
+- Ek Ladki Ko Dekha To Aisa Laga (1942 A Love Story) – Sargam And Flute Notes
+- Jaan Nisaar Sargam And Flute Notes Kedarnath For Beginners
+- Ghar Se Nikalte Hi (Armaan Malik) – Sargam And Flute Notes
+- Kandhe Ka Woh Til (Sachet Tandon) – Sargam And Flute Notes
 
 Where
 
@@ -158,12 +158,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Mann Jogiya (Arijit Singh) - Sargam, Harmonium And Flute Notes
-* Doorie (Atif Aslam) - Sargam, Harmonium And Flute Notes
-* Saath Nibhaana Saathiya - Sargam, Harmonium And Flute Notes
-* Judaa (Arijit Singh) - Sargam, Harmonium And Flute Notes
-* Nachdi Phira (Secret Superstar) - Sargam, Harmonium And Flute Notes
-* Soch Na Sake (Airlift) - Sargam, Harmonium And Flute Notes
+- Mann Jogiya (Arijit Singh) - Sargam, Harmonium And Flute Notes
+- Doorie (Atif Aslam) - Sargam, Harmonium And Flute Notes
+- Saath Nibhaana Saathiya - Sargam, Harmonium And Flute Notes
+- Judaa (Arijit Singh) - Sargam, Harmonium And Flute Notes
+- Nachdi Phira (Secret Superstar) - Sargam, Harmonium And Flute Notes
+- Soch Na Sake (Airlift) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -188,4 +188,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

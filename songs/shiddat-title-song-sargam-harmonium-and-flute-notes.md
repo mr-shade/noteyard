@@ -1,5 +1,5 @@
 ---
-title: "# Shiddat (Title Song) – Sargam, Harmonium And Flute Notes"
+title: " Shiddat (Title Song) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Shiddat (Title Song) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: shiddat-title-song-sargam-harmonium-and-flute-notes
@@ -80,11 +80,11 @@ S’..S’..S’..N..D..D…P..D..P..D…
 
 Also Read This :-
 
-* Meri Maa Ke Barabar Koi Nahi – Sargam, Harmonium And Flute Notes
-* Chunar (ABCD 2) – Sargam, Harmonium And Flute Notes
-* Chandan Sa Badan – Sargam, Harmonium And Flute Notes
-* Tere Naam Humne Kiya Hai – Sargam, Harmonium And Flute Notes
-* Main Tumhara (Easy Version) – Sargam, Harmonium And Flute Notes
+- Meri Maa Ke Barabar Koi Nahi – Sargam, Harmonium And Flute Notes
+- Chunar (ABCD 2) – Sargam, Harmonium And Flute Notes
+- Chandan Sa Badan – Sargam, Harmonium And Flute Notes
+- Tere Naam Humne Kiya Hai – Sargam, Harmonium And Flute Notes
+- Main Tumhara (Easy Version) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -100,12 +100,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Deewani Mastani - Sargam, Harmonium And Flute Notes
-* Dekhha Tenu (Mr. & Mrs. Mahi) - Sargam And Flute Notes
-* Mera Pehla Pehla Pyaar (K.K.) - Sargam, Harmonium, Flute Notes
-* Koi Ishaara (Force 2) - Sargam, Harmonium And Flute Notes
-* Bana Sharabi (2nd Version) - Sargam, Harmonium And Flute Notes
-* Humko Humise Chura Lo (FULL SONG) - Sargam And Flute Notes
+- Deewani Mastani - Sargam, Harmonium And Flute Notes
+- Dekhha Tenu (Mr. & Mrs. Mahi) - Sargam And Flute Notes
+- Mera Pehla Pehla Pyaar (K.K.) - Sargam, Harmonium, Flute Notes
+- Koi Ishaara (Force 2) - Sargam, Harmonium And Flute Notes
+- Bana Sharabi (2nd Version) - Sargam, Harmonium And Flute Notes
+- Humko Humise Chura Lo (FULL SONG) - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -130,4 +130,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

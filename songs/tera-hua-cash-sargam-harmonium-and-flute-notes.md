@@ -1,5 +1,5 @@
 ---
-title: "# Tera Hua (Cash) – Sargam, Harmonium And Flute Notes"
+title: " Tera Hua (Cash) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Tera Hua (Cash) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: tera-hua-cash-sargam-harmonium-and-flute-notes
@@ -124,11 +124,11 @@ Also Read This :-
 
 nw Paragraph 3
 
-* O Mere Dil Ke Chain – Sargam, Harmonium And Flute Notes
-* Bas Ek Baar (Soham Naik) – Sargam, Harmonium And Flute Notes
-* Humnava (Hamari Adhuri Kahani) – Sargam, Harmonium And Flute Notes
-* Tum Tak (Raanjhanaa) – Sargam, Harmonium And Flute Notes
-* Tujh Mein Rab Dikhta Hai (Easy Version) – Sargam And Flute Notes
+- O Mere Dil Ke Chain – Sargam, Harmonium And Flute Notes
+- Bas Ek Baar (Soham Naik) – Sargam, Harmonium And Flute Notes
+- Humnava (Hamari Adhuri Kahani) – Sargam, Harmonium And Flute Notes
+- Tum Tak (Raanjhanaa) – Sargam, Harmonium And Flute Notes
+- Tujh Mein Rab Dikhta Hai (Easy Version) – Sargam And Flute Notes
 
 Where
 
@@ -169,12 +169,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Nerolac Paints Ad Song - Sargam, Harmonium And Flute Notes
-* Phir Mulaaqat (Cheat India) - Sargam, Harmonium And Flute Notes
-* Maand (Bayaan) - Sargam, Harmonium And Flute Notes
-* Jay Jaykara (Baahubali 2) - Sargam, Harmonium And Flute Notes
-* Meet (Simran) - Sargam, Harmonium And Flute Notes
-* Main Yahan Tu Wahan (Baghban) - Sargam, Harmonium And Flute Notes
+- Nerolac Paints Ad Song - Sargam, Harmonium And Flute Notes
+- Phir Mulaaqat (Cheat India) - Sargam, Harmonium And Flute Notes
+- Maand (Bayaan) - Sargam, Harmonium And Flute Notes
+- Jay Jaykara (Baahubali 2) - Sargam, Harmonium And Flute Notes
+- Meet (Simran) - Sargam, Harmonium And Flute Notes
+- Main Yahan Tu Wahan (Baghban) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -199,4 +199,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Tere Sang Yaara (Rustom) – Sargam, Harmonium And Flute Notes"
+title: " Tere Sang Yaara (Rustom) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Tere Sang Yaara (Rustom) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: tere-sang-yaara-rustom-sargam-harmonium-and-flute-notes
@@ -80,11 +80,11 @@ G.G.G.R.R.m.G..R..G..R..S…
 
 Also Read This :-
 
-* Aaj Se Teri (Padman) – Sargam And Flute Notes
-* Meri Aashiqui (Jubin Nautiyal) – Sargam And Flute Notes
-* Tere Bina (Salman Khan) – Sargam And Flute Notes
-* Airtel Theme Music Sargam And Flute Notes For Beginners
-* Twinkle Twinkle Little Star – Sargam And Flute Notes For Beginners
+- Aaj Se Teri (Padman) – Sargam And Flute Notes
+- Meri Aashiqui (Jubin Nautiyal) – Sargam And Flute Notes
+- Tere Bina (Salman Khan) – Sargam And Flute Notes
+- Airtel Theme Music Sargam And Flute Notes For Beginners
+- Twinkle Twinkle Little Star – Sargam And Flute Notes For Beginners
 
 Where
 
@@ -100,4 +100,3 @@ Guitar Tabs
 All Guitar Tabs List (UPDATED)
 Super Easy Piano Notes
 Request A Song
-

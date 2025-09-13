@@ -1,5 +1,5 @@
 ---
-title: "# On My Way (Alan Walker) – Sargam, Harmonium And Flute Notes"
+title: " On My Way (Alan Walker) – Sargam, Harmonium And Flute Notes"
 description: "Learn # On My Way (Alan Walker) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: on-my-way-alan-walker-sargam-harmonium-and-flute-notes
@@ -88,25 +88,17 @@ And I’m on myy wayy
 
 n.R..S..n..d..
 
-
-
 Also Read This :-
 
-
-
-* Ek Ajnabee Haseena Se (Ajnabee) – Sargam And Flute Notes
-* Kalank (Title Track) – Sargam And Flute Notes
-* Dekha Hazaro Dafaa (Rustom) – Sargam And Flute Notes
-* I Like Me Better (Lauv) – Sargam And Flute Notes
-* Mere Wala Sardar (Jugraj Sandhu) – Sargam And Flute Notes
+- Ek Ajnabee Haseena Se (Ajnabee) – Sargam And Flute Notes
+- Kalank (Title Track) – Sargam And Flute Notes
+- Dekha Hazaro Dafaa (Rustom) – Sargam And Flute Notes
+- I Like Me Better (Lauv) – Sargam And Flute Notes
+- Mere Wala Sardar (Jugraj Sandhu) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -116,12 +108,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Alone (Alan Walker) - Sargam, Harmonium And Flute Notes
-* Drivers License (Olivia Rodrigo) - Sargam, Harmonium, Flute Notes
-* Love Story (Taylor Swift) - Sargam, Harmonium And Flute Notes
-* Butter (BTS) - Sargam, Harmonium And Flute Notes
-* Lovely (Billie Eilish) - Sargam, Harmonium And Flute Notes
-* Happy Birthday - Sargam, Harmonium And Flute Notes
+- Alone (Alan Walker) - Sargam, Harmonium And Flute Notes
+- Drivers License (Olivia Rodrigo) - Sargam, Harmonium, Flute Notes
+- Love Story (Taylor Swift) - Sargam, Harmonium And Flute Notes
+- Butter (BTS) - Sargam, Harmonium And Flute Notes
+- Lovely (Billie Eilish) - Sargam, Harmonium And Flute Notes
+- Happy Birthday - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -146,4 +138,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

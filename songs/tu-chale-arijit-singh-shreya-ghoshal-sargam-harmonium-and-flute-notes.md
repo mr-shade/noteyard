@@ -1,5 +1,5 @@
 ---
-title: "# Tu Chale (Arijit Singh, Shreya Ghoshal) – Sargam, Harmonium And Flute Notes"
+title: " Tu Chale (Arijit Singh, Shreya Ghoshal) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Tu Chale (Arijit Singh, Shreya Ghoshal) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: tu-chale-arijit-singh-shreya-ghoshal-sargam-harmonium-and-flute-notes
@@ -86,11 +86,11 @@ nw Paragraph 2
 
 Also Read This :-
 
-* Raataan Lambiyan (Full Song) – Sargam And Flute Notes – Shershaah
-* Itni Si Baat Hain (Azhar) – Sargam, Harmonium And Flute Notes
-* Gulabi Aankhen (SANAM) – Sargam, Harmonium And Flute Notes
-* Dil Ko Karaar Aaya – Sargam, Harmonium And Flute Notes
-* Mann Bharryaa 2.0 (Shershaah) – Sargam, Harmonium And Flute Notes
+- Raataan Lambiyan (Full Song) – Sargam And Flute Notes – Shershaah
+- Itni Si Baat Hain (Azhar) – Sargam, Harmonium And Flute Notes
+- Gulabi Aankhen (SANAM) – Sargam, Harmonium And Flute Notes
+- Dil Ko Karaar Aaya – Sargam, Harmonium And Flute Notes
+- Mann Bharryaa 2.0 (Shershaah) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -104,12 +104,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Dil Aaj Kal (Purani Jeans) - Sargam, Harmonium And Flute Notes
-* Dastaan-E-Om Shanti Om - Sargam, Harmonium And Flute Notes
-* Dhaagon Se Baandhaa - Sargam, Harmonium And Flute Notes
-* Baarish (Yaariyan) - Sargam, Harmonium And Flute Notes
-* Tere Bina Na Guzara E - Sargam, Harmonium And Flute Notes
-* Ve maahi (2nd Version) - Sargam, Harmonium And Flute Notes
+- Dil Aaj Kal (Purani Jeans) - Sargam, Harmonium And Flute Notes
+- Dastaan-E-Om Shanti Om - Sargam, Harmonium And Flute Notes
+- Dhaagon Se Baandhaa - Sargam, Harmonium And Flute Notes
+- Baarish (Yaariyan) - Sargam, Harmonium And Flute Notes
+- Tere Bina Na Guzara E - Sargam, Harmonium And Flute Notes
+- Ve maahi (2nd Version) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -134,4 +134,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

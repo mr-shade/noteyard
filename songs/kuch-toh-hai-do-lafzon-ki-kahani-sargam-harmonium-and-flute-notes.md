@@ -1,5 +1,5 @@
 ---
-title: "# Kuch Toh Hai (Do Lafzon Ki Kahani) – Sargam, Harmonium And Flute Notes"
+title: " Kuch Toh Hai (Do Lafzon Ki Kahani) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Kuch Toh Hai (Do Lafzon Ki Kahani) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: kuch-toh-hai-do-lafzon-ki-kahani-sargam-harmonium-and-flute-notes
@@ -126,11 +126,11 @@ nw Paragraph 3
 
 Also Read This :-
 
-* Aaoge Jab Tum (Jab We Met) – Sargam And Flute Notes
-* Yaara Teri Yaari – Sargam And Flute Notes
-* Tera Yaar Hoon Main (Sonu Ke Tittu Ki Sweety) – Sargam And Flute Notes
-* Hothon Se Chhulo Tum (Jagjit Singh) – Sargam And Flute Notes
-* Janam Janam (Dilwale) – Sargam And Flute Notes
+- Aaoge Jab Tum (Jab We Met) – Sargam And Flute Notes
+- Yaara Teri Yaari – Sargam And Flute Notes
+- Tera Yaar Hoon Main (Sonu Ke Tittu Ki Sweety) – Sargam And Flute Notes
+- Hothon Se Chhulo Tum (Jagjit Singh) – Sargam And Flute Notes
+- Janam Janam (Dilwale) – Sargam And Flute Notes
 
 Where
 
@@ -144,12 +144,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Waqt Ki Baatein- Sargam, Harmonium And Flute Notes
-* Bekhayali (Full Song) Sargam, Harmonium And Flute Notes
-* Le Chala (One Night Stand) - Sargam, Harmonium And Flute Notes
-* Tere Liye (Prince) - Sargam, Harmonium And Flute Notes
-* Tu Mila To Haina - Sargam, Harmonium And Flute Notes
-* Main Jat Yamla Pagla Deewana - Sargam And Flute Notes
+- Waqt Ki Baatein- Sargam, Harmonium And Flute Notes
+- Bekhayali (Full Song) Sargam, Harmonium And Flute Notes
+- Le Chala (One Night Stand) - Sargam, Harmonium And Flute Notes
+- Tere Liye (Prince) - Sargam, Harmonium And Flute Notes
+- Tu Mila To Haina - Sargam, Harmonium And Flute Notes
+- Main Jat Yamla Pagla Deewana - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -174,4 +174,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Dil De Diya Hain (Anand Raj Anand) – Sargam, Harmonium And Flute Notes"
+title: " Dil De Diya Hain (Anand Raj Anand) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Dil De Diya Hain (Anand Raj Anand) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: dil-de-diya-hain-anand-raj-anand-sargam-harmonium-and-flute-notes
@@ -80,27 +80,19 @@ Daga nahii karengee sanam
 
 S..G..G..M..G.R..S.R..S.n.
 
-
-
 nw Paragraph 2
 
 Also Read This :-
 
-
-
-* Dil Diyan Gallan (Tiger Zinda Hai) – Sargam And Flute Notes
-* Tujh Mein Rab Dikhta Hai (Rab Ne Banadi Jodi) – Sargam And Flute Notes
-* Zara Zara (RHTDM) – Sargam And Flute Notes
-* Maula Mera Le Le Meri Jann (Chak De India) – Sargam And Flute Notes
-* Radha Krishna (Title Song) – Sargam And Flute Notes
+- Dil Diyan Gallan (Tiger Zinda Hai) – Sargam And Flute Notes
+- Tujh Mein Rab Dikhta Hai (Rab Ne Banadi Jodi) – Sargam And Flute Notes
+- Zara Zara (RHTDM) – Sargam And Flute Notes
+- Maula Mera Le Le Meri Jann (Chak De India) – Sargam And Flute Notes
+- Radha Krishna (Title Song) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -110,12 +102,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Love Me Thoda Aur (Yaariyan) - Sargam, Harmonium And Flute Notes
-* Ye Ladka Hay Allah Kaisa Hai Diwana - Sargam And Flute Notes
-* Waqt Ki Baatein- Sargam, Harmonium And Flute Notes
-* Phir Miloge Na (JalRaj) - Sargam, Harmonium And Flute Notes
-* Soja Zara (Baahubali 2) - Sargam, Harmonium And Flute Notes
-* Teri Mitti - Sargam, Harmonium And Flute Notes
+- Love Me Thoda Aur (Yaariyan) - Sargam, Harmonium And Flute Notes
+- Ye Ladka Hay Allah Kaisa Hai Diwana - Sargam And Flute Notes
+- Waqt Ki Baatein- Sargam, Harmonium And Flute Notes
+- Phir Miloge Na (JalRaj) - Sargam, Harmonium And Flute Notes
+- Soja Zara (Baahubali 2) - Sargam, Harmonium And Flute Notes
+- Teri Mitti - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -140,4 +132,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Raataan Lambiyan (Shershaah) – Sargam, Harmonium And Flute Notes"
+title: " Raataan Lambiyan (Shershaah) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Raataan Lambiyan (Shershaah) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: raataan-lambiyan-shershaah-sargam-harmonium-and-flute-notes
@@ -80,11 +80,11 @@ S’.N..m..P.P.D.N.D.P.P..P..
 
 Also Read This :-
 
-* Tose Naina (Mickey Virus) – Sargam, Harmonium And Flute Notes
-* Hamari Adhuri Kahani (Title Song) – Sargam, Harmonium And Flute Notes
-* Lambiyaan Si Judaiyaan (Raabta) – Sargam, Harmonium And Flute Notes
-* Kaise Mujhe (Ghajini) – Sargam, Harmonium And Flute Notes
-* Yeh Aaina Full Song (Kabir Singh) – Sargam, Harmonium And Flute Notes
+- Tose Naina (Mickey Virus) – Sargam, Harmonium And Flute Notes
+- Hamari Adhuri Kahani (Title Song) – Sargam, Harmonium And Flute Notes
+- Lambiyaan Si Judaiyaan (Raabta) – Sargam, Harmonium And Flute Notes
+- Kaise Mujhe (Ghajini) – Sargam, Harmonium And Flute Notes
+- Yeh Aaina Full Song (Kabir Singh) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -100,12 +100,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Meherbaani - Sargam, Harmonium And Flute Notes
-* Yeh Aaina Full Song (Kabir Singh) - Sargam, Harmonium And Flute Notes
-* Kaise Ab Kahein (Gutar Gu) - Sargam, Harmonium And Flute Notes
-* Mere Dholna Sargam Part - Sargam, Harmonium And Flute Notes
-* Hoshwalon Ko Khabar Kya (2nd Version) - Sargam And Flute Notes
-* Dost Dost Na Raha Pyar Pyar Na Raha - Sargam And Flute Notes
+- Meherbaani - Sargam, Harmonium And Flute Notes
+- Yeh Aaina Full Song (Kabir Singh) - Sargam, Harmonium And Flute Notes
+- Kaise Ab Kahein (Gutar Gu) - Sargam, Harmonium And Flute Notes
+- Mere Dholna Sargam Part - Sargam, Harmonium And Flute Notes
+- Hoshwalon Ko Khabar Kya (2nd Version) - Sargam And Flute Notes
+- Dost Dost Na Raha Pyar Pyar Na Raha - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -130,4 +130,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

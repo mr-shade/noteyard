@@ -1,5 +1,5 @@
 ---
-title: "# Maana Ke Hum Yaar Nahi (Meri Pyaari Bindu) – Sargam, Harmonium And Flute Notes"
+title: " Maana Ke Hum Yaar Nahi (Meri Pyaari Bindu) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Maana Ke Hum Yaar Nahi (Meri Pyaari Bindu) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: maana-ke-hum-yaar-nahi-meri-pyaari-bindu-sargam-harmonium-and-flute-notes
@@ -112,21 +112,15 @@ S..n..d..n..S..G….R..m..G..
 
 Also Read This :-
 
-
-
-* Fadad (Alan Walker) – Sargam And Flute Notes
-* Happy Birthday – Sargam And Flute Notes
-* Choo Lo (The Local Train) – Sargam And Flute Notes
-* Vaaste (Dhvani Bhanushali) – Sargam and Flute Notes
-* Pyaar Ke Pal (K.K.)- Sargam And Flute Notes
+- Fadad (Alan Walker) – Sargam And Flute Notes
+- Happy Birthday – Sargam And Flute Notes
+- Choo Lo (The Local Train) – Sargam And Flute Notes
+- Vaaste (Dhvani Bhanushali) – Sargam and Flute Notes
+- Pyaar Ke Pal (K.K.)- Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 nw Paragraph 3
 
@@ -138,12 +132,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Muskurayega India (Vishal Mishra) - Sargam, Harmonium And Flute Notes
-* Thodi Der (Half Girlfriend) - Sargam, Harmonium And Flute Notes
-* Saiyyan (Kailash Kher) - Sargam, Harmonium And Flute Notes
-* Jaan Ban Gaye (Khuda Haffiz)  - Sargam, Harmonium And Flute Notes
-* Kora Kagaz Tha Yeh Man Mera - Sargam, Harmonium And Flute Notes
-* Vande Mataram - Sargam, Harmonium And Flute Notes
+- Muskurayega India (Vishal Mishra) - Sargam, Harmonium And Flute Notes
+- Thodi Der (Half Girlfriend) - Sargam, Harmonium And Flute Notes
+- Saiyyan (Kailash Kher) - Sargam, Harmonium And Flute Notes
+- Jaan Ban Gaye (Khuda Haffiz) - Sargam, Harmonium And Flute Notes
+- Kora Kagaz Tha Yeh Man Mera - Sargam, Harmonium And Flute Notes
+- Vande Mataram - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -168,4 +162,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

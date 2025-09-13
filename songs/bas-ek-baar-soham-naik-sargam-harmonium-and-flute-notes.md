@@ -1,5 +1,5 @@
 ---
-title: "# Bas Ek Baar (Soham Naik) – Sargam, Harmonium And Flute Notes"
+title: " Bas Ek Baar (Soham Naik) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Bas Ek Baar (Soham Naik) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: bas-ek-baar-soham-naik-sargam-harmonium-and-flute-notes
@@ -134,11 +134,11 @@ S..R..G..G.D.D..P.P…
 
 Also Read This :-
 
-* Chandan Sa Badan – Sargam, Harmonium And Flute Notes
-* Tere Naam Humne Kiya Hai – Sargam, Harmonium And Flute Notes
-* Main Tumhara (Easy Version) – Sargam, Harmonium And Flute Notes
-* Abhi Mujh Mein Kahin (Full Song) – Sargam, Harmonium And Flute Notes
-* Kaun Disha Mein Leke Chala Re – Sargam, Harmonium And Flute Notes
+- Chandan Sa Badan – Sargam, Harmonium And Flute Notes
+- Tere Naam Humne Kiya Hai – Sargam, Harmonium And Flute Notes
+- Main Tumhara (Easy Version) – Sargam, Harmonium And Flute Notes
+- Abhi Mujh Mein Kahin (Full Song) – Sargam, Harmonium And Flute Notes
+- Kaun Disha Mein Leke Chala Re – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -179,12 +179,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Tere Naal (Darshan Raval) - Sargam, Harmonium And Flute Notes
-* Mere Baba (Jubin Nautiyal) - Sargam, Harmonium And Flute Notes
-* Mujhko Barsaat Bana Lo - Sargam, Harmonium And Flute Notes
-* Halki Halki Si - Sargam, Harmonium And Flute Notes
-* Alvida (Life in a Metro) - Sargam, Harmonium And Flute Notes
-* Tu Har Lamha (Khamoshiyan) - Sargam, Harmonium And Flute Notes
+- Tere Naal (Darshan Raval) - Sargam, Harmonium And Flute Notes
+- Mere Baba (Jubin Nautiyal) - Sargam, Harmonium And Flute Notes
+- Mujhko Barsaat Bana Lo - Sargam, Harmonium And Flute Notes
+- Halki Halki Si - Sargam, Harmonium And Flute Notes
+- Alvida (Life in a Metro) - Sargam, Harmonium And Flute Notes
+- Tu Har Lamha (Khamoshiyan) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -209,4 +209,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

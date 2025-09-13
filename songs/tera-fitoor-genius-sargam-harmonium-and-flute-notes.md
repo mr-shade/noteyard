@@ -1,5 +1,5 @@
 ---
-title: "# Tera Fitoor (Genius) – Sargam, Harmonium And Flute Notes"
+title: " Tera Fitoor (Genius) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Tera Fitoor (Genius) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: tera-fitoor-genius-sargam-harmonium-and-flute-notes
@@ -60,11 +60,11 @@ G.G.R.R…G.m.G.R. G..R..G..R..R.S.S…
 
 Also Read This :-
 
-* Aasan Nahin Yahan (Aashiqui 2) – Sargam, Harmonium And Flute Notes
-* Koi Ishaara (Force 2) – Sargam, Harmonium And Flute Notes
-* Main Janta Hoon (The Body) – Sargam, Harmonium And Flute Notes
-* Wajah Tum Ho (Hate Story 3) – Sargam, Harmonium And Flute Notes
-* Main Tumhara (Dil Bechara) – Sargam, Harmonium And Flute Notes
+- Aasan Nahin Yahan (Aashiqui 2) – Sargam, Harmonium And Flute Notes
+- Koi Ishaara (Force 2) – Sargam, Harmonium And Flute Notes
+- Main Janta Hoon (The Body) – Sargam, Harmonium And Flute Notes
+- Wajah Tum Ho (Hate Story 3) – Sargam, Harmonium And Flute Notes
+- Main Tumhara (Dil Bechara) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -78,12 +78,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Dil Chahte Ho (Jubin Nautiyal) - Sargam, Harmonium And Flute Notes
-* Kaise Ab Kahein (Gutar Gu) - Sargam, Harmonium And Flute Notes
-* Malang Sajna - Sargam, Harmonium And Flute Notes
-* Naina Da Kya Kasoor - Sargam, Harmonium And Flute Notes
-* Emptiness - Sargam, Harmonium And Flute Notes
-* Tujh Mein Rab Dikhta Hai (Full Song) - Sargam And Flute Notes
+- Dil Chahte Ho (Jubin Nautiyal) - Sargam, Harmonium And Flute Notes
+- Kaise Ab Kahein (Gutar Gu) - Sargam, Harmonium And Flute Notes
+- Malang Sajna - Sargam, Harmonium And Flute Notes
+- Naina Da Kya Kasoor - Sargam, Harmonium And Flute Notes
+- Emptiness - Sargam, Harmonium And Flute Notes
+- Tujh Mein Rab Dikhta Hai (Full Song) - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -108,4 +108,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

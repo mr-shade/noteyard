@@ -1,5 +1,5 @@
 ---
-title: "# Beete Lamhein (The Train) – Sargam, Harmonium And Flute Notes"
+title: " Beete Lamhein (The Train) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Beete Lamhein (The Train) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: beete-lamhein-the-train-sargam-harmonium-and-flute-notes
@@ -128,11 +128,11 @@ R..R..G…G..m..G..
 
 Also Read This :-
 
-* Jinke Liye (Neha Kakkar) – Sargam And Flute Notes
-* Kho Gaye Hum Kahan (Baar Baar Dekho) – Sargam And Flute Notes
-* Memories (Maroon 5) – Sargam And Flute Notes
-* Malang (Title Track) – Sargam And Flute Notes
-* Baa Baa Black Sheep – Sargam And Flute Notes
+- Jinke Liye (Neha Kakkar) – Sargam And Flute Notes
+- Kho Gaye Hum Kahan (Baar Baar Dekho) – Sargam And Flute Notes
+- Memories (Maroon 5) – Sargam And Flute Notes
+- Malang (Title Track) – Sargam And Flute Notes
+- Baa Baa Black Sheep – Sargam And Flute Notes
 
 Where
 
@@ -146,12 +146,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Thodi Jagah (Marjaavaan) - Sargam, Harmonium And Flute Notes
-* Kabhi Khushi Kabhie Gham - Sargam, Harmonium And Flute Notes
-* Surili Akhiyon Wale (2nd Version) - Sargam And Flute Notes
-* Manwa Laage (Happy New Year) - Sargam, Harmonium And Flute Notes
-* Bharat Humko Jaan Se Pyara Hai - Sargam And Flute Notes
-* Tu Har Lamha (Khamoshiyan) - Sargam, Harmonium And Flute Notes
+- Thodi Jagah (Marjaavaan) - Sargam, Harmonium And Flute Notes
+- Kabhi Khushi Kabhie Gham - Sargam, Harmonium And Flute Notes
+- Surili Akhiyon Wale (2nd Version) - Sargam And Flute Notes
+- Manwa Laage (Happy New Year) - Sargam, Harmonium And Flute Notes
+- Bharat Humko Jaan Se Pyara Hai - Sargam And Flute Notes
+- Tu Har Lamha (Khamoshiyan) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -176,4 +176,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

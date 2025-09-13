@@ -1,5 +1,5 @@
 ---
-title: "# The Last Of Mohicans – Sargam, Harmonium And Flute Notes"
+title: " The Last Of Mohicans – Sargam, Harmonium And Flute Notes"
 description: "Learn # The Last Of Mohicans notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: the-last-of-mohicans-sargam-harmonium-and-flute-notes
@@ -26,25 +26,17 @@ D.S’..N.S’.N.S’.R’…
 
 S’.R’.G’.. R’.S’.. N.S’.R’… D.N..N.S’.N.D..
 
-
-
 Also Read This :-
 
-
-
-* Aaoge Jab Tum (Jab We Met) – Sargam And Flute Notes
-* Yaara Teri Yaari – Sargam And Flute Notes
-* Tera Yaar Hoon Main (Sonu Ke Tittu Ki Sweety) – Sargam And Flute Notes
-* Hothon Se Chhulo Tum (Jagjit Singh) – Sargam And Flute Notes
-* Janam Janam (Dilwale) – Sargam And Flute Notes
+- Aaoge Jab Tum (Jab We Met) – Sargam And Flute Notes
+- Yaara Teri Yaari – Sargam And Flute Notes
+- Tera Yaar Hoon Main (Sonu Ke Tittu Ki Sweety) – Sargam And Flute Notes
+- Hothon Se Chhulo Tum (Jagjit Singh) – Sargam And Flute Notes
+- Janam Janam (Dilwale) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -54,12 +46,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Superman Theme (2025) - Sargam, Harmonium And Flute Notes
-* Night Changes Sargam, Harmonium And Flute Notes
-* Jeene Ka Sahi Dhang (Doraemon) - Sargam And Flute Notes
-* O.M.G. Flute Tune - Sargam, Harmonium And Flute Notes
-* Sholay Theme Tune - Sargam, Harmonium And Flute Notes
-* Jadoo Tune (Koi Mil Gaya) - Sargam, Harmonium And Flute Notes
+- Superman Theme (2025) - Sargam, Harmonium And Flute Notes
+- Night Changes Sargam, Harmonium And Flute Notes
+- Jeene Ka Sahi Dhang (Doraemon) - Sargam And Flute Notes
+- O.M.G. Flute Tune - Sargam, Harmonium And Flute Notes
+- Sholay Theme Tune - Sargam, Harmonium And Flute Notes
+- Jadoo Tune (Koi Mil Gaya) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -84,4 +76,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

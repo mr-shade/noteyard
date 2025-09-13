@@ -1,5 +1,5 @@
 ---
-title: "# Hum Kis Gali Ja Rahen Hain (Doorie) – Sargam, Harmonium And Flute Notes"
+title: " Hum Kis Gali Ja Rahen Hain (Doorie) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Hum Kis Gali Ja Rahen Hain (Doorie) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: hum-kis-gali-ja-rahen-hain-doorie-sargam-harmonium-and-flute-notes
@@ -48,11 +48,11 @@ Also Read This :-
 
 nw Paragraph 1
 
-* Aashiqui Aa Gayi (Radhe Shyam) – Sargam, Harmonium And Flute Notes
-* Kuch Na Kaho (1942 A Love Story) – Sargam, Harmonium And Flute Notes
-* Love Me Thoda Aur (Yaariyan) – Sargam, Harmonium And Flute Notes
-* Kaise Bataaoon (3G) – Sargam, Harmonium And Flute Notes
-* Rait Zara Si (Atrangi Re) – Sargam, Harmonium And Flute Notes
+- Aashiqui Aa Gayi (Radhe Shyam) – Sargam, Harmonium And Flute Notes
+- Kuch Na Kaho (1942 A Love Story) – Sargam, Harmonium And Flute Notes
+- Love Me Thoda Aur (Yaariyan) – Sargam, Harmonium And Flute Notes
+- Kaise Bataaoon (3G) – Sargam, Harmonium And Flute Notes
+- Rait Zara Si (Atrangi Re) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -93,12 +93,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Woh Chaand Kahan Se Laogi (Vishal Mishra) - Sargam, Harmonium And Flute Notes
-* Ek Ajnabee Haseena Se (Ajnabee) - Sargam, Harmonium And Flute Notes
-* Dhadak Title Song (2nd Version) - Sargam And Flute Notes
-* Tumse Bhi Zyada (Tadap) - Sargam, Harmonium And Flute Notes
-* Hona Tha Pyar (Bol) - Sargam, Harmonium And Flute Notes
-* Pehla Nasha - Sargam, Harmonium And Flute Notes | Udit Narayan
+- Woh Chaand Kahan Se Laogi (Vishal Mishra) - Sargam, Harmonium And Flute Notes
+- Ek Ajnabee Haseena Se (Ajnabee) - Sargam, Harmonium And Flute Notes
+- Dhadak Title Song (2nd Version) - Sargam And Flute Notes
+- Tumse Bhi Zyada (Tadap) - Sargam, Harmonium And Flute Notes
+- Hona Tha Pyar (Bol) - Sargam, Harmonium And Flute Notes
+- Pehla Nasha - Sargam, Harmonium And Flute Notes | Udit Narayan
 
 close related_posts_thumbnails
 
@@ -123,4 +123,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

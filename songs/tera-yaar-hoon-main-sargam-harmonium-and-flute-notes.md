@@ -1,5 +1,5 @@
 ---
-title: "# Tera Yaar Hoon Main Sargam, Harmonium And Flute Notes"
+title: " Tera Yaar Hoon Main Sargam, Harmonium And Flute Notes"
 description: "Learn # Tera Yaar Hoon Main Sargam, Harmonium And Flute Notes notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: tera-yaar-hoon-main-sargam-harmonium-and-flute-notes
@@ -42,23 +42,17 @@ G’.R’.S’..S’..R’..S’..
 
 Also Read This :-
 
-
-
-* Tune Mere Jaana (Emptiness) – Sargam And Flute Notes
-* Kabhi Jo Badal Barse (Jackpot) – Sargam And Flute Notes
-* The Last Of Mohicans – Sargam And Flute Notes
-* Har Ghadi (Kal Ho Na Ho) – Sargam And Flute Notes
-* Mujhe Kaise Pata Na Chala (Papon) – Sargam And Flute Notes
+- Tune Mere Jaana (Emptiness) – Sargam And Flute Notes
+- Kabhi Jo Badal Barse (Jackpot) – Sargam And Flute Notes
+- The Last Of Mohicans – Sargam And Flute Notes
+- Har Ghadi (Kal Ho Na Ho) – Sargam And Flute Notes
+- Mujhe Kaise Pata Na Chala (Papon) – Sargam And Flute Notes
 
 Where
 
 nw Paragraph 1
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -68,12 +62,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Ajeeb Dastan (Lata Mangeshkar) - Sargam, Harmonium And Flute Notes
-* Hum Toh Deewane (Elvish Yadav) - Sargam And Flute Notes
-* Tere Bina Na Guzara E - Sargam, Harmonium And Flute Notes
-* Aankhein Khuli (Mohabbatein) - Sargam, Harmonium, Flute Notes
-* Bhool Bhulaiyaa (Title Track) - Sargam, Harmonium And Flute Notes
-* Aaoge Tum Kabhi (The Local Train) - Sargam And Flute Notes
+- Ajeeb Dastan (Lata Mangeshkar) - Sargam, Harmonium And Flute Notes
+- Hum Toh Deewane (Elvish Yadav) - Sargam And Flute Notes
+- Tere Bina Na Guzara E - Sargam, Harmonium And Flute Notes
+- Aankhein Khuli (Mohabbatein) - Sargam, Harmonium, Flute Notes
+- Bhool Bhulaiyaa (Title Track) - Sargam, Harmonium And Flute Notes
+- Aaoge Tum Kabhi (The Local Train) - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -98,4 +92,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

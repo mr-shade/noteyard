@@ -1,5 +1,5 @@
 ---
-title: "# Zaroorat (Ek Villain) – Sargam, Harmonium And Flute Notes"
+title: " Zaroorat (Ek Villain) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Zaroorat (Ek Villain) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: zaroorat-ek-villain-sargam-harmonium-and-flute-notes
@@ -140,11 +140,11 @@ G..m..m..m..n.n…n..m..G..
 
 Also Read This :-
 
-* Raataan Lambiyan (Full Song) – Sargam And Flute Notes – Shershaah
-* Itni Si Baat Hain (Azhar) – Sargam, Harmonium And Flute Notes
-* Gulabi Aankhen (SANAM) – Sargam, Harmonium And Flute Notes
-* Dil Ko Karaar Aaya – Sargam, Harmonium And Flute Notes
-* Mann Bharryaa 2.0 (Shershaah) – Sargam, Harmonium And Flute Notes
+- Raataan Lambiyan (Full Song) – Sargam And Flute Notes – Shershaah
+- Itni Si Baat Hain (Azhar) – Sargam, Harmonium And Flute Notes
+- Gulabi Aankhen (SANAM) – Sargam, Harmonium And Flute Notes
+- Dil Ko Karaar Aaya – Sargam, Harmonium And Flute Notes
+- Mann Bharryaa 2.0 (Shershaah) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -158,12 +158,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Chaand Baaliyan (Aditya A.) - Sargam, Harmonium And Flute Notes
-* Dil (Ek Villain Returns) - Sargam, Harmonium And Flute Notes
-* Maine Khud Ko (Ragini MMS 2) - Sargam And Flute Notes
-* Dastaan-E-Om Shanti Om - Sargam, Harmonium And Flute Notes
-* In Dino (Life In A Metro) - Sargam, Harmonium And Flute Notes
-* Na Tum Jaano Na Hum - Sargam, Harmonium And Flute Notes
+- Chaand Baaliyan (Aditya A.) - Sargam, Harmonium And Flute Notes
+- Dil (Ek Villain Returns) - Sargam, Harmonium And Flute Notes
+- Maine Khud Ko (Ragini MMS 2) - Sargam And Flute Notes
+- Dastaan-E-Om Shanti Om - Sargam, Harmonium And Flute Notes
+- In Dino (Life In A Metro) - Sargam, Harmonium And Flute Notes
+- Na Tum Jaano Na Hum - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -188,4 +188,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Iktara (Wake Up Sid) – Sargam, Harmonium And Flute Notes"
+title: " Iktara (Wake Up Sid) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Iktara (Wake Up Sid) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: iktara-wake-up-sid-sargam-harmonium-and-flute-notes
@@ -92,19 +92,13 @@ Goonjaa sa hai koi iktara
 
 G..P..G..R..R.S..S.S.S.S..
 
-
-
 Also Read This :-
 
-
-
-* Ek Tukda Dhoop (Thappad) – Sargam And Flute Notes
-* Bheegi Bheegi (Neha Kakkar, Tony Kakkar) – Sargam And Flute Notes
-* Tere Bina (Salman Khan) – Sargam And Flute Notes
-* Airtel Theme Music Sargam And Flute Notes For Beginners
-* Twinkle Twinkle Little Star – Sargam And Flute Notes For Beginners
-
-
+- Ek Tukda Dhoop (Thappad) – Sargam And Flute Notes
+- Bheegi Bheegi (Neha Kakkar, Tony Kakkar) – Sargam And Flute Notes
+- Tere Bina (Salman Khan) – Sargam And Flute Notes
+- Airtel Theme Music Sargam And Flute Notes For Beginners
+- Twinkle Twinkle Little Star – Sargam And Flute Notes For Beginners
 
 relpost-thumb-wrapper
 
@@ -114,12 +108,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Phir Miloge Na (JalRaj) - Sargam, Harmonium And Flute Notes
-* Deewana Kar Raha Hai - Sargam, Harmonium And Flute Notes
-* Aa Chal Ke Tujhe - Sargam, Harmonium And Flute Notes
-* Chookar Mere Mann Ko (Yaarana) - Sargam, Harmonium And Flute Notes
-* Tose Naina (Mickey Virus) - Sargam, Harmonium And Flute Notes
-* Tu Hi Mera (Jannat 2) - Sargam, Harmonium And Flute Notes
+- Phir Miloge Na (JalRaj) - Sargam, Harmonium And Flute Notes
+- Deewana Kar Raha Hai - Sargam, Harmonium And Flute Notes
+- Aa Chal Ke Tujhe - Sargam, Harmonium And Flute Notes
+- Chookar Mere Mann Ko (Yaarana) - Sargam, Harmonium And Flute Notes
+- Tose Naina (Mickey Virus) - Sargam, Harmonium And Flute Notes
+- Tu Hi Mera (Jannat 2) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -144,4 +138,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

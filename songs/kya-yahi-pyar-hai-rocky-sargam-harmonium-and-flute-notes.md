@@ -1,5 +1,5 @@
 ---
-title: "# Kya Yahi Pyar Hai (Rocky) – Sargam, Harmonium And Flute Notes"
+title: " Kya Yahi Pyar Hai (Rocky) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Kya Yahi Pyar Hai (Rocky) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: kya-yahi-pyar-hai-rocky-sargam-harmonium-and-flute-notes
@@ -118,11 +118,11 @@ G(K)..R..G(K)..m..R(K)..S..R(K)..G(K)..S…
 
 Also Read This :-
 
-* Rozana (Naam Shabana) – Sargam, Harmonium And Flute Notes
-* Yeh Jo Des Hai Tera (Swadesh) – Sargam, Harmonium And Flute Notes
-* Zindagi Ek Safar Hai Suhana – Sargam, Harmonium And Flute Notes
-* Gaadi Bula Rahi Hai (Dost) – Sargam, Harmonium And Flute Notes
-* Main Yahan Tu Wahan (Baghban) – Sargam, Harmonium And Flute Notes
+- Rozana (Naam Shabana) – Sargam, Harmonium And Flute Notes
+- Yeh Jo Des Hai Tera (Swadesh) – Sargam, Harmonium And Flute Notes
+- Zindagi Ek Safar Hai Suhana – Sargam, Harmonium And Flute Notes
+- Gaadi Bula Rahi Hai (Dost) – Sargam, Harmonium And Flute Notes
+- Main Yahan Tu Wahan (Baghban) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -165,12 +165,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Mera Intezaar Karna - Sargam, Harmonium And Flute Notes
-* Raabta (2nd Version) - Sargam, Harmonium And Flute Notes
-* Kal Ki Hi Baat Hai (Chhichhore) - Sargam, Harmonium And Flute Notes
-* Raanjhana Ve (Antara Mitra) - Sargam Harmonium And Flute Notes
-* Maa (Taare Zameen Par) - Sargam, Harmonium And Flute Notes
-* Chocolate Lime Juice - Sargam, Harmonium And Flute Notes
+- Mera Intezaar Karna - Sargam, Harmonium And Flute Notes
+- Raabta (2nd Version) - Sargam, Harmonium And Flute Notes
+- Kal Ki Hi Baat Hai (Chhichhore) - Sargam, Harmonium And Flute Notes
+- Raanjhana Ve (Antara Mitra) - Sargam Harmonium And Flute Notes
+- Maa (Taare Zameen Par) - Sargam, Harmonium And Flute Notes
+- Chocolate Lime Juice - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -195,4 +195,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

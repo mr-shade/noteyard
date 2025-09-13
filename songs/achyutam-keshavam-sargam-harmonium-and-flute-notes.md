@@ -1,5 +1,5 @@
 ---
-title: "# Achyutam Keshavam – Sargam, Harmonium And Flute Notes"
+title: " Achyutam Keshavam – Sargam, Harmonium And Flute Notes"
 description: "Learn # Achyutam Keshavam notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: achyutam-keshavam-sargam-harmonium-and-flute-notes
@@ -78,27 +78,19 @@ Khilaate nahii
 
 R..G..S..n..S..
 
-
-
 Also Read This :-
 
 nw Paragraph 2
 
-
-
-* Girl I Need You (Baaghi) – Sargam And Flute Notes
-* Tune Mere Jaana (Emptiness) – Sargam And Flute Notes
-* Kabhi Jo Badal Barse (Jackpot) – Sargam And Flute Notes
-* The Last Of Mohicans – Sargam And Flute Notes
-* Har Ghadi (Kal Ho Na Ho) – Sargam And Flute Notes
+- Girl I Need You (Baaghi) – Sargam And Flute Notes
+- Tune Mere Jaana (Emptiness) – Sargam And Flute Notes
+- Kabhi Jo Badal Barse (Jackpot) – Sargam And Flute Notes
+- The Last Of Mohicans – Sargam And Flute Notes
+- Har Ghadi (Kal Ho Na Ho) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -108,12 +100,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Teri Hogaiyaan Easy Version (Full Song) - Sargam And Flute Notes
-* Kya Hua Tera Wada - Sargam, Harmonium And Flute Notes
-* Kaushalya Dashrath Ke Nandan Sargam And Flute Notes
-* Tujh Mein Rab Dikhta Hai Sargam, Harmonium And Flute Notes
-* Humko Humise Chura Lo (FULL SONG) - Sargam And Flute Notes
-* Matkar Maya Ko Ahankar - Sargam, Harmonium And Flute Notes
+- Teri Hogaiyaan Easy Version (Full Song) - Sargam And Flute Notes
+- Kya Hua Tera Wada - Sargam, Harmonium And Flute Notes
+- Kaushalya Dashrath Ke Nandan Sargam And Flute Notes
+- Tujh Mein Rab Dikhta Hai Sargam, Harmonium And Flute Notes
+- Humko Humise Chura Lo (FULL SONG) - Sargam And Flute Notes
+- Matkar Maya Ko Ahankar - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -138,4 +130,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

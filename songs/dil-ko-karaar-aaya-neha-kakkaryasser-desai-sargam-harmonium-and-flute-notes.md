@@ -1,5 +1,5 @@
 ---
-title: "# Dil Ko Karaar Aaya (Neha Kakkar,Yasser Desai) – Sargam, Harmonium And Flute Notes"
+title: " Dil Ko Karaar Aaya (Neha Kakkar,Yasser Desai) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Dil Ko Karaar Aaya (Neha Kakkar,Yasser Desai) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: dil-ko-karaar-aaya-neha-kakkaryasser-desai-sargam-harmonium-and-flute-notes
@@ -98,11 +98,11 @@ S..n..d..p..d…n..S..n..
 
 Also Read This :-
 
-* Dil Meri Na Sune (Genius) – Sargam, Harmonium And Flute Notes
-* Pehla Pyaar Full Song – Sargam, Harmonium And Flute Notes
-* Tujhse Naraaz Nahin Zindagi – Sargam, Harmonium And Flute Notes
-* Kyun Main Jaagoon – Sargam, Harmonium And Flute Notes
-* Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
+- Dil Meri Na Sune (Genius) – Sargam, Harmonium And Flute Notes
+- Pehla Pyaar Full Song – Sargam, Harmonium And Flute Notes
+- Tujhse Naraaz Nahin Zindagi – Sargam, Harmonium And Flute Notes
+- Kyun Main Jaagoon – Sargam, Harmonium And Flute Notes
+- Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -116,12 +116,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Aasman Ko Chukar Dekha - Sargam, Harmonium And Flute Notes
-* Wajah Tum Ho (Hate Story 3) - Sargam, Harmonium And Flute Notes
-* Tera Fitoor (Genius) - Sargam, Harmonium And Flute Notes
-* Tu Kya Jaane (Amar Singh Chamkila) - Sargam And Flute Notes
-* Doorie (Atif Aslam) - Sargam, Harmonium And Flute Notes
-* Shiddat (Title Song) - Sargam, Harmonium And Flute Notes
+- Aasman Ko Chukar Dekha - Sargam, Harmonium And Flute Notes
+- Wajah Tum Ho (Hate Story 3) - Sargam, Harmonium And Flute Notes
+- Tera Fitoor (Genius) - Sargam, Harmonium And Flute Notes
+- Tu Kya Jaane (Amar Singh Chamkila) - Sargam And Flute Notes
+- Doorie (Atif Aslam) - Sargam, Harmonium And Flute Notes
+- Shiddat (Title Song) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -146,4 +146,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

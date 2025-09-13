@@ -1,5 +1,5 @@
 ---
-title: "# Humsafar (Badrinath Ki Dulhania) – Sargam, Harmonium And Flute Notes"
+title: " Humsafar (Badrinath Ki Dulhania) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Humsafar (Badrinath Ki Dulhania) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: humsafar-badrinath-ki-dulhania-sargam-harmonium-and-flute-notes
@@ -138,11 +138,11 @@ S..S..S..G..R..R..G.. R…S..S..p..d..p..
 
 Also Read This :-
 
-* Aaoge Jab Tum (Jab We Met) – Sargam And Flute Notes
-* Tujhko Jo Paaya (Crook) – Sargam And Flute Notes
-* Yaara Teri Yaari – Sargam And Flute Notes
-* Dhadak (Title Song) – Sargam And Flute Notes
-* Barso Re Megha Megha (Guru) – Sargam And Flute Notes
+- Aaoge Jab Tum (Jab We Met) – Sargam And Flute Notes
+- Tujhko Jo Paaya (Crook) – Sargam And Flute Notes
+- Yaara Teri Yaari – Sargam And Flute Notes
+- Dhadak (Title Song) – Sargam And Flute Notes
+- Barso Re Megha Megha (Guru) – Sargam And Flute Notes
 
 Where
 
@@ -156,12 +156,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Kaise Ab Kahein (Gutar Gu) - Sargam, Harmonium And Flute Notes
-* Tere Liye (Prince) - Sargam, Harmonium And Flute Notes
-* Baarishein (Anuv Jain) - Sargam, Harmonium And Flute Notes
-* Laadki - Sargam, Harmonium And Flute Notes
-* Chor (Justh) - Sargam, Harmonium And Flute Notes
-* Ek Ladki Ko Dekha To Aisa Laga (1942 A Love Story) - Sargam, Harmonium And Flute Notes
+- Kaise Ab Kahein (Gutar Gu) - Sargam, Harmonium And Flute Notes
+- Tere Liye (Prince) - Sargam, Harmonium And Flute Notes
+- Baarishein (Anuv Jain) - Sargam, Harmonium And Flute Notes
+- Laadki - Sargam, Harmonium And Flute Notes
+- Chor (Justh) - Sargam, Harmonium And Flute Notes
+- Ek Ladki Ko Dekha To Aisa Laga (1942 A Love Story) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -186,4 +186,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Mahabharat Krishna Theme – Sargam, Harmonium And Flute Notes"
+title: " Mahabharat Krishna Theme – Sargam, Harmonium And Flute Notes"
 description: "Learn # Mahabharat Krishna Theme notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: mahabharat-krishna-theme-sargam-harmonium-and-flute-notes
@@ -44,8 +44,6 @@ S’..N..D..P..M….
 
 M..D..P..P..M..R..m..G..G..
 
-
-
 nw Paragraph 1
 
 N..N..S’..N..D..N..S’..G’..R’..G’..S’…N.R’..
@@ -54,23 +52,17 @@ S’..N..D..P..M….
 
 M..D..P..P..M..R..m..G..G..
 
-
-
 Also Read This :-
 
-* Aaj Se Teri (Padman) – Sargam And Flute Notes
-* Meri Aashiqui (Jubin Nautiyal) – Sargam And Flute Notes
-* Iphone Ringtone Sargam And Flute Notes For Beginners
-* Kaun Tujhe (M.S. Dhoni The Untold Story) – Sargam And Flute Notes
-* Motu Patlu (Title Song) – Sargam And Flute Notes For Beginners
-
-
+- Aaj Se Teri (Padman) – Sargam And Flute Notes
+- Meri Aashiqui (Jubin Nautiyal) – Sargam And Flute Notes
+- Iphone Ringtone Sargam And Flute Notes For Beginners
+- Kaun Tujhe (M.S. Dhoni The Untold Story) – Sargam And Flute Notes
+- Motu Patlu (Title Song) – Sargam And Flute Notes For Beginners
 
 Where
 
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 /wp:post-content
 
@@ -82,12 +74,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Taki Taki BGM (DJ Snake) - Sargam, Harmonium And Flute Notes
-* Crazy Frog BGM (Axel F) - Sargam, Harmonium And Flute Notes
-* Daya Ben BGM (TMKOC) - Sargam, Harmonium And Flute Notes
-* Naruto Theme - Sargam, Harmonium And Flute Notes
-* Bhide BGM (TMKOC) - Sargam, Harmonium And Flute Notes
-* Chinni Chinni Aasa BGM (Animal) - Sargam And Flute Notes
+- Taki Taki BGM (DJ Snake) - Sargam, Harmonium And Flute Notes
+- Crazy Frog BGM (Axel F) - Sargam, Harmonium And Flute Notes
+- Daya Ben BGM (TMKOC) - Sargam, Harmonium And Flute Notes
+- Naruto Theme - Sargam, Harmonium And Flute Notes
+- Bhide BGM (TMKOC) - Sargam, Harmonium And Flute Notes
+- Chinni Chinni Aasa BGM (Animal) - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -112,4 +104,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

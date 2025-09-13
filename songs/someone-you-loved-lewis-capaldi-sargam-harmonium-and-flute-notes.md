@@ -1,5 +1,5 @@
 ---
-title: "# Someone You Loved (Lewis Capaldi) – Sargam, Harmonium And Flute Notes"
+title: " Someone You Loved (Lewis Capaldi) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Someone You Loved (Lewis Capaldi) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: someone-you-loved-lewis-capaldi-sargam-harmonium-and-flute-notes
@@ -98,11 +98,11 @@ G’..G’..G’..G’..G’..G’..G’..R’..R’..S’..S’..R’..R’..R�
 
 Also Read This :-
 
-* Stay (Justin Bieber) – Sargam, Harmonium And Flute Notes
-* One Call Away (Charlie Puth) – Sargam, Harmonium And Flute Notes
-* Lai Lai Lai (Joker Tune) – Sargam, Harmonium And Flute Notes
-* Alone (Alan Walker) – Sargam, Harmonium And Flute Notes
-* Closer (The Chainsmokers) – Sargam, Harmonium And Flute Notes
+- Stay (Justin Bieber) – Sargam, Harmonium And Flute Notes
+- One Call Away (Charlie Puth) – Sargam, Harmonium And Flute Notes
+- Lai Lai Lai (Joker Tune) – Sargam, Harmonium And Flute Notes
+- Alone (Alan Walker) – Sargam, Harmonium And Flute Notes
+- Closer (The Chainsmokers) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -143,12 +143,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Happy Birthday - Sargam, Harmonium And Flute Notes
-* Somewhere Only We Know - Sargam, Harmonium And Flute Notes
-* Moonlight Sonata (Beethoven) - Sargam And Flute Notes
-* Drivers License (Olivia Rodrigo) - Sargam, Harmonium, Flute Notes
-* Fadad (Alan Walker) - Sargam, Harmonium And Flute Notes
-* Let It Go (Frozen) - Sargam, Harmonium And Flute Notes
+- Happy Birthday - Sargam, Harmonium And Flute Notes
+- Somewhere Only We Know - Sargam, Harmonium And Flute Notes
+- Moonlight Sonata (Beethoven) - Sargam And Flute Notes
+- Drivers License (Olivia Rodrigo) - Sargam, Harmonium, Flute Notes
+- Fadad (Alan Walker) - Sargam, Harmonium And Flute Notes
+- Let It Go (Frozen) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -173,4 +173,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

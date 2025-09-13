@@ -1,5 +1,5 @@
 ---
-title: "# Aaj Sajeya (Goldie Sohel) – Sargam, Harmonium And Flute Notes"
+title: " Aaj Sajeya (Goldie Sohel) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Aaj Sajeya (Goldie Sohel) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: aaj-sajeya-goldie-sohel-sargam-harmonium-and-flute-notes
@@ -118,11 +118,11 @@ S.R.R.G.G.R.R.S.S..
 
 Also Read This :-
 
-* Tu Bhoola Jise (Airlift) – Sargam, Harmonium And Flute Notes
-* Lut Gaye (Jubin Nautiyal) – Sargam, Harmonium And Flute Notes
-* Tere Bina (Guru) – Sargam, Harmonium And Flute Notes
-* Oh Saaiyaan (The Power) – Sargam, Harmonium And Flute Notes
-* Hai Apna Dil To Aawara – Sargam, Harmonium And Flute Notes
+- Tu Bhoola Jise (Airlift) – Sargam, Harmonium And Flute Notes
+- Lut Gaye (Jubin Nautiyal) – Sargam, Harmonium And Flute Notes
+- Tere Bina (Guru) – Sargam, Harmonium And Flute Notes
+- Oh Saaiyaan (The Power) – Sargam, Harmonium And Flute Notes
+- Hai Apna Dil To Aawara – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -138,12 +138,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Lamborghini (Jai Mummy Di) - Sargam, Harmonium And Flute Notes
-* 295 (Sidhu Moose Wala) - Sargam, Harmonium And Flute Notes
-* Khaab (Akhil) - Sargam, Harmonium And Flute Notes
-* Mann Bharryaa 2.0 (Shershaah) - Sargam, Harmonium And Flute Notes
-* Arjan Vailly (Animal) - Sargam, Harmonium And Flute Notes
-* Khyaal Rakhya Kar (Neha Kakkar) - Sargam, Harmonium And Flute Notes
+- Lamborghini (Jai Mummy Di) - Sargam, Harmonium And Flute Notes
+- 295 (Sidhu Moose Wala) - Sargam, Harmonium And Flute Notes
+- Khaab (Akhil) - Sargam, Harmonium And Flute Notes
+- Mann Bharryaa 2.0 (Shershaah) - Sargam, Harmonium And Flute Notes
+- Arjan Vailly (Animal) - Sargam, Harmonium And Flute Notes
+- Khyaal Rakhya Kar (Neha Kakkar) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -168,4 +168,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

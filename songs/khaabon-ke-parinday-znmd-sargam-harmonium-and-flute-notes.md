@@ -1,5 +1,5 @@
 ---
-title: "# Khaabon Ke Parinday (Z.N.M.D.) – Sargam, Harmonium And Flute Notes"
+title: " Khaabon Ke Parinday (Z.N.M.D.) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Khaabon Ke Parinday (Z.N.M.D.) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: khaabon-ke-parinday-znmd-sargam-harmonium-and-flute-notes
@@ -98,11 +98,11 @@ S..P…S’…P..G… R..G..R..S.S..
 
 Also Read This :-
 
-* Girls Like You (Maroon 5) – Sargam And Flute Notes
-* Shayad (Love Aaj Kal) – Sargam And Flute Notes
-* Havana (Camila Cabello) – Sargam And Flute Notes
-* Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
-* Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
+- Girls Like You (Maroon 5) – Sargam And Flute Notes
+- Shayad (Love Aaj Kal) – Sargam And Flute Notes
+- Havana (Camila Cabello) – Sargam And Flute Notes
+- Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
+- Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
 
 Where
 
@@ -114,12 +114,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Ya Rabba (Salaam-E-Ishq) - Sargam, Harmonium And Flute Notes
-* Tere Liye (Veer Zaara) - Sargam, Harmonium And Flute Notes
-* Chalao Na Naino Se Baan Re - Sargam, Harmonium, Flute Notes
-* Dil Meri Na Sune (Genius) - Sargam, Harmonium And Flute Notes
-* Ek Tukda Dhoop (Thappad) - Sargam, Harmonium And Flute Notes
-* Sunn Raha Hai Na Tu - Sargam, Harmonium And Flute Notes
+- Ya Rabba (Salaam-E-Ishq) - Sargam, Harmonium And Flute Notes
+- Tere Liye (Veer Zaara) - Sargam, Harmonium And Flute Notes
+- Chalao Na Naino Se Baan Re - Sargam, Harmonium, Flute Notes
+- Dil Meri Na Sune (Genius) - Sargam, Harmonium And Flute Notes
+- Ek Tukda Dhoop (Thappad) - Sargam, Harmonium And Flute Notes
+- Sunn Raha Hai Na Tu - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -144,4 +144,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

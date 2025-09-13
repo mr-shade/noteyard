@@ -1,5 +1,5 @@
 ---
-title: "# Namo Namo (Kedarnath) – Sargam, Harmonium And Flute Notes"
+title: " Namo Namo (Kedarnath) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Namo Namo (Kedarnath) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: namo-namo-kedarnath-sargam-harmonium-and-flute-notes
@@ -104,25 +104,17 @@ Rudra dev hai maheshwara
 
 R..R..R..R..R..S..G..R..S…
 
-
-
 Also Read This :-
 
-
-
-* Fadad (Alan Walker) – Sargam And Flute Notes
-* Happy Birthday – Sargam And Flute Notes
-* Choo Lo (The Local Train) – Sargam And Flute Notes
-* Vaaste (Dhvani Bhanushali) – Sargam and Flute Notes
-* Pyaar Ke Pal (K.K.)- Sargam And Flute Notes
+- Fadad (Alan Walker) – Sargam And Flute Notes
+- Happy Birthday – Sargam And Flute Notes
+- Choo Lo (The Local Train) – Sargam And Flute Notes
+- Vaaste (Dhvani Bhanushali) – Sargam and Flute Notes
+- Pyaar Ke Pal (K.K.)- Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -132,12 +124,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Sunn Zara (Jalraj) - Sargam, Harmonium And Flute Notes
-* Dil Aaj Kal (Purani Jeans) - Sargam, Harmonium And Flute Notes
-* Safar (Notebook) - Sargam, Harmonium And Flute Notes
-* Do Dil Mil Rahe Hain - Sargam, Harmonium And Flute Notes
-* Kyun Main Jaagoon - Sargam, Harmonium And Flute Notes
-* Baarish Lete Aana Full Song Sargam, Harmonium And Flute Notes (Darshan Raval)
+- Sunn Zara (Jalraj) - Sargam, Harmonium And Flute Notes
+- Dil Aaj Kal (Purani Jeans) - Sargam, Harmonium And Flute Notes
+- Safar (Notebook) - Sargam, Harmonium And Flute Notes
+- Do Dil Mil Rahe Hain - Sargam, Harmonium And Flute Notes
+- Kyun Main Jaagoon - Sargam, Harmonium And Flute Notes
+- Baarish Lete Aana Full Song Sargam, Harmonium And Flute Notes (Darshan Raval)
 
 close related_posts_thumbnails
 
@@ -162,4 +154,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

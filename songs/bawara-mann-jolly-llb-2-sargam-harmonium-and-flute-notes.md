@@ -1,5 +1,5 @@
 ---
-title: "# Bawara Mann (Jolly LLB 2) – Sargam, Harmonium And Flute Notes"
+title: " Bawara Mann (Jolly LLB 2) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Bawara Mann (Jolly LLB 2) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: bawara-mann-jolly-llb-2-sargam-harmonium-and-flute-notes
@@ -56,15 +56,13 @@ G..m..G..S..n..n..S..R..G…R…S…
 
 Also Read This :-
 
-* Mehrama (Love Aaj Kal) – Sargam And Flute Notes
-* Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
-* Aaj Bhi (Vishal Mishra) – Sargam And Flute Notes
-* Pehla Pyaar (Kabir Singh) – Sargam And Flute Notes
-* Jinke Liye (Neha Kakkar) – Sargam And Flute Notes
+- Mehrama (Love Aaj Kal) – Sargam And Flute Notes
+- Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
+- Aaj Bhi (Vishal Mishra) – Sargam And Flute Notes
+- Pehla Pyaar (Kabir Singh) – Sargam And Flute Notes
+- Jinke Liye (Neha Kakkar) – Sargam And Flute Notes
 
 Where
-
-
 
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
 
@@ -76,12 +74,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Tere Bina (Salman Khan) - Sargam, Harmonium And Flute Notes
-* Ishaqzaade (Title Song) - Sargam, Harmonium And Flute Notes
-* Maana Ke Hum Yaar Nahi Sargam, Harmonium And Flute Notes
-* Noor E Khuda - Sargam, Harmonium And Flute Notes
-* Manike Mage Hithe - Sargam, Harmonium And Flute Notes
-* Ae Mere Watan Ke Logon - Sargam, Harmonium And Flute Notes
+- Tere Bina (Salman Khan) - Sargam, Harmonium And Flute Notes
+- Ishaqzaade (Title Song) - Sargam, Harmonium And Flute Notes
+- Maana Ke Hum Yaar Nahi Sargam, Harmonium And Flute Notes
+- Noor E Khuda - Sargam, Harmonium And Flute Notes
+- Manike Mage Hithe - Sargam, Harmonium And Flute Notes
+- Ae Mere Watan Ke Logon - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -106,4 +104,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

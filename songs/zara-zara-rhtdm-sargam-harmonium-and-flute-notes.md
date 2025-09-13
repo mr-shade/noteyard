@@ -1,5 +1,5 @@
 ---
-title: "# Zara Zara (RHTDM) – Sargam, Harmonium And Flute Notes"
+title: " Zara Zara (RHTDM) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Zara Zara (RHTDM) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: zara-zara-rhtdm-sargam-harmonium-and-flute-notes
@@ -66,21 +66,15 @@ m…P..m..G…N..S’.N..D…
 
 Also Read This :-
 
-
-
-* Main Rahoon Ya Na Rahoon (Armaan Malik) – Sargam And Flute Notes
-* Moh Moh ke dhaage (Dum Laga Ke Haisha) – Sargam And Flute Notes
-* Kisi Aur Naal (Asees Kaur) – Sargam And Flute Notes
-* Intezaar (Arijit Singh) – Sargam And Flute Notes
-* Dekhte Dekhte (Batti Gul Meter Chalu) – Sargam And Flute Notes
+- Main Rahoon Ya Na Rahoon (Armaan Malik) – Sargam And Flute Notes
+- Moh Moh ke dhaage (Dum Laga Ke Haisha) – Sargam And Flute Notes
+- Kisi Aur Naal (Asees Kaur) – Sargam And Flute Notes
+- Intezaar (Arijit Singh) – Sargam And Flute Notes
+- Dekhte Dekhte (Batti Gul Meter Chalu) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -90,12 +84,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Lakdi Ki Kaathi (Masoom) - Sargam, Harmonium And Flute Notes
-* Tu Jaane Na - Sargam, Harmonium And Flute Notes
-* Khushiyaan Bator Lo - Sargam, Harmonium And Flute Notes
-* Aaj Mere Yaar Ki Shaadi Hai - Sargam Harmonium And Flute Notes
-* Tu Hi Yaar Mera - Sargam, Harmonium  And Flute Notes
-* Soulmate (Arijit Singh) - Sargam, Harmonium And Flute Notes
+- Lakdi Ki Kaathi (Masoom) - Sargam, Harmonium And Flute Notes
+- Tu Jaane Na - Sargam, Harmonium And Flute Notes
+- Khushiyaan Bator Lo - Sargam, Harmonium And Flute Notes
+- Aaj Mere Yaar Ki Shaadi Hai - Sargam Harmonium And Flute Notes
+- Tu Hi Yaar Mera - Sargam, Harmonium And Flute Notes
+- Soulmate (Arijit Singh) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -120,4 +114,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

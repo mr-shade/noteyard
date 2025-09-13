@@ -1,5 +1,5 @@
 ---
-title: "# Tera Ban Jaunga (Kabir Singh) – Sargam, Harmonium And Flute Notes"
+title: " Tera Ban Jaunga (Kabir Singh) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Tera Ban Jaunga (Kabir Singh) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: tera-ban-jaunga-kabir-singh-sargam-harmonium-and-flute-notes
@@ -70,27 +70,19 @@ Main teraa ban jaaungaa….
 
 S’..S’..S’..S’..P..D…D..S’..D..P..
 
-
-
 Also Read This :-
 
-
-
-* Ek Tukda Dhoop (Thappad) – Sargam And Flute Notes
-* Bheegi Bheegi (Neha Kakkar, Tony Kakkar) – Sargam And Flute Notes
-* Tere Bina (Salman Khan) – Sargam And Flute Notes
-* Airtel Theme Music Sargam And Flute Notes For Beginners
-* Twinkle Twinkle Little Star – Sargam And Flute Notes For Beginners
+- Ek Tukda Dhoop (Thappad) – Sargam And Flute Notes
+- Bheegi Bheegi (Neha Kakkar, Tony Kakkar) – Sargam And Flute Notes
+- Tere Bina (Salman Khan) – Sargam And Flute Notes
+- Airtel Theme Music Sargam And Flute Notes For Beginners
+- Twinkle Twinkle Little Star – Sargam And Flute Notes For Beginners
 
 Where
-
-
 
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
 
 nw Paragraph 2
-
-
 
 relpost-thumb-wrapper
 
@@ -100,12 +92,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Tu Itni Khoobsurat Hai - Sargam, Harmonium And Flute Notes
-* Hoshwalon Ko Khabar Kya - Sargam, Harmonium And Flute Notes
-* Sukoon (Gini) - Sargam, Harmonium And Flute Notes
-* Dulhe Ka Sehra (Dhadkan) - Sargam, Harmonium And Flute Notes
-* Jai Shri Ram (Adipurush) - Sargam, Harmonium And Flute Notes
-* Kaun Disha Mein Leke Chala Re - Sargam, Harmonium And Flute Notes
+- Tu Itni Khoobsurat Hai - Sargam, Harmonium And Flute Notes
+- Hoshwalon Ko Khabar Kya - Sargam, Harmonium And Flute Notes
+- Sukoon (Gini) - Sargam, Harmonium And Flute Notes
+- Dulhe Ka Sehra (Dhadkan) - Sargam, Harmonium And Flute Notes
+- Jai Shri Ram (Adipurush) - Sargam, Harmonium And Flute Notes
+- Kaun Disha Mein Leke Chala Re - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -130,4 +122,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

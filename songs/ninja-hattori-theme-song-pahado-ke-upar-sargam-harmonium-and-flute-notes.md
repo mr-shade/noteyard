@@ -1,5 +1,5 @@
 ---
-title: "# Ninja Hattori Theme Song (Pahado Ke Upar) – Sargam, Harmonium And Flute Notes"
+title: " Ninja Hattori Theme Song (Pahado Ke Upar) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Ninja Hattori Theme Song (Pahado Ke Upar) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: ninja-hattori-theme-song-pahado-ke-upar-sargam-harmonium-and-flute-notes
@@ -56,11 +56,11 @@ P..m..G..R..S..
 
 Also Read This :-
 
-* Girls Like You (Maroon 5) – Sargam And Flute Notes
-* Main Rahoon Ya Na Rahoon (Armaan Malik) – Sargam And Flute Notes
-* Moh Moh ke dhaage (Dum Laga Ke Haisha) – Sargam And Flute Notes
-* Kisi Aur Naal (Asees Kaur) – Sargam And Flute Notes
-* Intezaar (Arijit Singh) – Sargam And Flute Notes
+- Girls Like You (Maroon 5) – Sargam And Flute Notes
+- Main Rahoon Ya Na Rahoon (Armaan Malik) – Sargam And Flute Notes
+- Moh Moh ke dhaage (Dum Laga Ke Haisha) – Sargam And Flute Notes
+- Kisi Aur Naal (Asees Kaur) – Sargam And Flute Notes
+- Intezaar (Arijit Singh) – Sargam And Flute Notes
 
 Where
 
@@ -74,12 +74,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Victory Anthem Music - Sargam, Harmonium And Flute Notes
-* Feluda Theme - Sargam, Harmonium And Flute Notes
-* Little Krishna Opening Sequence (2nd) - Sargam And Flute Notes
-* Chahun Main Ya Naa (Aashiqui 2) - Sargam, Harmonium And Flute Notes
-* Ram Naam Ke Heere Moti - Sargam, Harmonium And Flute Notes
-* Motu Patlu (Title Song) - Sargam, Harmonium And Flute Notes
+- Victory Anthem Music - Sargam, Harmonium And Flute Notes
+- Feluda Theme - Sargam, Harmonium And Flute Notes
+- Little Krishna Opening Sequence (2nd) - Sargam And Flute Notes
+- Chahun Main Ya Naa (Aashiqui 2) - Sargam, Harmonium And Flute Notes
+- Ram Naam Ke Heere Moti - Sargam, Harmonium And Flute Notes
+- Motu Patlu (Title Song) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -104,4 +104,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

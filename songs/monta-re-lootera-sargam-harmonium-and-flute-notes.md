@@ -1,5 +1,5 @@
 ---
-title: "# Monta Re (Lootera) – Sargam, Harmonium And Flute Notes"
+title: " Monta Re (Lootera) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Monta Re (Lootera) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: monta-re-lootera-sargam-harmonium-and-flute-notes
@@ -100,11 +100,11 @@ m..R..S..n.. p..n..S..R.. m..R..S…
 
 Also Read This :-
 
-* Jinke Liye (Neha Kakkar) – Sargam And Flute Notes
-* Kho Gaye Hum Kahan (Baar Baar Dekho) – Sargam And Flute Notes
-* Memories (Maroon 5) – Sargam And Flute Notes
-* Malang (Title Track) – Sargam And Flute Notes
-* Baa Baa Black Sheep – Sargam And Flute Notes
+- Jinke Liye (Neha Kakkar) – Sargam And Flute Notes
+- Kho Gaye Hum Kahan (Baar Baar Dekho) – Sargam And Flute Notes
+- Memories (Maroon 5) – Sargam And Flute Notes
+- Malang (Title Track) – Sargam And Flute Notes
+- Baa Baa Black Sheep – Sargam And Flute Notes
 
 Where
 
@@ -145,12 +145,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Rasiya (Brahmastra) - Sargam, Harmonium And Flute Notes
-* Kabira - Sargam, Harmonium And Flute Notes
-* Main Tumhara (Dil Bechara) - Sargam, Harmonium And Flute Notes
-* Humdard (Ek Villain) - Sargam, Harmonium And Flute Notes
-* Ik Tu Hai (Attack) - Sargam, Harmonium And Flute Notes
-* Tere Sang Yaara (Rustom) - Sargam, Harmonium And Flute Notes
+- Rasiya (Brahmastra) - Sargam, Harmonium And Flute Notes
+- Kabira - Sargam, Harmonium And Flute Notes
+- Main Tumhara (Dil Bechara) - Sargam, Harmonium And Flute Notes
+- Humdard (Ek Villain) - Sargam, Harmonium And Flute Notes
+- Ik Tu Hai (Attack) - Sargam, Harmonium And Flute Notes
+- Tere Sang Yaara (Rustom) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -175,4 +175,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

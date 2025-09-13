@@ -1,5 +1,5 @@
 ---
-title: "# Govind Bolo Hari Gopal Bolo – Sargam, Harmonium And Flute Notes"
+title: " Govind Bolo Hari Gopal Bolo – Sargam, Harmonium And Flute Notes"
 description: "Learn # Govind Bolo Hari Gopal Bolo notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: govind-bolo-hari-gopal-bolo-sargam-harmonium-and-flute-notes
@@ -62,11 +62,11 @@ G…G…G..G..P..G..S..R…R…d..S…S…
 
 Also Read This :-
 
-* Hey Ram Hey Ram (Jagjit Singh) – Sargam, Harmonium And Flute Notes
-* Shri Krishna Govind Hare Murari – Sargam, Harmonium And Flute Notes
-* Gayatri Mantra – Sargam, Harmonium And Flute Notes
-* Achyutam Keshavam – Sargam, Harmonium And Flute Notes
-* Shiv Tandav Stotram – Sargam, Harmonium And Flute Notes
+- Hey Ram Hey Ram (Jagjit Singh) – Sargam, Harmonium And Flute Notes
+- Shri Krishna Govind Hare Murari – Sargam, Harmonium And Flute Notes
+- Gayatri Mantra – Sargam, Harmonium And Flute Notes
+- Achyutam Keshavam – Sargam, Harmonium And Flute Notes
+- Shiv Tandav Stotram – Sargam, Harmonium And Flute Notes
 
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
 
@@ -78,12 +78,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Sawali Surat Pe Mohan - Sargam, Harmonium And Flute Notes
-* Har Har Shambhu Shiv Mahadeva - Sargam And Flute Notes
-* Shyama Aan Baso Vrindavan Mein - Sargam And Flute Notes
-* Om Jai Shiv Omkara - Sargam, Harmonium And Flute Notes
-* Kaushalya Dashrath Ke Nandan Sargam And Flute Notes
-* Pata Nahi Kis Roop Mein Aakar - Sargam And Flute Notes
+- Sawali Surat Pe Mohan - Sargam, Harmonium And Flute Notes
+- Har Har Shambhu Shiv Mahadeva - Sargam And Flute Notes
+- Shyama Aan Baso Vrindavan Mein - Sargam And Flute Notes
+- Om Jai Shiv Omkara - Sargam, Harmonium And Flute Notes
+- Kaushalya Dashrath Ke Nandan Sargam And Flute Notes
+- Pata Nahi Kis Roop Mein Aakar - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -108,4 +108,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

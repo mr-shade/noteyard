@@ -1,5 +1,5 @@
 ---
-title: "# Hai Dil Ye Mera (Hate Story 2) – Sargam, Harmonium And Flute Notes"
+title: " Hai Dil Ye Mera (Hate Story 2) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Hai Dil Ye Mera (Hate Story 2) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: hai-dil-ye-mera-hate-story-2-sargam-harmonium-and-flute-notes
@@ -132,11 +132,11 @@ n.D..P…D..N..M..G…
 
 Also Read This :-
 
-* Tera Ban Jaunga (Kabir Singh) – Sargam And Flute Notes
-* On My Way (Alan Walker) – Sargam And Flute Notes
-* Sholay Theme Tune – Sargam And Flute Notes
-* Tera Ghata (Gajendra Verma) – Sargam And Flute Notes
-* Pirates Of The Caribbean – Sargam And Flute Notes
+- Tera Ban Jaunga (Kabir Singh) – Sargam And Flute Notes
+- On My Way (Alan Walker) – Sargam And Flute Notes
+- Sholay Theme Tune – Sargam And Flute Notes
+- Tera Ghata (Gajendra Verma) – Sargam And Flute Notes
+- Pirates Of The Caribbean – Sargam And Flute Notes
 
 relpost-thumb-wrapper
 
@@ -146,12 +146,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Saari Ki Saari 2.0 (Darshan Raval) - Sargam, Harmonium And Flute Notes
-* Sandese Aate Hai (FULL) - Sargam, Harmonium And Flute Notes
-* Aye Watan Tere Liye - Sargam, Harmonium And Flute Notes
-* Ishq Sufiana (The Dirty Picture) - Sargam, Harmonium And Flute Notes
-* Mann Jogiya (Arijit Singh) - Sargam, Harmonium And Flute Notes
-* Ishq Wala Love (Student Of The Year) - Sargam, Harmonium And Flute Notes
+- Saari Ki Saari 2.0 (Darshan Raval) - Sargam, Harmonium And Flute Notes
+- Sandese Aate Hai (FULL) - Sargam, Harmonium And Flute Notes
+- Aye Watan Tere Liye - Sargam, Harmonium And Flute Notes
+- Ishq Sufiana (The Dirty Picture) - Sargam, Harmonium And Flute Notes
+- Mann Jogiya (Arijit Singh) - Sargam, Harmonium And Flute Notes
+- Ishq Wala Love (Student Of The Year) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -176,4 +176,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

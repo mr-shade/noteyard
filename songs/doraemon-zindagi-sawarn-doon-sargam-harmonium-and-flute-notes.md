@@ -1,5 +1,5 @@
 ---
-title: "# Doraemon (Zindagi Sawarn Doon) – Sargam, Harmonium And Flute Notes"
+title: " Doraemon (Zindagi Sawarn Doon) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Doraemon (Zindagi Sawarn Doon) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: doraemon-zindagi-sawarn-doon-sargam-harmonium-and-flute-notes
@@ -74,27 +74,19 @@ Main hun ek udta robo , doremonn
 
 R..N..D..P..D..P..m.. P..D..G…R..S…
 
-
-
 Also Read This :-
 
-
-
-* Super Mario Bros Theme – Sargam And Flute Notes
-* Shei Tumi Keno Eto Ochena Hole (Heart Touch Flute Music) – Sargam And Flute Notes
-* Bum Bum Bole (Taare Zameen Par) – Sargam And Flute Notes
-* Jab Se Tere Naina (Saawariya) – Sargam And Flute Notes
-* Sare Jahan Se Achaa – Sargam And Flute Notes
+- Super Mario Bros Theme – Sargam And Flute Notes
+- Shei Tumi Keno Eto Ochena Hole (Heart Touch Flute Music) – Sargam And Flute Notes
+- Bum Bum Bole (Taare Zameen Par) – Sargam And Flute Notes
+- Jab Se Tere Naina (Saawariya) – Sargam And Flute Notes
+- Sare Jahan Se Achaa – Sargam And Flute Notes
 
 Where
 
 nw Paragraph 2
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -104,12 +96,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Love Me Like You Do Sargam, Harmonium And Flute Notes
-* Let Her Go (Passenger) - Sargam, Harmonium And Flute Notes
-* Chinni Chinni Aasa BGM (Animal) - Sargam And Flute Notes
-* Tu Hai Ki Nahi Whistle Tune (Roy) - Sargam, Harmonium And Flute Notes
-* One Call Away (Charlie Puth) - Sargam, Harmonium And Flute Notes
-* Fadad Intro Music - Sargam, Harmonium And Flute Notes
+- Love Me Like You Do Sargam, Harmonium And Flute Notes
+- Let Her Go (Passenger) - Sargam, Harmonium And Flute Notes
+- Chinni Chinni Aasa BGM (Animal) - Sargam And Flute Notes
+- Tu Hai Ki Nahi Whistle Tune (Roy) - Sargam, Harmonium And Flute Notes
+- One Call Away (Charlie Puth) - Sargam, Harmonium And Flute Notes
+- Fadad Intro Music - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -134,4 +126,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

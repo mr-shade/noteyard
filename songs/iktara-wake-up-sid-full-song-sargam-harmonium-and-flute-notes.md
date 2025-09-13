@@ -1,5 +1,5 @@
 ---
-title: "# Iktara (Wake Up Sid) [FULL SONG] – Sargam, Harmonium And Flute Notes"
+title: " Iktara (Wake Up Sid) [FULL SONG] – Sargam, Harmonium And Flute Notes"
 description: "Learn # Iktara (Wake Up Sid) [FULL SONG] notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: iktara-wake-up-sid-full-song-sargam-harmonium-and-flute-notes
@@ -190,11 +190,11 @@ G..P..G..R..R.S..S.S.S.S..
 
 Also Read This :-
 
-* Tu Hi Tu (Kick) – Sargam, Harmonium And Flute Notes
-* Darkhaast (Shivaay) – Sargam, Harmonium And Flute Notes
-* Behti Hawa Sa Tha Woh (3 Idiots) – Sargam, Harmonium And Flute Notes
-* Karpur Gauram Karunavtaram – Sargam, Harmonium And Flute Notes
-* Bakhuda Tumhi Ho (Atif Aslam) – Sargam, Harmonium And Flute Notes
+- Tu Hi Tu (Kick) – Sargam, Harmonium And Flute Notes
+- Darkhaast (Shivaay) – Sargam, Harmonium And Flute Notes
+- Behti Hawa Sa Tha Woh (3 Idiots) – Sargam, Harmonium And Flute Notes
+- Karpur Gauram Karunavtaram – Sargam, Harmonium And Flute Notes
+- Bakhuda Tumhi Ho (Atif Aslam) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -208,12 +208,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Rafta Rafta (Raaz 3) - Sargam, Harmonium And Flute Notes
-* Saath Nibhaana Saathiya - Sargam, Harmonium And Flute Notes
-* Surili Akhiyon Wale (Veer) - Sargam, Harmonium And Flute Notes
-* Tere Mere (Chef) - Sargam, Harmonium And Flute Notes
-* Dilbar Mere Kab Tak Mujhe - Sargam, Harmonium And Flute Notes
-* Chand Sifarish (Fanaa) - Sargam, Harmonium And Flute Notes
+- Rafta Rafta (Raaz 3) - Sargam, Harmonium And Flute Notes
+- Saath Nibhaana Saathiya - Sargam, Harmonium And Flute Notes
+- Surili Akhiyon Wale (Veer) - Sargam, Harmonium And Flute Notes
+- Tere Mere (Chef) - Sargam, Harmonium And Flute Notes
+- Dilbar Mere Kab Tak Mujhe - Sargam, Harmonium And Flute Notes
+- Chand Sifarish (Fanaa) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -238,4 +238,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

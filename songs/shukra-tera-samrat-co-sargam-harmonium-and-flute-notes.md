@@ -1,5 +1,5 @@
 ---
-title: "# Shukra Tera (Samrat & Co) – Sargam, Harmonium And Flute Notes"
+title: " Shukra Tera (Samrat & Co) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Shukra Tera (Samrat & Co) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: shukra-tera-samrat-co-sargam-harmonium-and-flute-notes
@@ -68,11 +68,11 @@ p..R..R.. G..R..G..R..S..
 
 Also Read This :-
 
-* Aaj Se Teri (Padman) – Sargam And Flute Notes
-* Meri Aashiqui (Jubin Nautiyal) – Sargam And Flute Notes
-* Tere Bina (Salman Khan) – Sargam And Flute Notes
-* Airtel Theme Music Sargam And Flute Notes For Beginners
-* Twinkle Twinkle Little Star – Sargam And Flute Notes For Beginners
+- Aaj Se Teri (Padman) – Sargam And Flute Notes
+- Meri Aashiqui (Jubin Nautiyal) – Sargam And Flute Notes
+- Tere Bina (Salman Khan) – Sargam And Flute Notes
+- Airtel Theme Music Sargam And Flute Notes For Beginners
+- Twinkle Twinkle Little Star – Sargam And Flute Notes For Beginners
 
 Where
 
@@ -86,12 +86,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Desh Mere (Bhuj) - Sargam, Harmonium And Flute Notes
-* Tum Kya Ho (Ankit Tiwari) - Sargam, Harmonium And Flute Notes
-* Aaj Mere Yaar Ki Shaadi Hai - Sargam Harmonium And Flute Notes
-* Taare Zameen Par (Title Song) - Sargam, Harmonium And Flute Notes
-* Papa Kehte Hain - Sargam, Harmonium And Flute Notes
-* Tune Jo Na Kaha (New York) - Sargam, Harmonium And Flute Notes
+- Desh Mere (Bhuj) - Sargam, Harmonium And Flute Notes
+- Tum Kya Ho (Ankit Tiwari) - Sargam, Harmonium And Flute Notes
+- Aaj Mere Yaar Ki Shaadi Hai - Sargam Harmonium And Flute Notes
+- Taare Zameen Par (Title Song) - Sargam, Harmonium And Flute Notes
+- Papa Kehte Hain - Sargam, Harmonium And Flute Notes
+- Tune Jo Na Kaha (New York) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -116,4 +116,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

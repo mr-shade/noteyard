@@ -1,5 +1,5 @@
 ---
-title: "# Ve maahi (Kesari) – Sargam, Harmonium And Flute Notes"
+title: " Ve maahi (Kesari) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Ve maahi (Kesari) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: ve-maahi-kesari-sargam-harmonium-and-flute-notes
@@ -78,27 +78,19 @@ O maaahi vee..
 
 G.R.R.G…m.G.R.S.d..S..
 
-
-
 Also Read This :-
 
 nw Paragraph 2
 
-
-
-* Thodi Jagah (Marjaavaan) – Sargam And Flute Notes
-* Mere Saamne Wali Khidki Mein (Padosan) – Sargam And Flute Notes
-* Girls Like You (Maroon 5) – Sargam And Flute Notes
-* Shayad (Love Aaj Kal) – Sargam And Flute Notes
-* Havana (Camila Cabello) – Sargam And Flute Notes
+- Thodi Jagah (Marjaavaan) – Sargam And Flute Notes
+- Mere Saamne Wali Khidki Mein (Padosan) – Sargam And Flute Notes
+- Girls Like You (Maroon 5) – Sargam And Flute Notes
+- Shayad (Love Aaj Kal) – Sargam And Flute Notes
+- Havana (Camila Cabello) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -108,12 +100,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Main Koi Aisa Geet Gaoon - Sargam, Harmonium And Flute Notes
-* Aayi Nai (Stree 2) - Sargam, Harmonium And Flute Notes
-* Kaise Hua (FULL SONG) - Sargam, Harmonium And Flute Notes
-* Aankhon Se Batana (2nd Version) - Sargam And Flute Notes
-* Yeh Jo Des Hai Tera (Swadesh) - Sargam, Harmonium And Flute Notes
-* Yaara (Mamta Sharma) - Sargam, Harmonium And Flute Notes
+- Main Koi Aisa Geet Gaoon - Sargam, Harmonium And Flute Notes
+- Aayi Nai (Stree 2) - Sargam, Harmonium And Flute Notes
+- Kaise Hua (FULL SONG) - Sargam, Harmonium And Flute Notes
+- Aankhon Se Batana (2nd Version) - Sargam And Flute Notes
+- Yeh Jo Des Hai Tera (Swadesh) - Sargam, Harmonium And Flute Notes
+- Yaara (Mamta Sharma) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -138,4 +130,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

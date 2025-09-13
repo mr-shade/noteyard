@@ -1,5 +1,5 @@
 ---
-title: "# Gerua (Dilwale) – Sargam, Harmonium And Flute Notes"
+title: " Gerua (Dilwale) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Gerua (Dilwale) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: gerua-dilwale-sargam-harmonium-and-flute-notes
@@ -90,24 +90,16 @@ Hoo rang dee tu moohe geruaa
 
 P’.m’.G’.R’.G’.. S’..G’..R’..m’..G’..N..S’..S’…
 
-
-
 Also Read This :-
 
-
-
-* Shikwa Nahi (Jubin Nautiyal) – Sargam And Flute Notes
-* Duniyaa (Luka Chuppi) – Sargam And Flute Notes
-* Surili Akhiyon Wale (Veer) – Sargam And Flute Notes
-* Gulabi Ankhen (The Train) – Sargam And Flute Notes
+- Shikwa Nahi (Jubin Nautiyal) – Sargam And Flute Notes
+- Duniyaa (Luka Chuppi) – Sargam And Flute Notes
+- Surili Akhiyon Wale (Veer) – Sargam And Flute Notes
+- Gulabi Ankhen (The Train) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -117,12 +109,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Sare Jahan Se Achaa - Sargam, Harmonium And Flute Notes
-* Kaise Ab Kahein (Gutar Gu) - Sargam, Harmonium And Flute Notes
-* Dulhe Ka Sehra (Dhadkan) - Sargam, Harmonium And Flute Notes
-* Tum Bin (Sanam Re) - Sargam, Harmonium And Flute Notes
-* Kya Khoob Lagti Ho (Dharmatma) - Sargam, Harmonium And Flute Notes
-* Dil Mein Ho Tum (Why Cheat India) - Sargam, Harmonium And Flute Notes
+- Sare Jahan Se Achaa - Sargam, Harmonium And Flute Notes
+- Kaise Ab Kahein (Gutar Gu) - Sargam, Harmonium And Flute Notes
+- Dulhe Ka Sehra (Dhadkan) - Sargam, Harmonium And Flute Notes
+- Tum Bin (Sanam Re) - Sargam, Harmonium And Flute Notes
+- Kya Khoob Lagti Ho (Dharmatma) - Sargam, Harmonium And Flute Notes
+- Dil Mein Ho Tum (Why Cheat India) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -147,4 +139,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

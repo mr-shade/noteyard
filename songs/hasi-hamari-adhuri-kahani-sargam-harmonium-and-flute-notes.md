@@ -1,5 +1,5 @@
 ---
-title: "# Hasi (Hamari Adhuri Kahani) – Sargam, Harmonium And Flute Notes"
+title: " Hasi (Hamari Adhuri Kahani) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Hasi (Hamari Adhuri Kahani) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: hasi-hamari-adhuri-kahani-sargam-harmonium-and-flute-notes
@@ -140,11 +140,11 @@ m..D..N.N…N..N..S’..N..D..
 
 Also Read This :-
 
-* Meri Maa Ke Barabar Koi Nahi – Sargam, Harmonium And Flute Notes
-* Chunar (ABCD 2) – Sargam, Harmonium And Flute Notes
-* Chandan Sa Badan – Sargam, Harmonium And Flute Notes
-* Tere Naam Humne Kiya Hai – Sargam, Harmonium And Flute Notes
-* Main Tumhara (Easy Version) – Sargam, Harmonium And Flute Notes
+- Meri Maa Ke Barabar Koi Nahi – Sargam, Harmonium And Flute Notes
+- Chunar (ABCD 2) – Sargam, Harmonium And Flute Notes
+- Chandan Sa Badan – Sargam, Harmonium And Flute Notes
+- Tere Naam Humne Kiya Hai – Sargam, Harmonium And Flute Notes
+- Main Tumhara (Easy Version) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -158,12 +158,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Salaam-E-Ishq - Sargam, Harmonium And Flute Notes
-* Bhula Dunga (Darshan Raval) - Sargam, Harmonium And Flute Notes
-* Tera Ghata (Gajendra Verma) - Sargam, Harmonium And Flute Notes
-* Aao Huzoor Tumko - Sargam, Harmonium And Flute Notes
-* Dekha Hazaro Dafaa (Rustom) - Sargam, Harmonium And Flute Notes
-* Jo Wada Kiya Woh Nibhana Padega - Sargam And Flute Notes
+- Salaam-E-Ishq - Sargam, Harmonium And Flute Notes
+- Bhula Dunga (Darshan Raval) - Sargam, Harmonium And Flute Notes
+- Tera Ghata (Gajendra Verma) - Sargam, Harmonium And Flute Notes
+- Aao Huzoor Tumko - Sargam, Harmonium And Flute Notes
+- Dekha Hazaro Dafaa (Rustom) - Sargam, Harmonium And Flute Notes
+- Jo Wada Kiya Woh Nibhana Padega - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -188,4 +188,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

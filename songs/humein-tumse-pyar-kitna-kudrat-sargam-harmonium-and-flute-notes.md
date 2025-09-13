@@ -1,5 +1,5 @@
 ---
-title: "# Humein Tumse Pyar Kitna (Kudrat) – Sargam, Harmonium And Flute Notes"
+title: " Humein Tumse Pyar Kitna (Kudrat) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Humein Tumse Pyar Kitna (Kudrat) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: humein-tumse-pyar-kitna-kudrat-sargam-harmonium-and-flute-notes
@@ -98,11 +98,11 @@ G..m…P..P..D…
 
 Also Read This :-
 
-* Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
-* Sandese Aate Hai (Border) – Sargam, Harmonium And Flute Notes
-* Uska Hi Banana (Arijit Singh) – Sargam, Harmonium And Flute Notes
-* Doorie (Atif Aslam) – Sargam, Harmonium And Flute Notes
-* Tu Bhoola Jise (Airlift) – Sargam, Harmonium And Flute Notes
+- Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
+- Sandese Aate Hai (Border) – Sargam, Harmonium And Flute Notes
+- Uska Hi Banana (Arijit Singh) – Sargam, Harmonium And Flute Notes
+- Doorie (Atif Aslam) – Sargam, Harmonium And Flute Notes
+- Tu Bhoola Jise (Airlift) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -143,12 +143,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Hona Tha Pyar (Bol) - Sargam, Harmonium And Flute Notes
-* Manikya Malaraya Poovi - Sargam, Harmonium And Flute Notes
-* Zindagi Ek Safar Hai Suhana - Sargam, Harmonium And Flute Notes
-* Ek Mulaqat (Jubin Nautiyal) - Sargam, Harmonium And Flute Notes
-* Roobaroo (Rang De Basanti) - Sargam, Harmonium And Flute Notes
-* Kya Mujhe Pyaar Hai (Woh Lamhe) - Sargam, Harmonium And Flute Notes
+- Hona Tha Pyar (Bol) - Sargam, Harmonium And Flute Notes
+- Manikya Malaraya Poovi - Sargam, Harmonium And Flute Notes
+- Zindagi Ek Safar Hai Suhana - Sargam, Harmonium And Flute Notes
+- Ek Mulaqat (Jubin Nautiyal) - Sargam, Harmonium And Flute Notes
+- Roobaroo (Rang De Basanti) - Sargam, Harmonium And Flute Notes
+- Kya Mujhe Pyaar Hai (Woh Lamhe) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -173,4 +173,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

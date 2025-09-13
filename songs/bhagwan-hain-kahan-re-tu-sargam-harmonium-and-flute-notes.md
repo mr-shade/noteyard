@@ -1,5 +1,5 @@
 ---
-title: "# Bhagwan Hain Kahan Re Tu – Sargam, Harmonium And Flute Notes"
+title: " Bhagwan Hain Kahan Re Tu – Sargam, Harmonium And Flute Notes"
 description: "Learn # Bhagwan Hain Kahan Re Tu notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: bhagwan-hain-kahan-re-tu-sargam-harmonium-and-flute-notes
@@ -11,8 +11,6 @@ Remove Numbers From Piano Notes
 Undo Changes
 
 SCALE OF THE SONG IS E MAJOR
-
-
 
 Haii suna tu bhatke mann ko raah dikhata hai
 
@@ -72,29 +70,19 @@ Tujhee dhoondein thake mere nain
 
 G.G.m..D..P.P…G..R..S…
 
-
-
-
-
 Also Read This :-
 
-
-
-* Luka Chuppi (Lata Mangeshkar) – Sargam And Flute Notes
-* The Jungle Book (Title Song) – Sargam And Flute Notes
-* Afreen Afreen (Coke Studio) – Sargam And Flute Notes
-* Maa (Taare Zameen Par) – Sargam And Flute Notes
-* Hawayein (Jab Harry Met Sejal) – Sargam And Flute Notes
+- Luka Chuppi (Lata Mangeshkar) – Sargam And Flute Notes
+- The Jungle Book (Title Song) – Sargam And Flute Notes
+- Afreen Afreen (Coke Studio) – Sargam And Flute Notes
+- Maa (Taare Zameen Par) – Sargam And Flute Notes
+- Hawayein (Jab Harry Met Sejal) – Sargam And Flute Notes
 
 Where
 
 nw Paragraph 2
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -104,12 +92,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Lutt Putt Gaya (Dunki) - Sargam, Harmonium And Flute Notes
-* Ajj Din Chadheya (Love Aaj Kal) - Sargam, Harmonium And Flute Notes
-* Musafir Hoon Yaron - Sargam, Harmonium And Flute Notes
-* Zindagi Kuch Toh Bata - Sargam, Harmonium And Flute Notes
-* Dil Toh Bachcha Hai Ji - Sargam, Harmonium And Flute Notes
-* Teri Yaadein (Kabhi Toh Paas Mere Aao) - Sargam And Flute Notes
+- Lutt Putt Gaya (Dunki) - Sargam, Harmonium And Flute Notes
+- Ajj Din Chadheya (Love Aaj Kal) - Sargam, Harmonium And Flute Notes
+- Musafir Hoon Yaron - Sargam, Harmonium And Flute Notes
+- Zindagi Kuch Toh Bata - Sargam, Harmonium And Flute Notes
+- Dil Toh Bachcha Hai Ji - Sargam, Harmonium And Flute Notes
+- Teri Yaadein (Kabhi Toh Paas Mere Aao) - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -134,4 +122,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

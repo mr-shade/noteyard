@@ -1,5 +1,5 @@
 ---
-title: "# Taaron Ke Shehar (Neha Kakkar, Jubin Nautiyal) – Sargam And Flute Notes"
+title: " Taaron Ke Shehar (Neha Kakkar, Jubin Nautiyal) – Sargam And Flute Notes"
 description: "Learn # Taaron Ke Shehar (Neha Kakkar, Jubin Nautiyal) – Sargam And Flute Notes notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: taaron-ke-shehar-neha-kakkar-jubin-nautiyal-sargam-and-flute-notes
@@ -150,15 +150,13 @@ D.D(K).G..G.G.D(K)..D(K)..D..D..
 
 Also Read This :-
 
-* Mehrama (Love Aaj Kal) – Sargam And Flute Notes
-* Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
-* Aaj Bhi (Vishal Mishra) – Sargam And Flute Notes
-* Pehla Pyaar (Kabir Singh) – Sargam And Flute Notes
-* Jinke Liye (Neha Kakkar) – Sargam And Flute Notes
+- Mehrama (Love Aaj Kal) – Sargam And Flute Notes
+- Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
+- Aaj Bhi (Vishal Mishra) – Sargam And Flute Notes
+- Pehla Pyaar (Kabir Singh) – Sargam And Flute Notes
+- Jinke Liye (Neha Kakkar) – Sargam And Flute Notes
 
 Where
-
-
 
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
 
@@ -170,12 +168,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Afreen Afreen (Coke Studio) - Sargam, Harmonium And Flute Notes
-* Bhula Dunga (Darshan Raval) - Sargam, Harmonium And Flute Notes
-* Dil Kyun Yeh Mera (Kites) - Sargam, Harmonium And Flute Notes
-* Tum Hi Aana (Marjaavaan) - Sargam, Harmonium And Flute Notes
-* Tere Mere Hothon Pe - Sargam, Harmonium And Flute Notes
-* Laadki - Sargam, Harmonium And Flute Notes
+- Afreen Afreen (Coke Studio) - Sargam, Harmonium And Flute Notes
+- Bhula Dunga (Darshan Raval) - Sargam, Harmonium And Flute Notes
+- Dil Kyun Yeh Mera (Kites) - Sargam, Harmonium And Flute Notes
+- Tum Hi Aana (Marjaavaan) - Sargam, Harmonium And Flute Notes
+- Tere Mere Hothon Pe - Sargam, Harmonium And Flute Notes
+- Laadki - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -200,4 +198,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

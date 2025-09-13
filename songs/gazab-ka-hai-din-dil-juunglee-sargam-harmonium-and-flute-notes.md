@@ -1,5 +1,5 @@
 ---
-title: "# Gazab Ka Hai Din (Dil Juunglee) – Sargam, Harmonium And Flute Notes"
+title: " Gazab Ka Hai Din (Dil Juunglee) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Gazab Ka Hai Din (Dil Juunglee) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: gazab-ka-hai-din-dil-juunglee-sargam-harmonium-and-flute-notes
@@ -118,11 +118,11 @@ S.G..G..R.. n.S..S…
 
 Also Read This :-
 
-* Tu Hi Yaar Mera – Sargam, Harmonium And Flute Notes
-* Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
-* Sandese Aate Hai (Border) – Sargam, Harmonium And Flute Notes
-* Doorie (Atif Aslam) – Sargam, Harmonium And Flute Notes
-* Tere Bina (Guru) – Sargam, Harmonium And Flute Notes
+- Tu Hi Yaar Mera – Sargam, Harmonium And Flute Notes
+- Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
+- Sandese Aate Hai (Border) – Sargam, Harmonium And Flute Notes
+- Doorie (Atif Aslam) – Sargam, Harmonium And Flute Notes
+- Tere Bina (Guru) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -138,12 +138,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Haan Tu Hain (Jannat) - Sargam, Harmonium And Flute Notes
-* Jo Wada Kiya Woh Nibhana Padega - Sargam And Flute Notes
-* Jhoom (R&B version) - Sargam, Harmonium And Flute Notes
-* Dastaan-E-Om Shanti Om - Sargam, Harmonium And Flute Notes
-* Suno Na Suno Na - Sargam, Harmonium And Flute Notes
-* Soch Na Sake (Airlift) - Sargam, Harmonium And Flute Notes
+- Haan Tu Hain (Jannat) - Sargam, Harmonium And Flute Notes
+- Jo Wada Kiya Woh Nibhana Padega - Sargam And Flute Notes
+- Jhoom (R&B version) - Sargam, Harmonium And Flute Notes
+- Dastaan-E-Om Shanti Om - Sargam, Harmonium And Flute Notes
+- Suno Na Suno Na - Sargam, Harmonium And Flute Notes
+- Soch Na Sake (Airlift) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -168,4 +168,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

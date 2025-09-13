@@ -1,5 +1,5 @@
 ---
-title: "# Aashiqui Aa Gayi (Radhe Shyam) – Sargam, Harmonium And Flute Notes"
+title: " Aashiqui Aa Gayi (Radhe Shyam) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Aashiqui Aa Gayi (Radhe Shyam) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: aashiqui-aa-gayi-radhe-shyam-sargam-harmonium-and-flute-notes
@@ -64,11 +64,11 @@ R’..N..D..P.. P..N..S’..R’…N..D..D..
 
 Also Read This :-
 
-* Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
-* Sandese Aate Hai (Border) – Sargam, Harmonium And Flute Notes
-* Uska Hi Banana (Arijit Singh) – Sargam, Harmonium And Flute Notes
-* Doorie (Atif Aslam) – Sargam, Harmonium And Flute Notes
-* Tu Bhoola Jise (Airlift) – Sargam, Harmonium And Flute Notes
+- Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
+- Sandese Aate Hai (Border) – Sargam, Harmonium And Flute Notes
+- Uska Hi Banana (Arijit Singh) – Sargam, Harmonium And Flute Notes
+- Doorie (Atif Aslam) – Sargam, Harmonium And Flute Notes
+- Tu Bhoola Jise (Airlift) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -109,12 +109,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Heeriye (Jasleen Royal) - Sargam, Harmonium And Flute Notes
-* Manjha (Vishal Mishra) - Sargam, Harmonium And Flute Notes
-* Sang Rahiyo - Sargam, Harmonium And Flute Notes
-* Jahan Dal Dal Pe Sone Ki Chidiya - Sargam And Flute Notes
-* Roke Na Ruke Naina (Arijit Singh) - Sargam, Harmonium And Flute Notes
-* Yeh Fitoor Mera (Fitoor) - Sargam, Harmonium And Flute Notes
+- Heeriye (Jasleen Royal) - Sargam, Harmonium And Flute Notes
+- Manjha (Vishal Mishra) - Sargam, Harmonium And Flute Notes
+- Sang Rahiyo - Sargam, Harmonium And Flute Notes
+- Jahan Dal Dal Pe Sone Ki Chidiya - Sargam And Flute Notes
+- Roke Na Ruke Naina (Arijit Singh) - Sargam, Harmonium And Flute Notes
+- Yeh Fitoor Mera (Fitoor) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -139,4 +139,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

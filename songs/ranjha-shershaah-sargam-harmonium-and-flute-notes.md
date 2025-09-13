@@ -1,5 +1,5 @@
 ---
-title: "# Ranjha (Shershaah) – Sargam, Harmonium And Flute Notes"
+title: " Ranjha (Shershaah) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Ranjha (Shershaah) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: ranjha-shershaah-sargam-harmonium-and-flute-notes
@@ -148,11 +148,11 @@ S..S..S..S..
 
 Also Read This :-
 
-* Mehrama (Love Aaj Kal) – Sargam And Flute Notes
-* Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
-* Aaj Bhi (Vishal Mishra) – Sargam And Flute Notes
-* Pehla Pyaar (Kabir Singh) – Sargam And Flute Notes
-* Jinke Liye (Neha Kakkar) – Sargam And Flute Notes
+- Mehrama (Love Aaj Kal) – Sargam And Flute Notes
+- Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
+- Aaj Bhi (Vishal Mishra) – Sargam And Flute Notes
+- Pehla Pyaar (Kabir Singh) – Sargam And Flute Notes
+- Jinke Liye (Neha Kakkar) – Sargam And Flute Notes
 
 relpost-thumb-wrapper
 
@@ -162,12 +162,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Pareshaan (Ishaqzaade) - Sargam, Harmonium And Flute Notes
-* Rang Jo Lagyo - Sargam, Harmonium And Flute Notes
-* Na Tum Jaano Na Hum - Sargam, Harmonium And Flute Notes
-* Maine Khud Ko (Ragini MMS 2) - Sargam And Flute Notes
-* Wo Ladki Hai Kahan - Sargam, Harmonium And Flute Notes
-* Oonchi Oonchi Waadi - Sargam, Harmonium And Flute Notes
+- Pareshaan (Ishaqzaade) - Sargam, Harmonium And Flute Notes
+- Rang Jo Lagyo - Sargam, Harmonium And Flute Notes
+- Na Tum Jaano Na Hum - Sargam, Harmonium And Flute Notes
+- Maine Khud Ko (Ragini MMS 2) - Sargam And Flute Notes
+- Wo Ladki Hai Kahan - Sargam, Harmonium And Flute Notes
+- Oonchi Oonchi Waadi - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -192,4 +192,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Tu Hi Hai Aashiqui (Dishkiyaoon) – Sargam, Harmonium And Flute Notes"
+title: " Tu Hi Hai Aashiqui (Dishkiyaoon) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Tu Hi Hai Aashiqui (Dishkiyaoon) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: tu-hi-hai-aashiqui-dishkiyaoon-sargam-harmonium-and-flute-notes
@@ -80,11 +80,11 @@ S’..N..D..D..
 
 Also Read This :-
 
-* Main Hoon Hero Tera (Salman Khan) – Sargam And Flute Notes
-* Pachtaoge (Arijit Singh) – Sargam And Flute Notes
-* Love Me Like You Do (Ellie Goulding) – Sargam And Flute Notes
-* Achyutam Keshavam – Sargam And Flute Notes
-* Joker (Hardy Sandhu) – Sargam And Flute Notes
+- Main Hoon Hero Tera (Salman Khan) – Sargam And Flute Notes
+- Pachtaoge (Arijit Singh) – Sargam And Flute Notes
+- Love Me Like You Do (Ellie Goulding) – Sargam And Flute Notes
+- Achyutam Keshavam – Sargam And Flute Notes
+- Joker (Hardy Sandhu) – Sargam And Flute Notes
 
 Where
 
@@ -100,12 +100,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Jeeta Tha Jiske Liye - Sargam, Harmonium And Flute Notes
-* Ve Haaniyaan (Danny) - Sargam, Harmonium And Flute Notes
-* Mile Ho Tum (Fever) - Sargam, Harmonium And Flute Notes
-* Roya Jab Tu (Mr. & Mrs. Mahi) - Sargam And Flute Notes
-* Choo Lo (The Local Train) - Sargam, Harmonium And Flute Notes
-* Mere Humsafar (All Is Well) - Sargam, Harmonium And Flute Notes
+- Jeeta Tha Jiske Liye - Sargam, Harmonium And Flute Notes
+- Ve Haaniyaan (Danny) - Sargam, Harmonium And Flute Notes
+- Mile Ho Tum (Fever) - Sargam, Harmonium And Flute Notes
+- Roya Jab Tu (Mr. & Mrs. Mahi) - Sargam And Flute Notes
+- Choo Lo (The Local Train) - Sargam, Harmonium And Flute Notes
+- Mere Humsafar (All Is Well) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -130,4 +130,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

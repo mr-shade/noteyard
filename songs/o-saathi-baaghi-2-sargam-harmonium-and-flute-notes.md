@@ -1,5 +1,5 @@
 ---
-title: "# O Saathi (Baaghi 2) – Sargam, Harmonium And Flute Notes"
+title: " O Saathi (Baaghi 2) – Sargam, Harmonium And Flute Notes"
 description: "Learn # O Saathi (Baaghi 2) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: o-saathi-baaghi-2-sargam-harmonium-and-flute-notes
@@ -182,11 +182,11 @@ G..G..R..R..P…
 
 Also Read This :-
 
-* Bahara (I Hate Luv Storys) – Sargam, Harmonium And Flute Notes
-* Sach keh Raha Hai Deewana – Sargam, Harmonium And Flute Notes
-* Yeh Raaten Yeh Mausam – Sargam, Harmonium And Flute Notes
-* Chookar Mere Mann Ko (Yaarana) – Sargam, Harmonium And Flute Notes
-* Soja Zara (Baahubali 2) – Sargam, Harmonium And Flute Notes
+- Bahara (I Hate Luv Storys) – Sargam, Harmonium And Flute Notes
+- Sach keh Raha Hai Deewana – Sargam, Harmonium And Flute Notes
+- Yeh Raaten Yeh Mausam – Sargam, Harmonium And Flute Notes
+- Chookar Mere Mann Ko (Yaarana) – Sargam, Harmonium And Flute Notes
+- Soja Zara (Baahubali 2) – Sargam, Harmonium And Flute Notes
 
 relpost-thumb-wrapper
 
@@ -196,12 +196,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Moh Bhang Piya (Tvf Aspirants) - Sargam And Flute Notes
-* Meri Mehbooba (Pardes) - Sargam, Harmonium And Flute Notes
-* Jinke Liye (Neha Kakkar) - Sargam, Harmonium And Flute Notes
-* Tere Hawaale (Arijit Singh) - Sargam, Harmonium And Flute Notes
-* Saanson Ko (Zid) - Sargam, Harmonium And Flute Notes
-* Akhiyaan Gulaab - Sargam, Harmonium And Flute Notes
+- Moh Bhang Piya (Tvf Aspirants) - Sargam And Flute Notes
+- Meri Mehbooba (Pardes) - Sargam, Harmonium And Flute Notes
+- Jinke Liye (Neha Kakkar) - Sargam, Harmonium And Flute Notes
+- Tere Hawaale (Arijit Singh) - Sargam, Harmonium And Flute Notes
+- Saanson Ko (Zid) - Sargam, Harmonium And Flute Notes
+- Akhiyaan Gulaab - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -226,4 +226,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

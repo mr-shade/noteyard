@@ -1,5 +1,5 @@
 ---
-title: "# Ae Dil Hai Mushkil (Title Song) – Sargam, Harmonium And Flute Notes"
+title: " Ae Dil Hai Mushkil (Title Song) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Ae Dil Hai Mushkil (Title Song) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: ae-dil-hai-mushkil-title-song-sargam-harmonium-and-flute-notes
@@ -148,11 +148,11 @@ n…n..m…m..m..G…G..
 
 Also Read This :-
 
-* Tose Naina (Mickey Virus) – Sargam, Harmonium And Flute Notes
-* Hamari Adhuri Kahani (Title Song) – Sargam, Harmonium And Flute Notes
-* Lambiyaan Si Judaiyaan (Raabta) – Sargam, Harmonium And Flute Notes
-* Kaise Mujhe (Ghajini) – Sargam, Harmonium And Flute Notes
-* Yeh Aaina Full Song (Kabir Singh) – Sargam, Harmonium And Flute Notes
+- Tose Naina (Mickey Virus) – Sargam, Harmonium And Flute Notes
+- Hamari Adhuri Kahani (Title Song) – Sargam, Harmonium And Flute Notes
+- Lambiyaan Si Judaiyaan (Raabta) – Sargam, Harmonium And Flute Notes
+- Kaise Mujhe (Ghajini) – Sargam, Harmonium And Flute Notes
+- Yeh Aaina Full Song (Kabir Singh) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -166,12 +166,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Moh Moh Ke Dhaage Flute Piece - Sargam, Harmonium And Flute Notes
-* Kyon (Barfi) - Sargam, Harmonium And Flute Notes
-* Roja Jaaneman (A. R. Rahman) - Sargam And Flute Notes
-* Faasle (Coke Studio 10) - Sargam, Harmonium And Flute Notes
-* Tere Hawaale [FULL SONG] - Sargam And Flute Notes
-* Baarishon Mein (Darshan Raval) - Sargam, Harmonium And Flute Notes
+- Moh Moh Ke Dhaage Flute Piece - Sargam, Harmonium And Flute Notes
+- Kyon (Barfi) - Sargam, Harmonium And Flute Notes
+- Roja Jaaneman (A. R. Rahman) - Sargam And Flute Notes
+- Faasle (Coke Studio 10) - Sargam, Harmonium And Flute Notes
+- Tere Hawaale [FULL SONG] - Sargam And Flute Notes
+- Baarishon Mein (Darshan Raval) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -196,4 +196,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

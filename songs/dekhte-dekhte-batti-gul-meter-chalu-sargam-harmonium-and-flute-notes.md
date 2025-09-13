@@ -1,5 +1,5 @@
 ---
-title: "# Dekhte Dekhte (Batti Gul Meter Chalu) – Sargam, Harmonium And Flute Notes"
+title: " Dekhte Dekhte (Batti Gul Meter Chalu) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Dekhte Dekhte (Batti Gul Meter Chalu) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: dekhte-dekhte-batti-gul-meter-chalu-sargam-harmonium-and-flute-notes
@@ -88,25 +88,17 @@ Kyaa se kyaa hoo gayee dekhtee dekhtee
 
 P..D..N(K)..N(K)..N(K)..S’..S’..R’..R’..D..P..P..
 
-
-
 Also Read This :-
 
-
-
-* Tujhe Kitna Chahne Lahe Hum Sargam And Flute Notes
-* Bekhayali Full Song Sargam And Flute Notes
-* Leja Re Sargam And Flute Notes
-* Kaun Tujhe Sargam And Flute Notes
-* Ek Tukda Dhoop Sargam And Flute Notes
+- Tujhe Kitna Chahne Lahe Hum Sargam And Flute Notes
+- Bekhayali Full Song Sargam And Flute Notes
+- Leja Re Sargam And Flute Notes
+- Kaun Tujhe Sargam And Flute Notes
+- Ek Tukda Dhoop Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -116,12 +108,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Muqabla (Street Dancer 3D) - Sargam, Harmonium And Flute Notes
-* Salaam-E-Ishq - Sargam, Harmonium And Flute Notes
-* Qaafirana (Kedarnath) - Sargam, Harmonium And Flute Notes
-* Tum Itna Jo Muskura Rahe Ho - Sargam, Harmonium And Flute Notes
-* Nahin Samne (Taal) - Sargam, Harmonium And Flute Notes
-* Teri Galiyan (Ek Villain) - Sargam, Harmonium And Flute Notes
+- Muqabla (Street Dancer 3D) - Sargam, Harmonium And Flute Notes
+- Salaam-E-Ishq - Sargam, Harmonium And Flute Notes
+- Qaafirana (Kedarnath) - Sargam, Harmonium And Flute Notes
+- Tum Itna Jo Muskura Rahe Ho - Sargam, Harmonium And Flute Notes
+- Nahin Samne (Taal) - Sargam, Harmonium And Flute Notes
+- Teri Galiyan (Ek Villain) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -146,4 +138,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

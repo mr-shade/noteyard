@@ -1,5 +1,5 @@
 ---
-title: "# Aa Jao Meri Tamannah (Ajab Prem Ki Ghazab Kahani) – Sargam, Harmonium And Flute Notes"
+title: " Aa Jao Meri Tamannah (Ajab Prem Ki Ghazab Kahani) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Aa Jao Meri Tamannah (Ajab Prem Ki Ghazab Kahani) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: aa-jao-meri-tamannah-ajab-prem-ki-ghazab-kahani-sargam-harmonium-and-flute-notes
@@ -152,11 +152,11 @@ S’…P’…N…P’…P..N..D…
 
 Also Read This :-
 
-* Main Dhoondne Ko Zamaane Mein – Sargam, Harmonium And Flute Notes
-* Nazm Nazm (Bareilly Ki Barfi) – Sargam, Harmonium And Flute Notes
-* Tera Hone Laga Hoon – Sargam, Harmonium And Flute Notes
-* Mere Nishaan (Darshan Raval) – Sargam, Harmonium And Flute Notes
-* Tose Naina Lage (Anwar) – Sargam, Harmonium And Flute Notes
+- Main Dhoondne Ko Zamaane Mein – Sargam, Harmonium And Flute Notes
+- Nazm Nazm (Bareilly Ki Barfi) – Sargam, Harmonium And Flute Notes
+- Tera Hone Laga Hoon – Sargam, Harmonium And Flute Notes
+- Mere Nishaan (Darshan Raval) – Sargam, Harmonium And Flute Notes
+- Tose Naina Lage (Anwar) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -170,12 +170,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Ek Din Teri Raahon Mein - Sargam, Harmonium And Flute Notes
-* Ranjheya Ve (Zain Zohaib) - Sargam, Harmonium And Flute Notes
-* Manikya Malaraya Poovi - Sargam, Harmonium And Flute Notes
-* Uska Hi Banana (Arijit Singh) - Sargam, Harmonium  And Flute Notes
-* Main Pal Do Pal Ka Shair Hoon - Sargam And Flute Notes
-* Yeh to Sach Hai Ki Bhagwan Hai - Sargam And Flute Notes
+- Ek Din Teri Raahon Mein - Sargam, Harmonium And Flute Notes
+- Ranjheya Ve (Zain Zohaib) - Sargam, Harmonium And Flute Notes
+- Manikya Malaraya Poovi - Sargam, Harmonium And Flute Notes
+- Uska Hi Banana (Arijit Singh) - Sargam, Harmonium And Flute Notes
+- Main Pal Do Pal Ka Shair Hoon - Sargam And Flute Notes
+- Yeh to Sach Hai Ki Bhagwan Hai - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -200,4 +200,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

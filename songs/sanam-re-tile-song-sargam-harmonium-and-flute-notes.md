@@ -1,5 +1,5 @@
 ---
-title: "# Sanam Re (Tile Song) – Sargam, Harmonium And Flute Notes"
+title: " Sanam Re (Tile Song) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Sanam Re (Tile Song) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: sanam-re-tile-song-sargam-harmonium-and-flute-notes
@@ -54,25 +54,17 @@ Tuu mera sanam hua re
 
 d.p..p.d.n.p.n.d.p.d.d..
 
-
-
 Also Read This :-
 
-
-
-* Krrish – Sargam And Flute Notes
-* Te Amo – Sargam And Flute Notes
-* Pee Loon – Sargam And Flute Notes
-* Emptiness – Sargam And Flute Notes
-* Little Krishna Flute – Sargam And Flute Notes
+- Krrish – Sargam And Flute Notes
+- Te Amo – Sargam And Flute Notes
+- Pee Loon – Sargam And Flute Notes
+- Emptiness – Sargam And Flute Notes
+- Little Krishna Flute – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -82,12 +74,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Phir Kabhi (Full Song) - Sargam, Harmonium And Flute Notes
-* Meri Aashiqui (Aashiqui 2) - Sargam, Harmonium And Flute Notes
-* Hamari Adhuri Kahani (Title Song) - Sargam, Harmonium And Flute Notes
-* Tujhe Dekha To Yeh Jana Sanam Sargam, Harmonium And Flute Notes
-* Koi Mil Gaya - Sargam, Harmonium And Flute Notes
-* Dil Ko Karaar Aaya - Sargam, Harmonium And Flute Notes
+- Phir Kabhi (Full Song) - Sargam, Harmonium And Flute Notes
+- Meri Aashiqui (Aashiqui 2) - Sargam, Harmonium And Flute Notes
+- Hamari Adhuri Kahani (Title Song) - Sargam, Harmonium And Flute Notes
+- Tujhe Dekha To Yeh Jana Sanam Sargam, Harmonium And Flute Notes
+- Koi Mil Gaya - Sargam, Harmonium And Flute Notes
+- Dil Ko Karaar Aaya - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -112,4 +104,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

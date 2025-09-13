@@ -1,5 +1,5 @@
 ---
-title: "# Ya Ail (Gangster) – Sargam, Harmonium And Flute Notes"
+title: " Ya Ail (Gangster) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Ya Ail (Gangster) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: ya-ail-gangster-sargam-harmonium-and-flute-notes
@@ -80,11 +80,11 @@ P..m..G.. P..D..m..G..G..G..R..G..
 
 Also Read This :-
 
-* Girls Like You (Maroon 5) – Sargam And Flute Notes
-* Shayad (Love Aaj Kal) – Sargam And Flute Notes
-* Havana (Camila Cabello) – Sargam And Flute Notes
-* Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
-* Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
+- Girls Like You (Maroon 5) – Sargam And Flute Notes
+- Shayad (Love Aaj Kal) – Sargam And Flute Notes
+- Havana (Camila Cabello) – Sargam And Flute Notes
+- Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
+- Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
 
 Where
 
@@ -100,12 +100,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Abhi Abhi Toh Mile Ho (Jism 2) - Sargam, Harmonium And Flute Notes
-* O Meri Jaan (K.K.) - Sargam, Harmonium And Flute Notes
-* Tainu Khabar Nahi (Munjya) - Sargam, Harmonium And Flute Notes
-* Chaand Baaliyan (Aditya A.) - Sargam, Harmonium And Flute Notes
-* Baawra (Kushagra) - Sargam, Harmonium And Flute Notes
-* Zindagi Ke Safar Mein - Sargam, Harmonium And Flute Notes
+- Abhi Abhi Toh Mile Ho (Jism 2) - Sargam, Harmonium And Flute Notes
+- O Meri Jaan (K.K.) - Sargam, Harmonium And Flute Notes
+- Tainu Khabar Nahi (Munjya) - Sargam, Harmonium And Flute Notes
+- Chaand Baaliyan (Aditya A.) - Sargam, Harmonium And Flute Notes
+- Baawra (Kushagra) - Sargam, Harmonium And Flute Notes
+- Zindagi Ke Safar Mein - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -130,4 +130,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

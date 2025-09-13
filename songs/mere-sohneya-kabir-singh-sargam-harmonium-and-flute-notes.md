@@ -1,5 +1,5 @@
 ---
-title: "# Mere Sohneya (Kabir Singh) – Sargam, Harmonium And Flute Notes"
+title: " Mere Sohneya (Kabir Singh) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Mere Sohneya (Kabir Singh) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: mere-sohneya-kabir-singh-sargam-harmonium-and-flute-notes
@@ -130,11 +130,11 @@ S..S..R..n..S..R..R..R.G..R.G…R.S.S…
 
 Also Read This:-
 
-* Tere Siva (Darshan Raval) – Sargam, Harmonium And Flute Notes
-* Sau Aasmaan (Baar Baar Dekho) – Sargam, Harmonium And Flute Notes
-* Hale Dil Tujhko Sunata (Murder 2) – Sargam, Harmonium And Flute Notes
-* Give Me Some Sunshine (3 Idiots) – Sargam, Harmonium And Flute Notes
-* Sunn Zara (Jalraj) – Sargam, Harmonium And Flute Notes
+- Tere Siva (Darshan Raval) – Sargam, Harmonium And Flute Notes
+- Sau Aasmaan (Baar Baar Dekho) – Sargam, Harmonium And Flute Notes
+- Hale Dil Tujhko Sunata (Murder 2) – Sargam, Harmonium And Flute Notes
+- Give Me Some Sunshine (3 Idiots) – Sargam, Harmonium And Flute Notes
+- Sunn Zara (Jalraj) – Sargam, Harmonium And Flute Notes
 
 relpost-thumb-wrapper
 
@@ -144,12 +144,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Love Dose (Honey Singh) - Sargam, Harmonium And Flute Notes
-* Titliaan (Afsana Khan) - Sargam, Harmonium And Flute Notes
-* Teri Mitti - Sargam, Harmonium And Flute Notes
-* Gal Karke (Asees Kaur) - Sargam, Harmonium And Flute Notes
-* Mitti Di Khushboo - Sargam, Harmonium And Flute Notes
-* Mann Bharryaa 2.0 (Shershaah) - Sargam, Harmonium And Flute Notes
+- Love Dose (Honey Singh) - Sargam, Harmonium And Flute Notes
+- Titliaan (Afsana Khan) - Sargam, Harmonium And Flute Notes
+- Teri Mitti - Sargam, Harmonium And Flute Notes
+- Gal Karke (Asees Kaur) - Sargam, Harmonium And Flute Notes
+- Mitti Di Khushboo - Sargam, Harmonium And Flute Notes
+- Mann Bharryaa 2.0 (Shershaah) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -174,4 +174,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Hum Mar Jayenge (Aashiqui 2) – Sargam, Harmonium And Flute Notes"
+title: " Hum Mar Jayenge (Aashiqui 2) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Hum Mar Jayenge (Aashiqui 2) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: hum-mar-jayenge-aashiqui-2-sargam-harmonium-and-flute-notes
@@ -114,11 +114,11 @@ S..G..G..R.R..
 
 Also Read This :-
 
-* Aashiqui Aa Gayi (Radhe Shyam) – Sargam, Harmonium And Flute Notes
-* Kuch Na Kaho (1942 A Love Story) – Sargam, Harmonium And Flute Notes
-* Love Me Thoda Aur (Yaariyan) – Sargam, Harmonium And Flute Notes
-* Kaise Bataaoon (3G) – Sargam, Harmonium And Flute Notes
-* Rait Zara Si (Atrangi Re) – Sargam, Harmonium And Flute Notes
+- Aashiqui Aa Gayi (Radhe Shyam) – Sargam, Harmonium And Flute Notes
+- Kuch Na Kaho (1942 A Love Story) – Sargam, Harmonium And Flute Notes
+- Love Me Thoda Aur (Yaariyan) – Sargam, Harmonium And Flute Notes
+- Kaise Bataaoon (3G) – Sargam, Harmonium And Flute Notes
+- Rait Zara Si (Atrangi Re) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -161,12 +161,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Tujhe Sochta Hoon (Jannat 2) - Sargam, Harmonium And Flute Notes
-* Tera Zikr (Darshan Raval) - Sargam, Harmonium And Flute Notes
-* Tum Ho Toh (Rock On) - Sargam, Harmonium And Flute Notes
-* Maine Khud Ko (Ragini MMS 2) - Sargam And Flute Notes
-* Titli (Chennai Express) - Sargam, Harmonium And Flute Notes
-* Aankhon Mein Teri (Om Shanti Om) - Sargam, Harmonium And Flute Notes
+- Tujhe Sochta Hoon (Jannat 2) - Sargam, Harmonium And Flute Notes
+- Tera Zikr (Darshan Raval) - Sargam, Harmonium And Flute Notes
+- Tum Ho Toh (Rock On) - Sargam, Harmonium And Flute Notes
+- Maine Khud Ko (Ragini MMS 2) - Sargam And Flute Notes
+- Titli (Chennai Express) - Sargam, Harmonium And Flute Notes
+- Aankhon Mein Teri (Om Shanti Om) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -191,4 +191,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

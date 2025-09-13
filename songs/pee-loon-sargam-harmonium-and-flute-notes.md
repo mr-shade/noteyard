@@ -1,5 +1,5 @@
 ---
-title: "# Pee Loon – Sargam, Harmonium And Flute Notes"
+title: " Pee Loon – Sargam, Harmonium And Flute Notes"
 description: "Learn # Pee Loon notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: pee-loon-sargam-harmonium-and-flute-notes
@@ -58,25 +58,17 @@ Tere sangg baikraari haii
 
 R.G.m.G.R.S.S.S.S
 
-
-
 Also Read This :-
 
-
-
-* Bolna (Kapoor And Sons) – Sargam And Flute Notes
-* Jeena Jeena [Full Song] (Badlapur) – Sargam And Flute Notes
-* See You Again ft. Charlie Puth (Wiz Khalifa) – Sargam And Flute Notes
-* Lakdi Ki Kaathi (Masoom) – Sargam And Flute Notes
-* Kaise Hua (Kabir Singh) – Sargam And Flute Notes
+- Bolna (Kapoor And Sons) – Sargam And Flute Notes
+- Jeena Jeena [Full Song] (Badlapur) – Sargam And Flute Notes
+- See You Again ft. Charlie Puth (Wiz Khalifa) – Sargam And Flute Notes
+- Lakdi Ki Kaathi (Masoom) – Sargam And Flute Notes
+- Kaise Hua (Kabir Singh) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -86,12 +78,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Hona Tha Pyar (Bol) - Sargam, Harmonium And Flute Notes
-* Bas Tum Mere Paas Raho - Sargam, Harmonium And Flute Notes
-* Ek Main Aur Ek Tu - Sargam, Harmonium And Flute Notes
-* Aadat (Jal) - Sargam, Harmonium And Flute Notes
-* Qaafirana (Kedarnath) - Sargam, Harmonium And Flute Notes
-* My Name Is Lakhan - Sargam, Harmonium And Flute Notes
+- Hona Tha Pyar (Bol) - Sargam, Harmonium And Flute Notes
+- Bas Tum Mere Paas Raho - Sargam, Harmonium And Flute Notes
+- Ek Main Aur Ek Tu - Sargam, Harmonium And Flute Notes
+- Aadat (Jal) - Sargam, Harmonium And Flute Notes
+- Qaafirana (Kedarnath) - Sargam, Harmonium And Flute Notes
+- My Name Is Lakhan - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -116,4 +108,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

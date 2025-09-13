@@ -1,5 +1,5 @@
 ---
-title: "# Pehli Dafa (Atif Aslam) – Sargam, Harmonium And Flute Notes"
+title: " Pehli Dafa (Atif Aslam) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Pehli Dafa (Atif Aslam) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: pehli-dafa-atif-aslam-sargam-harmonium-and-flute-notes
@@ -114,11 +114,11 @@ S’..S’..N..D..P..D…P.P..
 
 Also Read This :-
 
-* Neki Ki Raah (Traffic) – Sargam, Harmonium And Flute Notes | Arijit Singh
-* Tera Fitoor (Genius) – Sargam, Harmonium And Flute Notes
-* Aasan Nahin Yahan (Aashiqui 2) – Sargam, Harmonium And Flute Notes
-* Koi Ishaara (Force 2) – Sargam, Harmonium And Flute Notes
-* Main Janta Hoon (The Body) – Sargam, Harmonium And Flute Notes
+- Neki Ki Raah (Traffic) – Sargam, Harmonium And Flute Notes | Arijit Singh
+- Tera Fitoor (Genius) – Sargam, Harmonium And Flute Notes
+- Aasan Nahin Yahan (Aashiqui 2) – Sargam, Harmonium And Flute Notes
+- Koi Ishaara (Force 2) – Sargam, Harmonium And Flute Notes
+- Main Janta Hoon (The Body) – Sargam, Harmonium And Flute Notes
 
 relpost-thumb-wrapper
 
@@ -128,12 +128,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Aaj Mere Yaar Ki Shaadi Hai - Sargam Harmonium And Flute Notes
-* Meri Aashiqui (Aashiqui 2) - Sargam, Harmonium And Flute Notes
-* Gulabi Sadi (Sanju Rathod) - Sargam, Harmonium And Flute Notes
-* Chehra Hai Ya Chand Khila Hai - Sargam, Harmonium, Flute Notes
-* Chithi Na Koi Sandesh - Sargam, Harmonium And Flute Notes
-* Heer Ranjha (Reprise) - Sargam, Harmonium And Flute Notes
+- Aaj Mere Yaar Ki Shaadi Hai - Sargam Harmonium And Flute Notes
+- Meri Aashiqui (Aashiqui 2) - Sargam, Harmonium And Flute Notes
+- Gulabi Sadi (Sanju Rathod) - Sargam, Harmonium And Flute Notes
+- Chehra Hai Ya Chand Khila Hai - Sargam, Harmonium, Flute Notes
+- Chithi Na Koi Sandesh - Sargam, Harmonium And Flute Notes
+- Heer Ranjha (Reprise) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -158,4 +158,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

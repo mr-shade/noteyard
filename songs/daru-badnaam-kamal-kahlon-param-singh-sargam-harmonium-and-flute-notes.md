@@ -1,5 +1,5 @@
 ---
-title: "# Daru Badnaam (Kamal Kahlon & Param Singh) – Sargam, Harmonium And Flute Notes"
+title: " Daru Badnaam (Kamal Kahlon & Param Singh) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Daru Badnaam (Kamal Kahlon & Param Singh) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: daru-badnaam-kamal-kahlon-param-singh-sargam-harmonium-and-flute-notes
@@ -100,12 +100,12 @@ N.N.N.N.N.D.P.D.N.D.D.D.
 
 Also Read This :-
 
-* Barso Re Megha Megha (Guru) – Sargam And Flute Notes
-* Basabriyaan (M.S. Dhoni – The Untold Story) – Sargam And Flute Notes
-* Ishq Sufiana (The Dirty Picture) – Sargam And Flute Notes
-* Vaaste (Dhvani Bhanushali) (Full Song) – Sargam And Flute Notes
-* Dhadak (Title Song) – Sargam And Flute Notes
-* Tujhko Jo Paaya (Crook) – Sargam And Flute Notes
+- Barso Re Megha Megha (Guru) – Sargam And Flute Notes
+- Basabriyaan (M.S. Dhoni – The Untold Story) – Sargam And Flute Notes
+- Ishq Sufiana (The Dirty Picture) – Sargam And Flute Notes
+- Vaaste (Dhvani Bhanushali) (Full Song) – Sargam And Flute Notes
+- Dhadak (Title Song) – Sargam And Flute Notes
+- Tujhko Jo Paaya (Crook) – Sargam And Flute Notes
 
 Where
 
@@ -119,12 +119,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Ambarsariya (Fukrey) - Sargam, Harmonium And Flute Notes
-* Mitti Di Khushboo - Sargam, Harmonium And Flute Notes
-* Kisi Aur Naal (Asees Kaur) - Sargam, Harmonium And Flute Notes
-* 295 (Sidhu Moose Wala) - Sargam, Harmonium And Flute Notes
-* Soch (Hardy Sandhu) - Sargam, Harmonium And Flute Notes
-* Gal Karke (Asees Kaur) - Sargam, Harmonium And Flute Notes
+- Ambarsariya (Fukrey) - Sargam, Harmonium And Flute Notes
+- Mitti Di Khushboo - Sargam, Harmonium And Flute Notes
+- Kisi Aur Naal (Asees Kaur) - Sargam, Harmonium And Flute Notes
+- 295 (Sidhu Moose Wala) - Sargam, Harmonium And Flute Notes
+- Soch (Hardy Sandhu) - Sargam, Harmonium And Flute Notes
+- Gal Karke (Asees Kaur) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -149,4 +149,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

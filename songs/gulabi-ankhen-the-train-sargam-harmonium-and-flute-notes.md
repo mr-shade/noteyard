@@ -1,5 +1,5 @@
 ---
-title: "# Gulabi Ankhen (The Train) – Sargam, Harmonium And Flute Notes"
+title: " Gulabi Ankhen (The Train) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Gulabi Ankhen (The Train) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: gulabi-ankhen-the-train-sargam-harmonium-and-flute-notes
@@ -88,25 +88,17 @@ Kyaa karoon mai dilrubaa
 
 R’..S’..R’.S’.N.D.D(K).D.N..
 
-
-
 Also Read This :-
 
-
-
-* Bheegi Bheegi (Neha Kakkar, Tony Kakkar) – Sargam And Flute Notes
-* Tere Bina (Salman Khan) – Sargam And Flute Notes
-* Airtel Theme Music Sargam And Flute Notes For Beginners
-* Twinkle Twinkle Little Star – Sargam And Flute Notes For Beginners
-* Saari Ki Saari 2.0 (Darshan Raval) – Sargam And Flute Notes
+- Bheegi Bheegi (Neha Kakkar, Tony Kakkar) – Sargam And Flute Notes
+- Tere Bina (Salman Khan) – Sargam And Flute Notes
+- Airtel Theme Music Sargam And Flute Notes For Beginners
+- Twinkle Twinkle Little Star – Sargam And Flute Notes For Beginners
+- Saari Ki Saari 2.0 (Darshan Raval) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -116,12 +108,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Jhoom (R&B version) - Sargam, Harmonium And Flute Notes
-* Aaj Phir (Hate Story 2) - Sargam, Harmonium And Flute Notes
-* Thodi Jagah (Marjaavaan) - Sargam, Harmonium And Flute Notes
-* Hum Mile Na Mile (Kisna) - Sargam, Harmonium And Flute Notes
-* Dost Dost Na Raha Pyar Pyar Na Raha - Sargam And Flute Notes
-* Tera Mujhse Hai Pehle Ka Naata Koi - Sargam And Flute Notes
+- Jhoom (R&B version) - Sargam, Harmonium And Flute Notes
+- Aaj Phir (Hate Story 2) - Sargam, Harmonium And Flute Notes
+- Thodi Jagah (Marjaavaan) - Sargam, Harmonium And Flute Notes
+- Hum Mile Na Mile (Kisna) - Sargam, Harmonium And Flute Notes
+- Dost Dost Na Raha Pyar Pyar Na Raha - Sargam And Flute Notes
+- Tera Mujhse Hai Pehle Ka Naata Koi - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -146,4 +138,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

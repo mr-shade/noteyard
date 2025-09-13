@@ -1,5 +1,5 @@
 ---
-title: "# Main Rahoon Ya Na Rahoon (Armaan Malik) – Sargam, Harmonium And Flute Notes"
+title: " Main Rahoon Ya Na Rahoon (Armaan Malik) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Main Rahoon Ya Na Rahoon (Armaan Malik) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: main-rahoon-ya-na-rahoon-armaan-malik-sargam-harmonium-and-flute-notes
@@ -116,27 +116,19 @@ Bas itnaa hain tumse kehnaa
 
 G.m.G.R.R…G..S..n..p.p..S..
 
-
-
 Also Read This :-
-
-
 
 nw Paragraph 3
 
-* Bolna (Kapoor And Sons) – Sargam And Flute Notes
-* Jeena Jeena [Full Song] (Badlapur) – Sargam And Flute Notes
-* See You Again ft. Charlie Puth (Wiz Khalifa) – Sargam And Flute Notes
-* Lakdi Ki Kaathi (Masoom) – Sargam And Flute Notes
-* Kaise Hua (Kabir Singh) – Sargam And Flute Notes
+- Bolna (Kapoor And Sons) – Sargam And Flute Notes
+- Jeena Jeena [Full Song] (Badlapur) – Sargam And Flute Notes
+- See You Again ft. Charlie Puth (Wiz Khalifa) – Sargam And Flute Notes
+- Lakdi Ki Kaathi (Masoom) – Sargam And Flute Notes
+- Kaise Hua (Kabir Singh) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -146,12 +138,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Ek Pyar Ka Nagma Hai (Full Song) - Sargam, Harmonium And Flute Notes
-* Apna Bana Le (Full Song) - Sargam, Harmonium And Flute Notes
-* Likhe Jo Khat Tujhe (Sanam) - Sargam, Harmonium And Flute Notes
-* Chashni (Bharat) - Sargam, Harmonium And Flute Notes
-* Zindagi Ke Safar Mein - Sargam, Harmonium And Flute Notes
-* Laree Chootee (2nd Version) - Sargam And Flute Notes
+- Ek Pyar Ka Nagma Hai (Full Song) - Sargam, Harmonium And Flute Notes
+- Apna Bana Le (Full Song) - Sargam, Harmonium And Flute Notes
+- Likhe Jo Khat Tujhe (Sanam) - Sargam, Harmonium And Flute Notes
+- Chashni (Bharat) - Sargam, Harmonium And Flute Notes
+- Zindagi Ke Safar Mein - Sargam, Harmonium And Flute Notes
+- Laree Chootee (2nd Version) - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -176,4 +168,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

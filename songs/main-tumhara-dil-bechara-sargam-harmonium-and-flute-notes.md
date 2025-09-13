@@ -1,5 +1,5 @@
 ---
-title: "# Main Tumhara (Dil Bechara) – Sargam, Harmonium And Flute Notes"
+title: " Main Tumhara (Dil Bechara) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Main Tumhara (Dil Bechara) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: main-tumhara-dil-bechara-sargam-harmonium-and-flute-notes
@@ -52,11 +52,11 @@ S..R..S..R.G.. R..R..n(k)..d..
 
 Also Read This :-
 
-* Aaoge Jab Tum (Jab We Met) – Sargam And Flute Notes
-* Tujhko Jo Paaya (Crook) – Sargam And Flute Notes
-* Yaara Teri Yaari – Sargam And Flute Notes
-* Dhadak (Title Song) – Sargam And Flute Notes
-* Barso Re Megha Megha (Guru) – Sargam And Flute Notes
+- Aaoge Jab Tum (Jab We Met) – Sargam And Flute Notes
+- Tujhko Jo Paaya (Crook) – Sargam And Flute Notes
+- Yaara Teri Yaari – Sargam And Flute Notes
+- Dhadak (Title Song) – Sargam And Flute Notes
+- Barso Re Megha Megha (Guru) – Sargam And Flute Notes
 
 Where
 
@@ -70,12 +70,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Tujhe Dekha To Yeh Jana Sanam Sargam, Harmonium And Flute Notes
-* Kesariya (2nd Version) - Sargam, Harmonium And Flute Notes
-* Tu Mila To Haina - Sargam, Harmonium And Flute Notes
-* Ik Kahani (Gajendra Verma) - Sargam, Harmonium And Flute Notes
-* Jay Jaykara (Baahubali 2) - Sargam, Harmonium And Flute Notes
-* Rishte Naate - Sargam, Harmonium And Flute Notes
+- Tujhe Dekha To Yeh Jana Sanam Sargam, Harmonium And Flute Notes
+- Kesariya (2nd Version) - Sargam, Harmonium And Flute Notes
+- Tu Mila To Haina - Sargam, Harmonium And Flute Notes
+- Ik Kahani (Gajendra Verma) - Sargam, Harmonium And Flute Notes
+- Jay Jaykara (Baahubali 2) - Sargam, Harmonium And Flute Notes
+- Rishte Naate - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -100,4 +100,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

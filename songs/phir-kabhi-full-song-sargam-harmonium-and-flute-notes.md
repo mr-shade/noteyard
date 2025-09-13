@@ -1,5 +1,5 @@
 ---
-title: "# Phir Kabhi (Full Song) – Sargam, Harmonium And Flute Notes"
+title: " Phir Kabhi (Full Song) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Phir Kabhi (Full Song) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: phir-kabhi-full-song-sargam-harmonium-and-flute-notes
@@ -174,11 +174,11 @@ S.R.G..R..S.S…
 
 Also Read This :-
 
-* Tujh Mein Rab Dikhta Hai (Easy Version) – Sargam And Flute Notes
-* Tum Tak (Raanjhanaa) – Sargam, Harmonium And Flute Notes
-* Kya Mujhe Pyaar Hai (Woh Lamhe) – Sargam, Harmonium And Flute Notes
-* Mere Yaaraa (Sooryavanshi) – Sargam, Harmonium And Flute Notes
-* Na Tum Jaano Na Hum – Sargam, Harmonium And Flute Notes
+- Tujh Mein Rab Dikhta Hai (Easy Version) – Sargam And Flute Notes
+- Tum Tak (Raanjhanaa) – Sargam, Harmonium And Flute Notes
+- Kya Mujhe Pyaar Hai (Woh Lamhe) – Sargam, Harmonium And Flute Notes
+- Mere Yaaraa (Sooryavanshi) – Sargam, Harmonium And Flute Notes
+- Na Tum Jaano Na Hum – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -219,12 +219,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Humnava (Hamari Adhuri Kahani) - Sargam, Harmonium And Flute Notes
-* Vande Mataram (Easy Version) - Sargam And Flute Notes
-* Bas Tum Mere Paas Raho - Sargam, Harmonium And Flute Notes
-* Tere Vaaste - Sargam, Harmonium And Flute Notes
-* Baarish Lete Aana (Darshan Raval) - Sargam, Harmonium And Flute Notes
-* Soja Zara (Baahubali 2) - Sargam, Harmonium And Flute Notes
+- Humnava (Hamari Adhuri Kahani) - Sargam, Harmonium And Flute Notes
+- Vande Mataram (Easy Version) - Sargam And Flute Notes
+- Bas Tum Mere Paas Raho - Sargam, Harmonium And Flute Notes
+- Tere Vaaste - Sargam, Harmonium And Flute Notes
+- Baarish Lete Aana (Darshan Raval) - Sargam, Harmonium And Flute Notes
+- Soja Zara (Baahubali 2) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -249,4 +249,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

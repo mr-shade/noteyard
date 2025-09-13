@@ -1,5 +1,5 @@
 ---
-title: "# Mujhe Kaise Pata Na Chala (Papon) – Sargam, Harmonium And Flute Notes"
+title: " Mujhe Kaise Pata Na Chala (Papon) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Mujhe Kaise Pata Na Chala (Papon) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: mujhe-kaise-pata-na-chala-papon-sargam-harmonium-and-flute-notes
@@ -96,25 +96,17 @@ Ki mera intzaar kardaa haii
 
 S..d..p.m.p.. S..n..d.p.d..p..
 
-
-
 Also Read This :-
 
-
-
-* Girl I Need You (Baaghi) – Sargam And Flute Notes
-* Jee Le Zara (Talaash) – Sargam And Flute Notes
-* Ve maahi (Kesari) – Sargam And Flute Notes
-* Mitwa (Kabhi Alvida Na Kehna) – Sargam And Flute Notes
-* Iktara (Wake Up Sid) – Sargam And Flute Notes
+- Girl I Need You (Baaghi) – Sargam And Flute Notes
+- Jee Le Zara (Talaash) – Sargam And Flute Notes
+- Ve maahi (Kesari) – Sargam And Flute Notes
+- Mitwa (Kabhi Alvida Na Kehna) – Sargam And Flute Notes
+- Iktara (Wake Up Sid) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -124,12 +116,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Tujhse Naraaz Nahin Zindagi - Sargam, Harmonium And Flute Notes
-* O Meri Laila (Laila Majnu) - Sargam, Harmonium And Flute Notes
-* Mitwa (Kabhi Alvida Na Kehna) - Sargam, Harmonium And Flute Notes
-* Dori Tutt Gaiyaan (Gunjan Saxena) - Sargam, Harmonium And Flute Notes
-* Aaj Ki Raat (Stree 2) - Sargam, Harmonium And Flute Notes
-* Dhadak Title Song (2nd Version) - Sargam And Flute Notes
+- Tujhse Naraaz Nahin Zindagi - Sargam, Harmonium And Flute Notes
+- O Meri Laila (Laila Majnu) - Sargam, Harmonium And Flute Notes
+- Mitwa (Kabhi Alvida Na Kehna) - Sargam, Harmonium And Flute Notes
+- Dori Tutt Gaiyaan (Gunjan Saxena) - Sargam, Harmonium And Flute Notes
+- Aaj Ki Raat (Stree 2) - Sargam, Harmonium And Flute Notes
+- Dhadak Title Song (2nd Version) - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -154,4 +146,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

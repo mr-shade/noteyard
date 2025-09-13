@@ -1,5 +1,5 @@
 ---
-title: "# Kabhi Jo Badal Barse (Jackpot) – Sargam, Harmonium And Flute Notes"
+title: " Kabhi Jo Badal Barse (Jackpot) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Kabhi Jo Badal Barse (Jackpot) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: kabhi-jo-badal-barse-jackpot-sargam-harmonium-and-flute-notes
@@ -70,27 +70,19 @@ Mainn Hoon Kya
 
 N.S’..D.P..
 
-
-
 Also Read This :-
 
-
-
-* Super Mario Bros Theme – Sargam And Flute Notes
-* Jab Se Tere Naina (Saawariya) – Sargam And Flute Notes
-* Sare Jahan Se Achaa – Sargam And Flute Notes
-* 10,000 Reasons (Bless The Lord) – Sargam And Flute Notes
-* Luka Chuppi (Lata Mangeshkar) – Sargam And Flute Notes
+- Super Mario Bros Theme – Sargam And Flute Notes
+- Jab Se Tere Naina (Saawariya) – Sargam And Flute Notes
+- Sare Jahan Se Achaa – Sargam And Flute Notes
+- 10,000 Reasons (Bless The Lord) – Sargam And Flute Notes
+- Luka Chuppi (Lata Mangeshkar) – Sargam And Flute Notes
 
 Where
-
-
 
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
 
 nw Paragraph 2
-
-
 
 relpost-thumb-wrapper
 
@@ -100,12 +92,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Tere Bina Na Guzara E - Sargam, Harmonium And Flute Notes
-* Badal Barsha Bijuli - Sargam, Harmonium And Flute Notes
-* Liggi (Ritviz) - Sargam, Harmonium And Flute Notes
-* Aye Dil Laya Hai Bahaar - Sargam, Harmonium And Flute Notes
-* Achyutam Keshavam - Sargam, Harmonium And Flute Notes
-* O Sanam (Lucky Ali) - Sargam, Harmonium And Flute Notes
+- Tere Bina Na Guzara E - Sargam, Harmonium And Flute Notes
+- Badal Barsha Bijuli - Sargam, Harmonium And Flute Notes
+- Liggi (Ritviz) - Sargam, Harmonium And Flute Notes
+- Aye Dil Laya Hai Bahaar - Sargam, Harmonium And Flute Notes
+- Achyutam Keshavam - Sargam, Harmonium And Flute Notes
+- O Sanam (Lucky Ali) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -130,4 +122,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Ajeeb Dastan (Lata Mangeshkar) – Sargam, Harmonium And Flute Notes"
+title: " Ajeeb Dastan (Lata Mangeshkar) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Ajeeb Dastan (Lata Mangeshkar) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: ajeeb-dastan-lata-mangeshkar-sargam-harmonium-and-flute-notes
@@ -90,17 +90,13 @@ S’.S’..R’.S’..D.m..R..m..S..
 
 Also Read This :-
 
-
-
-* Girls Like You (Maroon 5) – Sargam And Flute Notes
-* Shayad (Love Aaj Kal) – Sargam And Flute Notes
-* Havana (Camila Cabello) – Sargam And Flute Notes
-* Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
-* Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
+- Girls Like You (Maroon 5) – Sargam And Flute Notes
+- Shayad (Love Aaj Kal) – Sargam And Flute Notes
+- Havana (Camila Cabello) – Sargam And Flute Notes
+- Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
+- Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
 
 Where
-
-
 
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
 
@@ -112,12 +108,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Baarishein (Anuv Jain) - Sargam, Harmonium And Flute Notes
-* Chori Kiya Re Jiya -  Sargam, Harmonium And Flute Notes
-* Bol Na Halke Halke (Jhoom Barabar Jhoom) - Sargam, Harmonium And Flute Notes
-* Dil Kyun Yeh Mera (Kites) - Sargam, Harmonium And Flute Notes
-* Lut Gaye (Jubin Nautiyal) - Sargam, Harmonium And Flute Notes
-* Mera Dil Ye Pukare Aaja - Sargam, Harmonium And Flute Notes
+- Baarishein (Anuv Jain) - Sargam, Harmonium And Flute Notes
+- Chori Kiya Re Jiya - Sargam, Harmonium And Flute Notes
+- Bol Na Halke Halke (Jhoom Barabar Jhoom) - Sargam, Harmonium And Flute Notes
+- Dil Kyun Yeh Mera (Kites) - Sargam, Harmonium And Flute Notes
+- Lut Gaye (Jubin Nautiyal) - Sargam, Harmonium And Flute Notes
+- Mera Dil Ye Pukare Aaja - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -142,4 +138,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

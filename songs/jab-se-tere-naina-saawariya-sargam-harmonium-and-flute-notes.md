@@ -1,5 +1,5 @@
 ---
-title: "# Jab Se Tere Naina (Saawariya) – Sargam, Harmonium And Flute Notes"
+title: " Jab Se Tere Naina (Saawariya) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Jab Se Tere Naina (Saawariya) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: jab-se-tere-naina-saawariya-sargam-harmonium-and-flute-notes
@@ -96,25 +96,17 @@ Laagee reee
 
 S..n..R..
 
-
-
 Also Read This :-
 
-
-
-* Fadad (Alan Walker) – Sargam And Flute Notes
-* Happy Birthday – Sargam And Flute Notes
-* Choo Lo (The Local Train) – Sargam And Flute Notes
-* Vaaste (Dhvani Bhanushali) – Sargam and Flute Notes
-* Pyaar Ke Pal (K.K.)- Sargam And Flute Notes
+- Fadad (Alan Walker) – Sargam And Flute Notes
+- Happy Birthday – Sargam And Flute Notes
+- Choo Lo (The Local Train) – Sargam And Flute Notes
+- Vaaste (Dhvani Bhanushali) – Sargam and Flute Notes
+- Pyaar Ke Pal (K.K.)- Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -124,12 +116,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Manzoore Nazar (Sourabh Joshi) - Sargam, Harmonium And Flute Notes
-* Dekha Hazaro Dafaa (Rustom) - Sargam, Harmonium And Flute Notes
-* Tera Deedar Hua (Jannat 2) - Sargam, Harmonium And Flute Notes
-* Haule Haule Chalo Mere Sajna - Sargam And Flute Notes
-* Ek Main Aur Ek Tu - Sargam, Harmonium And Flute Notes
-* Tera Ban Jaunga (Kabir Singh) - Sargam, Harmonium And Flute Notes
+- Manzoore Nazar (Sourabh Joshi) - Sargam, Harmonium And Flute Notes
+- Dekha Hazaro Dafaa (Rustom) - Sargam, Harmonium And Flute Notes
+- Tera Deedar Hua (Jannat 2) - Sargam, Harmonium And Flute Notes
+- Haule Haule Chalo Mere Sajna - Sargam And Flute Notes
+- Ek Main Aur Ek Tu - Sargam, Harmonium And Flute Notes
+- Tera Ban Jaunga (Kabir Singh) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -154,4 +146,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Baarish Lete Aana (Darshan Raval) – Sargam, Harmonium And Flute Notes"
+title: " Baarish Lete Aana (Darshan Raval) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Baarish Lete Aana (Darshan Raval) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: baarish-lete-aana-darshan-raval-sargam-harmonium-and-flute-notes
@@ -52,25 +52,17 @@ Keh naa sake hum woh baatein aaj bhii
 
 Jinko liyee hum tum ho gyee judaa
 
-
-
 Also Read This :-
 
-
-
-* Gerua (Dilwale) – Sargam And Flute Notes
-* Tum Hi Aana (Marjaavaan) – Sargam And Flute Notes
-* Teri Meri Kahani (Happy Hardy And Heer) – Sargam And Flute Notes
-* Titanic (My Heart Will Go On) – Sargam And Flute Notes
-* Nanha Munna Rahi Hoon (Son Of India) – Sargam And Flute Notes
+- Gerua (Dilwale) – Sargam And Flute Notes
+- Tum Hi Aana (Marjaavaan) – Sargam And Flute Notes
+- Teri Meri Kahani (Happy Hardy And Heer) – Sargam And Flute Notes
+- Titanic (My Heart Will Go On) – Sargam And Flute Notes
+- Nanha Munna Rahi Hoon (Son Of India) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -80,12 +72,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Raam Aayenge (2nd Version) - Sargam And Flute Notes
-* Kabhi Jo Badal Barse (Jackpot) - Sargam, Harmonium And Flute Notes
-* Maiyya Mainu (Jersey) - Sargam, Harmonium And Flute Notes
-* Mishri (Anuv Jain) - Sargam, Harmonium And Flute Notes
-* Tu Jaane Na - Sargam, Harmonium And Flute Notes
-* Mere Humsafar (All Is Well) - Sargam, Harmonium And Flute Notes
+- Raam Aayenge (2nd Version) - Sargam And Flute Notes
+- Kabhi Jo Badal Barse (Jackpot) - Sargam, Harmonium And Flute Notes
+- Maiyya Mainu (Jersey) - Sargam, Harmonium And Flute Notes
+- Mishri (Anuv Jain) - Sargam, Harmonium And Flute Notes
+- Tu Jaane Na - Sargam, Harmonium And Flute Notes
+- Mere Humsafar (All Is Well) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -110,4 +102,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

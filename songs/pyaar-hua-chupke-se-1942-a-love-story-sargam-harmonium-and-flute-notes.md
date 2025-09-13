@@ -1,5 +1,5 @@
 ---
-title: "# Pyaar Hua Chupke Se (1942 A Love Story) – Sargam, Harmonium And Flute Notes"
+title: " Pyaar Hua Chupke Se (1942 A Love Story) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Pyaar Hua Chupke Se (1942 A Love Story) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: pyaar-hua-chupke-se-1942-a-love-story-sargam-harmonium-and-flute-notes
@@ -56,11 +56,11 @@ G…m..P..S… G..G..m..P…
 
 Also Read This :-
 
-* Main Hoon Saath Tere – Sargam, Harmonium And Flute Notes
-* Chal Wahan Jaate Hain – Sargam, Harmonium And Flute Notes
-* Hum Kis Gali Ja Rahen Hain – Sargam, Harmonium And Flute Notes
-* Sukoon Mila (Mary Kom) – Sargam, Harmonium And Flute Notes
-* Tera Mera Rishta (Jalebi) – Sargam, Harmonium And Flute Notes
+- Main Hoon Saath Tere – Sargam, Harmonium And Flute Notes
+- Chal Wahan Jaate Hain – Sargam, Harmonium And Flute Notes
+- Hum Kis Gali Ja Rahen Hain – Sargam, Harmonium And Flute Notes
+- Sukoon Mila (Mary Kom) – Sargam, Harmonium And Flute Notes
+- Tera Mera Rishta (Jalebi) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -101,12 +101,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Lae Dooba (Aiyaary) - Sargam, Harmonium And Flute Notes
-* Bhool Jaa (Arijit Singh) - Sargam, Harmonium And Flute Notes
-* Tera Yaar Hoon Main Sargam, Harmonium And Flute Notes
-* Jaan Meri Ja Rahi Sanam - Sargam, Harmonium And Flute Notes
-* Tum Se Hi (Full Song) - Sargam, Harmonium And Flute Notes
-* Kabhi Alvida Na Kehna (Title Song) - Sargam, Harmonium And Flute Notes
+- Lae Dooba (Aiyaary) - Sargam, Harmonium And Flute Notes
+- Bhool Jaa (Arijit Singh) - Sargam, Harmonium And Flute Notes
+- Tera Yaar Hoon Main Sargam, Harmonium And Flute Notes
+- Jaan Meri Ja Rahi Sanam - Sargam, Harmonium And Flute Notes
+- Tum Se Hi (Full Song) - Sargam, Harmonium And Flute Notes
+- Kabhi Alvida Na Kehna (Title Song) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -131,4 +131,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

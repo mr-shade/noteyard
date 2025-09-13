@@ -1,5 +1,5 @@
 ---
-title: "# Pardesi Pardesi Jana Nahi (Raja Hindustani) – Sargam, Harmonium And Flute Notes"
+title: " Pardesi Pardesi Jana Nahi (Raja Hindustani) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Pardesi Pardesi Jana Nahi (Raja Hindustani) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: pardesi-pardesi-jana-nahi-raja-hindustani-sargam-harmonium-and-flute-notes
@@ -80,11 +80,11 @@ P.D..N(K)..D..P.G.P..G.R..S..
 
 Also Read This :-
 
-* Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
-* Sandese Aate Hai (Border) – Sargam, Harmonium And Flute Notes
-* Uska Hi Banana (Arijit Singh) – Sargam, Harmonium And Flute Notes
-* Doorie (Atif Aslam) – Sargam, Harmonium And Flute Notes
-* Tu Bhoola Jise (Airlift) – Sargam, Harmonium And Flute Notes
+- Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
+- Sandese Aate Hai (Border) – Sargam, Harmonium And Flute Notes
+- Uska Hi Banana (Arijit Singh) – Sargam, Harmonium And Flute Notes
+- Doorie (Atif Aslam) – Sargam, Harmonium And Flute Notes
+- Tu Bhoola Jise (Airlift) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -127,12 +127,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Halka Halka (Rahat Fateh Ali Khan) - Sargam And Flute Notes
-* Badal Barsha Bijuli - Sargam, Harmonium And Flute Notes
-* Afreen Afreen (Coke Studio) - Sargam, Harmonium And Flute Notes
-* Teri Ada (Mohit Chauhan) - Sargam, Harmonium And Flute Notes
-* Mere Mehboob Mere Sanam - Sargam, Harmonium, Flute Notes
-* Yeh Rishta Kya Kehlata Hai - Sargam, Harmonium And Flute Notes
+- Halka Halka (Rahat Fateh Ali Khan) - Sargam And Flute Notes
+- Badal Barsha Bijuli - Sargam, Harmonium And Flute Notes
+- Afreen Afreen (Coke Studio) - Sargam, Harmonium And Flute Notes
+- Teri Ada (Mohit Chauhan) - Sargam, Harmonium And Flute Notes
+- Mere Mehboob Mere Sanam - Sargam, Harmonium, Flute Notes
+- Yeh Rishta Kya Kehlata Hai - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -157,4 +157,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Khuda Jaane (Bachna Ae Haseeno) – Sargam, Harmonium And Flute Notes"
+title: " Khuda Jaane (Bachna Ae Haseeno) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Khuda Jaane (Bachna Ae Haseeno) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: khuda-jaane-bachna-ae-haseeno-sargam-harmonium-and-flute-notes
@@ -94,11 +94,11 @@ m.G…m.G…m.G..R.S..G…R.R…
 
 Also Read This :-
 
-* Chandan Sa Badan – Sargam, Harmonium And Flute Notes
-* Tere Naam Humne Kiya Hai – Sargam, Harmonium And Flute Notes
-* Main Tumhara (Easy Version) – Sargam, Harmonium And Flute Notes
-* Abhi Mujh Mein Kahin (Full Song) – Sargam, Harmonium And Flute Notes
-* Kaun Disha Mein Leke Chala Re – Sargam, Harmonium And Flute Notes
+- Chandan Sa Badan – Sargam, Harmonium And Flute Notes
+- Tere Naam Humne Kiya Hai – Sargam, Harmonium And Flute Notes
+- Main Tumhara (Easy Version) – Sargam, Harmonium And Flute Notes
+- Abhi Mujh Mein Kahin (Full Song) – Sargam, Harmonium And Flute Notes
+- Kaun Disha Mein Leke Chala Re – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -139,12 +139,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Aankhein Khuli (Mohabbatein) - Sargam, Harmonium, Flute Notes
-* Dhoom Machale (Dhoom) - Sargam, Harmonium And Flute Notes
-* Tere Binaa (Heropanti) - Sargam, Harmonium And Flute Notes
-* Yeh to Sach Hai Ki Bhagwan Hai - Sargam And Flute Notes
-* Zara Sa Dil Mein (Jannat) - Sargam, Harmonium And Flute Notes
-* Hai Apna Dil To Aawara - Sargam, Harmonium And Flute Notes
+- Aankhein Khuli (Mohabbatein) - Sargam, Harmonium, Flute Notes
+- Dhoom Machale (Dhoom) - Sargam, Harmonium And Flute Notes
+- Tere Binaa (Heropanti) - Sargam, Harmonium And Flute Notes
+- Yeh to Sach Hai Ki Bhagwan Hai - Sargam And Flute Notes
+- Zara Sa Dil Mein (Jannat) - Sargam, Harmonium And Flute Notes
+- Hai Apna Dil To Aawara - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -169,4 +169,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

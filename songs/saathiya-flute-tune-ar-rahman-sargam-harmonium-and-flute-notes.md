@@ -1,5 +1,5 @@
 ---
-title: "# Saathiya Flute Tune (A.R. Rahman) – Sargam, Harmonium And Flute Notes"
+title: " Saathiya Flute Tune (A.R. Rahman) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Saathiya Flute Tune (A.R. Rahman) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: saathiya-flute-tune-ar-rahman-sargam-harmonium-and-flute-notes
@@ -28,8 +28,6 @@ S’..R’..S’..D..S’..D..
 
 P..m..P…P.P..
 
-
-
 P…R’..S’..R’..S’..R’..S’..
 
 R’..G’..m’..G’..R’..
@@ -50,11 +48,11 @@ nw Paragraph 1
 
 Also Read This :-
 
-* Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
-* Sandese Aate Hai (Border) – Sargam, Harmonium And Flute Notes
-* Uska Hi Banana (Arijit Singh) – Sargam, Harmonium And Flute Notes
-* Doorie (Atif Aslam) – Sargam, Harmonium And Flute Notes
-* Tu Bhoola Jise (Airlift) – Sargam, Harmonium And Flute Notes
+- Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
+- Sandese Aate Hai (Border) – Sargam, Harmonium And Flute Notes
+- Uska Hi Banana (Arijit Singh) – Sargam, Harmonium And Flute Notes
+- Doorie (Atif Aslam) – Sargam, Harmonium And Flute Notes
+- Tu Bhoola Jise (Airlift) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -95,12 +93,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Daya Ben BGM (TMKOC) - Sargam, Harmonium And Flute Notes
-* Ra One Theme BGM - Sargam, Harmonium And Flute Notes
-* Chinni Chinni Aasa BGM (Animal) - Sargam And Flute Notes
-* Dora the Explorer Theme Song - Sargam And Flute Notes
-* Free Fire Halloween Theme - Sargam, Harmonium And Flute Notes
-* MI Ringtone (Xiaomi) - Sargam, Harmonium And Flute Notes
+- Daya Ben BGM (TMKOC) - Sargam, Harmonium And Flute Notes
+- Ra One Theme BGM - Sargam, Harmonium And Flute Notes
+- Chinni Chinni Aasa BGM (Animal) - Sargam And Flute Notes
+- Dora the Explorer Theme Song - Sargam And Flute Notes
+- Free Fire Halloween Theme - Sargam, Harmonium And Flute Notes
+- MI Ringtone (Xiaomi) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -125,4 +123,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

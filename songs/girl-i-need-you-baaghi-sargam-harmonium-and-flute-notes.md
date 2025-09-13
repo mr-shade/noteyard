@@ -1,5 +1,5 @@
 ---
-title: "# Girl I Need You (Baaghi) – Sargam, Harmonium And Flute Notes"
+title: " Girl I Need You (Baaghi) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Girl I Need You (Baaghi) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: girl-i-need-you-baaghi-sargam-harmonium-and-flute-notes
@@ -74,27 +74,19 @@ Girll i need youu
 
 D.D.S’..P.
 
-
-
 Also Read This :-
 
-
-
-* Ek Ajnabee Haseena Se (Ajnabee) – Sargam And Flute Notes
-* Kalank (Title Track) – Sargam And Flute Notes
-* Dekha Hazaro Dafaa (Rustom) – Sargam And Flute Notes
-* I Like Me Better (Lauv) – Sargam And Flute Notes
-* Mere Wala Sardar (Jugraj Sandhu) – Sargam And Flute Notes
+- Ek Ajnabee Haseena Se (Ajnabee) – Sargam And Flute Notes
+- Kalank (Title Track) – Sargam And Flute Notes
+- Dekha Hazaro Dafaa (Rustom) – Sargam And Flute Notes
+- I Like Me Better (Lauv) – Sargam And Flute Notes
+- Mere Wala Sardar (Jugraj Sandhu) – Sargam And Flute Notes
 
 Where
 
 nw Paragraph 2
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -104,12 +96,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Kaise Mujhe (2nd Version) - Sargam, Harmonium And Flute Notes
-* Lut Gaye (Jubin Nautiyal) - Sargam, Harmonium And Flute Notes
-* Mera Dil Ye Pukare Aaja - Sargam, Harmonium And Flute Notes
-* Kaho Na Kaho (Murder) - Sargam, Harmonium And Flute Notes
-* Jai Shri Ram (Adipurush) - Sargam, Harmonium And Flute Notes
-* Dhaagon Se Baandhaa - Sargam, Harmonium And Flute Notes
+- Kaise Mujhe (2nd Version) - Sargam, Harmonium And Flute Notes
+- Lut Gaye (Jubin Nautiyal) - Sargam, Harmonium And Flute Notes
+- Mera Dil Ye Pukare Aaja - Sargam, Harmonium And Flute Notes
+- Kaho Na Kaho (Murder) - Sargam, Harmonium And Flute Notes
+- Jai Shri Ram (Adipurush) - Sargam, Harmonium And Flute Notes
+- Dhaagon Se Baandhaa - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -134,4 +126,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

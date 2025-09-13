@@ -1,5 +1,5 @@
 ---
-title: "# Kyun Main Jaagoon (Patiala House) – Sargam, Harmonium And Flute Notes"
+title: " Kyun Main Jaagoon (Patiala House) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Kyun Main Jaagoon (Patiala House) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: kyun-main-jaagoon-patiala-house-sargam-harmonium-and-flute-notes
@@ -64,11 +64,11 @@ D.P.D.P.D.P.D.P.D..D.N..P..M..P…
 
 Also Read This :-
 
-* Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
-* Sandese Aate Hai (Border) – Sargam, Harmonium And Flute Notes
-* Uska Hi Banana (Arijit Singh) – Sargam, Harmonium And Flute Notes
-* Doorie (Atif Aslam) – Sargam, Harmonium And Flute Notes
-* Tu Bhoola Jise (Airlift) – Sargam, Harmonium And Flute Notes
+- Teri Jhuki Nazar (Murder 3) – Sargam, Harmonium And Flute Notes
+- Sandese Aate Hai (Border) – Sargam, Harmonium And Flute Notes
+- Uska Hi Banana (Arijit Singh) – Sargam, Harmonium And Flute Notes
+- Doorie (Atif Aslam) – Sargam, Harmonium And Flute Notes
+- Tu Bhoola Jise (Airlift) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -109,12 +109,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Banjaara (Ek Villain) - Sargam, Harmonium And Flute Notes
-* Bana Sharabi - Sargam, Harmonium And Flute Notes
-* Baarish (Stebin Ben, Payal Dev) - Sargam, Harmonium And Flute Notes
-* Mishri (Anuv Jain) - Sargam, Harmonium And Flute Notes
-* Hosanna - Sargam, Harmonium And Flute Notes
-* Ek Tarfa (Darshan Raval) - Sargam, Harmonium And Flute Notes
+- Banjaara (Ek Villain) - Sargam, Harmonium And Flute Notes
+- Bana Sharabi - Sargam, Harmonium And Flute Notes
+- Baarish (Stebin Ben, Payal Dev) - Sargam, Harmonium And Flute Notes
+- Mishri (Anuv Jain) - Sargam, Harmonium And Flute Notes
+- Hosanna - Sargam, Harmonium And Flute Notes
+- Ek Tarfa (Darshan Raval) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -139,4 +139,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

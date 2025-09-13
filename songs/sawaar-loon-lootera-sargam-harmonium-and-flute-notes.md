@@ -1,5 +1,5 @@
 ---
-title: "# Sawaar Loon (Lootera) – Sargam, Harmonium And Flute Notes"
+title: " Sawaar Loon (Lootera) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Sawaar Loon (Lootera) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: sawaar-loon-lootera-sargam-harmonium-and-flute-notes
@@ -64,11 +64,11 @@ m.G..R..S..d…n..n.p..d..S…
 
 Also Read This :-
 
-* Lehra Do (83) – Sargam, Harmonium And Flute Notes
-* Lae Dooba (Aiyaary) – Sargam, Harmonium And Flute Notes
-* Saajna (Falak Shabir) – Sargam, Harmonium And Flute Notes
-* Rozana (Naam Shabana) – Sargam, Harmonium And Flute Notes
-* Yeh Jo Des Hai Tera (Swadesh) – Sargam, Harmonium And Flute Notes
+- Lehra Do (83) – Sargam, Harmonium And Flute Notes
+- Lae Dooba (Aiyaary) – Sargam, Harmonium And Flute Notes
+- Saajna (Falak Shabir) – Sargam, Harmonium And Flute Notes
+- Rozana (Naam Shabana) – Sargam, Harmonium And Flute Notes
+- Yeh Jo Des Hai Tera (Swadesh) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -109,12 +109,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Udd Jaa Kaale Kaava - Sargam, Harmonium And Flute Notes
-* Kya Yahi Pyar Hai (Rocky) - Sargam, Harmonium And Flute Notes
-* Kya Hua Tera Wada - Sargam, Harmonium And Flute Notes
-* Bekhayali (Kabir Singh) - Sargam, Harmonium And Flute Notes
-* Jeena Jeena [Full Song] - Sargam, Harmonium And Flute Notes
-* Na Tum Jaano Na Hum - Sargam, Harmonium And Flute Notes
+- Udd Jaa Kaale Kaava - Sargam, Harmonium And Flute Notes
+- Kya Yahi Pyar Hai (Rocky) - Sargam, Harmonium And Flute Notes
+- Kya Hua Tera Wada - Sargam, Harmonium And Flute Notes
+- Bekhayali (Kabir Singh) - Sargam, Harmonium And Flute Notes
+- Jeena Jeena [Full Song] - Sargam, Harmonium And Flute Notes
+- Na Tum Jaano Na Hum - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -139,4 +139,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Vaaste (Dhvani Bhanushali) (Full Song) – Sargam, Harmonium And Flute Notes"
+title: " Vaaste (Dhvani Bhanushali) (Full Song) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Vaaste (Dhvani Bhanushali) (Full Song) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: vaaste-dhvani-bhanushali-full-song-sargam-harmonium-and-flute-notes
@@ -172,25 +172,17 @@ Kismatoo kaa likhaa mood doon
 
 S.R.m..G.S.G.. R.S.S..
 
-
-
 Also Read This :-
 
-
-
-* Shikwa Nahi (Jubin Nautiyal) – Sargam And Flute Notes
-* Duniyaa (Luka Chuppi) – Sargam And Flute Notes
-* Surili Akhiyon Wale (Veer) – Sargam And Flute Notes
-* Gulabi Ankhen (The Train) – Sargam And Flute Notes
-* Kuch Kuch Hota Hai (Title Song) – Sargam And Flute Notes
+- Shikwa Nahi (Jubin Nautiyal) – Sargam And Flute Notes
+- Duniyaa (Luka Chuppi) – Sargam And Flute Notes
+- Surili Akhiyon Wale (Veer) – Sargam And Flute Notes
+- Gulabi Ankhen (The Train) – Sargam And Flute Notes
+- Kuch Kuch Hota Hai (Title Song) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -200,12 +192,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Chor (Justh) - Sargam, Harmonium And Flute Notes
-* Mera Pehla Pehla Pyaar (K.K.) - Sargam, Harmonium, Flute Notes
-* Raabta Title Song - Sargam, Harmonium And Flute Notes
-* Ami Je Tomar 3.0 (BB3) - Sargam, Harmonium And Flute Notes
-* Deva Deva (2nd Version) - Sargam, Harmonium And Flute Notes
-* Le Aaunga (Arijit Singh) - Sargam, Harmonium And Flute Notes
+- Chor (Justh) - Sargam, Harmonium And Flute Notes
+- Mera Pehla Pehla Pyaar (K.K.) - Sargam, Harmonium, Flute Notes
+- Raabta Title Song - Sargam, Harmonium And Flute Notes
+- Ami Je Tomar 3.0 (BB3) - Sargam, Harmonium And Flute Notes
+- Deva Deva (2nd Version) - Sargam, Harmonium And Flute Notes
+- Le Aaunga (Arijit Singh) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -230,4 +222,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Mann Bharryaa 2.0 (Shershaah) – Sargam, Harmonium And Flute Notes"
+title: " Mann Bharryaa 2.0 (Shershaah) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Mann Bharryaa 2.0 (Shershaah) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: mann-bharryaa-20-shershaah-sargam-harmonium-and-flute-notes
@@ -72,11 +72,11 @@ S’..S’..S’..S’.S’..S’..S’..R’..m’..G’..R’…R’..
 
 Also Read This :-
 
-* Mehrama (Love Aaj Kal) – Sargam And Flute Notes
-* Memories (Maroon 5) – Sargam And Flute Notes
-* Muskurayega India (Vishal Mishra) – Sargam And Flute Notes
-* Aaj Bhi (Vishal Mishra) – Sargam And Flute Notes
-* Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
+- Mehrama (Love Aaj Kal) – Sargam And Flute Notes
+- Memories (Maroon 5) – Sargam And Flute Notes
+- Muskurayega India (Vishal Mishra) – Sargam And Flute Notes
+- Aaj Bhi (Vishal Mishra) – Sargam And Flute Notes
+- Bhula Dunga (Darshan Raval) – Sargam And Flute Notes
 
 Where
 
@@ -90,12 +90,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Afsos (Anuv Jain) - Sargam, Harmonium And Flute Notes
-* Gal Karke (Asees Kaur) - Sargam, Harmonium And Flute Notes
-* Mere Sohneya (Kabir Singh) - Sargam, Harmonium And Flute Notes
-* Kisi Aur Naal (Asees Kaur) - Sargam, Harmonium And Flute Notes
-* Arjan Vailly (Animal) - Sargam, Harmonium And Flute Notes
-* Ambarsariya (Fukrey) - Sargam, Harmonium And Flute Notes
+- Afsos (Anuv Jain) - Sargam, Harmonium And Flute Notes
+- Gal Karke (Asees Kaur) - Sargam, Harmonium And Flute Notes
+- Mere Sohneya (Kabir Singh) - Sargam, Harmonium And Flute Notes
+- Kisi Aur Naal (Asees Kaur) - Sargam, Harmonium And Flute Notes
+- Arjan Vailly (Animal) - Sargam, Harmonium And Flute Notes
+- Ambarsariya (Fukrey) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -120,4 +120,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

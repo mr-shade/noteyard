@@ -1,5 +1,5 @@
 ---
-title: "# Ishq Sufiana (The Dirty Picture) – Sargam, Harmonium And Flute Notes"
+title: " Ishq Sufiana (The Dirty Picture) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Ishq Sufiana (The Dirty Picture) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: ishq-sufiana-the-dirty-picture-sargam-harmonium-and-flute-notes
@@ -124,25 +124,17 @@ N(K).D.P.m.m. m.m.R.R.S.S..
 
 nw Paragraph 3
 
-
-
 Also Read This :-
 
-
-
-* Tujhe Kitna Chahne Lahe Hum Sargam And Flute Notes
-* Bekhayali Full Song Sargam And Flute Notes
-* Leja Re Sargam And Flute Notes
-* Muskurayega India Sargam And Flute Notes
-* Aaj Bhi Sargam And Flute Notes
+- Tujhe Kitna Chahne Lahe Hum Sargam And Flute Notes
+- Bekhayali Full Song Sargam And Flute Notes
+- Leja Re Sargam And Flute Notes
+- Muskurayega India Sargam And Flute Notes
+- Aaj Bhi Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -152,12 +144,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Dekha Ek Khwab (Silsila) - Sargam, Harmonium And Flute Notes
-* Aa Chal Ke Tujhe - Sargam, Harmonium And Flute Notes
-* Rishte Naate - Sargam, Harmonium And Flute Notes
-* Khuda Haafiz (Title Track) - Sargam, Harmonium And Flute Notes
-* Tere Bin Nahi Laage - Sargam, Harmonium And Flute Notes
-* Tera Mujhse Hai Pehle Ka Naata Koi - Sargam And Flute Notes
+- Dekha Ek Khwab (Silsila) - Sargam, Harmonium And Flute Notes
+- Aa Chal Ke Tujhe - Sargam, Harmonium And Flute Notes
+- Rishte Naate - Sargam, Harmonium And Flute Notes
+- Khuda Haafiz (Title Track) - Sargam, Harmonium And Flute Notes
+- Tere Bin Nahi Laage - Sargam, Harmonium And Flute Notes
+- Tera Mujhse Hai Pehle Ka Naata Koi - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -182,4 +174,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

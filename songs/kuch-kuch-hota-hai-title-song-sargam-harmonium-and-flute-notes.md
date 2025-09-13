@@ -1,5 +1,5 @@
 ---
-title: "# Kuch Kuch Hota Hai (Title Song) – Sargam, Harmonium And Flute Notes"
+title: " Kuch Kuch Hota Hai (Title Song) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Kuch Kuch Hota Hai (Title Song) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: kuch-kuch-hota-hai-title-song-sargam-harmonium-and-flute-notes
@@ -120,27 +120,19 @@ Kuch kuch hootaa hai
 
 R..S..R..S..S..S..S..
 
-
-
 nw Paragraph 3
 
 Also Read This :-
 
-
-
-* Girls Like You (Maroon 5) – Sargam And Flute Notes
-* Shayad (Love Aaj Kal) – Sargam And Flute Notes
-* Havana (Camila Cabello) – Sargam And Flute Notes
-* Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
-* Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
+- Girls Like You (Maroon 5) – Sargam And Flute Notes
+- Shayad (Love Aaj Kal) – Sargam And Flute Notes
+- Havana (Camila Cabello) – Sargam And Flute Notes
+- Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
+- Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -150,12 +142,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Maana Ke Hum Yaar Nahi Sargam, Harmonium And Flute Notes
-* Mere Naam Tu (Zero) - Sargam, Harmonium And Flute Notes
-* Bhool Bhulaiyaa (Title Track) - Sargam, Harmonium And Flute Notes
-* Dance Ka Bhoot - Sargam, Harmonium And Flute Notes
-* Hai Dil Ye Mera (Hate Story 2) - Sargam, Harmonium And Flute Notes
-* Jo Tum Mere Ho (Anuv Jain) - Sargam, Harmonium And Flute Notes
+- Maana Ke Hum Yaar Nahi Sargam, Harmonium And Flute Notes
+- Mere Naam Tu (Zero) - Sargam, Harmonium And Flute Notes
+- Bhool Bhulaiyaa (Title Track) - Sargam, Harmonium And Flute Notes
+- Dance Ka Bhoot - Sargam, Harmonium And Flute Notes
+- Hai Dil Ye Mera (Hate Story 2) - Sargam, Harmonium And Flute Notes
+- Jo Tum Mere Ho (Anuv Jain) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -180,4 +172,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

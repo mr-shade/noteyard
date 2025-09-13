@@ -1,5 +1,5 @@
 ---
-title: "# Guzarish (Ghajini) – Sargam, Harmonium And Flute Notes"
+title: " Guzarish (Ghajini) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Guzarish (Ghajini) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: guzarish-ghajini-sargam-harmonium-and-flute-notes
@@ -94,11 +94,11 @@ S..n..S..R.G…
 
 Also Read This :-
 
-* Chandan Sa Badan – Sargam, Harmonium And Flute Notes
-* Tere Naam Humne Kiya Hai – Sargam, Harmonium And Flute Notes
-* Main Tumhara (Easy Version) – Sargam, Harmonium And Flute Notes
-* Abhi Mujh Mein Kahin (Full Song) – Sargam, Harmonium And Flute Notes
-* Kaun Disha Mein Leke Chala Re – Sargam, Harmonium And Flute Notes
+- Chandan Sa Badan – Sargam, Harmonium And Flute Notes
+- Tere Naam Humne Kiya Hai – Sargam, Harmonium And Flute Notes
+- Main Tumhara (Easy Version) – Sargam, Harmonium And Flute Notes
+- Abhi Mujh Mein Kahin (Full Song) – Sargam, Harmonium And Flute Notes
+- Kaun Disha Mein Leke Chala Re – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -139,12 +139,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Yeh Aaina Full Song (Kabir Singh) - Sargam, Harmonium And Flute Notes
-* Jeene Laga Hoon (Atif Aslam) - Sargam, Harmonium And Flute Notes
-* Abhi Mujh Mein Kahin (Full Song) - Sargam, Harmonium And Flute Notes
-* Main Yahan Tu Wahan (Baghban) - Sargam, Harmonium And Flute Notes
-* Ninja Hattori Theme Song - Sargam, Harmonium And Flute Notes
-* Ilahi (Arijit Singh) - Sargam, Harmonium And Flute Notes
+- Yeh Aaina Full Song (Kabir Singh) - Sargam, Harmonium And Flute Notes
+- Jeene Laga Hoon (Atif Aslam) - Sargam, Harmonium And Flute Notes
+- Abhi Mujh Mein Kahin (Full Song) - Sargam, Harmonium And Flute Notes
+- Main Yahan Tu Wahan (Baghban) - Sargam, Harmonium And Flute Notes
+- Ninja Hattori Theme Song - Sargam, Harmonium And Flute Notes
+- Ilahi (Arijit Singh) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -169,4 +169,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Hai Apna Dil To Aawara (Solva Saal) – Sargam, Harmonium And Flute Notes"
+title: " Hai Apna Dil To Aawara (Solva Saal) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Hai Apna Dil To Aawara (Solva Saal) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: hai-apna-dil-to-aawara-solva-saal-sargam-harmonium-and-flute-notes
@@ -250,11 +250,11 @@ n..p…d..n..S..S…R..G..S..R..n..S..
 
 Also Read This :-
 
-* Girls Like You (Maroon 5) – Sargam And Flute Notes
-* Shayad (Love Aaj Kal) – Sargam And Flute Notes
-* Havana (Camila Cabello) – Sargam And Flute Notes
-* Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
-* Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
+- Girls Like You (Maroon 5) – Sargam And Flute Notes
+- Shayad (Love Aaj Kal) – Sargam And Flute Notes
+- Havana (Camila Cabello) – Sargam And Flute Notes
+- Baarish Lete Aana (Darshan Raval) – Sargam And Flute Notes
+- Pal Pal Dil Ke Paas (Kishore Kumar) – Sargam And Flute Notes
 
 relpost-thumb-wrapper
 
@@ -264,12 +264,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Dil Ne Yeh Kaha Hain Dil Se (Dhadkan) - Sargam And Flute Notes
-* Thoda Thoda Pyaar - Sargam, Harmonium And Flute Notes
-* Ae Dil Hai Mushkil (Title Song) - Sargam, Harmonium And Flute Notes
-* Chandan Sa Badan - Sargam, Harmonium And Flute Notes
-* Maana Ke Hum Yaar Nahi Sargam, Harmonium And Flute Notes
-* Kabhi Jo Badal Barse (Jackpot) - Sargam, Harmonium And Flute Notes
+- Dil Ne Yeh Kaha Hain Dil Se (Dhadkan) - Sargam And Flute Notes
+- Thoda Thoda Pyaar - Sargam, Harmonium And Flute Notes
+- Ae Dil Hai Mushkil (Title Song) - Sargam, Harmonium And Flute Notes
+- Chandan Sa Badan - Sargam, Harmonium And Flute Notes
+- Maana Ke Hum Yaar Nahi Sargam, Harmonium And Flute Notes
+- Kabhi Jo Badal Barse (Jackpot) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -294,4 +294,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

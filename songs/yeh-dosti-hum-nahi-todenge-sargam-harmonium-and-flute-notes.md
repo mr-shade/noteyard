@@ -1,5 +1,5 @@
 ---
-title: "# Yeh Dosti Hum Nahi Todenge – Sargam, Harmonium And Flute Notes"
+title: " Yeh Dosti Hum Nahi Todenge – Sargam, Harmonium And Flute Notes"
 description: "Learn # Yeh Dosti Hum Nahi Todenge notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: yeh-dosti-hum-nahi-todenge-sargam-harmonium-and-flute-notes
@@ -110,11 +110,11 @@ R..R..G…G..G…R…S..S..
 
 Also Read This :-
 
-* Neki Ki Raah (Traffic) – Sargam, Harmonium And Flute Notes | Arijit Singh
-* Tera Fitoor (Genius) – Sargam, Harmonium And Flute Notes
-* Aasan Nahin Yahan (Aashiqui 2) – Sargam, Harmonium And Flute Notes
-* Koi Ishaara (Force 2) – Sargam, Harmonium And Flute Notes
-* Main Janta Hoon (The Body) – Sargam, Harmonium And Flute Notes
+- Neki Ki Raah (Traffic) – Sargam, Harmonium And Flute Notes | Arijit Singh
+- Tera Fitoor (Genius) – Sargam, Harmonium And Flute Notes
+- Aasan Nahin Yahan (Aashiqui 2) – Sargam, Harmonium And Flute Notes
+- Koi Ishaara (Force 2) – Sargam, Harmonium And Flute Notes
+- Main Janta Hoon (The Body) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -157,12 +157,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Dil Royi Jaye (Arijit Singh) - Sargam, Harmonium And Flute Notes
-* Main Pal Do Pal Ka Shair Hoon - Sargam And Flute Notes
-* Sach keh Raha Hai Deewana - Sargam, Harmonium And Flute Notes
-* Roja Jaaneman (A. R. Rahman) - Sargam And Flute Notes
-* Jag Ghoomeya (Sultan) - Sargam, Harmonium And Flute Notes
-* Main Jahaan Rahoon - Sargam, Harmonium And Flute Notes
+- Dil Royi Jaye (Arijit Singh) - Sargam, Harmonium And Flute Notes
+- Main Pal Do Pal Ka Shair Hoon - Sargam And Flute Notes
+- Sach keh Raha Hai Deewana - Sargam, Harmonium And Flute Notes
+- Roja Jaaneman (A. R. Rahman) - Sargam And Flute Notes
+- Jag Ghoomeya (Sultan) - Sargam, Harmonium And Flute Notes
+- Main Jahaan Rahoon - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -187,4 +187,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

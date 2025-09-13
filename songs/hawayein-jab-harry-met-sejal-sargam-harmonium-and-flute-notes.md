@@ -1,5 +1,5 @@
 ---
-title: "# Hawayein (Jab Harry Met Sejal) – Sargam, Harmonium And Flute Notes"
+title: " Hawayein (Jab Harry Met Sejal) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Hawayein (Jab Harry Met Sejal) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: hawayein-jab-harry-met-sejal-sargam-harmonium-and-flute-notes
@@ -96,25 +96,17 @@ O..hooo hoooo hoohooo..
 
 R..S’..N…D.P.D..N.D.P.M.P..
 
-
-
 Also Read This :-
 
-
-
-* Tera Ban Jaunga (Kabir Singh) – Sargam And Flute Notes
-* On My Way (Alan Walker) – Sargam And Flute Notes
-* Sholay Theme Tune – Sargam And Flute Notes
-* Tera Ghata (Gajendra Verma) – Sargam And Flute Notes
-* Pirates Of The Caribbean – Sargam And Flute Notes
+- Tera Ban Jaunga (Kabir Singh) – Sargam And Flute Notes
+- On My Way (Alan Walker) – Sargam And Flute Notes
+- Sholay Theme Tune – Sargam And Flute Notes
+- Tera Ghata (Gajendra Verma) – Sargam And Flute Notes
+- Pirates Of The Caribbean – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -124,12 +116,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Kaise Mujhe (Ghajini) - Sargam, Harmonium And Flute Notes
-* Rang Lageya (Mohit Chauhan) - Sargam And Flute Notes
-* Aaj Mere Yaar Ki Shaadi Hai - Sargam Harmonium And Flute Notes
-* Teri Mitti [Full Song] - Sargam, Harmonium And Flute Notes
-* Kiska Rasta Dekhe - Sargam, Harmonium And Flute Notes
-* Manjha (Vishal Mishra) - Sargam, Harmonium And Flute Notes
+- Kaise Mujhe (Ghajini) - Sargam, Harmonium And Flute Notes
+- Rang Lageya (Mohit Chauhan) - Sargam And Flute Notes
+- Aaj Mere Yaar Ki Shaadi Hai - Sargam Harmonium And Flute Notes
+- Teri Mitti [Full Song] - Sargam, Harmonium And Flute Notes
+- Kiska Rasta Dekhe - Sargam, Harmonium And Flute Notes
+- Manjha (Vishal Mishra) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -154,4 +146,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

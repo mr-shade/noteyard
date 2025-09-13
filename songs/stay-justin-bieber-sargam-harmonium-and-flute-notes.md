@@ -1,5 +1,5 @@
 ---
-title: "# Stay (Justin Bieber) – Sargam, Harmonium And Flute Notes"
+title: " Stay (Justin Bieber) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Stay (Justin Bieber) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: stay-justin-bieber-sargam-harmonium-and-flute-notes
@@ -40,7 +40,7 @@ I feel like you can’t feel the way i feel
 
 S.G..R.. R..R..S.R..R..R.d.
 
-Oh i’ll be f*cked up if you can’t be right here
+Oh i’ll be f\*cked up if you can’t be right here
 
 P..G..P..G..R.R.R.G..R..S..
 
@@ -50,7 +50,7 @@ nw Paragraph 1
 
 S…d..G… S…d..G… S…d..G…
 
-Oh i’ll be f*cked up if you can’t be right here
+Oh i’ll be f\*cked up if you can’t be right here
 
 P..G..P..G..R.R.R.G..R..S..
 
@@ -90,11 +90,11 @@ S.n.n.S.n.P..S.R.R.N..P..
 
 Also Read This :-
 
-* Senorita (Shawn Mendes, Camila Cabello) – Sargam And Flute Notes
-* Let Me Love You (DJ Snake ft. Justin Bieber) – Sargam And Flute Notes
-* I Like Me Better (Lauv) – Sargam And Flute Notes
-* Love Me Like You Do (Ellie Goulding) – Sargam And Flute Notes
-* 10,000 Reasons (Bless The Lord) – Sargam And Flute Notes
+- Senorita (Shawn Mendes, Camila Cabello) – Sargam And Flute Notes
+- Let Me Love You (DJ Snake ft. Justin Bieber) – Sargam And Flute Notes
+- I Like Me Better (Lauv) – Sargam And Flute Notes
+- Love Me Like You Do (Ellie Goulding) – Sargam And Flute Notes
+- 10,000 Reasons (Bless The Lord) – Sargam And Flute Notes
 
 Where
 
@@ -135,12 +135,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Sigma Boy - Sargam, Harmonium And Flute Notes
-* Mingle Game Song (Squid Game S2) - Sargam And Flute Notes
-* Chasing Cars (Snow Patrol) - Sargam, Harmonium And Flute Notes
-* The Last Of Mohicans  - Sargam, Harmonium And Flute Notes
-* Let It Go (Frozen) - Sargam, Harmonium And Flute Notes
-* Love Yourself (Justin Bieber) - Sargam And Flute Notes
+- Sigma Boy - Sargam, Harmonium And Flute Notes
+- Mingle Game Song (Squid Game S2) - Sargam And Flute Notes
+- Chasing Cars (Snow Patrol) - Sargam, Harmonium And Flute Notes
+- The Last Of Mohicans - Sargam, Harmonium And Flute Notes
+- Let It Go (Frozen) - Sargam, Harmonium And Flute Notes
+- Love Yourself (Justin Bieber) - Sargam And Flute Notes
 
 close related_posts_thumbnails
 
@@ -165,4 +165,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

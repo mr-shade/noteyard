@@ -1,5 +1,5 @@
 ---
-title: "# Surili Akhiyon Wale (Veer) – Sargam, Harmonium And Flute Notes"
+title: " Surili Akhiyon Wale (Veer) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Surili Akhiyon Wale (Veer) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: surili-akhiyon-wale-veer-sargam-harmonium-and-flute-notes
@@ -80,27 +80,19 @@ Suna hai terii ankhiyon see
 
 G.G.P.P.P..P.R.R..G…R..S..
 
-
-
 nw Paragraph 2
 
 Also Read This :-
 
-
-
-* Luka Chuppi (Lata Mangeshkar) – Sargam And Flute Notes
-* The Jungle Book (Title Song) – Sargam And Flute Notes
-* Afreen Afreen (Coke Studio) – Sargam And Flute Notes
-* Zindagi Do Pal Ki (Kites) – Sargam And Flute Notes
-* Pubg Theme Song – Sargam And Flute Notes
+- Luka Chuppi (Lata Mangeshkar) – Sargam And Flute Notes
+- The Jungle Book (Title Song) – Sargam And Flute Notes
+- Afreen Afreen (Coke Studio) – Sargam And Flute Notes
+- Zindagi Do Pal Ki (Kites) – Sargam And Flute Notes
+- Pubg Theme Song – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -110,12 +102,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Hum Toh Deewane (Elvish Yadav) - Sargam And Flute Notes
-* Bhula Dena (Aashiqui 2) - Sargam, Harmonium And Flute Notes
-* Kho Gaye Hum Kahan - Sargam, Harmonium And Flute Notes
-* Chand Chupa Badal Mein (Hum Dil De Chuke Sanam) - Sargam, Harmonium And Flute Notes
-* Hum Sab Bolenge Happy Birthday To You Sargam And Flute Notes
-* Dil De Diya Hain Sargam, Harmonium And Flute Notes
+- Hum Toh Deewane (Elvish Yadav) - Sargam And Flute Notes
+- Bhula Dena (Aashiqui 2) - Sargam, Harmonium And Flute Notes
+- Kho Gaye Hum Kahan - Sargam, Harmonium And Flute Notes
+- Chand Chupa Badal Mein (Hum Dil De Chuke Sanam) - Sargam, Harmonium And Flute Notes
+- Hum Sab Bolenge Happy Birthday To You Sargam And Flute Notes
+- Dil De Diya Hain Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -140,4 +132,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

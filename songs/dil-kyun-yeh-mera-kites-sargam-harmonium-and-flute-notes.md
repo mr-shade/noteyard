@@ -1,5 +1,5 @@
 ---
-title: "# Dil Kyun Yeh Mera (Kites) – Sargam, Harmonium And Flute Notes"
+title: " Dil Kyun Yeh Mera (Kites) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Dil Kyun Yeh Mera (Kites) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: dil-kyun-yeh-mera-kites-sargam-harmonium-and-flute-notes
@@ -66,25 +66,17 @@ Hmm hmmm  Hmm hmmm
 
 m..G.R.. m..G.R..
 
-
-
 Also Read This :-
 
-
-
-* Ek Tukda Dhoop (Thappad) – Sargam And Flute Notes
-* Bheegi Bheegi (Neha Kakkar, Tony Kakkar) – Sargam And Flute Notes
-* Tere Bina (Salman Khan) – Sargam And Flute Notes
-* Airtel Theme Music Sargam And Flute Notes For Beginners
-* Twinkle Twinkle Little Star – Sargam And Flute Notes For Beginners
+- Ek Tukda Dhoop (Thappad) – Sargam And Flute Notes
+- Bheegi Bheegi (Neha Kakkar, Tony Kakkar) – Sargam And Flute Notes
+- Tere Bina (Salman Khan) – Sargam And Flute Notes
+- Airtel Theme Music Sargam And Flute Notes For Beginners
+- Twinkle Twinkle Little Star – Sargam And Flute Notes For Beginners
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -94,12 +86,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Humnava (Hamari Adhuri Kahani) - Sargam, Harmonium And Flute Notes
-* Bandeya Re Bandeya (Simmba) - Sargam, Harmonium And Flute Notes
-* Tere Bina (Salman Khan) - Sargam, Harmonium And Flute Notes
-* Itni Shakti Hamein Dena Data - Sargam And Flute Notes
-* Tere Vaaste - Sargam, Harmonium And Flute Notes
-* Pehli Dafa (Atif Aslam) - Sargam, Harmonium And Flute Notes
+- Humnava (Hamari Adhuri Kahani) - Sargam, Harmonium And Flute Notes
+- Bandeya Re Bandeya (Simmba) - Sargam, Harmonium And Flute Notes
+- Tere Bina (Salman Khan) - Sargam, Harmonium And Flute Notes
+- Itni Shakti Hamein Dena Data - Sargam And Flute Notes
+- Tere Vaaste - Sargam, Harmonium And Flute Notes
+- Pehli Dafa (Atif Aslam) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -124,4 +116,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

@@ -1,5 +1,5 @@
 ---
-title: "# Mere Mehboob Qayamat Hogi (Kishore Kumar) – Sargam, Harmonium And Flute Notes"
+title: " Mere Mehboob Qayamat Hogi (Kishore Kumar) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Mere Mehboob Qayamat Hogi (Kishore Kumar) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: mere-mehboob-qayamat-hogi-kishore-kumar-sargam-harmonium-and-flute-notes
@@ -96,25 +96,17 @@ Meere mehboob..
 
 D..N..S’..G’..R’.G’…
 
-
-
 Also Read This :-
 
-
-
-* Fadad (Alan Walker) – Sargam And Flute Notes
-* Happy Birthday – Sargam And Flute Notes
-* Choo Lo (The Local Train) – Sargam And Flute Notes
-* Tum Se Hi (Jab We Met) – Sargam And Flute Notes
-* Jee Le Zara (Talaash) – Sargam And Flute Notes
+- Fadad (Alan Walker) – Sargam And Flute Notes
+- Happy Birthday – Sargam And Flute Notes
+- Choo Lo (The Local Train) – Sargam And Flute Notes
+- Tum Se Hi (Jab We Met) – Sargam And Flute Notes
+- Jee Le Zara (Talaash) – Sargam And Flute Notes
 
 Where
 
-
-
 DO –  SA       –    S  RE  –  RE      –    RMI  –  GA      –    GFA  –   MA      –  MSO  –   PA         – PLA  –  DHA      – DTI    –  NI          – NLOW OCTAVEPA –  pDHA –  dNI –  nSHUDH MA – m        TIWAR MA – MHIGH OCTAVESA –    S’RE –     R’GA –     G’MA –     M’   m’PA –       P’KOMAL SWARDHA –  D(k)NI –       N(k)RE –       R(k)GA –      G(k)
-
-
 
 relpost-thumb-wrapper
 
@@ -124,12 +116,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Maiyya Mainu (Jersey) - Sargam, Harmonium And Flute Notes
-* Isq Risk - Sargam, Harmonium And Flute Notes
-* Ye Samaa Samaa Hai Pyar Ka - Sargam, Harmonium, Flute Notes
-* Saari Duniya Jalaa Denge (2nd Version) - Sargam And Flute Notes
-* Ek Pyar Ka Nagma Hai (Full Song) - Sargam, Harmonium And Flute Notes
-* Darasal (Raabta) - Sargam, Harmonium And Flute Notes
+- Maiyya Mainu (Jersey) - Sargam, Harmonium And Flute Notes
+- Isq Risk - Sargam, Harmonium And Flute Notes
+- Ye Samaa Samaa Hai Pyar Ka - Sargam, Harmonium, Flute Notes
+- Saari Duniya Jalaa Denge (2nd Version) - Sargam And Flute Notes
+- Ek Pyar Ka Nagma Hai (Full Song) - Sargam, Harmonium And Flute Notes
+- Darasal (Raabta) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -154,4 +146,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-

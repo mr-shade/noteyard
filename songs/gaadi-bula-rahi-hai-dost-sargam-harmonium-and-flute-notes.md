@@ -1,5 +1,5 @@
 ---
-title: "# Gaadi Bula Rahi Hai (Dost) – Sargam, Harmonium And Flute Notes"
+title: " Gaadi Bula Rahi Hai (Dost) – Sargam, Harmonium And Flute Notes"
 description: "Learn # Gaadi Bula Rahi Hai (Dost) notes, sargam, harmonium notations and flute notes. Easy step-by-step tutorial for beginners."
 date: 2025-05-19
 slug: gaadi-bula-rahi-hai-dost-sargam-harmonium-and-flute-notes
@@ -48,11 +48,11 @@ Also Read This :-
 
 nw Paragraph 1
 
-* Raataan Lambiyan (Full Song) – Sargam And Flute Notes – Shershaah
-* Itni Si Baat Hain (Azhar) – Sargam, Harmonium And Flute Notes
-* Gulabi Aankhen (SANAM) – Sargam, Harmonium And Flute Notes
-* Dil Ko Karaar Aaya – Sargam, Harmonium And Flute Notes
-* Mann Bharryaa 2.0 (Shershaah) – Sargam, Harmonium And Flute Notes
+- Raataan Lambiyan (Full Song) – Sargam And Flute Notes – Shershaah
+- Itni Si Baat Hain (Azhar) – Sargam, Harmonium And Flute Notes
+- Gulabi Aankhen (SANAM) – Sargam, Harmonium And Flute Notes
+- Dil Ko Karaar Aaya – Sargam, Harmonium And Flute Notes
+- Mann Bharryaa 2.0 (Shershaah) – Sargam, Harmonium And Flute Notes
 
 Where
 
@@ -93,12 +93,12 @@ filter-class
 
 related_posts_thumbnails
 
-* Dance Ka Bhoot - Sargam, Harmonium And Flute Notes
-* Shayad (Love Aaj Kal) - Sargam, Harmonium And Flute Notes
-* Dil Jhoom (Gadar 2) - Sargam, Harmonium And Flute Notes
-* Meet (Simran) - Sargam, Harmonium And Flute Notes
-* Khuda Jaane - Sargam, Harmonium And Flute Notes
-* Tu Bhoola Jise (Airlift) - Sargam, Harmonium And Flute Notes
+- Dance Ka Bhoot - Sargam, Harmonium And Flute Notes
+- Shayad (Love Aaj Kal) - Sargam, Harmonium And Flute Notes
+- Dil Jhoom (Gadar 2) - Sargam, Harmonium And Flute Notes
+- Meet (Simran) - Sargam, Harmonium And Flute Notes
+- Khuda Jaane - Sargam, Harmonium And Flute Notes
+- Tu Bhoola Jise (Airlift) - Sargam, Harmonium And Flute Notes
 
 close related_posts_thumbnails
 
@@ -123,4 +123,3 @@ close relpost-thumb-wrapper
 [Request A Song](/request-a-song.html)
 
 CONTENT END 1
-
