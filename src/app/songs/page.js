@@ -4,6 +4,61 @@ import SongsList from '@/components/SongsList';
 
 export const dynamic = 'force-static';
 
+export const metadata = {
+  title: 'All Songs - NoteYard - Free Harmonium, Piano & Flute Notes',
+  description: 'Browse our complete collection of free music notes for Harmonium, Piano, and Flute. Thousands of songs with Sargam notation, perfect for beginners and advanced musicians.',
+  keywords: [
+    'music notes collection',
+    'harmonium notes',
+    'piano notes', 
+    'flute notes',
+    'sargam notes',
+    'free music notation',
+    'learn music',
+    'musical tutorials',
+    'noteyard songs'
+  ],
+  authors: [{ name: 'NoteYard' }],
+  creator: 'NoteYard',
+  publisher: 'NoteYard',
+  openGraph: {
+    title: 'All Songs - NoteYard - Free Music Notes',
+    description: 'Browse our complete collection of free music notes for Harmonium, Piano, and Flute. Thousands of songs with Sargam notation.',
+    type: 'website',
+    url: 'https://noteyard.vercel.app/songs',
+    siteName: 'NoteYard',
+    images: [
+      {
+        url: 'https://noteyard.vercel.app/og-image.jpg',
+        width: 1200,
+        height: 630,
+        alt: 'NoteYard - Free Music Notes Collection'
+      }
+    ]
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'All Songs - NoteYard - Free Music Notes',
+    description: 'Browse our complete collection of free music notes for Harmonium, Piano, and Flute.',
+    creator: '@noteyard',
+    images: ['https://noteyard.vercel.app/og-image.jpg']
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
+  alternates: {
+    canonical: 'https://noteyard.vercel.app/songs'
+  }
+};
+
 export default async function SongsPage() {
   const songs = await getAllSongs();
 

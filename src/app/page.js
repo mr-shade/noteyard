@@ -2,6 +2,62 @@ import Link from 'next/link';
 import fs from 'fs';
 import path from 'path';
 
+export const metadata = {
+  title: 'NoteYard - Free Harmonium, Piano & Flute Notes for All Songs',
+  description: 'Learn music the easy way with free Sargam, Harmonium, Piano and Flute notes. Thousands of songs with step-by-step notation tutorials for beginners and advanced musicians.',
+  keywords: [
+    'free music notes',
+    'harmonium notes',
+    'piano notes',
+    'flute notes', 
+    'sargam notation',
+    'learn music',
+    'music tutorials',
+    'indian classical music',
+    'musical notation',
+    'noteyard'
+  ],
+  authors: [{ name: 'NoteYard' }],
+  creator: 'NoteYard',
+  publisher: 'NoteYard',
+  openGraph: {
+    title: 'NoteYard - Free Music Notes for All Instruments',
+    description: 'Learn music the easy way with free Sargam, Harmonium, Piano and Flute notes. Thousands of songs with tutorials.',
+    type: 'website',
+    url: 'https://noteyard.vercel.app',
+    siteName: 'NoteYard',
+    images: [
+      {
+        url: 'https://noteyard.vercel.app/og-image.jpg',
+        width: 1200,
+        height: 630,
+        alt: 'NoteYard - Free Music Notes Platform'
+      }
+    ]
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'NoteYard - Free Music Notes for All Instruments',
+    description: 'Learn music the easy way with free Sargam, Harmonium, Piano and Flute notes.',
+    creator: '@noteyard',
+    images: ['https://noteyard.vercel.app/og-image.jpg']
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
+  alternates: {
+    canonical: 'https://noteyard.vercel.app'
+  }
+};
+
 async function getFeaturedSongs() {
   const songsDirectory = path.join(process.cwd(), 'songs');
   const filenames = fs.readdirSync(songsDirectory);
