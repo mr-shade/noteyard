@@ -25,11 +25,11 @@ export const metadata = {
     title: 'All Songs - NoteYard - Free Music Notes',
     description: 'Browse our complete collection of free music notes for Harmonium, Piano, and Flute. Thousands of songs with Sargam notation.',
     type: 'website',
-    url: 'https://noteyard.vercel.app/songs',
+    url: 'https://noteyard.30tools.com/songs',
     siteName: 'NoteYard',
     images: [
       {
-        url: 'https://noteyard.vercel.app/og-image.jpg',
+        url: 'https://noteyard.30tools.com/og-image.jpg',
         width: 1200,
         height: 630,
         alt: 'NoteYard - Free Music Notes Collection'
@@ -41,7 +41,7 @@ export const metadata = {
     title: 'All Songs - NoteYard - Free Music Notes',
     description: 'Browse our complete collection of free music notes for Harmonium, Piano, and Flute.',
     creator: '@noteyard',
-    images: ['https://noteyard.vercel.app/og-image.jpg']
+    images: ['https://noteyard.30tools.com/og-image.jpg']
   },
   robots: {
     index: true,
@@ -55,7 +55,7 @@ export const metadata = {
     },
   },
   alternates: {
-    canonical: 'https://noteyard.vercel.app/songs'
+    canonical: 'https://noteyard.30tools.com/songs'
   }
 };
 

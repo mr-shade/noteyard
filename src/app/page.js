@@ -24,11 +24,11 @@ export const metadata = {
     title: 'NoteYard - Free Music Notes for All Instruments',
     description: 'Learn music the easy way with free Sargam, Harmonium, Piano and Flute notes. Thousands of songs with tutorials.',
     type: 'website',
-    url: 'https://noteyard.vercel.app',
+    url: 'https://noteyard.30tools.com',
     siteName: 'NoteYard',
     images: [
       {
-        url: 'https://noteyard.vercel.app/og-image.jpg',
+        url: 'https://noteyard.30tools.com/og-image.jpg',
         width: 1200,
         height: 630,
         alt: 'NoteYard - Free Music Notes Platform'
@@ -40,7 +40,7 @@ export const metadata = {
     title: 'NoteYard - Free Music Notes for All Instruments',
     description: 'Learn music the easy way with free Sargam, Harmonium, Piano and Flute notes.',
     creator: '@noteyard',
-    images: ['https://noteyard.vercel.app/og-image.jpg']
+    images: ['https://noteyard.30tools.com/og-image.jpg']
   },
   robots: {
     index: true,
@@ -54,7 +54,7 @@ export const metadata = {
     },
   },
   alternates: {
-    canonical: 'https://noteyard.vercel.app'
+    canonical: 'https://noteyard.30tools.com'
   }
 };
 

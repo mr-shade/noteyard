@@ -94,11 +94,11 @@ export async function generateMetadata({ params }) {
       description,
       type: 'article',
       publishedTime: frontmatter.date,
-      url: `https://noteyard.vercel.app/songs/${slug}`,
+      url: `https://noteyard.30tools.com/songs/${slug}`,
       siteName: 'NoteYard',
       images: [
         {
-          url: 'https://noteyard.vercel.app/og-image.jpg',
+          url: 'https://noteyard.30tools.com/og-image.jpg',
           width: 1200,
           height: 630,
           alt: `${cleanTitle} - Free Music Notes`
@@ -110,7 +110,7 @@ export async function generateMetadata({ params }) {
       title,
       description,
       creator: '@noteyard',
-      images: ['https://noteyard.vercel.app/og-image.jpg']
+      images: ['https://noteyard.30tools.com/og-image.jpg']
     },
     robots: {
       index: true,
@@ -124,7 +124,7 @@ export async function generateMetadata({ params }) {
       },
     },
     alternates: {
-      canonical: `https://noteyard.vercel.app/songs/${slug}`
+      canonical: `https://noteyard.30tools.com/songs/${slug}`
     }
   };
 }
@@ -157,7 +157,7 @@ export default async function Page({ params }) {
     "publisher": {
       "@type": "Organization",
       "name": "NoteYard",
-      "url": "https://noteyard.vercel.app"
+      "url": "https://noteyard.30tools.com"
     },
     "mainEntity": {
       "@type": "Article",
@@ -171,7 +171,7 @@ export default async function Page({ params }) {
       "publisher": {
         "@type": "Organization",
         "name": "NoteYard",
-        "url": "https://noteyard.vercel.app"
+        "url": "https://noteyard.30tools.com"
       }
     },
     "genre": "Educational Music",

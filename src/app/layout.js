@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  metadataBase: new URL('https://noteyard.vercel.app'),
+  metadataBase: new URL('https://noteyard.30tools.com'),
   title: {
     default: 'NoteYard - Free Harmonium and piano song notes',
     template: '%s | NoteYard'
@@ -34,7 +34,7 @@ export const metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://noteyard.vercel.app',
+    url: 'https://noteyard.30tools.com',
     title: 'NoteYard - Your Digital Knowledge Hub',
     description: 'Discover and share comprehensive notes, articles, and documentation on various topics.',
     siteName: 'NoteYard'
